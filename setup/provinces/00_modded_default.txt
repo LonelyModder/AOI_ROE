@@ -1,6 +1,6 @@
 ﻿#Test
 
-1={ #Ocean
+1={ #Oceans and Seas
 	terrain="impassable_terrain"
 	culture="goblinken"
 	religion="goblin_pantheon"
@@ -10,7 +10,7 @@
 	province_rank=""
 }
 
-2={ #Lands
+2={ #Landmass
 	terrain="impassable_terrain"
 	culture="goblinken"
 	religion="goblin_pantheon"
@@ -20,7 +20,7 @@
 	province_rank=""
 }
 
-3={ #Lands
+3={ #The Update Area
 	terrain="impassable_terrain"
 	culture="goblinken"
 	religion="goblin_pantheon"
@@ -30,7 +30,7 @@
 	province_rank=""
 }
 
-4={ #Lands
+4={ #Mountains to be added?
 	terrain="impassable_terrain"
 	culture="goblinken"
 	religion="goblin_pantheon"
