@@ -8,5 +8,5 @@ tags={
 	"Total Conversions"
 	"Unit Types"
 }
-name="Age of Iron: Rise of Empires"
+name="Iron Age: Rise of Empires"
 supported_version="2.0.5"
