@@ -289,3 +289,533 @@
 	terrain="ocean"
 	trade_goods=""
 }
+
+31={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+32={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+33={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+34={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+35={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+36={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+37={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+38={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+39={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+40={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+41={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+42={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+43={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+44={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+45={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+46={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+47={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+48={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+49={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+50={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+51={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+52={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+53={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+54={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+55={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+56={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+57={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+58={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+59={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+60={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+61={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+62={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+63={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+64={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+65={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+66={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+67={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+68={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+69={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+70={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+71={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+72={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+73={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+74={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+75={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+76={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+77={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+78={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+79={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+80={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+81={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+82={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+
+83={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
