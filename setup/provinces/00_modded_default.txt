@@ -939,3 +939,423 @@
 	barbarian_power=0
 	province_rank=""
 }
+
+173={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+174={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+175={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+176={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+177={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+178={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+179={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+180={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+181={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+182={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+183={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+184={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+185={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+186={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+187={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+188={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+189={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+190={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+191={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+192={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+193={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+194={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+195={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+196={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+197={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+198={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+199={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+200={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+201={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+202={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+203={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+204={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+205={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+206={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+207={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+208={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+209={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+210={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+211={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+212={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+213={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+214={ #Mountains
+	terrain="impassable_terrain"
+	culture="goblinken"
+	religion="goblin_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}

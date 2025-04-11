@@ -1,5 +1,10 @@
 ﻿l_english:
  #Regions
  modded_tmp_region:0 "temporary"
+ modded_sicily_region:0 "Sicily"
  #Areas
- skaal_area:0 "Skaal"
+ esicily_area:0 "East Sicily"
+ wsicily_area:0 "West Sicily"
+ nsardinia_area:0 "North Sardinia"
+ ssardinia_area:0 "South Sardinia"
+ corsica_area:0 "Corsica"

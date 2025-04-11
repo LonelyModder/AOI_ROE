@@ -10,3 +10,13 @@ modded_tmp_region = {
 		tmp_area
 	}
 }
+
+modded_sicily_region = {
+	areas = {
+		esicily_area
+		wsicily_area
+		nsardinia_area
+		ssardinia_area
+		corsica_area
+	}
+}
