@@ -1,10 +1,20 @@
 ﻿l_english:
  #Regions
  modded_tmp_region:0 "temporary"
- modded_sicily_region:0 "Sicily"
+ modded_sicily_region:0 "Siciliae"
+ modded_italia_region:0 "Italia"
  #Areas
  esicily_area:0 "East Sicily"
  wsicily_area:0 "West Sicily"
  nsardinia_area:0 "North Sardinia"
  ssardinia_area:0 "South Sardinia"
  corsica_area:0 "Corsica"
+ massapia_area:0 "Massapia"
+ bruttium_area:0 "Bruttium"
+ samniumandlucania_area:0 "Oscania"
+ latium_area:0 "Latium"
+ setruria_area:0 "Southern Etruria"
+ netruria_area:0 "Northern Etruria"
+ umbria_area:0 "Umbria"
+ marsia_area:0 "Marsia"
+ picenum_area:0 "Picenum"

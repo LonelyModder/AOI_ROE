@@ -20,3 +20,17 @@ modded_sicily_region = {
 		corsica_area
 	}
 }
+
+modded_italia_region = {
+	areas = {
+		latium_area
+		umbria_area
+		marsia_area
+		picenum_area
+		setruria_area
+		netruria_area
+		samniumandlucania_area
+		massapia_area
+		bruttium_area
+	}
+}
