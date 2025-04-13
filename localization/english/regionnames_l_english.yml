@@ -3,6 +3,7 @@
  modded_tmp_region:0 "temporary"
  modded_sicily_region:0 "Siciliae"
  modded_italia_region:0 "Italia"
+ modded_galliacisalpina_region:0 "Gallia Cisalpina"
  #Areas
  esicily_area:0 "East Sicily"
  wsicily_area:0 "West Sicily"
@@ -18,3 +19,9 @@
  umbria_area:0 "Umbria"
  marsia_area:0 "Marsia"
  picenum_area:0 "Picenum"
+ liguria_area:0 "Liguria"
+ venetiaethistria_area:0 "Venetia et Histria"
+ flaminia_area:0 "Flaminia"
+ cenomania_area:0 "Cenomania"
+ insubria_area:0 "Insubria"
+ taurinia_area:0 "Taurinia"

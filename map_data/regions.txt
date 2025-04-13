@@ -34,3 +34,14 @@ modded_italia_region = {
 		bruttium_area
 	}
 }
+
+modded_galliacisalpina_region = {
+	areas = {
+		flaminia_area
+		cenomania_area
+		insubria_area
+		taurinia_area
+		liguria_area
+		venetiaethistria_area
+	}
+}
