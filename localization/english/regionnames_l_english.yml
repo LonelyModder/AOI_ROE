@@ -1,9 +1,12 @@
 ﻿l_english:
  #Regions
  modded_tmp_region:0 "temporary"
- modded_sicily_region:0 "Siciliae"
+ modded_sicily_region:0 "Sicilia"
  modded_italia_region:0 "Italia"
  modded_galliacisalpina_region:0 "Gallia Cisalpina"
+ modded_raetiaetnoricum_region:0 "Raetia et Noricum"
+ modded_dalmatia_region:0 "Dalmatia"
+ modded_pannonia_region:0 "Pannonia"
  #Areas
  esicily_area:0 "East Sicily"
  wsicily_area:0 "West Sicily"

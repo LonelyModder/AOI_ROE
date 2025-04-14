@@ -45,3 +45,21 @@ modded_galliacisalpina_region = {
 		venetiaethistria_area
 	}
 }
+
+modded_raetiaetnoricum_region = {
+	areas = {
+		
+	}
+}
+
+modded_dalmatia_region = {
+	areas = {
+		
+	}
+}
+
+modded_pannonia_region = {
+	areas = {
+		
+	}
+}
