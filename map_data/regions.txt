@@ -48,18 +48,32 @@ modded_galliacisalpina_region = {
 
 modded_raetiaetnoricum_region = {
 	areas = {
-		
+		curia_area
+		teriolis_area
+		cambodunum_area
+		noricum_area
+		ovilva_area
 	}
 }
 
 modded_dalmatia_region = {
 	areas = {
-		
+		liburnia_area
+		dalmatia_area
+		ardiaei_area
+		deuria_area
+		cataria_area
 	}
 }
 
 modded_pannonia_region = {
 	areas = {
-		
+		siscia_area
+		sirmium_area
+		poetivo_area
+		sopianae_area
+		sopianae_area
+		savaria_area
+		gorsium_area
 	}
 }
