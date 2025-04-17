@@ -72,7 +72,6 @@ modded_pannonia_region = {
 		sirmium_area
 		poetivo_area
 		sopianae_area
-		sopianae_area
 		savaria_area
 		gorsium_area
 	}
