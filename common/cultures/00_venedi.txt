@@ -31,8 +31,8 @@
 	}
 	barbarian_names = { SITONES FENNI VENEDAE NAVARI VELTAE }
 	
-	graphical_culture = orcish_gfx
+	graphical_culture = roman_gfx
 	ethnicities = {
-		10 = noldor
+		10 = roman
 	}
 }
