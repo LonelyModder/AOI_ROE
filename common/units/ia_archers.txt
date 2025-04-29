@@ -1,0 +1,39 @@
+﻿ia_archers = {
+	army = yes
+	assault = yes
+
+	levy_tier = basic
+
+	maneuver = 2
+	movement_speed = 2.5
+	build_time = 45
+	
+	ia_scirmishers = 1.3	
+	ia_archers = 1	
+	ia_warriors = 1.3	
+	ia_lightinfantry = 1.3	
+	ia_heavyinfantry = 1.1	
+	ia_hoplites = 1.1	
+	ia_lightcavalry = 0.7	
+	ia_heavycavalry = 0.5	
+	ia_lancers = 0.5	
+	ia_horsearchers = 1.1	
+	ia_charitos = 1.3	
+	ia_camels = 1.1	
+	ia_elephants = 0.9
+	supply_train = 2.0
+
+	attrition_weight = 0.9
+	
+	morale_damage_taken = 1.3
+
+	
+	attrition_loss = 0.05
+	ai_max_percentage = 15
+	build_cost = {
+		gold = 16
+		manpower = 1
+	}
+	food_consumption = 0.1
+	food_storage = 2.4
+}

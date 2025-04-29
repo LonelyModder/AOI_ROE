@@ -1,0 +1,38 @@
+﻿ia_lightinfantry = {
+	default = yes	
+	army = yes
+	assault = yes
+	
+	levy_tier = basic	
+	
+	maneuver = 1
+	movement_speed = 2.5
+	build_time = 30
+	
+	ia_scirmishers = 1.1	
+	ia_archers = 0.7	
+	ia_warriors = 0.7	
+	ia_lightinfantry = 1	
+	ia_heavyinfantry = 0.7	
+	ia_hoplites = 0.7	
+	ia_lightcavalry = 0.7	
+	ia_heavycavalry = 0.7	
+	ia_lancers = 0.7	
+	ia_horsearchers = 0.7	
+	ia_charitos = 0.9	
+	ia_camels = 0.9	
+	ia_elephants = 0.5
+	supply_train = 2.0
+
+	attrition_weight = 0.5
+	attrition_loss = 0.025
+	
+	food_consumption = 0.10
+	food_storage = 2.4
+	
+	morale_damage_taken = 0.7
+	build_cost = {
+		gold = 10
+		manpower = 1
+	}
+}

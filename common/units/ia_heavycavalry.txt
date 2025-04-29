@@ -1,0 +1,40 @@
+﻿ia_heavycavalry = {
+	army = yes
+	is_flank = yes
+
+	levy_tier = advanced
+
+	allow = {
+		trade_good_surplus = { target = horses value > 0 }
+	}
+
+	maneuver = 2
+	movement_speed = 3.5
+
+	build_time = 120
+	
+	ia_scirmishers = 1.5 	
+	ia_archers = 1.5	
+	ia_warriors = 1.3	
+	ia_lightinfantry = 1.3	
+	ia_heavyinfantry = 1.1	
+	ia_hoplites = 0.7	
+	ia_lightcavalry = 1.3	
+	ia_heavycavalry = 1	
+	ia_lancers = 1.3	
+	ia_horsearchers = 0.7	
+	ia_charitos = 1.3	
+	ia_camels = 0.9	
+	ia_elephants = 1.1
+	supply_train = 2.0
+
+	attrition_weight = 2
+	build_cost = {
+		gold = 18
+		manpower = 1
+	}
+	attrition_loss = 0.05
+	
+	food_consumption = 0.25
+	food_storage = 2.4
+}
