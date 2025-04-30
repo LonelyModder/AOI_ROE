@@ -22,7 +22,7 @@
 	ia_heavycavalry = 0.9	
 	ia_lancers = 0.7	
 	ia_horsearchers = 0.7	
-	ia_charitos = 1.1	
+	ia_chariots = 1.1	
 	ia_camels = 1.1	
 	ia_elephants = 0.5
 	supply_train = 2.0
