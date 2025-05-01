@@ -838,18 +838,24 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
-	culture="wvenedi"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=10
 	}
 	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
