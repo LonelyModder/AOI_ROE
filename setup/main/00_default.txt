@@ -26,13 +26,13 @@ provinces = { #Any entry must contain a comment with city name.
 	
 
 	#Pirates
-	
+	#8439 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
 	
 	
 	#Passes
-	
+	#3431 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	
 	########################################
 	# Barbarian Spawn Spots

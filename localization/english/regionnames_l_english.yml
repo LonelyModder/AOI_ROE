@@ -1,10 +1,10 @@
 ﻿l_english:
  #Regions
  modded_tmp_region:0 "temporary"
- modded_sicily_region:0 "Sicilia"
+ modded_sicily_region:0 "Siciliae"
  modded_italia_region:0 "Italia"
- modded_galliacisalpina_region:0 "Cisalpine Gaul"
- modded_raetiaetnoricum_region:0 "Raetia and Noricum"
+ modded_galliacisalpina_region:0 "Gallia Cisalpina"
+ modded_raetiaetnoricum_region:0 "Raetia et Noricum"
  modded_dalmatia_region:0 "Dalmatia"
  modded_pannonia_region:0 "Pannonia"
  #Areas
@@ -23,7 +23,7 @@
  marsia_area:0 "Marsia"
  picenum_area:0 "Picenum"
  liguria_area:0 "Liguria"
- venetiaethistria_area:0 "Venetia and Histria"
+ venetiaethistria_area:0 "Venetia et Histria"
  flaminia_area:0 "Flaminia"
  cenomania_area:0 "Cenomania"
  insubria_area:0 "Insubria"
