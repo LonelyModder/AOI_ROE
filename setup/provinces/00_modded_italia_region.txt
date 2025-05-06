@@ -1,5 +1,5 @@
 ﻿5={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -18,7 +18,7 @@
 }
 
 84={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -37,7 +37,7 @@
 }
 
 85={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -56,7 +56,7 @@
 }
 
 86={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -75,7 +75,7 @@
 }
 
 87={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -94,7 +94,7 @@
 }
 
 88={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -113,7 +113,7 @@
 }
 
 89={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -132,7 +132,7 @@
 }
 
 90={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -151,7 +151,7 @@
 }
 
 127={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -189,7 +189,7 @@
 }
 
 129={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -208,7 +208,7 @@
 }
 
 130={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -227,7 +227,7 @@
 }
 
 131={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -246,7 +246,7 @@
 }
 
 132={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -322,7 +322,7 @@
 }
 
 136={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -379,7 +379,7 @@
 }
 
 139={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -398,7 +398,7 @@
 }
 
 140={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -417,7 +417,7 @@
 }
 
 141={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -436,7 +436,7 @@
 }
 
 142={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -474,7 +474,7 @@
 }
 
 144={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -550,7 +550,7 @@
 }
 
 148={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -569,7 +569,7 @@
 }
 
 149={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -588,7 +588,7 @@
 }
 
 150={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -607,7 +607,7 @@
 }
 
 151={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -626,7 +626,7 @@
 }
 
 152={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -721,7 +721,7 @@
 }
 
 157={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -759,7 +759,7 @@
 }
 
 159={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -797,7 +797,7 @@
 }
 
 215={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -816,7 +816,7 @@
 }
 
 216={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -835,7 +835,7 @@
 }
 
 217={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="rroman"
@@ -898,7 +898,7 @@
 }
 
 220={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -936,7 +936,7 @@
 }
 
 222={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -955,7 +955,7 @@
 }
 
 223={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -974,7 +974,7 @@
 }
 
 224={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1069,7 +1069,7 @@
 }
 
 229={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1126,7 +1126,7 @@
 }
 
 232={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1145,7 +1145,7 @@
 }
 
 233={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1221,7 +1221,7 @@
 }
 
 237={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1240,7 +1240,7 @@
 }
 
 238={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1278,7 +1278,7 @@
 }
 
 240={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1297,7 +1297,7 @@
 }
 
 241={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1316,7 +1316,7 @@
 }
 
 242={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1335,7 +1335,7 @@
 }
 
 243={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1354,7 +1354,7 @@
 }
 
 244={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1373,7 +1373,7 @@
 }
 
 245={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1392,7 +1392,7 @@
 }
 
 246={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1411,7 +1411,7 @@
 }
 
 247={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1449,7 +1449,7 @@
 }
 
 249={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1468,7 +1468,7 @@
 }
 
 250={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1487,7 +1487,7 @@
 }
 
 251={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1506,7 +1506,7 @@
 }
 
 252={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1525,7 +1525,7 @@
 }
 
 253={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1563,7 +1563,7 @@
 }
 
 255={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1620,7 +1620,7 @@
 }
 
 258={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1639,7 +1639,7 @@
 }
 
 485={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
