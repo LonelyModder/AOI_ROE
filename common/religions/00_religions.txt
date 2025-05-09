@@ -77,3 +77,13 @@ canaanitic_pantheon = { # Caananite
 	}
 	religion_category = pantheon
 }
+
+bosutan_pantheon = { # North Illyrian gods
+	color = hsv { 0.93 0.97 0.88 }
+	modifier = { 
+		navy_maintenance_cost = -0.25
+		naval_morale_modifier = 0.1
+		land_morale_modifier = -0.1
+	}
+	religion_category = pantheon
+}
