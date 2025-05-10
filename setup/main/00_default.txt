@@ -67,7 +67,7 @@ country = {
 		AAA = {          
 			government = aristocratic_monarchy
 			primary_culture = rroman
-			religion = slavic_pantheon
+			religion = italiotan_pantheon
 			capital = 217
 			
 			technology={

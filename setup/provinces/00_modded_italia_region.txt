@@ -837,7 +837,7 @@
 217={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="italiotan_pantheon"
 	culture="rroman"
 	civilization_value=0
 	barbarian_power=0

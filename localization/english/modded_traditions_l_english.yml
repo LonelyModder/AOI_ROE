@@ -407,7 +407,7 @@
  ######
  keltoi_philosophy:0 "Celtic Traditions"
  keltoi_philosophy_desc:0 "If any group benefited from the fall of the Bronze Age, it must have been the Celts. Celtic culture spread like wildfire throughout Europe. Many peoples adopted the new customs voluntarily, but others had to be defeated by savage warriors who did not fear death."
- tradition_unlock_requirement_keltoi:0 "You don't have enough population of Celtic, South or North Beaker descent to unlock the tradition."
+ tradition_unlock_requirement_keltoi:0 "You don't have enough of Celts to unlock the tradition."
  #Traditions
  keltoi_path_1:0 "Northwest Warriors"
  keltoi_path_1_desc:0 "The core of the Celtic armies of this period were warriors perfectly endowed with close tin ores and trade routes. Interestingly, the Celts did not go for quantity but quality. The bodies in the battlefields had wounds from many previous clashes, so they were experienced fighters."
@@ -445,9 +445,9 @@
  italian_path_1:0 "Humble beginings"
  italian_path_1_desc:0 "Both, according to historians and Roman writers themselves, the earliest form of the army were clan groups of warriors, e.g. the Fabii clan (according to Livi, about 306 warriors)."
  italian_path_2:0 "First kings"
- italian_path_2_desc:0 "With the advent of the first rulers, the organization of the military grew, although it still relied heavily on the leaders of the clans to contribute to the common army when necessary. Sometimes they had an agreement as in the case of Rome about exactly how much each leader gives to soldiers."
- italian_path_3:0 "Chariots"
- italian_path_3_desc:0 "During the early years of the Iron Age, chariots were not only used in parades but also in battle, although the area of the peninsula was not very conducive to this. The chariot itself remained in the mentality of Romans and Etruscan people, becoming an important element of public celebrations."
+ italian_path_2_desc:0 "With the advent of the first rulers, the organization of the military grew, although it still relied heavily on the leaders of the clans to contribute to the common army when necessary. Sometimes they had an agreement as in the case of Rome about exactly how much each leader is contributing."
+ italian_path_3:0 "First Roman Cavalry"
+ italian_path_3_desc:0 "It is suspected that the Brutus along with the other conspirators belong to the roman equivalent of companion cavalry. They served as kings bodyguards and noble hostages if need be. Thats why they were able to remove the Etruscan Kings so fast."
  italian_path_4:0 "Greek colonies"
  italian_path_4_desc:0 "The Italians were diligent students and quickly saw the phalanx combat system in the Greeks and began modifying it to their needs. They also adopted Greek hoplite gear."
  italian_path_4a:0 "First cavalry units"

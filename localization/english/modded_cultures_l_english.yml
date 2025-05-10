@@ -7,6 +7,13 @@
  rfaliscian:0 "Faliscian"
  latinic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  latinic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ occidental:2 "Nuragian"
+ elymoi:0 "Elymian"
+ corsi:0 "Corsi"
+ nurage:0 "Balaric"
+ bnurage:0 "Ioleic"
+ occidental_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ occidental_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  venedi:2 "Aedric"
  wvenedi:0 "Heresy"

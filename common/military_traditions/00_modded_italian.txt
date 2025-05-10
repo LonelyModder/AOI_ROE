@@ -71,8 +71,8 @@
 	
 	italian_path_3 = { ###italian path
 		modifier = { 
-			ia_chariot_offensive = 0.1
-			ia_chariot_defensive = 0.05
+			ia_lightcavalry_offensive = 0.1
+			ia_lightcavalry_defensive = 0.05
 		}
 		icon = latin_roman_path_5
 		requires = {italian_path_2}

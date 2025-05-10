@@ -47,8 +47,8 @@
 	
 	grekoid_path_1 = { ###grekoid path
 		modifier = { 
-			light_spearmen_offensive = 0.15
-			light_spearmen_defensive = 0.1
+			ia_hoplites_offensive = 0.15
+			ia_hoplites_defensive = 0.1
 		}
 		icon = greek_states_path_7
 		requires = {}
@@ -64,10 +64,10 @@
 	
 	grekoid_path_3 = { ###grekoid path
 		modifier = { 
-			chariot_light_offensive = 0.1
-			chariot_light_defensive = 0.1
-			cavalry_light_offensive = 0.1
-			cavalry_light_defensive = 0.1
+			ia_chariots_offensive = 0.1
+			ia_chariots_defensive = 0.1
+			ia_cavalry_offensive = 0.1
+			ia_cavalry_defensive = 0.1
 		}
 		icon = greek_states_path_7
 		requires = {grekoid_path_2}
@@ -75,7 +75,7 @@
 	
 	grekoid_path_3a = { ###grekoid path
 		modifier = { 
-			light_spearmen_discipline = 0.15
+			ia_hoplites_discipline = 0.15
 		}
 		enable_tactic = greek_phalanx
 		icon = greek_states_path_7
@@ -94,8 +94,8 @@
 	
 	grekoid_path_5a = { ###grekoid path
 		modifier = { 
-			missile_spearthrowers_offensive = 0.1
-			missile_spearthrowers_defensive = 0.05
+			ia_scirmishers_offensive = 0.1
+			ia_scirmishers_defensive = 0.05
 		}
 		icon = greek_states_path_7
 		requires = {grekoid_path_4a}
@@ -123,8 +123,8 @@
 	
 	grekoid_path_3b = { ###grekoid path
 		modifier = { 
-			missile_archers_offensive = 0.1
-			missile_archers_defensive = 0.05
+			ia_archers_offensive = 0.1
+			ia_archers_defensive = 0.05
 		}
 		icon = greek_states_path_7
 		requires = {grekoid_path_3}
@@ -204,6 +204,7 @@
 	grekoid_path_end_bonus = { ###grekoid path
 		modifier = { 
 			price_found_city_cost_modifier = -0.5 
+			global_pop_assimilation_speed_modifier = 0.05
 		}
 		icon = greek_states_path_7
 		requires = {grekoid_path_7a grekoid_path_6b}

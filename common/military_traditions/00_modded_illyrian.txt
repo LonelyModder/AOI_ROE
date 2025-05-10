@@ -47,8 +47,8 @@
 	
 	illyrian_path_1 = { ###illyrian path
 		modifier = { 
-			missile_spearthrowers_offensive = 0.1
-			missile_spearthrowers_defensive = 0.05
+			ia_scirmishers_offensive = 0.1
+			ia_scirmishers_defensive = 0.05
 		}
 		enable_tactic = hit_and_run_tactics
 		icon = greek_states_path_5
@@ -57,8 +57,8 @@
 	
 	illyrian_path_2 = { ###illyrian path
 		modifier = { 
-			chariot_light_offensive = 0.1
-			chariot_light_defensive = 0.05
+			ia_chariots_offensive = 0.1
+			ia_chariots_defensive = 0.05
 		}
 		icon = greek_states_path_5
 		requires = {illyrian_path_1}
@@ -66,8 +66,8 @@
 	
 	illyrian_path_3 = { ###illyrian path
 		modifier = { 
-			light_spearmen_offensive = 0.1
-			light_spearmen_defensive = 0.05
+			ia_lightinfantry_offensive = 0.1
+			ia_lightinfantry_defensive = 0.05
 		}
 		icon = greek_states_path_5
 		requires = {illyrian_path_2}
@@ -75,8 +75,8 @@
 	
 	illyrian_path_3a = { ###illyrian path
 		modifier = { 
-			axemen_heavy_offensive = 0.1
-			axemen_heavy_defensive = 0.05
+			ia_warriors_offensive = 0.1
+			ia_warriors_defensive = 0.05
 		}
 		icon = greek_states_path_5
 		requires = {illyrian_path_3}
@@ -109,8 +109,8 @@
 	
 	illyrian_path_3b = { ###illyrian path
 		modifier = { 
-			light_swordsmen_offensive = 0.1
-			light_swordsmen_defensive = 0.05
+			ia_heavyinfantry_offensive = 0.1
+			ia_heavyinfantry_defensive = 0.05
 		}
 		icon = greek_states_path_5
 		requires = {illyrian_path_3}
@@ -135,6 +135,7 @@
 	illyrian_path_end_bonus = { ###illyrian path
 		modifier = { 
 			naval_damage_done = 0.15
+			navy_movement_speed = 0.3
 		}
 		icon = greek_states_path_5
 		requires = {illyrian_path_6a illyrian_path_5b}

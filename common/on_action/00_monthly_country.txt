@@ -10,20 +10,11 @@
 		family_events.7 #Tribal family fall
 		family_events.9 #Rise of Family in Republics
 		#Modded events
-		#Devines Events
-		devine_events.1
-		#Alessian Revolt
-		alessian_revolt.10
-		alessian_revolt.2
-		alessian_revolt.3
-		alessian_revolt.4
-		alessian_revolt.5
-		alessian_revolt.7
 		#Invasions
 		#cymmerian_invasion.1
 		#Militarism
-		militarism_events.1
-		militarism_events.4
+		#militarism_events.1
+		#militarism_events.4
 		#Plague
 		#plague_event.2
 		#plague_event.3
@@ -31,16 +22,7 @@
 		#admin_efficiency.1
 		#Units
 		units_allowance_events.1
-		#Modded events
-		#Becoming a Pure-Blood Vampire
-		vampirism.2
-		vampirism.3
-		vampirism.4
-		#Refugees in Direnni lands
-		refugees.1
-		refugees.2
-		#The Pelinal Leadership (workround)
-		alessian_revolt.6 
+		#Modded events 
 	}
 	
 	random_events = {

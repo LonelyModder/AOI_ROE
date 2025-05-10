@@ -47,8 +47,8 @@
 	
 	westsemite_path_1 = { ###levantine path
 		modifier = { 
-			light_spearmen_offensive = 0.1
-			light_spearmen_defensive = 0.05
+			ia_lightinfantry_offensive = 0.1
+			ia_lightinfantry_defensive = 0.05
 		}
 		enable_tactic = greek_phalanx
 		icon = levantine_greco_path_2
@@ -57,8 +57,8 @@
 	
 	westsemite_path_2 = { ###levantine path
 		modifier = { 
-			chariot_light_offensive = 0.1
-			chariot_light_defensive = 0.05
+			ia_chariots_offensive = 0.1
+			ia_chariots_defensive = 0.05
 		}
 		icon = levantine_greco_path_2
 		requires = {westsemite_path_1}
@@ -74,8 +74,8 @@
 	
 	westsemite_path_3a = { ###levantine path
 		modifier = { 
-			missile_spearthrowers_offensive = 0.1
-			missile_spearthrowers_defensive = 0.05
+			ia_scirmishers_offensive = 0.1
+			ia_scirmishers_defensive = 0.05
 		}
 		icon = levantine_greco_path_2
 		requires = {westsemite_path_3}
@@ -135,7 +135,7 @@
 	
 	westsemite_path_5b = { ###levantine path
 		modifier = { 
-			elephant_african_offensive = 0.2
+			ia_elephants_offensive = 0.2
 			missile_archers_offensive = 0.1
 		}
 		icon = levantine_greco_path_2
@@ -170,6 +170,7 @@
 	westsemite_path_end_bonus = { ###levantine path
 		modifier = { 
 			navy_maintenance_cost = -0.4
+			ocean_combat_bonus = 0.2
 		}
 		icon = levantine_greco_path_2
 		requires = {westsemite_path_5a westsemite_path_6b}
