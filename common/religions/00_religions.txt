@@ -1,4 +1,14 @@
-﻿grecoid_pantheon = { # Hellenic gods 
+﻿slavic_pantheon = { # Dummy gods 
+	color = hsv { 0 0 1 }
+	modifier = { 
+		global_pop_conversion_speed_modifier = 0.15
+		monthly_political_influence = 0.2
+		happiness_for_wrong_culture_modifier = -0.1
+	}
+	religion_category = pantheon
+}
+
+grecoid_pantheon = { # Hellenic gods 
 	color = hsv { 0.57 0.77 0.96 }
 	modifier = { 
 		global_pop_conversion_speed_modifier = 0.15

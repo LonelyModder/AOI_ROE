@@ -29,7 +29,7 @@ provinces = { #Any entry must contain a comment with city name.
 	#8439 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
-	
+	217 = { port_building = 1 }
 	
 	#Passes
 	401 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -79,6 +79,68 @@ country = {
 			
 			own_control_core = 	{ 
 				217
+			}
+		}
+		
+		AAB = {          
+			government = tribal_kingdom
+			primary_culture = corsi
+			religion = nuragian_pantheon
+			capital = 126
+			
+			own_control_core = 	{ 
+				126 124 122 121 125 123 114
+			}
+		}
+		
+		AAC = {          
+			government = tribal_kingdom
+			primary_culture = nurage
+			religion = nuragian_pantheon
+			capital = 120
+			
+			own_control_core = 	{ 
+				120 119 117
+			}
+		}
+		
+		AAD = {          
+			government = tribal_kingdom
+			primary_culture = bnurage
+			religion = nuragian_pantheon
+			capital = 115
+			
+			own_control_core = 	{ 
+				115 111 112 113 118
+			}
+		}
+		
+		AAE = {          
+			government = tribal_kingdom
+			primary_culture = elymoi
+			religion = nuragian_pantheon
+			capital = 104
+			
+			own_control_core = 	{ 
+				104
+			}
+		}
+		
+		AAF = {          
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 107
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				107
 			}
 		}
 	}

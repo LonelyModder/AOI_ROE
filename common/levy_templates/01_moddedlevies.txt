@@ -14,17 +14,50 @@ levy_default = {
 levy_roughroman = { #roman militia
 	default = no
 
-	ia_warriors = 0.3
-	ia_scirmishers = 0.1
+	ia_lightinfantry = 0.4
+	ia_scirmishers = 0.2
 	ia_lightcavalry = 0.1
-	ia_heavyinfantry = 0.2
+	ia_heavyinfantry = 0.3
 }
+
+#Nuragain Vikings
 
 levy_preindeur = { #nuragian militia
 	default = no
 
-	ia_warriors = 0.3
-	ia_scirmishers = 0.1
+	ia_warriors = 0.5
+	ia_scirmishers = 0.2
 	ia_chariots = 0.1
 	ia_lightinfantry = 0.2
+}
+
+#Punic Demons
+
+levy_mpunic = { #western punics
+	default = no
+
+	ia_lightinfantry = 0.4
+	ia_archers = 0.2
+	ia_scirmishers = 0.2
+	ia_lightcavalry = 0.2
+}
+
+levy_cpunic = { #eastern punics
+	default = no
+
+	ia_lightinfantry = 0.5
+	ia_archers = 0.2
+	ia_elephants = 0.1
+	ia_lightcavalry = 0.2
+}
+
+#Virgin Grekoids
+
+levy_virgingrekoids = { #nuragian militia
+	default = no
+
+	ia_lightinfantry = 0.3
+	ia_scirmishers = 0.1
+	ia_heavycavalry = 0.1
+	ia_hoplites = 0.4
 }

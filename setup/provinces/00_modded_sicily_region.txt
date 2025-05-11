@@ -248,11 +248,14 @@
 104={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="elymoi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -286,8 +289,8 @@
 106={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="elymoi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -305,27 +308,35 @@
 107={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="canaanitic_pantheon"
+	culture="punici"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
 	}
 	tribesmen={
 		amount=4
+		religion="nuragian_pantheon"
+		culture="elymoi"
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 108={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="bnurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -343,8 +354,8 @@
 109={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="bnurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -362,8 +373,8 @@
 110={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="bnurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -381,8 +392,8 @@
 111={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="bnurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -400,8 +411,8 @@
 112={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="bnurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -419,11 +430,14 @@
 115={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="bnurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -438,8 +452,8 @@
 116={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="bnurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,8 +471,8 @@
 113={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="bnurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -476,8 +490,8 @@
 114={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="corsi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -495,8 +509,8 @@
 117={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -514,8 +528,8 @@
 118={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="bnurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -533,8 +547,8 @@
 119={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -552,11 +566,14 @@
 120={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -571,8 +588,8 @@
 121={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="corsi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -590,8 +607,8 @@
 122={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="corsi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -609,8 +626,8 @@
 123={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="corsi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -628,8 +645,8 @@
 124={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="corsi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -647,8 +664,8 @@
 125={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="corsi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -666,11 +683,14 @@
 126={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="corsi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}

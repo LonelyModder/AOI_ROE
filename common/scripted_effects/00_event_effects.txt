@@ -2495,7 +2495,7 @@ add_relevant_loyal_subunit_effect = {
 		limit = {
 			exists = commander
 			commander = {
-				has_culture_group = altmer
+				has_culture_group = latinic
 			}
 		}
 		commander = {
@@ -2507,29 +2507,16 @@ add_relevant_loyal_subunit_effect = {
 					commander.employer = {
 						any_owned_province = {
 							OR = {
-								is_importing_trade_good = circle_of_mages
-								trade_goods = circle_of_mages
+								is_importing_trade_good = iron
+								trade_goods = iron
 							}
 						}
 					}
 				}
-				add_loyal_subunit = lv_mages
+				add_loyal_subunit = ia_heavyinfantry
 			}
 			25 = {
-				trigger = {
-					commander.employer = {
-						any_owned_province = {
-							OR = {
-								is_importing_trade_good = griphons
-								trade_goods = griphons
-							}
-						}
-					}
-				}
-				add_loyal_subunit = lv_gryphons
-			}
-			25 = {
-				add_loyal_subunit = lv_lightinfantry
+				add_loyal_subunit = ia_lightinfantry
 			}
 		}
 	}
@@ -2537,7 +2524,7 @@ add_relevant_loyal_subunit_effect = {
 		limit = {
 			exists = commander
 			commander = {
-				has_culture_group = bosmer
+				has_culture_group = occidental
 			}
 		}
 		commander = {
@@ -2545,20 +2532,124 @@ add_relevant_loyal_subunit_effect = {
 		}
 		random_list = {
 			25 = {
-				trigger = {
-					commander.employer = {
-						any_owned_province = {
-							OR = {
-								is_importing_trade_good = beasts
-								trade_goods = beasts
-							}
-						}
-					}
-				}
-				add_loyal_subunit = lv_lightinfantry
+				add_loyal_subunit = ia_lightinfantry
 			}
 			25 = {
-				add_loyal_subunit = lv_archers
+				add_loyal_subunit = ia_warriors
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = levantine
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_lightcavalry
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = grekoid
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_hoplites
+			}
+			25 = {
+				add_loyal_subunit = ia_heavycavalry
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = celtic
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_warriors
+			}
+			25 = {
+				add_loyal_subunit = ia_chariots
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = illyrian
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_warriors
+			}
+			25 = {
+				add_loyal_subunit = ia_chariots
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = italic
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_lightcavalry
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = thyrrenic
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_lightcavalry
 			}
 		}
 	}
