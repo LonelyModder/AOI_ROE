@@ -140,7 +140,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				107
+				107 108 109 110 116
 			}
 		}
 	}
