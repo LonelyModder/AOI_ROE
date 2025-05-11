@@ -280,7 +280,7 @@ deity_mshapash = {
 deity_mtanit = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = azirian
+		primary_culture = punici
 		OR = {
 			common_deity_trigger = {
 				RELIGION = canaanitic_pantheon
@@ -307,7 +307,7 @@ deity_mtanit = {
 deity_mbaal_hammon = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = azirian
+		primary_culture = punici
 		OR = {
 			common_deity_trigger = {
 				RELIGION = canaanitic_pantheon
@@ -369,7 +369,7 @@ deity_mbaal_qarnaim = {
 				holy_site_deity_check_trigger = yes
 			}
 		}
-		primary_culture = azirian
+		primary_culture = punici
 	}
 	icon = deity_eloquence
 	passive_modifier = { agressive_expansion_monthly_change = deity_agressive_expansion_monthly_change_svalue }
