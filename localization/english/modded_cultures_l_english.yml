@@ -19,7 +19,8 @@
  levantine_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  levantine_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid:2 "Canaanite"
- gsicilian:0 "Siceloi"
+ gsicilian:0 "Sicelote"
+ gitaliote:0 "Italiote"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy

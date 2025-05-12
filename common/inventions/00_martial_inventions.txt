@@ -615,8 +615,10 @@ military_inventions = {
     } 
 
     gallic_four_horned_saddle_inv = {
-    	modifier = { lv_cavalry_offensive = 0.1
-    				 lv_horsearchers_offensive = 0.1}
+    	modifier = { ia_heavycavalry_offensive = 0.1
+					 ia_lightcavalry_offensive = 0.1
+					 ia_lancers_offensive = 0.1
+    				 ia_horsearchers_offensive = 0.1}
         requires = { gallic_celtic_calendar_inv }
 		allow = {
 			OR = {
@@ -664,8 +666,10 @@ military_inventions = {
     }
 
     gallic_trimarcisia_inv = {
-    	modifier = { lv_cavalry_morale = 0.1 
-    				 lv_horsearchers_morale = 0.1 }
+    	modifier = { ia_heavycavalry_morale = 0.1
+					 ia_lightcavalry_morale = 0.1
+					 ia_lancers_morale = 0.1
+    				 ia_horsearchers_morale = 0.1 }
         requires = { gallic_four_horned_saddle_inv }
 		allow = {
 			OR = {
