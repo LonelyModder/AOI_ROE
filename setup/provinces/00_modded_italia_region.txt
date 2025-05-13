@@ -96,19 +96,32 @@
 88={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gitaliote"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
 	}
 	tribesmen={
 		amount=4
+		religion="italiotan_pantheon"
+		culture="ibruttian"
 	}
 	slaves={
 		amount=1
+	}
+	slaves={
+		amount=4
+		religion="italiotan_pantheon"
+		culture="ibruttian"
 	}
 }
 
@@ -1432,19 +1445,22 @@
 248={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=7
 	}
 }
 

@@ -23,7 +23,7 @@ villanic_pantheon = { # Villanovan gods
 	modifier = { 
 		global_monthly_civilization = 0.05
 		global_capital_trade_routes = 2
-		diplomatic_reputation = -1
+		happiness_for_wrong_culture_modifier = -0.1
 	}
 	religion_category = pantheon
 }

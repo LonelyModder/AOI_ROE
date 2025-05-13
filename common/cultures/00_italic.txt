@@ -299,11 +299,10 @@
 	}
 
 	culture = {
-		oscan = {}
-		rumbrian = {}
-		picenian = {}
-		uvenetic = {}
-		paddan_venetic = {}
+		ibruttian = {}
+		ilucanic = {}
+		icampanic = {}
+		isicelian = {}
 	}
 	
 	barbarian_names = { BRUTTII CAMUNNI CARACENI CENOMANI EUGANEI FRINIATES LIBURNI LIGURES LEPONTII LUCANI MAMERTINI PATAVINI PENTRI }

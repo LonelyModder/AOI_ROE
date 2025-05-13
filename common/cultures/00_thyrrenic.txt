@@ -2,9 +2,9 @@
 	color = hsv { 0.23 0.79 0.55 }
 	levy_template = levy_thyrrenic
 	
-	primary = missile_archers
-	second = light_swordsmen
-	flank = chariot_light
+	primary = ia_archers
+	second = ia_lightinfantry
+	flank = ia_lightcavalry
 
 	primary_navy = tetrere
 	secondary_navy = octere
@@ -297,7 +297,6 @@
 	culture = {
 		lemnosic = {}
 		etrusci = {}
-		setrusci = {}
 		raetic = {}
 		camunnic = {}
 		rutulic = {}

@@ -133,6 +133,42 @@ country = {
 			capital = 107
 			
 			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				107 108 109 110 116
+			}
+		}
+		
+		AAG = {          
+			government = aristocratic_republic
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 248
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				248
+			}
+		}
+		
+		AAH = {          
+			government = aristocratic_republic
+			primary_culture = gitaliote
+			religion = grecoid_pantheon
+			capital = 88
+			
+			technology={
 				military_tech={ level=3 progress=0 }
 				civic_tech={ level=3 progress=0 }
 				oratory_tech={ level=3 progress=0 }
@@ -140,7 +176,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				107 108 109 110 116
+				88
 			}
 		}
 	}
