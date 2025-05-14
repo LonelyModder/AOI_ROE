@@ -1,19 +1,32 @@
 ﻿5={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gitaliote"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
 	}
 	tribesmen={
 		amount=4
+		religion="italiotan_pantheon"
+		culture="ibruttian"
 	}
 	slaves={
 		amount=1
+	}
+	slaves={
+		amount=4
+		religion="italiotan_pantheon"
+		culture="ibruttian"
 	}
 }
 
@@ -565,19 +578,32 @@
 148={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gitaliote"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
 	}
 	tribesmen={
 		amount=4
+		religion="italiotan_pantheon"
+		culture="icampanic"
 	}
 	slaves={
 		amount=1
+	}
+	slaves={
+		amount=4
+		religion="italiotan_pantheon"
+		culture="icampanic"
 	}
 }
 

@@ -30,6 +30,16 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	217 = { port_building = 1 }
+	112 = { port_building = 1 }
+	124 = { port_building = 1 }
+	107 = { port_building = 2 }
+	110 = { port_building = 2 }
+	116 = { port_building = 2 }
+	88 = { port_building = 2 }
+	148 = { port_building = 2 }
+	91 = { port_building = 2 }
+	5 = { port_building = 2 }
+	93 = { port_building = 2 }
 	
 	#Passes
 	401 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -69,13 +79,6 @@ country = {
 			primary_culture = rroman
 			religion = italiotan_pantheon
 			capital = 217
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
 			
 			own_control_core = 	{ 
 				217
@@ -169,14 +172,133 @@ country = {
 			capital = 88
 			
 			technology={
-				military_tech={ level=3 progress=0 }
-				civic_tech={ level=3 progress=0 }
-				oratory_tech={ level=3 progress=0 }
-				religious_tech= { level=3 progress=0  }
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
 			}
 			
 			own_control_core = 	{ 
 				88
+			}
+		}
+		
+		AAI = {          
+			government = aristocratic_republic
+			primary_culture = gitaliote
+			religion = grecoid_pantheon
+			capital = 148
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				148
+			}
+		}
+		
+		AAJ = {          
+			government = aristocratic_republic
+			primary_culture = gsicilian
+			religion = grecoid_pantheon
+			capital = 91
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				91 
+			}
+		}
+		
+		AAK = {          
+			government = aristocratic_republic
+			primary_culture = gitaliote
+			religion = grecoid_pantheon
+			capital = 5
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				5
+			}
+		}
+		
+		AAL = {          
+			government = aristocratic_republic
+			primary_culture = gsicilian
+			religion = grecoid_pantheon
+			capital = 92
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				92
+			}
+		}
+		
+		AAM = {          
+			government = aristocratic_republic
+			primary_culture = gsicilian
+			religion = grecoid_pantheon
+			capital = 93
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				93
+			}
+		}
+		
+		AAN = {          
+			government = tribal_kingdom
+			primary_culture = sicanic
+			religion = villanic_pantheon
+			capital = 105
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				105 106 103
+			}
+		}
+		
+		AAO = {          
+			government = tribal_kingdom
+			primary_culture = isicelian
+			religion = italiotan_pantheon
+			capital = 97
+			
+			own_control_core = 	{ 
+				97 94 101 95 96 98 102 100 99
 			}
 		}
 	}
