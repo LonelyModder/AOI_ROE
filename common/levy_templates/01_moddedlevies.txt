@@ -20,6 +20,17 @@ levy_roughroman = { #roman militia
 	ia_heavyinfantry = 0.3
 }
 
+#italic
+
+levy_italic = { #italic militia
+	default = no
+
+	ia_warriors = 0.4
+	ia_scirmishers = 0.2
+	ia_lightcavalry = 0.1
+	ia_lightinfantry = 0.3
+}
+
 #Nuragain Vikings
 
 levy_preindeur = { #nuragian militia
@@ -54,6 +65,17 @@ levy_cpunic = { #eastern punics
 #Virgin Grekoids
 
 levy_virgingrekoids = { #nuragian militia
+	default = no
+
+	ia_lightinfantry = 0.3
+	ia_scirmishers = 0.1
+	ia_heavycavalry = 0.1
+	ia_hoplites = 0.4
+}
+
+#Illyrian
+
+levy_piratic = { #illyrian militia
 	default = no
 
 	ia_lightinfantry = 0.3

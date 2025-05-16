@@ -3,7 +3,7 @@
 	levy_template = levy_thyrrenic
 	
 	primary = ia_archers
-	second = ia_lightinfantry
+	second = ia_hoplites
 	flank = ia_lightcavalry
 
 	primary_navy = tetrere

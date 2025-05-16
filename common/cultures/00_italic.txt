@@ -1,7 +1,7 @@
 ﻿italic = {
 	color = hsv { 1 1 1 }
 	
-	levy_template = levy_roughroman
+	levy_template = levy_italic
 	
 	primary = ia_scirmishers
 	second = ia_heavyinfantry
@@ -301,7 +301,13 @@
 	culture = {
 		ibruttian = {}
 		ilucanic = {}
+		isamnite = {}
+		iumbrian = {}
+		isabines = {}
+		imarrucinian = {}
 		icampanic = {}
+		ivolscan = {}
+		ifrentanian = {}
 		isicelian = {}
 	}
 	

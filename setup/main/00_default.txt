@@ -31,6 +31,8 @@ provinces = { #Any entry must contain a comment with city name.
 	#Buildings
 	217 = { port_building = 1 }
 	112 = { port_building = 1 }
+	133 = { port_building = 1 }
+	146 = { port_building = 1 }
 	124 = { port_building = 1 }
 	107 = { port_building = 2 }
 	110 = { port_building = 2 }
@@ -81,7 +83,7 @@ country = {
 			capital = 217
 			
 			own_control_core = 	{ 
-				217
+				217 219 218
 			}
 		}
 		
@@ -162,9 +164,9 @@ country = {
 			
 			own_control_core = 	{ 
 				247 246 244 245 248 249 254
-				250 252 256 257 255 258 253 251
+				250 252 256 257 255 258 251
 				240 242 243 264 265 272 273 274 306 305 275 276 277 278
-				378 302 377 300 298 279
+				378 302 377 300 298 279 151 147 149 150
 			}
 		}
 		
@@ -313,6 +315,138 @@ country = {
 			
 			own_control_core = 	{ 
 				135
+			}
+		}
+		
+		AAR = {          
+			government = tribal_kingdom
+			primary_culture = imessapi
+			religion = illyric_pantheon
+			capital = 134
+			
+			own_control_core = 	{ 
+				134 133 132 485
+			}
+		}
+		
+		AAS = {          
+			government = tribal_kingdom
+			primary_culture = ipeuceti
+			religion = illyric_pantheon
+			capital = 136
+			
+			own_control_core = 	{ 
+				138 137 136 139
+			}
+		}
+		
+		AAT = {          
+			government = tribal_kingdom
+			primary_culture = idauni
+			religion = illyric_pantheon
+			capital = 154
+			
+			own_control_core = 	{ 
+				154 146 141
+			}
+		}
+		
+		AAU = {          
+			government = tribal_kingdom
+			primary_culture = ibruttian
+			religion = italiotan_pantheon
+			capital = 90
+			
+			own_control_core = 	{ 
+				90 127 89 85 87 86 84
+			}
+		}
+		
+		AAW = {          
+			government = tribal_kingdom
+			primary_culture = ilucanic
+			religion = italiotan_pantheon
+			capital = 131
+			
+			own_control_core = 	{ 
+				131 130 128 140 129 142 144 143
+			}
+		}
+		
+		AAY = {          
+			government = tribal_kingdom
+			primary_culture = isamnite
+			religion = italiotan_pantheon
+			capital = 155
+			
+			own_control_core = 	{ 
+				155 156 153 152 145 160 159
+			}
+		}
+		
+		AAZ = {          
+			government = tribal_kingdom
+			primary_culture = iumbrian
+			religion = italiotan_pantheon
+			capital = 230
+			
+			own_control_core = 	{ 
+				230 234 235 236 241
+			}
+		}
+		
+		ABA = {          
+			government = tribal_kingdom
+			primary_culture = isabines
+			religion = italiotan_pantheon
+			capital = 220
+			
+			own_control_core = 	{ 
+				220 226 227
+			}
+		}
+		
+		ABB = {          
+			government = tribal_kingdom
+			primary_culture = rcapenati
+			religion = italiotan_pantheon
+			capital = 233
+			
+			own_control_core = 	{ 
+				233
+			}
+		}
+		
+		ABC = {          
+			government = tribal_kingdom
+			primary_culture = ivolscan
+			religion = italiotan_pantheon
+			capital = 216
+			
+			own_control_core = 	{ 
+				216 158 222
+			}
+		}
+		
+		ABD = {          
+			government = tribal_kingdom
+			primary_culture = ifrentanian
+			religion = italiotan_pantheon
+			capital = 228
+			
+			own_control_core = 	{ 
+				228 157
+			}
+		}
+		
+		ABE = {          
+			government = tribal_kingdom
+			primary_culture = imarrucinian
+			religion = italiotan_pantheon
+			capital = 215
+			
+			own_control_core = 	{ 
+				215
 			}
 		}
 	}

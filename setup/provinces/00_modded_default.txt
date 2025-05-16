@@ -766,7 +766,7 @@
 	culture=""
 	province_rank=""
 	religion=""
-	terrain="coastal_terrain"
+	terrain="riverrine_terrain"
 	trade_goods=""
 }
 
@@ -776,7 +776,7 @@
 	culture=""
 	province_rank=""
 	religion=""
-	terrain="coastal_terrain"
+	terrain="riverrine_terrain"
 	trade_goods=""
 }
 
@@ -786,7 +786,7 @@
 	culture=""
 	province_rank=""
 	religion=""
-	terrain="coastal_terrain"
+	terrain="riverrine_terrain"
 	trade_goods=""
 }
 
@@ -796,7 +796,7 @@
 	culture=""
 	province_rank=""
 	religion=""
-	terrain="coastal_terrain"
+	terrain="riverrine_terrain"
 	trade_goods=""
 }
 
@@ -806,7 +806,7 @@
 	culture=""
 	province_rank=""
 	religion=""
-	terrain="coastal_terrain"
+	terrain="riverrine_terrain"
 	trade_goods=""
 }
 
@@ -816,7 +816,7 @@
 	culture=""
 	province_rank=""
 	religion=""
-	terrain="coastal_terrain"
+	terrain="riverrine_terrain"
 	trade_goods=""
 }
 
