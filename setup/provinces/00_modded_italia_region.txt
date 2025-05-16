@@ -331,19 +331,32 @@
 135={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gitaliote"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
 	}
 	tribesmen={
 		amount=4
+		religion="illyric_pantheon"
+		culture="ipeuceti"
 	}
 	slaves={
 		amount=1
+	}
+	slaves={
+		amount=4
+		religion="illyric_pantheon"
+		culture="ipeuceti"
 	}
 }
 

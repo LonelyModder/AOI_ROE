@@ -34,8 +34,7 @@
    }
 
 	culture = {
-		byllionian = {}
-		liburnian = {}
+		ipeuceti = {}
 	}
 
 	barbarian_names = {

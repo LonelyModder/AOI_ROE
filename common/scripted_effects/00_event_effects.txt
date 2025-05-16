@@ -2287,7 +2287,7 @@ add_relevant_subunit_effect = {
 				OR = {
 					has_culture_group = west_levantine
 					has_culture_group = hellenic
-					has_culture_group = latin
+					has_culture_group = venedi
 					has_culture_group = persia
 				}
 			}
