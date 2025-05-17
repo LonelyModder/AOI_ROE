@@ -77,7 +77,7 @@ country = {
 		}
 		#I update
 		AAA = {          
-			government = aristocratic_monarchy
+			government = despotic_monarchy
 			primary_culture = rroman
 			religion = italiotan_pantheon
 			capital = 217
@@ -407,7 +407,7 @@ country = {
 		}
 		
 		ABB = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = rcapenati
 			religion = italiotan_pantheon
 			capital = 233
@@ -418,7 +418,7 @@ country = {
 		}
 		
 		ABC = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = ivolscan
 			religion = italiotan_pantheon
 			capital = 216
@@ -447,6 +447,72 @@ country = {
 			
 			own_control_core = 	{ 
 				215
+			}
+		}
+		
+		ABF = {          
+			government = tribal_kingdom
+			primary_culture = imarsian
+			religion = italiotan_pantheon
+			capital = 223
+			
+			own_control_core = 	{ 
+				223
+			}
+		}
+		
+		ABG = {          
+			government = tribal_kingdom
+			primary_culture = ipaelignian
+			religion = italiotan_pantheon
+			capital = 221
+			
+			own_control_core = 	{ 
+				221
+			}
+		}
+		
+		ABH = {          
+			government = tribal_kingdom
+			primary_culture = ihernici
+			religion = italiotan_pantheon
+			capital = 224
+			
+			own_control_core = 	{ 
+				224
+			}
+		}
+		
+		ABI = {          
+			government = tribal_kingdom
+			primary_culture = iaequian
+			religion = italiotan_pantheon
+			capital = 225
+			
+			own_control_core = 	{ 
+				225
+			}
+		}
+		
+		ABJ = {          
+			government = tribal_kingdom
+			primary_culture = ivestinic
+			religion = italiotan_pantheon
+			capital = 229
+			
+			own_control_core = 	{ 
+				229
+			}
+		}
+		
+		ABK = {          
+			government = tribal_kingdom
+			primary_culture = ipicentes
+			religion = italiotan_pantheon
+			capital = 232
+			
+			own_control_core = 	{ 
+				232 231 238 237 239
 			}
 		}
 	}

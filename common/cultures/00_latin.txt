@@ -1,5 +1,5 @@
 ﻿latinic = {
-	color = hsv { 1 1 1 }
+	color = hsv { 0.89 0.97 0.74 }
 	
 	levy_template = levy_roughroman
 	
