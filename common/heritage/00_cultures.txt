@@ -96,7 +96,7 @@ italic_heritage = {
 liguric_heritage = {
 	modifier = {
 		#good
-		missile_archers_offensive = 0.1
+		ia_scirmishers_offensive = 0.1
 		global_defensive = 0.05
 		
 		#bad

@@ -515,6 +515,17 @@ country = {
 				232 231 238 237 239
 			}
 		}
+		
+		ABL = {          
+			government = tribal_kingdom
+			primary_culture = lmagellic
+			religion = liguric_pantheon
+			capital = 253
+			
+			own_control_core = 	{ 
+				253
+			}
+		}
 	}
 }
 
