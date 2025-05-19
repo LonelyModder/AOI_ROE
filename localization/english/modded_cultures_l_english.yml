@@ -61,6 +61,13 @@
  lmagellic:0 "Magellan"
  liguric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  liguric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ liburnic:2 "Liburnian"
+ lveneti:0 "Venetian"
+ lliburni:0 "Liburnian"
+ llapudi:0 "Lapodian"
+ lcatari:0 "Catarian"
+ liburnic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ liburnic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  venedi:2 "Aedric"
  wvenedi:0 "Heresy"
