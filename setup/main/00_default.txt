@@ -32,8 +32,11 @@ provinces = { #Any entry must contain a comment with city name.
 	217 = { port_building = 1 }
 	112 = { port_building = 1 }
 	133 = { port_building = 1 }
+	375 = { port_building = 1 }
 	146 = { port_building = 1 }
 	124 = { port_building = 1 }
+	382 = { port_building = 1 }
+	394 = { port_building = 1 }
 	107 = { port_building = 2 }
 	110 = { port_building = 2 }
 	116 = { port_building = 2 }
@@ -524,6 +527,72 @@ country = {
 			
 			own_control_core = 	{ 
 				253
+			}
+		}
+		
+		ABM = {          
+			government = tribal_kingdom
+			primary_culture = lveneti
+			religion = illyric_pantheon
+			capital = 309
+			
+			own_control_core = 	{ 
+				309 308 310 311 312 313 314 315 321
+			}
+		}
+		
+		ABN = {          
+			government = tribal_kingdom
+			primary_culture = lliburni
+			religion = illyric_pantheon
+			capital = 385
+			
+			own_control_core = 	{ 
+				385 387 384 383 382 380 394
+			}
+		}
+		
+		ABO = {          
+			government = tribal_kingdom
+			primary_culture = castelieric
+			religion = illyric_pantheon
+			capital = 374
+			
+			own_control_core = 	{ 
+				374 375
+			}
+		}
+		
+		ABP = {          
+			government = tribal_kingdom
+			primary_culture = segusinic
+			religion = liguric_pantheon
+			capital = 285
+			
+			own_control_core = 	{ 
+				285
+			}
+		}
+		
+		ABR = {          
+			government = tribal_kingdom
+			primary_culture = cbrigantic
+			religion = celtic_pantheon
+			capital = 330
+			
+			own_control_core = 	{ 
+				330 335 331 334 333 325
+			}
+		}
+		
+		ABS = {          
+			government = tribal_kingdom
+			primary_culture = llapudi
+			religion = illyric_pantheon
+			capital = 420
+			
+			own_control_core = 	{ 
+				420 381 379 421 386
 			}
 		}
 	}

@@ -1398,8 +1398,8 @@
 240={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1407,7 +1407,12 @@
 		amount=1
 	}
 	tribesmen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		religion="italiotan_pantheon"
+		culture="iumbrian"
 	}
 	slaves={
 		amount=1
@@ -1436,8 +1441,8 @@
 242={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1445,7 +1450,12 @@
 		amount=1
 	}
 	tribesmen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		religion="italiotan_pantheon"
+		culture="ipicentes"
 	}
 	slaves={
 		amount=1
@@ -1455,8 +1465,8 @@
 243={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1464,7 +1474,12 @@
 		amount=1
 	}
 	tribesmen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		religion="italiotan_pantheon"
+		culture="ipicentes"
 	}
 	slaves={
 		amount=1
@@ -1486,7 +1501,12 @@
 		amount=10
 	}
 	freemen={
-		amount=5
+		amount=1
+	}
+	freemen={
+		amount=4
+		religion="italiotan_pantheon"
+		culture="rfaliscian"
 	}
 	slaves={
 		amount=6
@@ -1496,16 +1516,21 @@
 245={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	freemen={
+		amount=2
+	}
+	freemen={
+		amount=2
+		religion="italiotan_pantheon"
+		culture="rfaliscian"
 	}
 	slaves={
 		amount=1
@@ -1537,15 +1562,15 @@
 247={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1578,15 +1603,15 @@
 249={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1619,15 +1644,15 @@
 251={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1638,15 +1663,15 @@
 252={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1679,15 +1704,15 @@
 254={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1698,15 +1723,15 @@
 255={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1717,15 +1742,15 @@
 256={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1758,15 +1783,15 @@
 258={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={

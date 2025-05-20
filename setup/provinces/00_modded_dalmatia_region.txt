@@ -1,8 +1,8 @@
 ﻿379={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="llapudi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -20,8 +20,8 @@
 380={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lliburni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -39,8 +39,8 @@
 381={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="llapudi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -58,8 +58,8 @@
 382={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lliburni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -77,8 +77,8 @@
 383={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lliburni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -96,8 +96,8 @@
 384={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lliburni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -115,8 +115,8 @@
 386={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="llapudi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -134,8 +134,8 @@
 421={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="llapudi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -172,11 +172,14 @@
 420={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="llapudi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -191,11 +194,14 @@
 385={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lliburni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -210,8 +216,8 @@
 387={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lliburni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -343,8 +349,8 @@
 394={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lliburni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

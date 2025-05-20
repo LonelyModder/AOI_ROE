@@ -35,7 +35,6 @@
 
 	culture = {
 		castelieric = {}
-		bosutic = {}
 	}
 
 	barbarian_names = {

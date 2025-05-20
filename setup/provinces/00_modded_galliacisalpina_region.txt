@@ -419,8 +419,8 @@
 308={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,11 +704,14 @@
 285={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="liguric_pantheon"
+	culture="segusinic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1103,8 +1106,8 @@
 311={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1122,8 +1125,8 @@
 312={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1141,8 +1144,8 @@
 313={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1160,8 +1163,8 @@
 314={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1179,8 +1182,8 @@
 315={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1198,8 +1201,8 @@
 321={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1217,27 +1220,30 @@
 374={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="castelieric"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=1
+		amount=5
 	}
 	tribesmen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
 375={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="castelieric"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1293,11 +1299,14 @@
 309={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1312,8 +1321,8 @@
 310={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

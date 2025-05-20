@@ -56,7 +56,10 @@ illyric_heritage = {
 	}
 	
 	trigger = {
-		country_culture_group = illyric
+		OR = {
+			country_culture_group = illyric
+			country_culture_group = liburnic
+		}
 	}
 }
 

@@ -94,3 +94,15 @@ levy_liguric = { #illyrian militia
 	ia_chariots = 0.1
 	ia_warriors = 0.4
 }
+
+#Celtic
+
+levy_astelixian = { #celtic militia
+	default = no
+
+	ia_archers = 0.1
+	ia_cavalry = 0.1
+	ia_scirmishers = 0.2
+	ia_chariots = 0.1
+	ia_warriors = 0.4
+}

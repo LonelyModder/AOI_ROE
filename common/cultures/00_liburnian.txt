@@ -45,9 +45,8 @@
 		BARIDUSTAE TARIOTES SELEPITANOI PARTHINI BREUCI PIRUSTAE SARDEATI BYLLIONES BALAITES PARTHENI PEUCETI CINAMBRI DASSARETI PENESTI DEUNI NARENSI CHELIDONI BATHIATAE
 	}
 	
-	graphical_culture = bryges_gfx
+	graphical_culture = iberian_gfx
 	ethnicities = {
-		10 = greek
-		7 = luwian
+		10 = illyrian
 	}
 }

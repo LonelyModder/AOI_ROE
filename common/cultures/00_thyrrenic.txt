@@ -301,6 +301,7 @@
 		camunnic = {}
 		rutulic = {}
 		sicanic = {}
+		epicenic = {}
 	}
 	
 	barbarian_names = { 
