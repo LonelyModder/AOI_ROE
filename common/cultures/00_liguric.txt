@@ -301,6 +301,13 @@
 	culture = {
 		lmagellic = {}
 		segusinic = {}
+		lgenuatian = {}
+		lfriniatian = {}
+		lilvatian = {}
+		lintemilian = {}
+		ltaurinian = {}
+		ltriullatian = {}
+		llaevi = {}
 	}
 	
 	barbarian_names = { BRUTTII CAMUNNI CARACENI CENOMANI EUGANEI FRINIATES LIBURNI LIGURES LEPONTII LUCANI MAMERTINI PATAVINI PENTRI }

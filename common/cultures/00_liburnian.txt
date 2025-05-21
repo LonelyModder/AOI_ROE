@@ -38,6 +38,7 @@
 		lliburni = {}
 		llapudi = {}
 		lcatari = {}
+		lcarnian = {}
 	}
 
 	barbarian_names = {

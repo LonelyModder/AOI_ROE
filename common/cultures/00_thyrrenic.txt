@@ -295,13 +295,13 @@
 	}
 	
 	culture = {
-		lemnosic = {}
 		etrusci = {}
 		raetic = {}
 		camunnic = {}
 		rutulic = {}
 		sicanic = {}
 		epicenic = {}
+		eugeneian = {}
 	}
 	
 	barbarian_names = { 

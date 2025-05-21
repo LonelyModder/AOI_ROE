@@ -33,6 +33,8 @@ provinces = { #Any entry must contain a comment with city name.
 	112 = { port_building = 1 }
 	133 = { port_building = 1 }
 	375 = { port_building = 1 }
+	246 = { port_building = 1 }
+	257 = { port_building = 1 }
 	146 = { port_building = 1 }
 	124 = { port_building = 1 }
 	382 = { port_building = 1 }
@@ -380,7 +382,7 @@ country = {
 			government = tribal_kingdom
 			primary_culture = isamnite
 			religion = italiotan_pantheon
-			capital = 155
+			capital = 156
 			
 			own_control_core = 	{ 
 				155 156 153 152 145 160 159
@@ -391,7 +393,7 @@ country = {
 			government = tribal_kingdom
 			primary_culture = iumbrian
 			religion = italiotan_pantheon
-			capital = 230
+			capital = 235
 			
 			own_control_core = 	{ 
 				230 234 235 236 241
@@ -521,12 +523,12 @@ country = {
 		
 		ABL = {          
 			government = tribal_kingdom
-			primary_culture = lmagellic
-			religion = liguric_pantheon
-			capital = 253
+			primary_culture = clepontic
+			religion = celtic_pantheon
+			capital = 294
 			
 			own_control_core = 	{ 
-				253
+				294 292 291 293 287 295 296 297 299
 			}
 		}
 		
@@ -593,6 +595,105 @@ country = {
 			
 			own_control_core = 	{ 
 				420 381 379 421 386
+			}
+		}
+		
+		ABT = {          
+			government = tribal_kingdom
+			primary_culture = lgenuatian
+			religion = liguric_pantheon
+			capital = 267
+			
+			own_control_core = 	{ 
+				267 266 262 263
+			}
+		}
+		
+		ABU = {          
+			government = tribal_kingdom
+			primary_culture = lfriniatian
+			religion = liguric_pantheon
+			capital = 260
+			
+			own_control_core = 	{ 
+				260 261 253
+			}
+		}
+		
+		ABW = {          
+			government = tribal_kingdom
+			primary_culture = lilvatian
+			religion = liguric_pantheon
+			capital = 281
+			
+			own_control_core = 	{ 
+				281 280 282
+			}
+		}
+		
+		ABY = {          
+			government = tribal_kingdom
+			primary_culture = lintemilian
+			religion = liguric_pantheon
+			capital = 269
+			
+			own_control_core = 	{ 
+				269 268
+			}
+		}
+		
+		ABZ = {          
+			government = tribal_kingdom
+			primary_culture = ltaurinian
+			religion = liguric_pantheon
+			capital = 286
+			
+			own_control_core = 	{ 
+				286 284 283 288
+			}
+		}
+		
+		ACA = {          
+			government = tribal_kingdom
+			primary_culture = ltriullatian
+			religion = liguric_pantheon
+			capital = 270
+			
+			own_control_core = 	{ 
+				270 271
+			}
+		}
+		
+		ACB = {          
+			government = tribal_kingdom
+			primary_culture = lcarnian
+			religion = illyric_pantheon
+			capital = 354
+			
+			own_control_core = 	{ 
+				354 355 353
+			}
+		}
+		
+		ACC = {          
+			government = tribal_kingdom
+			primary_culture = eugeneian
+			religion = villanic_pantheon
+			capital = 304
+			
+			own_control_core = 	{ 
+				304 301
+			}
+		}
+		
+		ACD = {          
+			government = tribal_kingdom
+			primary_culture = csalassian
+			religion = celtic_pantheon
+			capital = 289
+			
+			own_control_core = 	{ 
+				289 290 317
 			}
 		}
 	}
