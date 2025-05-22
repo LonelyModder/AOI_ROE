@@ -30,6 +30,8 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	217 = { port_building = 1 }
+	398 = { port_building = 1 }
+	391 = { port_building = 1 }
 	112 = { port_building = 1 }
 	133 = { port_building = 1 }
 	375 = { port_building = 1 }
@@ -591,10 +593,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = llapudi
 			religion = illyric_pantheon
-			capital = 420
+			capital = 381
 			
 			own_control_core = 	{ 
-				420 381 379 421 386
+				381 379
 			}
 		}
 		
@@ -694,6 +696,61 @@ country = {
 			
 			own_control_core = 	{ 
 				289 290 317
+			}
+		}
+		
+		ACE = {          
+			government = tribal_kingdom
+			primary_culture = idelmatian
+			religion = illyric_pantheon
+			capital = 392
+			
+			own_control_core = 	{ 
+				392 393 391 389 395
+			}
+		}
+		
+		ACF = {          
+			government = tribal_kingdom
+			primary_culture = ipierian
+			religion = illyric_pantheon
+			capital = 396
+			
+			own_control_core = 	{ 
+				396 397 398
+			}
+		}
+		
+		ACG = {          
+			government = tribal_kingdom
+			primary_culture = idaorsian
+			religion = illyric_pantheon
+			capital = 399
+			
+			own_control_core = 	{ 
+				399 400 401
+			}
+		}
+		
+		ACI = {          
+			government = tribal_kingdom
+			primary_culture = lcatari
+			religion = illyric_pantheon
+			capital = 440
+			
+			own_control_core = 	{ 
+				440 424 420 441
+			}
+		}
+		
+		ACJ = {          
+			government = tribal_kingdom
+			primary_culture = iditionian
+			religion = illyric_pantheon
+			capital = 413
+			
+			own_control_core = 	{ 
+				413 421 386 388 390 410 411 412
 			}
 		}
 	}

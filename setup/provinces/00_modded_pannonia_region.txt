@@ -116,8 +116,8 @@
 424={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lcatari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -420,11 +420,14 @@
 440={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lcatari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -439,8 +442,8 @@
 441={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lcatari""
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

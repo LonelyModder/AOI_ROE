@@ -56,6 +56,10 @@
  ipeuceti:0 "Peucetan"
  idauni:0 "Daunian"
  imessapi:0 "Messapian"
+ idelmatian:0 "Delmatian"
+ ipierian:0 "Pierian"
+ idaorsian:0 "Daorsian"
+ iditionian:0 "Ditionian"
  illyric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  illyric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  liguric:2 "Ligurian"
@@ -86,6 +90,7 @@
  cbrigantic:0 "Brigantian"
  clepontic:0 "Lepontic"
  csalassian:0 "Salassian"
+ calauni:0 "Alauni"
  celtic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  celtic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
