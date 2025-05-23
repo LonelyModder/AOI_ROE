@@ -753,6 +753,28 @@ country = {
 				413 421 386 388 390 410 411 412
 			}
 		}
+		
+		ACK = {          
+			government = tribal_kingdom
+			primary_culture = csedunian
+			religion = celtic_pantheon
+			capital = 317
+			
+			own_control_core = 	{ 
+				317 318
+			}
+		}
+		
+		ACL = {          
+			government = tribal_kingdom
+			primary_culture = cvindelician
+			religion = celtic_pantheon
+			capital = 340
+			
+			own_control_core = 	{ 
+				340 338 339 350 337 363
+			}
+		}
 	}
 }
 

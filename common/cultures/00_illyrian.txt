@@ -1,5 +1,5 @@
 ﻿illyric = {
-	color = hsv { 0.4 0.4 0.4 }
+	color = hsv { 0.48 0.99 0.77 }
 	
 	primary = ia_archers
 	second = ia_warriors

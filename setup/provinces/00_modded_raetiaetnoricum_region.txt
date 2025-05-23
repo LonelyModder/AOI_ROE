@@ -384,8 +384,8 @@
 337={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -403,8 +403,8 @@
 338={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -422,8 +422,8 @@
 339={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -441,11 +441,14 @@
 340={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -498,8 +501,8 @@
 350={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -536,8 +539,8 @@
 363={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

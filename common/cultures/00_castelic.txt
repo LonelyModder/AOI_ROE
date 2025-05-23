@@ -1,5 +1,5 @@
 ﻿castelic = {
-	color = hsv { 0.93 0.97 0.88 }
+	color = hsv { 0.0 0.0 1.0 }
 	
 	primary = ia_archers
 	second = ia_lightinfantry
