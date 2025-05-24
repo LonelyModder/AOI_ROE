@@ -739,7 +739,7 @@ country = {
 			capital = 440
 			
 			own_control_core = 	{ 
-				440 424 420 441
+				440 424 420
 			}
 		}
 		
@@ -772,7 +772,95 @@ country = {
 			capital = 340
 			
 			own_control_core = 	{ 
-				340 338 339 350 337 363
+				340 338 339 350 337 363 349 365
+			}
+		}
+		
+		ACM = {          
+			government = tribal_kingdom
+			primary_culture = calaunian
+			religion = celtic_pantheon
+			capital = 361
+			
+			own_control_core = 	{ 
+				362 361
+			}
+		}
+		
+		ACN = {          
+			government = tribal_kingdom
+			primary_culture = calcimoennian
+			religion = celtic_pantheon
+			capital = 366
+			
+			own_control_core = 	{ 
+				366 364 367
+			}
+		}
+		
+		ACO = {          
+			government = tribal_kingdom
+			primary_culture = csevarcian
+			religion = celtic_pantheon
+			capital = 370
+			
+			own_control_core = 	{ 
+				370 368 369
+			}
+		}
+		
+		ACP = {          
+			government = tribal_kingdom
+			primary_culture = cambisontian
+			religion = celtic_pantheon
+			capital = 346
+			
+			own_control_core = 	{ 
+				346 347 343 342
+			}
+		}
+		
+		ACR = {          
+			government = tribal_kingdom
+			primary_culture = cambidravian
+			religion = celtic_pantheon
+			capital = 351
+			
+			own_control_core = 	{ 
+				351 352 356
+			}
+		}
+		
+		ACS = {          
+			government = tribal_kingdom
+			primary_culture = ctauriscian
+			religion = celtic_pantheon
+			capital = 372
+			
+			own_control_core = 	{ 
+				431 373 372 371 358 357 359 360
+			}
+		}
+		
+		ACT = {          
+			government = tribal_kingdom
+			primary_culture = cvennonian
+			religion = celtic_pantheon
+			capital = 324
+			
+			own_control_core = 	{ 
+				324 322
+			}
+		}
+		
+		ACU = {          
+			government = tribal_kingdom
+			primary_culture = ideurian
+			religion = illyric_pantheon
+			capital = 441
+			
+			own_control_core = 	{ 
+				441 422 423 470 472
 			}
 		}
 	}

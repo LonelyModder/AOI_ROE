@@ -78,8 +78,8 @@
 422={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -97,8 +97,8 @@
 423={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,8 +249,8 @@
 431={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -443,10 +443,13 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="illyric_pantheon"
-	culture="lcatari"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -993,8 +996,8 @@
 470={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1031,8 +1034,8 @@
 472={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

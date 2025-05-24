@@ -949,9 +949,15 @@
 	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
 	}
 	tribesmen={
 		amount=4
@@ -962,7 +968,7 @@
 		culture="rutulic"
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1683,13 +1689,10 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lmagellic"
+	culture="lfriniatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=1
-	}
 	freemen={
 		amount=1
 	}

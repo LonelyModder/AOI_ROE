@@ -299,7 +299,6 @@
 	}
 
 	culture = {
-		lmagellic = {}
 		segusinic = {}
 		lgenuatian = {}
 		lfriniatian = {}
