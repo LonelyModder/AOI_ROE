@@ -312,7 +312,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="villanic_pantheon"
-	culture="wvenedi"
+	culture="camunnic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,7 +353,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="villanic_pantheon"
-	culture="wvenedi"
+	culture="camunnic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -372,10 +372,13 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="villanic_pantheon"
-	culture="wvenedi"
+	culture="camunnic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -391,7 +394,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="villanic_pantheon"
-	culture="wvenedi"
+	culture="camunnic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -664,7 +667,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="villanic_pantheon"
-	culture="wvenedi"
+	culture="vennonetian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -683,10 +686,13 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="villanic_pantheon"
-	culture="wvenedi"
+	culture="vennonetian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}

@@ -2,7 +2,7 @@
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			common_deity_trigger = { RELIGION = bosutan_pantheon }
+			common_deity_trigger = { RELIGION = illyric_pantheon } #bosutan_pantheon
 			deity:omen_bindo = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -11,7 +11,7 @@
 	icon = deity_war
 	passive_modifier = { navy_maintenance_cost = deity_navy_maintenance_cost_svalue  }
 	omen = { naval_damage_done = omen_naval_damage_done_svalue } #Bonus from Omen
-	religion = bosutan_pantheon
+	religion = illyric_pantheon
 	deity_category = war #This Deity uses a War Slot
 	
 	deification_trigger = {
@@ -27,7 +27,7 @@ deity_ica = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			common_deity_trigger = { RELIGION = bosutan_pantheon }
+			common_deity_trigger = { RELIGION = illyric_pantheon }
 			deity:omen_ica = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -36,7 +36,7 @@ deity_ica = {
 	icon = deity_war
 	passive_modifier = { naval_morale_modifier = deity_naval_morale_modifier_svalue  }
 	omen = { agressive_expansion_monthly_change = omen_agressive_expansion_monthly_change_svalue } #Bonus from Omen
-	religion = bosutan_pantheon
+	religion = illyric_pantheon
 	deity_category = war #This Deity uses a War Slot
 	
 	deification_trigger = {
@@ -52,7 +52,7 @@ deity_iria = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			common_deity_trigger = { RELIGION = bosutan_pantheon }
+			common_deity_trigger = { RELIGION = illyric_pantheon }
 			deity:omen_iria = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -61,7 +61,7 @@ deity_iria = {
 	icon = deity_love
 	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
 	omen = { global_tribesmen_happyness = omen_global_tribesmen_happyness_svalue } #Bonus from Omen
-	religion = bosutan_pantheon
+	religion = illyric_pantheon
 	deity_category = fertility #This Deity uses a Fertility Slot
 	
 	deification_trigger = {
@@ -77,7 +77,7 @@ deity_eia = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			common_deity_trigger = { RELIGION = bosutan_pantheon }
+			common_deity_trigger = { RELIGION = illyric_pantheon }
 			deity:omen_eia = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -86,7 +86,7 @@ deity_eia = {
 	icon = deity_love
 	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
 	omen = { hostile_attrition = omen_hostile_attrition_svalue } #Bonus from Omen
-	religion = bosutan_pantheon
+	religion = illyric_pantheon
 	deity_category = fertility #This Deity uses a Fertility Slot
 	
 	deification_trigger = {
@@ -102,7 +102,7 @@ deity_sentona = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			common_deity_trigger = { RELIGION = bosutan_pantheon }
+			common_deity_trigger = { RELIGION = illyric_pantheon }
 			deity:omen_sentona = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -111,7 +111,7 @@ deity_sentona = {
 	icon = deity_wealth
 	passive_modifier = { global_capital_trade_routes = deity_global_capital_trade_routes_svalue }
 	omen = { global_commerce_modifier = omen_global_commerce_modifier_svalue } #Bonus from Omen
-	religion = bosutan_pantheon
+	religion = illyric_pantheon
 	deity_category = economy #This Deity uses a Economy slot.
 	
 	deification_trigger = {
@@ -127,7 +127,7 @@ deity_molesco = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			common_deity_trigger = { RELIGION = bosutan_pantheon }
+			common_deity_trigger = { RELIGION = illyric_pantheon }
 			deity:omen_molesco = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -136,7 +136,7 @@ deity_molesco = {
 	icon = deity_wealth
 	passive_modifier = { global_tax_modifier = deity_global_tax_modifier_svalue }
 	omen = { civic_tech_investment = omen_civic_tech_investment_svalue } #Bonus from Omen
-	religion = bosutan_pantheon
+	religion = illyric_pantheon
 	deity_category = economy #This Deity uses a Economy slot.
 	
 	deification_trigger = {
@@ -152,7 +152,7 @@ deity_boira = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			common_deity_trigger = { RELIGION = bosutan_pantheon }
+			common_deity_trigger = { RELIGION = illyric_pantheon }
 			deity:omen_boira = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -161,7 +161,7 @@ deity_boira = {
 	icon = deity_eloquence
 	passive_modifier = { global_pop_assimilation_speed_modifier = deity_global_pop_assimilation_speed_modifier_svalue }
 	omen = { stability_monthly_change = omen_stability_monthly_change_svalue } #Bonus from Omen
-	religion = bosutan_pantheon
+	religion = illyric_pantheon
 	deity_category = culture #This Deity uses a Culture Slot
 	
 	deification_trigger = {

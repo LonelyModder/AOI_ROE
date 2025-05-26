@@ -695,7 +695,7 @@ country = {
 			capital = 289
 			
 			own_control_core = 	{ 
-				289 290 317
+				289 290
 			}
 		}
 		
@@ -861,6 +861,94 @@ country = {
 			
 			own_control_core = 	{ 
 				441 422 423 470 472
+			}
+		}
+		
+		ACW = {          
+			government = tribal_kingdom
+			primary_culture = iglintidiones
+			religion = illyric_pantheon
+			capital = 404
+			
+			own_control_core = 	{ 
+				404 406 405 403 402
+			}
+		}
+		
+		ACY = {          
+			government = tribal_kingdom
+			primary_culture = camunnic
+			religion = villanic_pantheon
+			capital = 316
+			
+			own_control_core = 	{ 
+				316 303 307 320
+			}
+		}
+		
+		ACZ = {          
+			government = tribal_kingdom
+			primary_culture = vennonetian
+			religion = villanic_pantheon
+			capital = 323
+			
+			own_control_core = 	{ 
+				323 319 326
+			}
+		}
+		
+		ADA = {          
+			government = tribal_kingdom
+			primary_culture = raetic
+			religion = villanic_pantheon
+			capital = 327
+			
+			own_control_core = 	{ 
+				327 328 329 332 336 348 345 344 341
+			}
+		}
+		
+		ADB = {          
+			government = tribal_kingdom
+			primary_culture = ibreucian
+			religion = illyric_pantheon
+			capital = 415
+			
+			own_control_core = 	{ 
+				415 414 418 473 476
+			}
+		}
+		
+		ADC = {          
+			government = tribal_kingdom
+			primary_culture = iazalian
+			religion = illyric_pantheon
+			capital = 437
+			
+			own_control_core = 	{ 
+				437 419 438 439
+			}
+		}
+		
+		ADE = {          
+			government = tribal_kingdom
+			primary_culture = ilopsian
+			religion = illyric_pantheon
+			capital = 408
+			
+			own_control_core = 	{ 
+				408 409 407 416 417
+			}
+		}
+		
+		ADF = {          
+			government = tribal_kingdom
+			primary_culture = clatobici
+			religion = illyric_pantheon
+			capital = 408
+			
+			own_control_core = 	{ 
+				
 			}
 		}
 	}

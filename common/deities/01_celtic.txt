@@ -398,7 +398,7 @@ deity_mcissonius = {
 deity_mnemetona = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = nceltic
+		#primary_culture = nceltic
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -426,7 +426,7 @@ deity_mnemetona = {
 deity_msucellus = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = wceltic
+		#primary_culture = wceltic
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -482,11 +482,11 @@ deity_mglanis = {
 deity_mbrigantia = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		OR = {
-			primary_culture = britonian
-			primary_culture = caledic
-			primary_culture = belgo_britonic
-		}
+		#OR = {
+		#	primary_culture = britonian
+		#	primary_culture = caledic
+		#	primary_culture = belgo_britonic
+		#}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -513,11 +513,11 @@ deity_mbrigantia = {
 deity_mandraste = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		OR = {
-			primary_culture = britonian
-			primary_culture = caledic
-			primary_culture = belgo_britonic
-		}
+		#OR = {
+		#	primary_culture = britonian
+		#	primary_culture = caledic
+		#	primary_culture = belgo_britonic
+		#}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -544,11 +544,11 @@ deity_mandraste = {
 deity_mbelatucadros = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		OR = {
-			primary_culture = britonian
-			primary_culture = caledic
-			primary_culture = belgo_britonic
-		}
+		#OR = {
+		#	primary_culture = britonian
+		#	primary_culture = caledic
+		#	primary_culture = belgo_britonic
+		#}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -575,11 +575,11 @@ deity_mbelatucadros = {
 deity_mcoventina = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		OR = {
-			primary_culture = britonian
-			primary_culture = caledic
-			primary_culture = belgo_britonic
-		}
+		#OR = {
+		#	primary_culture = britonian
+		#	primary_culture = caledic
+		#	primary_culture = belgo_britonic
+		#}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -606,11 +606,11 @@ deity_mcoventina = {
 deity_mnodens = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		OR = {
-			primary_culture = britonian
-			primary_culture = caledic
-			primary_culture = belgo_britonic
-		}
+		#OR = {
+		#	primary_culture = britonian
+		#	primary_culture = caledic
+		#	primary_culture = belgo_britonic
+		#}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -640,11 +640,11 @@ deity_mnodens = {
 deity_msulis = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		OR = {
-			primary_culture = britonian
-			primary_culture = caledic
-			primary_culture = belgo_britonic
-		}
+		#OR = {
+		#	primary_culture = britonian
+		#	primary_culture = caledic
+		#	primary_culture = belgo_britonic
+		#}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -673,10 +673,10 @@ deity_msulis = {
 deity_mcamulus = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		OR = {
-			primary_culture = bceltic
-			primary_culture = belgo_britonic
-		}
+		#OR = {
+		#	primary_culture = bceltic
+		#	primary_culture = belgo_britonic
+		#}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -705,10 +705,10 @@ deity_mcamulus = {
 deity_mlenus = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		OR = {
-			primary_culture = bceltic
-			primary_culture = belgo_britonic
-		}
+		#OR = {
+		#	primary_culture = bceltic
+		#	primary_culture = belgo_britonic
+		#}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -735,10 +735,10 @@ deity_mlenus = {
 deity_mintarabus = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		OR = {
-			primary_culture = bceltic
-			primary_culture = belgo_britonic
-		}
+		#OR = {
+		#	primary_culture = bceltic
+		#	primary_culture = belgo_britonic
+		#}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
@@ -765,10 +765,10 @@ deity_mintarabus = {
 deity_mancamna = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		OR = {
-			primary_culture = bceltic
-			primary_culture = belgo_britonic
-		}
+		#OR = {
+		#	primary_culture = bceltic
+		#	primary_culture = belgo_britonic
+		#}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = celtic_pantheon
