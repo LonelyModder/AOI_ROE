@@ -34,18 +34,10 @@
    }
 
 	culture = {
-		ipeuceti = {}
-		idauni = {}
 		imessapi = {}
 		idelmatian = {}
-		ipierian = {}
-		idaorsian = {}
-		ibreucian = {}
 		ideurian = {}
 		iazalian = {}
-		ilopsian = {}
-		iditionian = {}
-		iglintidiones = {}
 	}
 
 	barbarian_names = {

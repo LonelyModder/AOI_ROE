@@ -2,7 +2,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cvennonian"
+	culture="csedunian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -24,7 +24,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cbrigantic"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -43,7 +43,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="villanic_pantheon"
-	culture="vennonetian"
+	culture="raetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -122,7 +122,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cbrigantic"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -144,7 +144,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cbrigantic"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -163,7 +163,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cbrigantic"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -182,7 +182,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cbrigantic"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -201,7 +201,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cbrigantic"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -239,7 +239,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cambisontian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -258,7 +258,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cambisontian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -315,7 +315,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cambisontian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -337,7 +337,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cambisontian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -530,7 +530,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="calaunian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -590,7 +590,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cambidravian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -612,7 +612,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cambidravian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -650,7 +650,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cambidravian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -745,7 +745,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="calaunian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -764,7 +764,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="calcimoennian"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -783,7 +783,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="calcimoennian"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -805,7 +805,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="calcimoennian"
+	culture="cvindelician"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -824,7 +824,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="csevarcian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -843,7 +843,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="csevarcian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -862,7 +862,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="csevarcian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

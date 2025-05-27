@@ -36,7 +36,6 @@
 	culture = {
 		lveneti = {}
 		lliburni = {}
-		llapudi = {}
 		lcatari = {}
 		lcarnian = {}
 	}

@@ -188,7 +188,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="llaevi"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -209,7 +209,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="llaevi"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -629,7 +629,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="llaevi"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -648,7 +648,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lilvatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -667,7 +667,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="villanic_pantheon"
-	culture="vennonetian"
+	culture="raetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -686,7 +686,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="villanic_pantheon"
-	culture="vennonetian"
+	culture="raetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -708,7 +708,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="ltaurinian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -727,7 +727,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="ltaurinian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -746,7 +746,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="segusinic"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -768,7 +768,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="ltaurinian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -809,7 +809,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="ltaurinian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -828,7 +828,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="csalassian"
+	culture="csedunian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -850,7 +850,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="csalassian"
+	culture="csedunian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -910,7 +910,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cvennonian"
+	culture="csedunian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -929,7 +929,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lfriniatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -948,7 +948,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lgenuatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -967,7 +967,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lgenuatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -986,7 +986,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lgenuatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1008,7 +1008,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lfriniatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1030,7 +1030,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lgenuatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1049,7 +1049,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lintemilian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1068,7 +1068,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lintemilian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1090,7 +1090,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lilvatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1112,7 +1112,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lilvatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1131,7 +1131,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="ltriullatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1153,7 +1153,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="ltriullatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

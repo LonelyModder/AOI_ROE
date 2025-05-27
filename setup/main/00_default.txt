@@ -26,7 +26,11 @@ provinces = { #Any entry must contain a comment with city name.
 	
 
 	#Pirates
-	#8439 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	124 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	112 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	375 = { modifier = { modifier = pirate_haven_modifier always = yes } } 
+	391 = { modifier = { modifier = pirate_haven_modifier always = yes } } 
+	398 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
 	217 = { port_building = 1 }
@@ -118,7 +122,7 @@ country = {
 		
 		AAD = {          
 			government = tribal_kingdom
-			primary_culture = bnurage
+			primary_culture = nurage
 			religion = nuragian_pantheon
 			capital = 115
 			
@@ -338,7 +342,7 @@ country = {
 		
 		AAS = {          
 			government = tribal_kingdom
-			primary_culture = ipeuceti
+			primary_culture = imessapi
 			religion = illyric_pantheon
 			capital = 136
 			
@@ -349,7 +353,7 @@ country = {
 		
 		AAT = {          
 			government = tribal_kingdom
-			primary_culture = idauni
+			primary_culture = imessapi
 			religion = illyric_pantheon
 			capital = 154
 			
@@ -360,7 +364,7 @@ country = {
 		
 		AAU = {          
 			government = tribal_kingdom
-			primary_culture = ibruttian
+			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 90
 			
@@ -371,7 +375,7 @@ country = {
 		
 		AAW = {          
 			government = tribal_kingdom
-			primary_culture = ilucanic
+			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 131
 			
@@ -382,7 +386,7 @@ country = {
 		
 		AAY = {          
 			government = tribal_kingdom
-			primary_culture = isamnite
+			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 156
 			
@@ -404,7 +408,7 @@ country = {
 		
 		ABA = {          
 			government = tribal_kingdom
-			primary_culture = isabines
+			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 220
 			
@@ -415,7 +419,7 @@ country = {
 		
 		ABB = {          
 			government = despotic_monarchy
-			primary_culture = rcapenati
+			primary_culture = rroman
 			religion = italiotan_pantheon
 			capital = 233
 			
@@ -426,7 +430,7 @@ country = {
 		
 		ABC = {          
 			government = despotic_monarchy
-			primary_culture = ivolscan
+			primary_culture = iumbrian
 			religion = italiotan_pantheon
 			capital = 216
 			
@@ -437,7 +441,7 @@ country = {
 		
 		ABD = {          
 			government = tribal_kingdom
-			primary_culture = ifrentanian
+			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 228
 			
@@ -448,7 +452,7 @@ country = {
 		
 		ABE = {          
 			government = tribal_kingdom
-			primary_culture = imarrucinian
+			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 215
 			
@@ -459,7 +463,7 @@ country = {
 		
 		ABF = {          
 			government = tribal_kingdom
-			primary_culture = imarsian
+			primary_culture = iumbrian
 			religion = italiotan_pantheon
 			capital = 223
 			
@@ -470,7 +474,7 @@ country = {
 		
 		ABG = {          
 			government = tribal_kingdom
-			primary_culture = ipaelignian
+			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 221
 			
@@ -481,7 +485,7 @@ country = {
 		
 		ABH = {          
 			government = tribal_kingdom
-			primary_culture = ihernici
+			primary_culture = iumbrian
 			religion = italiotan_pantheon
 			capital = 224
 			
@@ -492,7 +496,7 @@ country = {
 		
 		ABI = {          
 			government = tribal_kingdom
-			primary_culture = iaequian
+			primary_culture = iumbrian
 			religion = italiotan_pantheon
 			capital = 225
 			
@@ -503,7 +507,7 @@ country = {
 		
 		ABJ = {          
 			government = tribal_kingdom
-			primary_culture = ivestinic
+			primary_culture = iumbrian
 			religion = italiotan_pantheon
 			capital = 229
 			
@@ -569,7 +573,7 @@ country = {
 		
 		ABP = {          
 			government = tribal_kingdom
-			primary_culture = segusinic
+			primary_culture = lcisalpine
 			religion = liguric_pantheon
 			capital = 285
 			
@@ -580,7 +584,7 @@ country = {
 		
 		ABR = {          
 			government = tribal_kingdom
-			primary_culture = cbrigantic
+			primary_culture = cvindelician
 			religion = celtic_pantheon
 			capital = 330
 			
@@ -591,7 +595,7 @@ country = {
 		
 		ABS = {          
 			government = tribal_kingdom
-			primary_culture = llapudi
+			primary_culture = lliburni
 			religion = illyric_pantheon
 			capital = 381
 			
@@ -602,7 +606,7 @@ country = {
 		
 		ABT = {          
 			government = tribal_kingdom
-			primary_culture = lgenuatian
+			primary_culture = lcisalpine
 			religion = liguric_pantheon
 			capital = 267
 			
@@ -613,7 +617,7 @@ country = {
 		
 		ABU = {          
 			government = tribal_kingdom
-			primary_culture = lfriniatian
+			primary_culture = lcisalpine
 			religion = liguric_pantheon
 			capital = 260
 			
@@ -624,7 +628,7 @@ country = {
 		
 		ABW = {          
 			government = tribal_kingdom
-			primary_culture = lilvatian
+			primary_culture = lcisalpine
 			religion = liguric_pantheon
 			capital = 281
 			
@@ -635,7 +639,7 @@ country = {
 		
 		ABY = {          
 			government = tribal_kingdom
-			primary_culture = lintemilian
+			primary_culture = lcisalpine
 			religion = liguric_pantheon
 			capital = 269
 			
@@ -646,7 +650,7 @@ country = {
 		
 		ABZ = {          
 			government = tribal_kingdom
-			primary_culture = ltaurinian
+			primary_culture = lcisalpine
 			religion = liguric_pantheon
 			capital = 286
 			
@@ -657,7 +661,7 @@ country = {
 		
 		ACA = {          
 			government = tribal_kingdom
-			primary_culture = ltriullatian
+			primary_culture = lcisalpine
 			religion = liguric_pantheon
 			capital = 270
 			
@@ -690,7 +694,7 @@ country = {
 		
 		ACD = {          
 			government = tribal_kingdom
-			primary_culture = csalassian
+			primary_culture = csedunian
 			religion = celtic_pantheon
 			capital = 289
 			
@@ -712,7 +716,7 @@ country = {
 		
 		ACF = {          
 			government = tribal_kingdom
-			primary_culture = ipierian
+			primary_culture = idelmatian
 			religion = illyric_pantheon
 			capital = 396
 			
@@ -723,7 +727,7 @@ country = {
 		
 		ACG = {          
 			government = tribal_kingdom
-			primary_culture = idaorsian
+			primary_culture = idelmatian
 			religion = illyric_pantheon
 			capital = 399
 			
@@ -745,7 +749,7 @@ country = {
 		
 		ACJ = {          
 			government = tribal_kingdom
-			primary_culture = iditionian
+			primary_culture = idelmatian
 			religion = illyric_pantheon
 			capital = 413
 			
@@ -778,7 +782,7 @@ country = {
 		
 		ACM = {          
 			government = tribal_kingdom
-			primary_culture = calaunian
+			primary_culture = ctauriscian
 			religion = celtic_pantheon
 			capital = 361
 			
@@ -789,7 +793,7 @@ country = {
 		
 		ACN = {          
 			government = tribal_kingdom
-			primary_culture = calcimoennian
+			primary_culture = cvindelician
 			religion = celtic_pantheon
 			capital = 366
 			
@@ -800,7 +804,7 @@ country = {
 		
 		ACO = {          
 			government = tribal_kingdom
-			primary_culture = csevarcian
+			primary_culture = ctauriscian
 			religion = celtic_pantheon
 			capital = 370
 			
@@ -811,7 +815,7 @@ country = {
 		
 		ACP = {          
 			government = tribal_kingdom
-			primary_culture = cambisontian
+			primary_culture = ctauriscian
 			religion = celtic_pantheon
 			capital = 346
 			
@@ -822,7 +826,7 @@ country = {
 		
 		ACR = {          
 			government = tribal_kingdom
-			primary_culture = cambidravian
+			primary_culture = ctauriscian
 			religion = celtic_pantheon
 			capital = 351
 			
@@ -844,7 +848,7 @@ country = {
 		
 		ACT = {          
 			government = tribal_kingdom
-			primary_culture = cvennonian
+			primary_culture = csedunian
 			religion = celtic_pantheon
 			capital = 324
 			
@@ -866,7 +870,7 @@ country = {
 		
 		ACW = {          
 			government = tribal_kingdom
-			primary_culture = iglintidiones
+			primary_culture = idelmatian
 			religion = illyric_pantheon
 			capital = 404
 			
@@ -888,7 +892,7 @@ country = {
 		
 		ACZ = {          
 			government = tribal_kingdom
-			primary_culture = vennonetian
+			primary_culture = raetic
 			religion = villanic_pantheon
 			capital = 323
 			
@@ -910,7 +914,7 @@ country = {
 		
 		ADB = {          
 			government = tribal_kingdom
-			primary_culture = ibreucian
+			primary_culture = ideurian
 			religion = illyric_pantheon
 			capital = 415
 			
@@ -932,7 +936,7 @@ country = {
 		
 		ADE = {          
 			government = tribal_kingdom
-			primary_culture = ilopsian
+			primary_culture = idelmatian
 			religion = illyric_pantheon
 			capital = 408
 			
@@ -943,12 +947,78 @@ country = {
 		
 		ADF = {          
 			government = tribal_kingdom
-			primary_culture = clatobici
+			primary_culture = cpannonian
 			religion = illyric_pantheon
-			capital = 408
+			capital = 482
 			
 			own_control_core = 	{ 
-				
+				482 483 484 481
+			}
+		}
+		
+		ADG = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = illyric_pantheon
+			capital = 442
+			
+			own_control_core = 	{ 
+				442 443 427 426 425 445 428 444
+			}
+		}
+		
+		ADH = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = illyric_pantheon
+			capital = 432
+			
+			own_control_core = 	{ 
+				432 430 429 434 435 433 436
+			}
+		}
+		
+		ADI = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = illyric_pantheon
+			capital = 451
+			
+			own_control_core = 	{ 
+				451 452 453 450 449 448 446 447 454
+			}
+		}
+		
+		ADJ = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = illyric_pantheon
+			capital = 477
+			
+			own_control_core = 	{ 
+				477 475 474 471 478 479 480
+			}
+		}
+		
+		ADK = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = illyric_pantheon
+			capital = 458
+			
+			own_control_core = 	{ 
+				459 464 462 458 461 456 457 455 
+			}
+		}
+		
+		ADL = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = illyric_pantheon
+			capital = 465
+			
+			own_control_core = 	{ 
+				465 460 463 466 468 467 469
 			}
 		}
 	}

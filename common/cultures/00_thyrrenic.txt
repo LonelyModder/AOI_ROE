@@ -297,7 +297,6 @@
 	culture = {
 		etrusci = {}
 		raetic = {}
-		vennonetian = {}
 		camunnic = {}
 		rutulic = {}
 		sicanic = {}

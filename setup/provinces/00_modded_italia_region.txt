@@ -18,7 +18,7 @@
 	tribesmen={
 		amount=4
 		religion="italiotan_pantheon"
-		culture="ibruttian"
+		culture="ioscan"
 	}
 	slaves={
 		amount=1
@@ -26,7 +26,7 @@
 	slaves={
 		amount=4
 		religion="italiotan_pantheon"
-		culture="ibruttian"
+		culture="ioscan"
 	}
 }
 
@@ -34,7 +34,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ibruttian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -53,7 +53,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ibruttian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -72,7 +72,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ibruttian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -91,7 +91,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ibruttian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -126,7 +126,7 @@
 	tribesmen={
 		amount=4
 		religion="italiotan_pantheon"
-		culture="ibruttian"
+		culture="ioscan"
 	}
 	slaves={
 		amount=1
@@ -134,7 +134,7 @@
 	slaves={
 		amount=4
 		religion="italiotan_pantheon"
-		culture="ibruttian"
+		culture="ioscan"
 	}
 }
 
@@ -142,7 +142,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ibruttian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -161,7 +161,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ibruttian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -183,7 +183,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ibruttian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -202,7 +202,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ilucanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -221,7 +221,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ilucanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -240,7 +240,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ilucanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -259,7 +259,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ilucanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -357,7 +357,7 @@
 	tribesmen={
 		amount=4
 		religion="illyric_pantheon"
-		culture="ipeuceti"
+		culture="imessapi"
 	}
 	slaves={
 		amount=1
@@ -365,7 +365,7 @@
 	slaves={
 		amount=4
 		religion="illyric_pantheon"
-		culture="ipeuceti"
+		culture="imessapi"
 	}
 }
 
@@ -373,7 +373,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="illyric_pantheon"
-	culture="ipeuceti"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -395,7 +395,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="illyric_pantheon"
-	culture="ipeuceti"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -414,7 +414,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="illyric_pantheon"
-	culture="ipeuceti"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -433,7 +433,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="illyric_pantheon"
-	culture="ipeuceti"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -452,7 +452,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ilucanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -471,7 +471,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="illyric_pantheon"
-	culture="idauni"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -490,7 +490,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ilucanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -509,7 +509,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ilucanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -528,7 +528,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ilucanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -547,7 +547,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="isamnite"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -566,7 +566,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="illyric_pantheon"
-	culture="idauni"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -585,7 +585,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="icampanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -620,7 +620,7 @@
 	tribesmen={
 		amount=4
 		religion="italiotan_pantheon"
-		culture="icampanic"
+		culture="ioscan"
 	}
 	slaves={
 		amount=1
@@ -628,7 +628,7 @@
 	slaves={
 		amount=4
 		religion="italiotan_pantheon"
-		culture="icampanic"
+		culture="ioscan"
 	}
 }
 
@@ -636,7 +636,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="icampanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -655,7 +655,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="icampanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -674,7 +674,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="icampanic"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -700,7 +700,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="isamnite"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -719,7 +719,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="isamnite"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -738,7 +738,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="illyric_pantheon"
-	culture="idauni"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -760,7 +760,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="isamnite"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -779,7 +779,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="isamnite"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -801,7 +801,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ifrentanian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -820,7 +820,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ivolscan"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -839,7 +839,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="isamnite"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -858,7 +858,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="isamnite"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -877,7 +877,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="imarrucinian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -899,7 +899,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ivolscan"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -995,7 +995,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="isabines"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1017,7 +1017,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ipaelignian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1039,7 +1039,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ivolscan"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1058,7 +1058,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="imarsian"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1080,7 +1080,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ihernici"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1102,7 +1102,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="iaequian"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1124,7 +1124,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="isabines"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1143,7 +1143,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="isabines"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1162,7 +1162,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ifrentanian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1184,7 +1184,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="ivestinic"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1266,7 +1266,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
-	culture="rcapenati"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1512,7 +1512,7 @@
 	freemen={
 		amount=4
 		religion="italiotan_pantheon"
-		culture="rfaliscian"
+		culture="rroman"
 	}
 	slaves={
 		amount=6
@@ -1536,7 +1536,7 @@
 	freemen={
 		amount=2
 		religion="italiotan_pantheon"
-		culture="rfaliscian"
+		culture="rroman"
 	}
 	slaves={
 		amount=1
@@ -1689,7 +1689,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="liguric_pantheon"
-	culture="lfriniatian"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -299,21 +299,9 @@
 	}
 
 	culture = {
-		ibruttian = {}
-		ilucanic = {}
-		isamnite = {}
+		ioscan = {}
 		iumbrian = {}
-		isabines = {}
-		imarrucinian = {}
-		icampanic = {}
-		ivolscan = {}
-		ifrentanian = {}
 		isicelian = {}
-		imarsian = {}
-		ipaelignian = {}
-		ihernici = {}
-		iaequian = {}
-		ivestinic = {}
 		ipicentes = {}
 	}
 	

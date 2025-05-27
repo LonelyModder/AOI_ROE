@@ -44,7 +44,6 @@
 		elymoi = {}
 		corsi = {}
 		nurage = {}
-		bnurage = {}
 		talayotic = {}
 		shardana = {}
 	}

@@ -300,8 +300,6 @@
 
 	culture = {
 		rroman = {}
-		rcapenati = {}
-		rfaliscian = {}
 	}
 	
 	barbarian_names = { BRUTTII CAMUNNI CARACENI CENOMANI EUGANEI FRINIATES LIBURNI LIGURES LEPONTII LUCANI MAMERTINI PATAVINI PENTRI }

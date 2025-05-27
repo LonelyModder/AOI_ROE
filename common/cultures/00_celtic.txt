@@ -60,20 +60,12 @@
 		Galanus.Galana.Galanii.Galanid
 	}
 	culture = {
-		cbrigantic = {}
+		cpannonian = {}
 		clepontic = {}
-		csalassian = {}
 		calauni = {}
 		cvindelician = {}
 		csedunian = {}
-		calaunian = {}
-		calcimoennian = {}
-		csevarcian = {}
-		cambisontian = {}
-		cambidravian = {}
 		ctauriscian = {}
-		cvennonian = {}
-		clatobici = {}
 	}
 	
 	barbarian_names = { INSUBRES LINGONES TAURINI ALLOBROGES CADURCI BITURIGES LEUCI LEXOVII NAMNETES NITIOBROGES OSISMII RAURACI SALLUVII TRIBOCI }

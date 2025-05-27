@@ -378,7 +378,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
-	culture="bnurage"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -404,7 +404,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
-	culture="bnurage"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -443,7 +443,7 @@
 	tribesmen={
 		amount=6
 		religion="nuragian_pantheon"
-		culture="bnurage"
+		culture="nurage"
 	}
 	slaves={
 		amount=1
@@ -451,7 +451,7 @@
 	slaves={
 		amount=2
 		religion="nuragian_pantheon"
-		culture="bnurage"
+		culture="nurage"
 	}
 }
 
@@ -459,7 +459,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
-	culture="bnurage"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -478,7 +478,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
-	culture="bnurage"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -497,7 +497,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
-	culture="bnurage"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -519,7 +519,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
-	culture="bnurage"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -545,7 +545,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
-	culture="bnurage"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -602,7 +602,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
-	culture="bnurage"
+	culture="nurage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
