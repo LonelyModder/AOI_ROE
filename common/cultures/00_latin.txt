@@ -3,7 +3,7 @@
 	
 	levy_template = levy_roughroman
 	
-	primary = ia_scirmishers
+	primary = ia_lightinfantry
 	second = ia_heavyinfantry
 	flank = ia_lightcavalry
 
