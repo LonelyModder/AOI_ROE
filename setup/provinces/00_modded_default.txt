@@ -1122,8 +1122,8 @@
 
 191={ #Mountains
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="csedunian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1182,8 +1182,8 @@
 
 197={ #Mountains
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="ctauriscian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1212,8 +1212,8 @@
 
 200={ #Mountains
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="ctauriscian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1262,8 +1262,8 @@
 
 205={ #Mountains
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lliburni"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1302,8 +1302,8 @@
 
 209={ #Mountains
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

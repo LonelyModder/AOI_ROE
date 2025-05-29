@@ -35,13 +35,13 @@ levy_preindeur = { #nuragian militia
 
 	ia_warriors = 0.5
 	ia_scirmishers = 0.2
-	ia_chariots = 0.1
+	ia_heavyinfantry = 0.1
 	ia_lightinfantry = 0.2
 }
 
 #Punic Demons
 
-levy_mpunic = { #western punics
+levy_mpunic = { #eastern punics
 	default = no
 
 	ia_lightinfantry = 0.4
@@ -50,7 +50,7 @@ levy_mpunic = { #western punics
 	ia_lightcavalry = 0.2
 }
 
-levy_cpunic = { #eastern punics
+levy_cpunic = { #western punics
 	default = no
 
 	ia_lightinfantry = 0.5
@@ -61,7 +61,7 @@ levy_cpunic = { #eastern punics
 
 #Virgin Grekoids
 
-levy_virgingrekoids = { #nuragian militia
+levy_virgingrekoids = { #greek militia
 	default = no
 
 	ia_lightinfantry = 0.3
@@ -98,7 +98,7 @@ levy_astelixian = { #celtic militia
 	default = no
 
 	ia_archers = 0.2
-	ia_cavalry = 0.1
+	ia_lightcavalry = 0.1
 	ia_chariots = 0.2
 	ia_warriors = 0.5
 }

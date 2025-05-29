@@ -1006,7 +1006,7 @@
 
 260={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0

@@ -993,7 +993,7 @@
 
 220={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -1627,7 +1627,7 @@
 
 250={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1668,7 +1668,7 @@
 
 252={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1687,7 +1687,7 @@
 
 253={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0

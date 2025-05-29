@@ -72,7 +72,11 @@ provinces = { #Any entry must contain a comment with city name.
 	########################################
 	# Barbarian Spawn Spots
 	########################################
-	#8392 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	191 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	197 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	200 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	205 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	209 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	
 }
 

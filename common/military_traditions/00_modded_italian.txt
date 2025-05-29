@@ -4,11 +4,23 @@
 	
 	allow = {
 		trigger_if = {
-			limit = { country_culture_group = italic }
+			limit = { 
+				OR = {
+					country_culture_group = italic 
+					country_culture_group = thyrrenic
+					country_culture_group = liguric
+					country_culture_group = latinic
+				}
+			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = italic
+			OR = {
+				country_culture_group = italic 
+				country_culture_group = thyrrenic
+				country_culture_group = liguric
+				country_culture_group = latinic
+			}
 		}
 		trigger_if = {
 			limit = {
