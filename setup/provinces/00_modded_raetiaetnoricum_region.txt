@@ -101,7 +101,7 @@
 
 329={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="raetic"
 	civilization_value=0
@@ -142,7 +142,7 @@
 
 331={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -180,7 +180,7 @@
 
 334={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -354,7 +354,7 @@
 
 332={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="raetic"
 	civilization_value=0

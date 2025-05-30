@@ -80,7 +80,7 @@
 
 422={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="ideurian"
 	civilization_value=0
@@ -175,7 +175,7 @@
 
 427={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -194,7 +194,7 @@
 
 428={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -213,7 +213,7 @@
 
 429={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -232,7 +232,7 @@
 
 430={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -270,7 +270,7 @@
 
 432={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -292,7 +292,7 @@
 
 433={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -311,7 +311,7 @@
 
 434={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -330,7 +330,7 @@
 
 435={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -349,7 +349,7 @@
 
 436={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -513,7 +513,7 @@
 
 444={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -551,7 +551,7 @@
 
 446={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -570,7 +570,7 @@
 
 447={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -589,7 +589,7 @@
 
 448={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -608,7 +608,7 @@
 
 449={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -627,7 +627,7 @@
 
 450={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -646,7 +646,7 @@
 
 451={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -668,7 +668,7 @@
 
 452={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -687,7 +687,7 @@
 
 453={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -706,7 +706,7 @@
 
 454={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -725,7 +725,7 @@
 
 455={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -744,7 +744,7 @@
 
 456={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -763,7 +763,7 @@
 
 457={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -782,7 +782,7 @@
 
 458={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -804,7 +804,7 @@
 
 459={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -823,7 +823,7 @@
 
 460={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -842,7 +842,7 @@
 
 461={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -861,7 +861,7 @@
 
 462={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -880,7 +880,7 @@
 
 463={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0

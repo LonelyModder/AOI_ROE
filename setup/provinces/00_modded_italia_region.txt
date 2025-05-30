@@ -298,7 +298,7 @@
 
 133={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -339,7 +339,7 @@
 
 135={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="grecoid_pantheon"
 	culture="gitaliote"
 	civilization_value=0
@@ -412,7 +412,7 @@
 
 138={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -1204,7 +1204,7 @@
 
 230={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -1286,7 +1286,7 @@
 
 234={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -1305,7 +1305,7 @@
 
 235={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -1327,7 +1327,7 @@
 
 236={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0

@@ -38,7 +38,7 @@
 
 272={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -83,7 +83,7 @@
 
 274={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -148,7 +148,7 @@
 
 275={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -167,7 +167,7 @@
 
 276={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -186,7 +186,7 @@
 
 277={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -207,7 +207,7 @@
 
 278={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -226,7 +226,7 @@
 
 301={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="eugeneian"
 	civilization_value=0
@@ -310,7 +310,7 @@
 
 303={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="camunnic"
 	civilization_value=0
@@ -329,7 +329,7 @@
 
 304={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="eugeneian"
 	civilization_value=0
@@ -351,7 +351,7 @@
 
 307={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="camunnic"
 	civilization_value=0
@@ -411,7 +411,7 @@
 
 299={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -470,7 +470,7 @@
 
 291={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -508,7 +508,7 @@
 
 293={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -549,7 +549,7 @@
 
 295={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -568,7 +568,7 @@
 
 296={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -627,7 +627,7 @@
 
 279={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -706,7 +706,7 @@
 
 283={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -725,7 +725,7 @@
 
 284={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -788,7 +788,7 @@
 
 287={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -965,7 +965,7 @@
 
 266={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -984,7 +984,7 @@
 
 267={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -1110,7 +1110,7 @@
 
 282={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -1129,7 +1129,7 @@
 
 270={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -1189,7 +1189,7 @@
 
 312={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="lveneti"
 	civilization_value=0
@@ -1265,7 +1265,7 @@
 
 321={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="lveneti"
 	civilization_value=0
@@ -1388,7 +1388,7 @@
 
 310={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="lveneti"
 	civilization_value=0

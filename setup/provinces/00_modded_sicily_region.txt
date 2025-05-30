@@ -70,7 +70,7 @@
 
 101={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="italiotan_pantheon"
 	culture="isicelian"
 	civilization_value=0
@@ -330,7 +330,7 @@
 
 106={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="sicanic"
 	civilization_value=0

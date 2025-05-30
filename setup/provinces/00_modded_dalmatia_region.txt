@@ -117,7 +117,7 @@
 
 386={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -155,7 +155,7 @@
 
 413={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -177,7 +177,7 @@
 
 420={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="lcatari"
 	civilization_value=0
@@ -452,7 +452,7 @@
 
 399={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -474,7 +474,7 @@
 
 400={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -550,7 +550,7 @@
 
 404={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -572,7 +572,7 @@
 
 405={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -591,7 +591,7 @@
 
 406={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -610,7 +610,7 @@
 
 407={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -629,7 +629,7 @@
 
 408={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -651,7 +651,7 @@
 
 417={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -670,7 +670,7 @@
 
 409={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -689,7 +689,7 @@
 
 410={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -708,7 +708,7 @@
 
 411={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -727,7 +727,7 @@
 
 412={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -746,7 +746,7 @@
 
 416={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
