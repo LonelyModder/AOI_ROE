@@ -32,7 +32,7 @@
 
 95={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="italiotan_pantheon"
 	culture="isicelian"
 	civilization_value=0
@@ -89,7 +89,7 @@
 
 91={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="grecoid_pantheon"
 	culture="gsicilian"
 	civilization_value=0
@@ -210,7 +210,7 @@
 
 99={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="italiotan_pantheon"
 	culture="isicelian"
 	civilization_value=0
@@ -376,7 +376,7 @@
 
 108={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="nuragian_pantheon"
 	culture="nurage"
 	civilization_value=0
@@ -428,7 +428,7 @@
 
 110={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="canaanitic_pantheon"
 	culture="punici"
 	civilization_value=0
@@ -517,7 +517,7 @@
 
 116={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="earthenware"
 	religion="nuragian_pantheon"
 	culture="nurage"
 	civilization_value=0
@@ -543,7 +543,7 @@
 
 113={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="nuragian_pantheon"
 	culture="nurage"
 	civilization_value=0
@@ -562,7 +562,7 @@
 
 114={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="nuragian_pantheon"
 	culture="corsi"
 	civilization_value=0
@@ -600,7 +600,7 @@
 
 118={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="nuragian_pantheon"
 	culture="nurage"
 	civilization_value=0
@@ -660,7 +660,7 @@
 
 121={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="nuragian_pantheon"
 	culture="corsi"
 	civilization_value=0
@@ -679,7 +679,7 @@
 
 122={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="nuragian_pantheon"
 	culture="corsi"
 	civilization_value=0
@@ -698,7 +698,7 @@
 
 123={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="nuragian_pantheon"
 	culture="corsi"
 	civilization_value=0
@@ -717,7 +717,7 @@
 
 124={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="nuragian_pantheon"
 	culture="corsi"
 	civilization_value=0

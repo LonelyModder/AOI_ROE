@@ -19,7 +19,7 @@
 
 380={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 381={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -196,7 +196,7 @@
 
 385={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -218,7 +218,7 @@
 
 387={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -256,7 +256,7 @@
 
 389={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -294,7 +294,7 @@
 
 390={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -354,7 +354,7 @@
 
 394={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -414,7 +414,7 @@
 
 397={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -433,7 +433,7 @@
 
 398={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -474,7 +474,7 @@
 
 400={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -493,7 +493,7 @@
 
 401={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -670,7 +670,7 @@
 
 409={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0

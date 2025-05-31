@@ -22,7 +22,7 @@
 
 325={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -41,7 +41,7 @@
 
 326={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="villanic_pantheon"
 	culture="raetic"
 	civilization_value=0
@@ -120,7 +120,7 @@
 
 330={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -218,7 +218,7 @@
 
 341={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="villanic_pantheon"
 	culture="raetic"
 	civilization_value=0
@@ -335,7 +335,7 @@
 
 347={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -373,7 +373,7 @@
 
 336={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="villanic_pantheon"
 	culture="raetic"
 	civilization_value=0
@@ -471,7 +471,7 @@
 
 348={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="villanic_pantheon"
 	culture="raetic"
 	civilization_value=0
@@ -667,7 +667,7 @@
 
 357={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -803,7 +803,7 @@
 
 367={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
