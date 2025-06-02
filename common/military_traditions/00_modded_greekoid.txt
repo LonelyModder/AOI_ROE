@@ -12,34 +12,52 @@
 		}
 		trigger_if = {
 			limit = {
-				any_country_culture = {
-					is_integrated = yes
+				AND = {
 					OR = {
+						has_military_bonus = nuragian_path_end_bonus
+						has_military_bonus = westsemite_path_end_bonus
+						has_military_bonus = illyrian_path_end_bonus
+						has_military_bonus = italian_path_end_bonus
+						has_military_bonus = keltoi_path_end_bonus
+					}
+					any_country_culture = {
+						is_integrated = yes
 						this.culture.culture_group = culture_group:grekoid
-						this.culture.culture_group = culture_group:minoic
 					}
 				}
 			}
-			any_country_culture = {
-				custom_tooltip = {
-					text = tradition_unlock_requirement_short
-					is_integrated = yes
-					OR = {
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = keltoi_path_end_bonus
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
 						this.culture.culture_group = culture_group:grekoid
-						this.culture.culture_group = culture_group:minoic
 					}
 				}
 			}
 		}
 		trigger_else = {
-			custom_tooltip = {
-				text = "tradition_unlock_requirement_grekoid"
-				any_country_culture = {
-					is_integrated = yes
-					OR = {
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = keltoi_path_end_bonus
+				}
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_grekoid"
+					any_country_culture = {
+						is_integrated = yes
 						this.culture.culture_group = culture_group:grekoid
-						this.culture.culture_group = culture_group:minoic
-					}	
+					}
 				}
 			}
 		}
@@ -64,10 +82,8 @@
 	
 	grekoid_path_3 = { ###grekoid path
 		modifier = { 
-			ia_chariots_offensive = 0.1
-			ia_chariots_defensive = 0.1
-			ia_cavalry_offensive = 0.1
-			ia_cavalry_defensive = 0.1
+			ia_heavycavalry_offensive = 0.1
+			ia_heavycavalry_defensive = 0.1
 		}
 		icon = greek_states_path_7
 		requires = {grekoid_path_2}

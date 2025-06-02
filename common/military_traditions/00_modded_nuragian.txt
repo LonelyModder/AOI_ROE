@@ -12,25 +12,52 @@
 		}
 		trigger_if = {
 			limit = {
-				any_country_culture = {
-					is_integrated = yes
-					this.culture.culture_group = culture_group:occidental
+				AND = {
+					OR = {
+						has_military_bonus = italian_path_end_bonus
+						has_military_bonus = westsemite_path_end_bonus
+						has_military_bonus = illyrian_path_end_bonus
+						has_military_bonus = grekoid_path_end_bonus
+						has_military_bonus = keltoi_path_end_bonus
+					}
+					any_country_culture = {
+						is_integrated = yes
+						this.culture.culture_group = culture_group:occidental
+					}
 				}
 			}
-			any_country_culture = {
-				custom_tooltip = {
-					text = tradition_unlock_requirement_short
-					is_integrated = yes
-					this.culture.culture_group = culture_group:occidental
+			AND = {
+				OR = {
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = keltoi_path_end_bonus
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
+						this.culture.culture_group = culture_group:occidental
+					}
 				}
 			}
 		}
 		trigger_else = {
-			custom_tooltip = {
-				text = "tradition_unlock_requirement_occidental"
-				any_country_culture = {
-					is_integrated = yes
-					this.culture.culture_group = culture_group:occidental	
+			AND = {
+				OR = {
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = keltoi_path_end_bonus
+				}
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_occidental"
+					any_country_culture = {
+						is_integrated = yes
+						this.culture.culture_group = culture_group:occidental	
+					}
 				}
 			}
 		}

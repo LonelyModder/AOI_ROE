@@ -51,7 +51,7 @@
 
 85={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -89,7 +89,7 @@
 
 87={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -181,7 +181,7 @@
 
 127={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -371,7 +371,7 @@
 
 136={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -897,7 +897,7 @@
 
 216={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -1100,7 +1100,7 @@
 
 225={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -1494,7 +1494,7 @@
 
 244={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1586,7 +1586,7 @@
 
 248={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1804,7 +1804,7 @@
 
 485={ 
 	terrain="farmland"
-	trade_goods="earthenware"
+	trade_goods="earthware"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0

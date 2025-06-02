@@ -1,6 +1,6 @@
 ﻿93={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="grecoid_pantheon"
 	culture="gsicilian"
 	civilization_value=0
@@ -51,7 +51,7 @@
 
 96={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="horses"
 	religion="italiotan_pantheon"
 	culture="isicelian"
 	civilization_value=0
@@ -191,7 +191,7 @@
 
 98={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="italiotan_pantheon"
 	culture="isicelian"
 	civilization_value=0
@@ -229,7 +229,7 @@
 
 100={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="isicelian"
 	civilization_value=0
@@ -248,7 +248,7 @@
 
 102={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="isicelian"
 	civilization_value=0
@@ -286,7 +286,7 @@
 
 104={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="nuragian_pantheon"
 	culture="elymoi"
 	civilization_value=0
@@ -308,7 +308,7 @@
 
 105={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="villanic_pantheon"
 	culture="sicanic"
 	civilization_value=0
@@ -402,7 +402,7 @@
 
 109={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="nuragian_pantheon"
 	culture="nurage"
 	civilization_value=0
@@ -476,7 +476,7 @@
 
 112={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="nuragian_pantheon"
 	culture="nurage"
 	civilization_value=0
@@ -495,7 +495,7 @@
 
 115={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="nuragian_pantheon"
 	culture="nurage"
 	civilization_value=0
@@ -581,7 +581,7 @@
 
 117={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="nuragian_pantheon"
 	culture="nurage"
 	civilization_value=0
@@ -619,7 +619,7 @@
 
 119={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="nuragian_pantheon"
 	culture="nurage"
 	civilization_value=0

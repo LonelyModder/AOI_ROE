@@ -528,7 +528,7 @@
 
 361={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0

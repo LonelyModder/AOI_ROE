@@ -12,35 +12,53 @@
 		}
 		trigger_if = {
 			limit = {
-				any_country_culture = {
-					is_integrated = yes
+				AND = {
 					OR = {
+						has_military_bonus = nuragian_path_end_bonus
+						has_military_bonus = italian_path_end_bonus
+						has_military_bonus = illyrian_path_end_bonus
+						has_military_bonus = grekoid_path_end_bonus
+						has_military_bonus = keltoi_path_end_bonus
+					}
+					any_country_culture = {
+						is_integrated = yes
 						this.culture.culture_group = culture_group:levantine
-						this.culture.culture_group = culture_group:synaic
 					}
 				}
 			}
-			any_country_culture = {
-				custom_tooltip = {
-					text = tradition_unlock_requirement_short
-					is_integrated = yes
-					OR = {
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = keltoi_path_end_bonus
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
 						this.culture.culture_group = culture_group:levantine
-						this.culture.culture_group = culture_group:synaic
 					}
 				}
 			}
 		}
 		trigger_else = {
-			custom_tooltip = {
-				text = "tradition_unlock_requirement_westsemite"
-				any_country_culture = {
-					is_integrated = yes
-					OR = {
-						this.culture.culture_group = culture_group:levantine
-						this.culture.culture_group = culture_group:synaic
-					}
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = keltoi_path_end_bonus
 				}
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_westsemite"
+					any_country_culture = {
+						is_integrated = yes
+						this.culture.culture_group = culture_group:levantine
+					}
+				}	
 			}
 		}
 	}
@@ -90,12 +108,21 @@
 		requires = {westsemite_path_3a}
 	}
 	
+	westsemite_path_4am = { ###levantine path
+		modifier = { 
+			ia_lightcavalry_offensive = 0.1
+			ia_lightcavalry_defensive = 0.05
+		}
+		icon = levantine_greco_path_2
+		requires = {westsemite_path_4a}
+	}
+	
 	westsemite_path_5a = { ###levantine path
 		modifier = { 
 			governor_loyalty = 5
 		}
 		icon = levantine_greco_path_2
-		requires = {westsemite_path_4a}
+		requires = {westsemite_path_4am}
 	}
 	
 	westsemite_path_3b = { ###levantine path

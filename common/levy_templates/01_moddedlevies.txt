@@ -11,10 +11,10 @@ levy_default = {
 levy_roughroman = { #latin militia
 	default = no
 
-	ia_lightinfantry = 0.4
+	ia_heavyinfantry = 0.3
 	ia_scirmishers = 0.2
 	ia_lightcavalry = 0.1
-	ia_heavyinfantry = 0.3
+	ia_lightinfantry = 0.4
 }
 
 #Italic
@@ -73,6 +73,15 @@ levy_virgingrekoids = { #greek militia
 #Illyrian
 
 levy_piratic = { #illyrian militia
+	default = no
+
+	ia_lightinfantry = 0.3
+	ia_scirmishers = 0.1
+	ia_chariots = 0.1
+	ia_warriors = 0.4
+}
+
+levy_stronghold = { #illyrian militia
 	default = no
 
 	ia_lightinfantry = 0.3
