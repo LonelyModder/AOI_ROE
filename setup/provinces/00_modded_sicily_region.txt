@@ -517,7 +517,7 @@
 
 116={ 
 	terrain="farmland"
-	trade_goods="earthenware"
+	trade_goods="earthware"
 	religion="nuragian_pantheon"
 	culture="nurage"
 	civilization_value=0

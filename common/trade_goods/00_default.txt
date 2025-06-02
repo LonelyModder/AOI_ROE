@@ -445,6 +445,36 @@ vegetables = { #441 territories
 	color = hsv { 0.3 0.9 0.3 }
 }
 
+fruits = { #Modified
+	category = 1
+	
+	gold = 0.2
+	
+	province = {
+		local_monthly_food_modifier = 0.03
+	}
+	country = {
+		global_freemen_happyness = happiness_large_svalue
+	}
+	
+	color = rgb { 77 255 41 }
+}
+
+wool = { #Modified
+	category = 4
+
+	gold = 0.2
+
+	province = {
+		local_freemen_happyness = happiness_small_svalue
+	}
+	country = {
+		local_freemen_happyness = happiness_large_svalue
+	}
+	
+	color = rgb { 158 167 181 }
+}
+
 gems = { #44 Territories
 	category = 3
 	

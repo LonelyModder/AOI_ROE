@@ -32,7 +32,7 @@
 
 84={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -70,7 +70,7 @@
 
 86={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -219,7 +219,7 @@
 
 129={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -317,7 +317,7 @@
 
 134={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -450,7 +450,7 @@
 
 140={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -717,7 +717,7 @@
 
 153={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -758,7 +758,7 @@
 
 155={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -1100,7 +1100,7 @@
 
 225={ 
 	terrain="hills"
-	trade_goods="fur"
+	trade_goods="leather"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -1182,7 +1182,7 @@
 
 229={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -1305,7 +1305,7 @@
 
 235={ 
 	terrain="forest"
-	trade_goods="fur"
+	trade_goods="leather"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -1365,7 +1365,7 @@
 
 238={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="italiotan_pantheon"
 	culture="ipicentes"
 	civilization_value=0
@@ -1384,7 +1384,7 @@
 
 239={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="ipicentes"
 	civilization_value=0
@@ -1446,7 +1446,7 @@
 
 242={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0

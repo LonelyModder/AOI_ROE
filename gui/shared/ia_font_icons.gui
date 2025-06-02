@@ -1,9 +1,19 @@
 #Trade Goods
 
 texticon = {
-    icon = beasts
+    icon = wool
     iconsize = {
-        texture = "gfx/interface/icons/tradegoods/beasts.dds"
+        texture = "gfx/interface/icons/tradegoods/wool.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
+
+texticon = {
+    icon = fruits
+    iconsize = {
+        texture = "gfx/interface/icons/tradegoods/fruits.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
