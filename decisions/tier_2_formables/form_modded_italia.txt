@@ -1,0 +1,98 @@
+﻿country_decisions = {
+	
+	# Form Italia
+	form_Italia = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XIT
+			}
+			is_ai = no
+			NOT = {
+				is_endgame_tag_trigger = yes
+				is_tier_2_formable_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 217 # Roma
+					province_id = 248 # Velzna
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = Italia_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XIT
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 217 # Roma
+			owns = 248 # Velzna
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			tribal_formable_government_change_effect = yes
+			if = {
+				limit = {
+					country_culture_group = latinic
+				}
+				change_country_name = "ROMANREPUBLIC_NAME"
+			}
+			else = {
+				change_country_name = "ITALIA_NAME"
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						country_culture_group = latinic
+					}
+					change_country_adjective = "ROMANREPUBLIC_ADJECTIVE"
+				}
+				else = {
+					change_country_adjective = "ITALIA_ADJECTIVE"
+				}
+				change_country_color = "ROMANREPUBLIC_COLOR"
+				change_country_tag = XIT
+				change_country_flag = ITALIA_FLAG
+			}
+			if = {
+				limit = {
+					p:217 = { is_capital = no }
+				}
+				set_capital = 217
+				hidden_effect = {
+					p:217.state = {
+						set_state_capital = 217
+					}
+				}
+				capital_scope = {
+					establish_city_effect = yes
+				}
+			}
+			p:217 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = Italia_claims_tooltip
+			hidden_effect = {
+				region:modded_italia_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

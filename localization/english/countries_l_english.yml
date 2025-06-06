@@ -981,8 +981,10 @@
  ADL_ADJ:0 "Andizatian"
  
  #Modded Formables
- HKAlinor_name:0 "Kingdom of Alinor"
- HKAlinor_adj:0 "Alinoric"
+ ITALIA_NAME:0 "Italia"
+ ITALIA_ADJECTIVE:0 "Italic"
+ ROMANREPUBLIC_NAME:0 "Roman Republic"
+ ROMANREPUBLIC_ADJECTIVE:0 "Roman"
  #Event Names
  Alessia_NAME:0 "Alessian Revolt"
  Alessia_ADJECTIVE:0 "Alessian"
