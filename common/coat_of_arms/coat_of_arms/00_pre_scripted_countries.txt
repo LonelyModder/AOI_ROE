@@ -47,7 +47,67 @@ VBM = {
 	}
 }
 
-#Modded Emblems fo starting countries
+#Legacy Realms
+
+AAY = {
+	pattern = "pattern_solid.tga"
+	color1 = "samnite_green"
+	color2 = "samnite_red"
+	
+	colored_emblem = {
+		texture = "ce_samnite.dds"
+		instance = { position = { 0.3 0.3 } scale = { 0.4 0.4 }  } #top left
+		instance = { position = { 0.7 0.3 } scale = { -0.4 0.4 }  } # top right
+		instance = { position = { 0.3 0.7 } scale = { 0.4 -0.4 }  } # bottom left
+		instance = { position = { 0.7 0.7 } scale = { -0.4 -0.4 }  } # top right
+		color1 = "samnite_beige"
+		color2 = "samnite_red"
+	}
+}
+
+AAM = {
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "roman_gold"
+	color2 = "spartan_rust"
+	color3 = "pink_skin"
+
+	colored_emblem = {
+		texture = "ce_syracuse.dds"
+		color1 = "pink_skin"
+		color2 = "offwhite"
+	}
+
+	colored_emblem = {
+		texture = "ce_head_02.dds"
+		color1 = "pink_skin"
+		color2 = "roman_gold"
+		instance = { scale = { 0.4  0.4 } }
+	}
+}
+
+AAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "etruscan_blue"
+	color2 = "bone_white"
+
+	colored_emblem = {
+		texture = "ce_chimera.dds"
+		color1 = "bone_white"
+	}
+}
+
+AAA = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_gold"
+
+	colored_emblem = {
+		texture = "ce_roman_eagle.dds"
+		color1 = "roman_gold"
+	}
+}
+
+#Modded Emblems for starting countries
 
 ITALIA_FLAG = {
 	pattern = "pattern_solid.tga"
