@@ -155,7 +155,7 @@
 
 413={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="woad"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -275,7 +275,7 @@
 
 391={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -354,7 +354,7 @@
 
 394={ 
 	terrain="plains"
-	trade_goods="fish"
+	trade_goods="marble"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -531,7 +531,7 @@
 
 403={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="woad"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -727,7 +727,7 @@
 
 412={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="woad"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0

@@ -393,7 +393,7 @@
 
 137={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fruits"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -564,7 +564,7 @@
 
 146={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -1124,7 +1124,7 @@
 
 226={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -1429,7 +1429,7 @@
 
 241={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0

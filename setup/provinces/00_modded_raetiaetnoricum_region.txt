@@ -509,7 +509,7 @@
 
 350={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -629,7 +629,7 @@
 
 353={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="illyric_pantheon"
 	culture="lcarnian"
 	civilization_value=0

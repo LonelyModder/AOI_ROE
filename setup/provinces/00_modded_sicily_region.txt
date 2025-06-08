@@ -755,7 +755,7 @@
 
 126={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="nuragian_pantheon"
 	culture="corsi"
 	civilization_value=0

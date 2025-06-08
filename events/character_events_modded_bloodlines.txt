@@ -11,6 +11,7 @@ character_events.35 = {
 				father = {
 					OR = {
 						has_trait = nobilitas
+						has_trait = tarquinius
 					}
 				}
 			}
@@ -25,7 +26,17 @@ character_events.35 = {
 				}
 				add_trait = nobilitas
 			}
-			
+			if = {
+				limit = {
+					father = {
+						has_trait = tarquinius
+					}
+					NOT = {
+						has_trait = tarquinius
+					}
+				}
+				add_trait = tarquinius
+			}
 		}
 		if = {
 			limit = {
@@ -39,6 +50,17 @@ character_events.35 = {
 			}
 			add_trait = nobilitas	
 		}
-		
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = tarquinius
+				}
+				NOT = {
+					has_trait = tarquinius
+				}
+			}
+			add_trait = tarquinius	
+		}
 	}
 }

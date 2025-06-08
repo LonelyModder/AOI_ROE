@@ -4,7 +4,7 @@
 	prominence = 20
 	martial = 1
 	
-	support_for_character_as_heir = 10
+	#support_for_character_as_heir = 10
 
 	country = {
 		stability_cost_modifier = -0.2
@@ -17,6 +17,29 @@
 	
 	unit = {
 		lv_lightcavalry_discipline = 0.05
+	}
+	
+}
+
+tarquinius = {
+	type = status
+	
+	prominence = 20
+	finesse = 1
+	
+	support_for_character_as_heir = 10
+
+	country = {
+		monthly_political_influence_modifier = 0.1
+		global_monthly_civilization = 0.05
+	}
+	
+	province = {
+		local_tax_modifier = 0.1
+	}
+	
+	unit = {
+		lv_hoplites_discipline = 0.05
 	}
 	
 }

@@ -156,7 +156,7 @@
 
 426={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -589,7 +589,7 @@
 
 448={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -1035,7 +1035,7 @@
 
 471={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0

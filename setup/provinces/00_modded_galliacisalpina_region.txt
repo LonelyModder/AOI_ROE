@@ -1006,7 +1006,7 @@
 
 260={ 
 	terrain="hills"
-	trade_goods="iron"
+	trade_goods="marble"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -1347,7 +1347,7 @@
 
 355={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="illyric_pantheon"
 	culture="lcarnian"
 	civilization_value=0

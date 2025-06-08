@@ -25,7 +25,18 @@ bloodlines_setup_completion.1 = {
 				}
 				add_trait = nobilitas
 			}
-			
+			if = {
+				limit = {
+					exists = father
+					father = {
+						has_trait = tarquinius
+					}
+					NOT = {
+						has_trait = tarquinius
+					}
+				}
+				add_trait = tarquinius
+			}
 			if = {
 				limit = {
 					exists = mother
@@ -38,7 +49,18 @@ bloodlines_setup_completion.1 = {
 				}
 				add_trait = nobilitas	
 			}
-			
+			if = {
+				limit = {
+					exists = mother
+					mother = {
+						has_trait = tarquinius
+					}
+					NOT = {
+						has_trait = tarquinius
+					}
+				}
+				add_trait = tarquinius
+			}
 		}
 	}
 }

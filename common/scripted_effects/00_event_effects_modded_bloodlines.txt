@@ -7,6 +7,7 @@ pass_down_traits_effect = {
 				father = {
 					OR = {
 						has_trait = nobilitas
+						has_trait = tarquinius
 					}
 				}
 						
@@ -22,7 +23,17 @@ pass_down_traits_effect = {
 				}
 				add_trait = nobilitas
 			}
-			
+			if = {
+				limit = {
+					father = {
+						has_trait = tarquinius
+					}
+					NOT = {
+						has_trait = tarquinius
+					}
+				}
+				add_trait = tarquinius
+			}
 		}
 		if = {
 			limit = {
@@ -36,7 +47,18 @@ pass_down_traits_effect = {
 			}
 			add_trait = nobilitas
 		}
-		
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = tarquinius
+				}
+				NOT = {
+					has_trait = tarquinius
+				}
+			}
+			add_trait = tarquinius
+		}
 	}
 }
 
@@ -49,5 +71,12 @@ bastard_major_bloodline_effect = {
 		}
 		add_trait = nobilitas
 	}
-	
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = tarquinius
+			}
+		}
+		add_trait = tarquinius
+	}
 }

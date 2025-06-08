@@ -5,7 +5,13 @@ treasure_manager = {
 		# Joe 61-120
 		# Drikus 121-180
 		# Henrik 181-240
-		
+		1 = { # Rome
+			key = "treasure_rpalladium"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_citizen_happyness = 0.1
+			}
+		}
     }
 }
 family={
@@ -37,6 +43,12 @@ family={
 			culture = rroman
 			prestige=300
 		}
+		5={
+			key="Tarquinius"
+			owner=AAG
+			culture = etrusci
+			prestige=300
+		}
 		
 		}
 }
@@ -46,7 +58,9 @@ diplomacy = {
 
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
-	
+	217 = { # Rome
+		treasure_slots = { 	treasures = { 1 } }
+	}
 
 	#Pirates
 	124 = { modifier = { modifier = pirate_haven_modifier always = yes } }
@@ -191,7 +205,8 @@ country = {
 			}
 		}
 		
-		AAG = {          
+		AAG = {     
+			family=5
 			government = aristocratic_republic
 			primary_culture = etrusci
 			religion = villanic_pantheon
