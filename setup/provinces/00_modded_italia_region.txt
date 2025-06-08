@@ -159,7 +159,7 @@
 
 90={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -488,7 +488,7 @@
 
 142={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -507,7 +507,7 @@
 
 143={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -526,7 +526,7 @@
 
 144={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -545,7 +545,7 @@
 
 145={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fruits"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -583,7 +583,7 @@
 
 147={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -673,7 +673,7 @@
 
 151={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -857,7 +857,7 @@
 
 160={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -981,15 +981,18 @@
 	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=1
+		amount=5
 	}
 	tribesmen={
-		amount=4
+		amount=10
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1017,7 +1020,7 @@
 
 221={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -1039,7 +1042,7 @@
 
 222={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -1058,7 +1061,7 @@
 
 223={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -1143,7 +1146,7 @@
 
 227={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -1162,7 +1165,7 @@
 
 228={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -1225,7 +1228,7 @@
 
 231={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fruits"
 	religion="italiotan_pantheon"
 	culture="ipicentes"
 	civilization_value=0
@@ -1266,7 +1269,7 @@
 
 233={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="italiotan_pantheon"
 	culture="rroman"
 	civilization_value=0
@@ -1405,7 +1408,7 @@
 
 240={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -1472,7 +1475,7 @@
 
 243={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -1524,7 +1527,7 @@
 
 245={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1611,7 +1614,7 @@
 
 249={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1653,7 +1656,7 @@
 
 251={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1710,7 +1713,7 @@
 
 254={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1748,7 +1751,7 @@
 
 256={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1789,20 +1792,23 @@
 
 258={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=10
 	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 

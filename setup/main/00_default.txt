@@ -88,8 +88,9 @@ provinces = { #Any entry must contain a comment with city name.
 	88 = { port_building = 2 }
 	148 = { port_building = 2 }
 	91 = { port_building = 2 }
-	5 = { port_building = 2 }
 	93 = { port_building = 2 }
+	272 = { fortress_building = 1 }
+	151 = { fortress_building = 1 }
 	
 	#Passes
 	401 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -136,7 +137,7 @@ country = {
 			government = despotic_monarchy
 			primary_culture = rroman
 			religion = italiotan_pantheon
-			capital = 217
+			capital = 218
 			
 			own_control_core = 	{ 
 				217 219 218
@@ -409,7 +410,7 @@ country = {
 		}
 		
 		AAU = {          
-			government = tribal_kingdom
+			government = tribal_federation
 			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 90
@@ -420,7 +421,7 @@ country = {
 		}
 		
 		AAW = {          
-			government = tribal_kingdom
+			government = tribal_federation
 			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 131
@@ -431,7 +432,7 @@ country = {
 		}
 		
 		AAY = {          
-			government = tribal_kingdom
+			government = tribal_federation
 			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 156
@@ -442,7 +443,7 @@ country = {
 		}
 		
 		AAZ = {          
-			government = tribal_kingdom
+			government = tribal_federation
 			primary_culture = iumbrian
 			religion = italiotan_pantheon
 			capital = 235
@@ -475,7 +476,7 @@ country = {
 		}
 		
 		ABC = {          
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = iumbrian
 			religion = italiotan_pantheon
 			capital = 216
@@ -574,7 +575,7 @@ country = {
 		}
 		
 		ABL = {          
-			government = tribal_kingdom
+			government = tribal_federation
 			primary_culture = clepontic
 			religion = celtic_pantheon
 			capital = 294

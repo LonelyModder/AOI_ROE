@@ -7,6 +7,7 @@
 is_tier_2_formable_trigger = {
 	OR = {
 		tag = XIT #Italia
+		tag = XIL #Illyria
 	}
 }
 
@@ -29,6 +30,7 @@ has_food_trade_good_trigger = {
 			trade_goods = fish
 			trade_goods = cattle
 			trade_goods = vegetables
+			trade_goods = fruits
 		}
 	}
 }
@@ -39,6 +41,7 @@ has_non_food_trade_good_trigger = {
 		trade_goods = fish
 		trade_goods = cattle
 		trade_goods = vegetables
+		trade_goods = fruits
 	}
 }
 
@@ -50,6 +53,7 @@ has_urban_trade_good_trigger = {
 		trade_goods = dye
 		trade_goods = glass
 		trade_goods = silk
+		trade_goods = wool
 	}
 }
 
@@ -61,6 +65,7 @@ has_non_urban_trade_good_trigger = {
 		trade_goods = dye
 		trade_goods = glass
 		trade_goods = silk
+		trade_goods = wool
 	}
 }
 

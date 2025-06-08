@@ -1,6 +1,6 @@
 ﻿379={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -60,7 +60,7 @@
 
 382={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -79,7 +79,7 @@
 
 383={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -98,7 +98,7 @@
 
 384={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -136,7 +136,7 @@
 
 421={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -196,7 +196,7 @@
 
 385={ 
 	terrain="farmland"
-	trade_goods="salt"
+	trade_goods="wine"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -237,7 +237,7 @@
 
 388={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -313,7 +313,7 @@
 
 392={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -335,7 +335,7 @@
 
 393={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -373,7 +373,7 @@
 
 395={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -392,7 +392,7 @@
 
 396={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -414,7 +414,7 @@
 
 397={ 
 	terrain="farmland"
-	trade_goods="fish"
+	trade_goods="wine"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -512,7 +512,7 @@
 
 402={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -610,7 +610,7 @@
 
 407={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cattle"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -629,7 +629,7 @@
 
 408={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cattle"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -746,7 +746,7 @@
 
 416={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0

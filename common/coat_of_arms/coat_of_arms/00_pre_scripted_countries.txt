@@ -119,3 +119,14 @@ ITALIA_FLAG = {
 		color1 = "roman_gold"
 	}
 }
+
+ILLYRIA_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "etruscan_blue"
+	color2 = "etruscan_blue"
+
+	colored_emblem = {
+		texture = "ce_snake_01.dds"
+		color1 = "roman_red"
+	}
+}

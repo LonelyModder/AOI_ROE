@@ -20,6 +20,15 @@
 				OR = {
 					province_id = 217 # Roma
 					province_id = 248 # Velzna
+					province_id = 156 
+					province_id = 131
+					province_id = 88 
+					province_id = 5 
+					province_id = 135
+					province_id = 232
+					province_id = 235
+					province_id = 216
+					province_id = 244
 				}
 			}
 		}
@@ -36,12 +45,21 @@
 			can_form_nation_trigger = yes
 			owns = 217 # Roma
 			owns = 248 # Velzna
+			owns = 156 
+			owns = 131
+			owns = 88 
+			owns = 5 
+			owns = 135
+			owns = 232
+			owns = 235
+			owns = 216
+			owns = 244
 		}
 		
 		
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
-			tribal_formable_government_change_effect = yes
+			#tribal_formable_government_change_effect = yes
 			if = {
 				limit = {
 					country_culture_group = latinic

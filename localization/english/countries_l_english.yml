@@ -889,7 +889,7 @@
  ABJ_ADJ:0 "Vestinian"
  ABK:0 "Picenum"
  ABK_ADJ:0 "Picenian"
- ABL:0 "Lepontia"
+ ABL:0 "Lepontic Federation"
  ABL_ADJ:0 "Lepontic"
  ABM:0 "Veneti"
  ABM_ADJ:0 "Veneti"
@@ -985,6 +985,8 @@
  ITALIA_ADJECTIVE:0 "Italic"
  ROMANREPUBLIC_NAME:0 "Roman Republic"
  ROMANREPUBLIC_ADJECTIVE:0 "Roman"
+ ILLYRIA_NAME:0 "Illyria"
+ ILLYRIA_NAMEADJECTIVE:0 "Illyrian"
  #Event Names
  Alessia_NAME:0 "Alessian Revolt"
  Alessia_ADJECTIVE:0 "Alessian"

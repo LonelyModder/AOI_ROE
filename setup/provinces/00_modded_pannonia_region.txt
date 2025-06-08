@@ -1,7 +1,7 @@
 ﻿
 414={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="illyric_pantheon"
 	culture="ideurian"
 	civilization_value=0
@@ -20,7 +20,7 @@
 
 415={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="illyric_pantheon"
 	culture="ideurian"
 	civilization_value=0
@@ -42,7 +42,7 @@
 
 418={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="illyric_pantheon"
 	culture="ideurian"
 	civilization_value=0
@@ -61,7 +61,7 @@
 
 419={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="woad"
 	religion="illyric_pantheon"
 	culture="iazalian"
 	civilization_value=0
@@ -99,7 +99,7 @@
 
 423={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="illyric_pantheon"
 	culture="ideurian"
 	civilization_value=0
@@ -137,7 +137,7 @@
 
 425={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -213,7 +213,7 @@
 
 429={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -251,7 +251,7 @@
 
 431={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -270,7 +270,7 @@
 
 432={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -311,7 +311,7 @@
 
 434={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -349,7 +349,7 @@
 
 436={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -368,7 +368,7 @@
 
 437={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="illyric_pantheon"
 	culture="iazalian"
 	civilization_value=0
@@ -390,7 +390,7 @@
 
 438={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="illyric_pantheon"
 	culture="iazalian"
 	civilization_value=0
@@ -409,7 +409,7 @@
 
 439={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="illyric_pantheon"
 	culture="iazalian"
 	civilization_value=0
@@ -428,7 +428,7 @@
 
 440={ 
 	terrain="hills"
-	trade_goods="stone"
+	trade_goods="fur"
 	religion="illyric_pantheon"
 	culture="lcatari"
 	civilization_value=0
@@ -450,7 +450,7 @@
 
 441={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="illyric_pantheon"
 	culture="ideurian"
 	civilization_value=0
@@ -472,7 +472,7 @@
 
 442={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -494,7 +494,7 @@
 
 443={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="woad"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -532,7 +532,7 @@
 
 445={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -551,7 +551,7 @@
 
 446={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -646,7 +646,7 @@
 
 451={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -744,7 +744,7 @@
 
 456={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="base_metals"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -763,7 +763,7 @@
 
 457={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cattle"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -823,7 +823,7 @@
 
 460={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -899,7 +899,7 @@
 
 464={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -918,7 +918,7 @@
 
 465={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -959,7 +959,7 @@
 
 467={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -978,7 +978,7 @@
 
 468={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -1016,7 +1016,7 @@
 
 470={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="illyric_pantheon"
 	culture="ideurian"
 	civilization_value=0
@@ -1054,7 +1054,7 @@
 
 472={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="illyric_pantheon"
 	culture="ideurian"
 	civilization_value=0
@@ -1073,7 +1073,7 @@
 
 473={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="illyric_pantheon"
 	culture="ideurian"
 	civilization_value=0
@@ -1111,7 +1111,7 @@
 
 475={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -1130,7 +1130,7 @@
 
 476={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="illyric_pantheon"
 	culture="ideurian"
 	civilization_value=0
@@ -1149,7 +1149,7 @@
 
 477={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="woad"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -1171,7 +1171,7 @@
 
 478={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -1228,7 +1228,7 @@
 
 481={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -1269,7 +1269,7 @@
 
 483={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
