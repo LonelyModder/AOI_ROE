@@ -18,7 +18,11 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 217 # Roma
+					province_id = 391 # Salona
+					province_id = 385 # Idassa
+					province_id = 374 # Tergeste
+					province_id = 398 # Epidaurum
+					province_id = 396 #Narona
 				}
 			}
 		}
@@ -33,8 +37,11 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 217 # Roma
-			owns = 248 # Velzna
+			owns = 391 # Salona
+			owns = 385 # Idassa
+			owns = 374 # Tergeste
+			owns = 398 # Epidaurum
+			owns = 396 #Narona
 		}
 		
 		
@@ -50,19 +57,19 @@
 			}
 			if = {
 				limit = {
-					p:217 = { is_capital = no }
+					p:391 = { is_capital = no }
 				}
-				set_capital = 217
+				set_capital = 391
 				hidden_effect = {
-					p:217.state = {
-						set_state_capital = 217
+					p:391.state = {
+						set_state_capital = 391
 					}
 				}
 				capital_scope = {
 					establish_city_effect = yes
 				}
 			}
-			p:217 = {
+			p:391 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

@@ -350,7 +350,7 @@ country = {
 		AAO = {          
 			government = tribal_kingdom
 			primary_culture = isicelian
-			religion = italiotan_pantheon
+			religion = illyric_pantheon
 			capital = 97
 			
 			own_control_core = 	{ 
