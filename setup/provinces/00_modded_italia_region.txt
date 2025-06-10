@@ -43,6 +43,8 @@
 	}
 	tribesmen={
 		amount=4
+		religion="illyric_pantheon"
+		culture="isicelian"
 	}
 	slaves={
 		amount=1
@@ -125,16 +127,16 @@
 	}
 	tribesmen={
 		amount=4
-		religion="italiotan_pantheon"
-		culture="ioscan"
+		religion="illyric_pantheon"
+	culture="isicelian"
 	}
 	slaves={
 		amount=1
 	}
 	slaves={
 		amount=4
-		religion="italiotan_pantheon"
-		culture="ioscan"
+		religion="illyric_pantheon"
+		culture="isicelian"
 	}
 }
 
@@ -932,8 +934,18 @@
 	citizen={
 		amount=3
 	}
+	citizen={
+		amount=1
+		religion="grecoid_pantheon"
+		culture="gitaliote"
+	}
 	freemen={
 		amount=5
+	}
+	freemen={
+		amount=5
+		religion="grecoid_pantheon"
+		culture="gitaliote"
 	}
 	tribesmen={
 		amount=10

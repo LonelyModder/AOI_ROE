@@ -301,7 +301,6 @@
 	culture = {
 		ioscan = {}
 		iumbrian = {}
-		isicelian = {}
 		ipicentes = {}
 	}
 	

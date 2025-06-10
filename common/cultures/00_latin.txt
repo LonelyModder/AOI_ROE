@@ -3,8 +3,8 @@
 	
 	levy_template = levy_roughroman
 	
-	primary = ia_lightinfantry
-	second = ia_heavyinfantry
+	primary = ia_heavyinfantry
+	second = ia_hoplites
 	flank = ia_lightcavalry
 
 	primary_navy = tetrere

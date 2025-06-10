@@ -740,6 +740,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_micovellauna"
 }
 
 456={ 

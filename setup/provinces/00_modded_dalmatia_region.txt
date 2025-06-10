@@ -290,6 +290,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_zis"
 }
 
 390={ 

@@ -1002,6 +1002,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_penn"
 }
 
 260={ 
@@ -1302,6 +1303,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_sentona"
 }
 
 375={ 

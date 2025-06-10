@@ -17,7 +17,7 @@
 	}
 	tribesmen={
 		amount=4
-		religion="italiotan_pantheon"
+		religion="illyric_pantheon"
 		culture="isicelian"
 	}
 	slaves={
@@ -25,15 +25,16 @@
 	}
 	slaves={
 		amount=4
-		religion="italiotan_pantheon"
+		religion="illyric_pantheon"
 		culture="isicelian"
 	}
+	holy_site="omen_mheracles"
 }
 
 95={ 
 	terrain="farmland"
 	trade_goods="wine"
-	religion="italiotan_pantheon"
+	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
 	barbarian_power=0
@@ -52,7 +53,7 @@
 96={ 
 	terrain="farmland"
 	trade_goods="horses"
-	religion="italiotan_pantheon"
+	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
 	barbarian_power=0
@@ -71,7 +72,7 @@
 101={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="italiotan_pantheon"
+	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
 	barbarian_power=0
@@ -106,7 +107,7 @@
 	}
 	tribesmen={
 		amount=4
-		religion="italiotan_pantheon"
+		religion="illyric_pantheon"
 		culture="isicelian"
 	}
 	slaves={
@@ -114,7 +115,7 @@
 	}
 	slaves={
 		amount=4
-		religion="italiotan_pantheon"
+		religion="illyric_pantheon"
 		culture="isicelian"
 	}
 }
@@ -135,7 +136,7 @@
 	}
 	tribesmen={
 		amount=2
-		religion="italiotan_pantheon"
+		religion="illyric_pantheon"
 		culture="isicelian"
 	}
 	slaves={
@@ -143,7 +144,7 @@
 	}
 	slaves={
 		amount=2
-		religion="italiotan_pantheon"
+		religion="illyric_pantheon"
 		culture="isicelian"
 	}
 }
@@ -151,7 +152,7 @@
 94={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="italiotan_pantheon"
+	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
 	barbarian_power=0
@@ -170,7 +171,7 @@
 97={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="italiotan_pantheon"
+	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
 	barbarian_power=0
@@ -192,7 +193,7 @@
 98={ 
 	terrain="hills"
 	trade_goods="vegetables"
-	religion="italiotan_pantheon"
+	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
 	barbarian_power=0
@@ -211,7 +212,7 @@
 99={ 
 	terrain="plains"
 	trade_goods="base_metals"
-	religion="italiotan_pantheon"
+	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
 	barbarian_power=0
@@ -230,7 +231,7 @@
 100={ 
 	terrain="hills"
 	trade_goods="fish"
-	religion="italiotan_pantheon"
+	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
 	barbarian_power=0
@@ -249,7 +250,7 @@
 102={ 
 	terrain="hills"
 	trade_goods="fish"
-	religion="italiotan_pantheon"
+	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
 	barbarian_power=0
@@ -513,6 +514,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_babai"
 }
 
 116={ 

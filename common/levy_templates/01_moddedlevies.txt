@@ -11,10 +11,10 @@ levy_default = {
 levy_roughroman = { #latin militia
 	default = no
 
-	ia_heavyinfantry = 0.3
+	ia_heavyinfantry = 0.4
 	ia_scirmishers = 0.2
 	ia_lightcavalry = 0.1
-	ia_lightinfantry = 0.4
+	ia_hoplites = 0.3
 }
 
 #Italic

@@ -102,8 +102,8 @@
 	
 	italian_path_2 = { ###italian path
 		modifier = { 
-			ia_lightinfantry_offensive = 0.1
-			ia_lightinfantry_defensive = 0.05
+			ia_scirmishers_discipline = 0.1
+			ia_hoplites_offensive = 0.1
 		}
 		icon = latin_roman_path_5
 		requires = {italian_path_1}
@@ -120,7 +120,7 @@
 	
 	italian_path_4 = { ###italian path
 		modifier = { 
-			ia_lightinfantry_discipline = 0.1
+			ia_hoplites_discipline = 0.1
 		}
 		enable_tactic = greek_phalanx
 		icon = latin_roman_path_5

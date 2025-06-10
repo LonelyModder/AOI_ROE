@@ -38,6 +38,7 @@
 		idelmatian = {}
 		ideurian = {}
 		iazalian = {}
+		isicelian = {}
 	}
 
 	barbarian_names = {

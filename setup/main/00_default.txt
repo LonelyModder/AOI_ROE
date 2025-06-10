@@ -134,7 +134,7 @@ country = {
 			family = 2
 			family = 3
 			family = 4
-			government = despotic_monarchy
+			government = tribal_federation
 			primary_culture = rroman
 			religion = italiotan_pantheon
 			capital = 218
@@ -465,7 +465,7 @@ country = {
 		}
 		
 		ABB = {          
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = rroman
 			religion = italiotan_pantheon
 			capital = 233
