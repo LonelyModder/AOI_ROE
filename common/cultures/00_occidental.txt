@@ -41,7 +41,6 @@
 	}
 
 	culture = {
-		elymoi = {}
 		corsi = {}
 		nurage = {}
 		talayotic = {}

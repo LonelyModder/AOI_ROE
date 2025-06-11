@@ -288,7 +288,7 @@
 104={ 
 	terrain="hills"
 	trade_goods="stone"
-	religion="nuragian_pantheon"
+	religion="italiotan_pantheon"
 	culture="elymoi"
 	civilization_value=0
 	barbarian_power=0
@@ -367,7 +367,7 @@
 	}
 	tribesmen={
 		amount=4
-		religion="nuragian_pantheon"
+		religion="italiotan_pantheon"
 		culture="elymoi"
 	}
 	slaves={

@@ -12,6 +12,13 @@ treasure_manager = {
 				local_citizen_happyness = 0.1
 			}
 		}
+		2 = { # Nuragian
+			key = "treasure_nstatues"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_cohort_start_experience = 15
+			}
+		}
     }
 }
 family={
@@ -53,13 +60,18 @@ family={
 		}
 }
 diplomacy = {
-	
+	#Etruria in Latium
+	dependency = { first = AAG second = AAA subject_type = tributary }
+	dependency = { first = AAG second = ABC subject_type = tributary }
 }
 
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
 	217 = { # Rome
 		treasure_slots = { 	treasures = { 1 } }
+	}
+	115 = { # For Babai Sardinia
+		treasure_slots = { 	treasures = { 2 } }
 	}
 
 	#Pirates
@@ -180,7 +192,7 @@ country = {
 		AAE = {          
 			government = tribal_kingdom
 			primary_culture = elymoi
-			religion = nuragian_pantheon
+			religion = italiotan_pantheon
 			capital = 104
 			
 			own_control_core = 	{ 

@@ -299,6 +299,7 @@
 	}
 
 	culture = {
+		elymoi = {}
 		ioscan = {}
 		iumbrian = {}
 		ipicentes = {}
