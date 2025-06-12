@@ -151,6 +151,13 @@ country = {
 			religion = italiotan_pantheon
 			capital = 218
 			
+			poptype_rights = {
+				{
+					culture = gitaliote 
+					type = nobles
+				}
+			}
+			
 			own_control_core = 	{ 
 				217 219 218
 			}
@@ -1080,6 +1087,7 @@ country = {
 				465 460 463 466 468 467 469
 			}
 		}
+		
 	}
 }
 

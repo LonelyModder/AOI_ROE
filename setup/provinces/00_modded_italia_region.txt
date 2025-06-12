@@ -681,6 +681,11 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=1
+		religion="villanic_pantheon"
+		culture="etrusci"
+	}
 	citizen={
 		amount=4
 		religion="villanic_pantheon"
@@ -1521,7 +1526,7 @@
 		amount=1
 	}
 	citizen={
-		amount=10
+		amount=8
 	}
 	freemen={
 		amount=1
@@ -1573,13 +1578,13 @@
 		amount=1
 	}
 	citizen={
-		amount=10
+		amount=8
 	}
 	freemen={
 		amount=5
 	}
 	slaves={
-		amount=6
+		amount=4
 	}
 }
 
@@ -1611,10 +1616,10 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=3
+		amount=1
 	}
 	citizen={
-		amount=12
+		amount=10
 	}
 	freemen={
 		amount=6
@@ -1655,13 +1660,13 @@
 		amount=1
 	}
 	citizen={
-		amount=10
+		amount=8
 	}
 	freemen={
 		amount=5
 	}
 	slaves={
-		amount=6
+		amount=4
 	}
 	holy_site="omen_mtinia"
 }
@@ -1792,13 +1797,13 @@
 		amount=1
 	}
 	citizen={
-		amount=10
+		amount=8
 	}
 	freemen={
 		amount=5
 	}
 	slaves={
-		amount=6
+		amount=4
 	}
 }
 
@@ -1814,13 +1819,13 @@
 		amount=1
 	}
 	citizen={
-		amount=10
+		amount=8
 	}
 	freemen={
 		amount=5
 	}
 	slaves={
-		amount=6
+		amount=4
 	}
 }
 

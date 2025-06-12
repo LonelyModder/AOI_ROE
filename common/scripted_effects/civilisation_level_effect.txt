@@ -14,7 +14,10 @@
 					trigger_if = {
 						limit = { has_owner = yes }
 						owner = {
-							country_culture_group = grekoid
+							OR = {
+								country_culture_group = grekoid
+								country_culture_group = levantine
+							}
 						} 
 					}
 				}

@@ -162,6 +162,7 @@ colors = {
 	#Modded Colors
 	ROMANREPUBLIC_COLOR = rgb { 227 26 11 }
 	ILLYRIA_COLOR = rgb { 35 166 252 }
+	SICILY_COLOR = rgb { 235 122 23 }
 	#Event Colors
 	KAlessian_color = rgb { 186 19 13 }
 	

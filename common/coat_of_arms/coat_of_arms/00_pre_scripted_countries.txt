@@ -130,3 +130,23 @@ ILLYRIA_FLAG = {
 		color1 = "roman_red"
 	}
 }
+
+SICILY_FLAG = {
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "roman_gold"
+	color2 = "spartan_rust"
+	color3 = "pink_skin"
+
+	colored_emblem = {
+		texture = "ce_syracuse.dds"
+		color1 = "pink_skin"
+		color2 = "offwhite"
+	}
+
+	colored_emblem = {
+		texture = "ce_head_02.dds"
+		color1 = "pink_skin"
+		color2 = "roman_gold"
+		instance = { scale = { 0.4  0.4 } }
+	}
+}

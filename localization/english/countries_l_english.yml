@@ -986,7 +986,9 @@
  ROMANREPUBLIC_NAME:0 "Roman Republic"
  ROMANREPUBLIC_ADJECTIVE:0 "Roman"
  ILLYRIA_NAME:0 "Illyria"
- ILLYRIA_NAMEADJECTIVE:0 "Illyrian"
+ ILLYRIA_ADJECTIVE:0 "Illyrian"
+ SICILY_NAME:0 "Sicily"
+ SICILY_ADJECTIVE:0 "Sicilian"
  #Event Names
  Alessia_NAME:0 "Alessian Revolt"
  Alessia_ADJECTIVE:0 "Alessian"

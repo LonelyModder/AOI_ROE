@@ -22,7 +22,7 @@
 					province_id = 385 # Idassa
 					province_id = 374 # Tergeste
 					province_id = 398 # Epidaurum
-					province_id = 396 #Narona
+					province_id = 396 # Narona
 				}
 			}
 		}
@@ -41,7 +41,7 @@
 			owns = 385 # Idassa
 			owns = 374 # Tergeste
 			owns = 398 # Epidaurum
-			owns = 396 #Narona
+			owns = 396 # Narona
 		}
 		
 		

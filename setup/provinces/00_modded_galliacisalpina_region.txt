@@ -58,7 +58,7 @@
 		culture="epicenic"
 	}
 	slaves={
-		amount=6
+		amount=4
 	}
 }
 
@@ -126,12 +126,9 @@
 	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
+	province_rank="settlement"
 	citizen={
-		amount=6
+		amount=2
 	}
 	freemen={
 		amount=3
@@ -142,7 +139,7 @@
 		culture="lveneti"
 	}
 	slaves={
-		amount=6
+		amount=4
 	}
 }
 
@@ -288,12 +285,9 @@
 	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
+	province_rank="settlement"
 	citizen={
-		amount=6
+		amount=2
 	}
 	freemen={
 		amount=3
@@ -304,7 +298,7 @@
 		culture="eugeneian"
 	}
 	slaves={
-		amount=6
+		amount=4
 	}
 }
 
