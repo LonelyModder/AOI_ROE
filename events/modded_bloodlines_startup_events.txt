@@ -42,7 +42,7 @@ bloodlines_startup.2 = { #Terquinius
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:5
+				has_same_family = char:0
 			}
 			add_trait = tarquinius
 		

@@ -1,7 +1,7 @@
 ﻿"AAG"={
 	country="AAG"
 	
-	1={
+	0={
 		first_name="Gaius"
 		family = c:AAG.fam:Tarquinius
 		birth_date=410.1.1
