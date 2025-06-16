@@ -26,3 +26,6 @@
  patch_notes:0 "Part I: Iron Age in Italy"
  patch_notes_text:0 "What's new:\n- Iron Age Italy to explore. \n- 347 land provinces to conquer. \n- New units."
  
+ #Modifier text
+ lepontic_invasion_modifier:0 "Mobilisation"
+ desc_lepontic_invasion_modifier:0 "Under extreme circumstances all available males (and in some cultures like scythians females) are mobilised for war."

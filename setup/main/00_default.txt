@@ -56,6 +56,12 @@ family={
 			culture = etrusci
 			prestige=300
 		}
+		6={
+			key="Brennus"
+			owner=ABL
+			culture = clepontic
+			prestige=300
+		}
 		
 		}
 }
@@ -593,7 +599,8 @@ country = {
 			}
 		}
 		
-		ABL = {          
+		ABL = {    
+			family = 6
 			government = tribal_federation
 			primary_culture = clepontic
 			religion = celtic_pantheon

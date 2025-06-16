@@ -21,6 +21,13 @@ is_lacking_levies_pseudo_trigger = {
 	aggressive = -500
 }
 
+is_pacifist = {
+	trigger = {
+		country_culture_group = thyrrenic
+	}
+	aggressive = -30
+}
+
 is_antagonist_aimod = {
 	trigger = {
 		is_antagonist = yes
