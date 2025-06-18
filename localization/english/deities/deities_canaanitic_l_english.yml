@@ -19,9 +19,9 @@
  omen_mbaal_hammon_desc:3 "The young men of our nation will flock to our banners with the knowledge that Ba'al Hammon has blessed our wars. With more recruits at our hands, we are sure to be able to force our enemies to agree to our demands with our superior manpower.\n\nUnlike the more generic worship of Ba'al in the other Phoenician areas, we have the favor of Ba'al Hammon himself, foremost of the pantheon in Carthaginian lands. As a god of harvest, he is occasionally likened to the Greek Kronos, though he plays a more important active role than their Greek version."
 
  ## Generic ##
- deity_manat:0 "$omen_manat$"
- omen_manat:1 "Anat"
- omen_manat_desc:3 "The wild warrior goddess will fight alongside our men, guiding their hands in battle and fortifying their morale. Anat is known for her brutal slaughter of her enemies; we are more likely to win our wars with her at our side.\n\nAs a war goddess, Anat was well known among many Canaanite cultures along the Levant. She played an important role in avenging her brother and lover Ba'al after his supposed death at the hands of Mot."
+ deity_manat1:0 "$omen_manat1$"
+ omen_manat1:1 "Anat"
+ omen_manat1_desc:3 "The wild warrior goddess will fight alongside our men, guiding their hands in battle and fortifying their morale. Anat is known for her brutal slaughter of her enemies; we are more likely to win our wars with her at our side.\n\nAs a war goddess, Anat was well known among many Canaanite cultures along the Levant. She played an important role in avenging her brother and lover Ba'al after his supposed death at the hands of Mot."
  deity_mel:0 "$omen_mel$"
  omen_mel:1 "El"
  omen_mel_desc:3 "All the young men will flock to our banners under the guidance of the supreme god. We are sure to be able to win our wars now that we have a higher number of potential recruits than before.\n\nAt the head of the pantheon, El is the first among equals as far as most are concerned. He is the king and father of most deities, and is the creator of the land."
