@@ -1,5 +1,5 @@
 ﻿### General Deity Checks ###
-deity_manat = {
+deity_manat1 = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
@@ -12,7 +12,7 @@ deity_manat = {
 			common_deity_trigger = {
 				RELIGION = judahic
 			}
-			deity:omen_manat = {
+			deity:omen_manat1 = {
 				holy_site_deity_check_trigger = yes
 			}
 		}
