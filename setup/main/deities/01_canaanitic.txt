@@ -17,8 +17,8 @@ deity_manager = {
 			deity = deity_mbaal_hammon
 		}
 		10064 = {
-			key = omen_manat1
-			deity = deity_manat1
+			key = omen_manat
+			deity = deity_manat
 		}
 		10065 = {
 			key = omen_mel
