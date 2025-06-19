@@ -1,65 +1,56 @@
-﻿11={
-	barbarian_power=0
-	civilization_value=0
-	terrain="farmland"
-	trade_goods="olive"
-	culture="wvenedi"
+﻿11={ 
+	terrain="plains"
+	trade_goods="spices"
 	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
 	province_rank="settlement"
-	freemen=
-	{
+	freemen={
 		amount=1
 	}
-	tribesmen=
-	{
+	tribesmen={
 		amount=4
 	}
-	slaves=
-	{
+	slaves={
 		amount=1
 	}
 }
 
-12={
-	barbarian_power=0
-	civilization_value=0
-	terrain="farmland"
-	trade_goods="olive"
-	culture="wvenedi"
+12={ 
+	terrain="plains"
+	trade_goods="spices"
 	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
 	province_rank="settlement"
-	freemen=
-	{
+	freemen={
 		amount=1
 	}
-	tribesmen=
-	{
+	tribesmen={
 		amount=4
 	}
-	slaves=
-	{
+	slaves={
 		amount=1
 	}
 }
 
-13={
-	barbarian_power=0
-	civilization_value=0
-	terrain="farmland"
-	trade_goods="olive"
-	culture="wvenedi"
+13={ 
+	terrain="plains"
+	trade_goods="spices"
 	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
 	province_rank="settlement"
-	freemen=
-	{
+	freemen={
 		amount=1
 	}
-	tribesmen=
-	{
+	tribesmen={
 		amount=4
 	}
-	slaves=
-	{
+	slaves={
 		amount=1
 	}
 }
