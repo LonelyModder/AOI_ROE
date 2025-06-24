@@ -5,5 +5,25 @@ sea_area = {
 
 
 tmp_area = { 
-    provinces = { 11 12 13 }    
+    provinces = {  }    
+}
+
+syracuse_area = { 
+    provinces = { 11 12 13 30 28 36 26 }    
+}
+
+messina_area = { 
+    provinces = { 21 22 25 27 23 24 }    
+}
+
+sicelia_area = { 
+    provinces = { 31 37 35 29 32 34 33 }    
+}
+
+elymia_area = { 
+    provinces = { 50 48 49 47 46 45 }    
+}
+
+sicania_area = { 
+    provinces = { 38 39 40 41 42 43 44 }    
 }
