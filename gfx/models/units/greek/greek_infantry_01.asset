@@ -1319,7 +1319,7 @@ entity ={
 
 ### Archers ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_archers"
+	name = "greek_gfx_levy_ia_archers"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1329,7 +1329,7 @@ entity ={
 
 ### Warriors ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_warriors"
+	name = "greek_gfx_levy_ia_warriors"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1339,7 +1339,7 @@ entity ={
 
 ### Light Infantry ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_lightinfantry"
+	name = "greek_gfx_levy_ia_lightinfantry"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1349,7 +1349,7 @@ entity ={
 
 ### Heavy Infantry ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_heavyinfantry"
+	name = "greek_gfx_levy_ia_heavyinfantry"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1359,7 +1359,7 @@ entity ={
 
 ### Hoplites ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_hoplites"
+	name = "greek_gfx_levy_ia_hoplites"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1369,7 +1369,7 @@ entity ={
 
 ### Light Cavalry ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_lightcavalry"
+	name = "greek_gfx_levy_ia_lightcavalry"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1379,7 +1379,7 @@ entity ={
 
 ### Heavy Cavalry ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_heavycavalry"
+	name = "greek_gfx_levy_ia_heavycavalry"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1389,7 +1389,7 @@ entity ={
 
 ### Lancers ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_lancers"
+	name = "greek_gfx_levy_ia_lancers"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1399,7 +1399,7 @@ entity ={
 
 ### Horse Archers ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_horsearchers"
+	name = "greek_gfx_levy_ia_horsearchers"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1409,7 +1409,7 @@ entity ={
 
 ### Chariots ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_chariots"
+	name = "greek_gfx_levy_ia_chariots"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1419,7 +1419,7 @@ entity ={
 
 ### Camels ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_camels"
+	name = "greek_gfx_levy_ia_camels"
 	clone = "greek_levies_infantry"
 }
 entity ={
@@ -1429,7 +1429,7 @@ entity ={
 
 ### Elephants ----------------------------------------------------------------
 entity ={
-	name = "greek_levies_infantry_ia_elephants"
+	name = "greek_gfx_levy_ia_elephants"
 	clone = "greek_levies_infantry"
 }
 entity ={

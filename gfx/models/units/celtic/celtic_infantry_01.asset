@@ -1313,7 +1313,7 @@ entity ={
 
 ### Archers ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_archers"
+	name = "celtic_gfx_levy_ia_archers"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1323,7 +1323,7 @@ entity ={
 
 ### Warriors ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_warriors"
+	name = "celtic_gfx_levy_ia_warriors"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1333,7 +1333,7 @@ entity ={
 
 ### Light Infantry ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_lightinfantry"
+	name = "celtic_gfx_levy_ia_lightinfantry"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1343,7 +1343,7 @@ entity ={
 
 ### Heavy Infantry ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_heavyinfantry"
+	name = "celtic_gfx_levy_ia_heavyinfantry"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1353,7 +1353,7 @@ entity ={
 
 ### Hoplites ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_hoplites"
+	name = "celtic_gfx_levy_ia_hoplites"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1363,7 +1363,7 @@ entity ={
 
 ### Light Cavalry ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_lightcavalry"
+	name = "celtic_gfx_levy_ia_lightcavalry"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1373,7 +1373,7 @@ entity ={
 
 ### Heavy Cavalry ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_heavycavalry"
+	name = "celtic_gfx_levy_ia_heavycavalry"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1383,7 +1383,7 @@ entity ={
 
 ### Lancers ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_lancers"
+	name = "celtic_gfx_levy_ia_lancers"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1393,7 +1393,7 @@ entity ={
 
 ### Horse Archers ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_horsearchers"
+	name = "celtic_gfx_levy_ia_horsearchers"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1403,7 +1403,7 @@ entity ={
 
 ### Chariots ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_chariots"
+	name = "celtic_gfx_levy_ia_chariots"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1413,7 +1413,7 @@ entity ={
 
 ### Camels ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_camels"
+	name = "celtic_gfx_levy_ia_camels"
 	clone = "celtic_levies_infantry"
 }
 entity ={
@@ -1423,7 +1423,7 @@ entity ={
 
 ### Elephants ----------------------------------------------------------------
 entity ={
-	name = "celtic_levies_infantry_ia_elephants"
+	name = "celtic_gfx_levy_ia_elephants"
 	clone = "celtic_levies_infantry"
 }
 entity ={
