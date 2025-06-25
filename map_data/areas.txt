@@ -5,7 +5,7 @@ sea_area = {
 
 
 tmp_area = { 
-    provinces = {  }    
+    provinces = { 53 }    
 }
 
 syracuse_area = { 
