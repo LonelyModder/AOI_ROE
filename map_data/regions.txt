@@ -20,3 +20,9 @@ modded_sicily_region = {
 		sicania_area
 	}
 }
+
+modded_sardiniaetcorsica_region = {
+	areas = {
+		
+	}
+}

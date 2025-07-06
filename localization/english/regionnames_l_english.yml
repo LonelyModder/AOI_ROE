@@ -2,6 +2,7 @@
  #Regions
  modded_tmp_region:0 "temporary"
  modded_sicily_region:0 "Siciliae"
+ modded_sardiniaetcorsica_region:0 "Sardinia et Corsica"
  #Areas
  syracuse_area:0 "Syracuse"
  messina_area:0 "Messina"
