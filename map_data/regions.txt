@@ -23,6 +23,10 @@ modded_sicily_region = {
 
 modded_sardiniaetcorsica_region = {
 	areas = {
-		
+		caralis_area
+		sulci_area
+		turris_area
+		olbia_area
+		corsica_area
 	}
 }
