@@ -30,3 +30,9 @@ modded_sardiniaetcorsica_region = {
 		corsica_area
 	}
 }
+
+modded_magnagraecia_region = {
+	areas = {
+		
+	}
+}
