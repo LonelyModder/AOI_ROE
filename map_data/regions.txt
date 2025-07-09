@@ -33,6 +33,10 @@ modded_sardiniaetcorsica_region = {
 
 modded_magnagraecia_region = {
 	areas = {
-		
+		messapia_area
+		bruttium_area
+		ubruttium_area
+		lucania_area
+		apulia_area
 	}
 }
