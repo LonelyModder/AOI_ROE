@@ -4,6 +4,7 @@
  modded_sicily_region:0 "Siciliae"
  modded_sardiniaetcorsica_region:0 "Sardinia et Corsica"
  modded_magnagraecia_region:0 "Magna Graecia"
+ modded_italia_region:0 "Italia"
  #Areas
  syracuse_area:0 "Syracuse"
  messina_area:0 "Messina"
@@ -20,3 +21,8 @@
  ubruttium_area:0 "Northern Bruttium"
  lucania_area:0 "Lucania"
  apulia_area:0 "Apulia"
+ latium_area:0 "Latium"
+ setruria_area:0 "Southern Etruria"
+ netruria_area:0 "Northern Etruria"
+ campania_area:0 "Campania"
+ perusia_area:0 "Perusia"

@@ -40,3 +40,13 @@ modded_magnagraecia_region = {
 		apulia_area
 	}
 }
+
+modded_italia_region = {
+	areas = {
+		latium_area
+		setruria_area
+		netruria_area
+		campania_area
+		perusia_area
+	}
+}
