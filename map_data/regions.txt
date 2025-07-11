@@ -48,5 +48,10 @@ modded_italia_region = {
 		netruria_area
 		campania_area
 		perusia_area
+		umbria_area
+		sabinia_area
+		deunia_area
+		frentania_area
+		picentia_area
 	}
 }
