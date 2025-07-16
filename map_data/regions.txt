@@ -55,3 +55,9 @@ modded_italia_region = {
 		picentia_area
 	}
 }
+
+modded_venetiaethistria_region = {
+	areas = {
+		ravenna_area
+	}
+}

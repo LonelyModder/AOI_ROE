@@ -5,6 +5,7 @@
  modded_sardiniaetcorsica_region:0 "Sardinia et Corsica"
  modded_magnagraecia_region:0 "Magna Graecia"
  modded_italia_region:0 "Italia"
+ modded_venetiaethistria_region:0 "Venetia et Histria"
  #Areas
  syracuse_area:0 "Syracuse"
  messina_area:0 "Messina"
@@ -31,3 +32,4 @@
  deunia_area:0 "Deunia"
  frentania_area:0 "Frentania"
  picentia_area:0 "Picentia"
+ ravenna_area:0 "Ravenna"
