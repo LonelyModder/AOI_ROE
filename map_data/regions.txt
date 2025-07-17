@@ -59,5 +59,23 @@ modded_italia_region = {
 modded_venetiaethistria_region = {
 	areas = {
 		ravenna_area
+		patavium_area
+		histria_area
+		venetia_area
+		vicetia_area
+		brixia_area
+		cremona_area
+	}
+}
+
+modded_liguria_region = {
+	areas = {
+		mediolanum_area
+		placentia_area
+		luca_area
+		mutina_area
+		genua_area
+		segusio_area
+		vercellae_area
 	}
 }
