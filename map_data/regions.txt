@@ -11,6 +11,28 @@ modded_tmp_region = {
 	}
 }
 
+modded_raetia_region = {
+	areas = {
+		curia_area
+		brigantium_area
+		teriolis_area
+		vindelicum_area
+		regina_area
+		aenus_area
+	}
+}
+
+modded_noricum_region = {
+	areas = {
+		teurnia_area
+		virunum_area
+		iuvavum_area
+		ovilva_area
+		solvia_area
+		cetium_area
+	}
+}
+
 modded_sicily_region = {
 	areas = {
 		syracuse_area
