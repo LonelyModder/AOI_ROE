@@ -11,6 +11,20 @@ modded_tmp_region = {
 	}
 }
 
+modded_dalmatia_region = {
+	areas = {
+		tarsatica_area
+		iader_area
+		delminium_area
+		epidaurum_area
+		maetulum_area
+		domavia_area
+		salvium_area
+		narensia_area
+		ardia_area
+	}
+}
+
 modded_raetia_region = {
 	areas = {
 		curia_area

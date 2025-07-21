@@ -8,7 +8,43 @@ sea_area = {
 }
 
 tmp_area = { 
-    provinces = { 724 725 726 727 728 729 730 }    
+    provinces = {  }    
+}
+
+ardia_area = { 
+    provinces = { 782 790 791 792 793 808 809 799 803 805 806 807 }    
+}
+
+narensia_area = { 
+    provinces = { 796 821  823 797 795 801 802 804 798 794 }    
+}
+
+salvium_area = { 
+    provinces = { 760 756 759 757 762 767 769 766 768 770 822 }    
+}
+
+domavia_area = { 
+    provinces = { 814 813 811 812 810 816 815 818 819 817 820 }    
+}
+
+maetulum_area = { 
+    provinces = { 749 747 748 751 752 824 750 755 758 761 753 754 }    
+}
+
+epidaurum_area = { 
+    provinces = { 783 780 781 784 786 785 787 788 789 800 }    
+}
+
+delminium_area = { 
+    provinces = { 775 774 765 764 771 772 763 777 776 779 778 773 }    
+}
+
+iader_area = { 
+    provinces = { 739 740 741 742 744 746 745 743 738 734 733 }    
+}
+
+tarsatica_area = { 
+    provinces = { 724 725 726 727 728 729 732 731 730 736 735 737 }    
 }
 
 cetium_area = { 
