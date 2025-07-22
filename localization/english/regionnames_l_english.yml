@@ -10,6 +10,8 @@
  modded_raetia_region:0 "Raetia"
  modded_noricum_region:0 "Noricum"
  modded_dalmatia_region:0 "Dalmatia"
+ modded_savia_region:0 "Savia"
+ modded_valeria_region:0 "Valeria"
  #Areas
  syracuse_area:0 "Syracuse"
  messina_area:0 "Messina"

@@ -11,6 +11,18 @@ modded_tmp_region = {
 	}
 }
 
+modded_savia_region = {
+	areas = {
+		
+	}
+}
+
+modded_valeria_region = {
+	areas = {
+		
+	}
+}
+
 modded_dalmatia_region = {
 	areas = {
 		tarsatica_area
