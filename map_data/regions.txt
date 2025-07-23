@@ -13,13 +13,22 @@ modded_tmp_region = {
 
 modded_savia_region = {
 	areas = {
-		
+		poetovio_area
+		siscia_area
+		sirmium_area
+		iasorum_area
+		mursa_area
 	}
 }
 
 modded_valeria_region = {
 	areas = {
-		
+		sopianae_area
+		gorsium_area
+		mogentianae_area
+		vindobona_area
+		savaria_area
+		sala_area
 	}
 }
 
