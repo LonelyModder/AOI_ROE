@@ -1,0 +1,4 @@
+mild_winter = LIST {  }
+normal_winter = LIST {  }
+severe_winter = LIST {  }
+arid = LIST {  }
