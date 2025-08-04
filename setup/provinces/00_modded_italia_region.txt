@@ -949,21 +949,39 @@
 }
 
 313={ 
-	terrain="plains"
-	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	terrain="farmland"
+	trade_goods="cloth"
+	religion="italiotan_pantheon"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
+		culture = gitaliote
+		religion = grecoid_pantheon
+	}
+	citizen={
+		amount=6
+	}
+	citizen={
+		amount=3
+		culture = gitaliote
+		religion = grecoid_pantheon
+	}
+	freemen={
 		amount=4
+	}	
+	freemen={
+		amount=3
+		culture = gitaliote
+		religion = grecoid_pantheon
+	}
+	tribesmen={
+		amount=3
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
