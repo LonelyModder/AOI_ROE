@@ -913,38 +913,54 @@
 311={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	citizen={
 		amount=1
-	}	
-	tribesmen={
+		culture = gitaliote
+		religion = grecoid_pantheon
+	}
+	freemen={
 		amount=4
+	}	
+	freemen={
+		amount=3
+		culture = gitaliote
+		religion = grecoid_pantheon
+	}
+	tribesmen={
+		amount=3
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 312={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=1
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=2
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -988,27 +1004,30 @@
 314={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=1
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=2
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
 315={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1045,8 +1064,8 @@
 317={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -33,7 +33,7 @@ family={
 			prestige=300
 		}
 		2={
-			key="Julia"
+			key="Julius"
 			owner=AAA
 			culture = rroman
 			prestige=300
@@ -45,7 +45,7 @@ family={
 			prestige=300
 		}
 		4={
-			key="Cornelia"
+			key="Cornelius"
 			owner=AAA
 			culture = rroman
 			prestige=300
@@ -79,7 +79,7 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	
 	#Buildings
-	
+	311 = { port_building = 1 }
 	
 	#Passes
 	
@@ -120,7 +120,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				313
+				313 311 312 314 315 317
 			}
 		}
 		
