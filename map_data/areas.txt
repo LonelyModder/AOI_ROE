@@ -96,7 +96,7 @@ cetium_area = {
 }
 
 solvia_area = { 
-    provinces = { 693 692 690 688 691 687 689 674 675 669  }    
+    provinces = { 693 692 690 688 691 687 689 674 675 669 }    
 }
 
 ovilva_area = { 

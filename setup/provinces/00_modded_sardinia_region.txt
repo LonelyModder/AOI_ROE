@@ -322,7 +322,7 @@
 }
 
 85={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
 	culture="nurage"
@@ -455,7 +455,7 @@
 }
 
 92={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
 	culture="nurage"
@@ -474,7 +474,7 @@
 }
 
 93={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="nuragian_pantheon"
 	culture="nurage"
