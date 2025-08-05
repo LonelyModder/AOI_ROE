@@ -1,19 +1,27 @@
 ﻿11={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gsicilian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
 	}	
 	tribesmen={
 		amount=4
+		religion="illyric_pantheon"
+		culture="isicelian"
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -37,7 +45,7 @@
 }
 
 13={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -56,45 +64,61 @@
 }
 
 21={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gsicilian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
 	}	
 	tribesmen={
 		amount=4
+		religion="illyric_pantheon"
+		culture="isicelian"
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 22={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gsicilian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
 	}	
 	tribesmen={
 		amount=4
+		religion="illyric_pantheon"
+		culture="isicelian"
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 23={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -113,7 +137,7 @@
 }
 
 24={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -132,7 +156,7 @@
 }
 
 25={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -170,7 +194,7 @@
 }
 
 27={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -189,7 +213,7 @@
 }
 
 28={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -208,7 +232,7 @@
 }
 
 29={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -227,7 +251,7 @@
 }
 
 30={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -246,7 +270,7 @@
 }
 
 31={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -265,7 +289,7 @@
 }
 
 32={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -284,7 +308,7 @@
 }
 
 33={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -303,7 +327,7 @@
 }
 
 34={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -322,7 +346,7 @@
 }
 
 35={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -341,7 +365,7 @@
 }
 
 36={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -360,7 +384,7 @@
 }
 
 37={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -379,7 +403,7 @@
 }
 
 38={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -398,7 +422,7 @@
 }
 
 39={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -417,10 +441,10 @@
 }
 
 40={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="sicanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -436,10 +460,10 @@
 }
 
 41={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="sicanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -455,10 +479,10 @@
 }
 
 42={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="sicanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -474,10 +498,10 @@
 }
 
 43={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="sicanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -493,7 +517,7 @@
 }
 
 44={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -512,10 +536,10 @@
 }
 
 45={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="sicanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -531,10 +555,10 @@
 }
 
 46={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="sicanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -550,13 +574,16 @@
 }
 
 47={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="sicanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}	
@@ -569,10 +596,10 @@
 }
 
 48={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="elymoi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -590,11 +617,14 @@
 49={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="elymoi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}	
@@ -607,7 +637,7 @@
 }
 
 50={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
