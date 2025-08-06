@@ -210,8 +210,8 @@
 504={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -362,8 +362,8 @@
 503={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -381,11 +381,14 @@
 507={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -628,8 +631,8 @@
 509={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -647,8 +650,8 @@
 510={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -666,8 +669,8 @@
 511={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -685,8 +688,8 @@
 518={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,8 +707,8 @@
 520={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -723,8 +726,8 @@
 508={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -742,8 +745,8 @@
 514={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -761,8 +764,8 @@
 519={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -780,8 +783,8 @@
 523={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -799,8 +802,8 @@
 521={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -818,8 +821,8 @@
 522={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -837,8 +840,8 @@
 524={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -875,8 +878,8 @@
 506={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -894,8 +897,8 @@
 512={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -913,8 +916,8 @@
 513={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -970,8 +973,8 @@
 517={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1008,8 +1011,8 @@
 502={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1027,8 +1030,8 @@
 505={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

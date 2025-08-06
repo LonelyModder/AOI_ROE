@@ -84,6 +84,7 @@ provinces = { #Any entry must contain a comment with city name.
 	#Buildings
 	311 = { port_building = 1 }
 	107 = { port_building = 1 }
+	504 = { port_building = 1 }
 	101 = { port_building = 1 }
 	260 = { port_building = 1 }
 	245 = { port_building = 1 }
@@ -484,7 +485,7 @@ country = {
 		}
 		
 		ABC = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = iumbrian
 			religion = italiotan_pantheon
 			capital = 299
@@ -557,7 +558,7 @@ country = {
 		}
 		
 		ABI = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = ioscan
 			religion = italiotan_pantheon
 			capital = 284
@@ -597,7 +598,19 @@ country = {
 			capital = 476
 			
 			own_control_core = 	{ 
-				476
+				476 466 467 475 474 468 469 470 461 462 464 460 463 465 
+			}
+		}
+		
+		ABM = {          
+			government = tribal_kingdom
+			primary_culture = lveneti
+			religion = illyric_pantheon
+			capital = 507
+			
+			own_control_core = 	{ 
+				503 504 505 507 510 502 508 506 509 512 
+				513 514 519 511 517 518 523 522 520 521 524
 			}
 		}
 	}
