@@ -1,5 +1,5 @@
 ﻿119={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gitaliote"
@@ -26,10 +26,10 @@
 }
 
 120={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -45,10 +45,10 @@
 }
 
 206={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -64,10 +64,10 @@
 }
 
 207={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -83,10 +83,10 @@
 }
 
 208={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -102,10 +102,10 @@
 }
 
 209={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -121,10 +121,10 @@
 }
 
 210={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -140,10 +140,10 @@
 }
 
 211={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -159,10 +159,10 @@
 }
 
 212={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -178,10 +178,10 @@
 }
 
 213={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 }
 
 214={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gitaliote"
@@ -224,10 +224,10 @@
 }
 
 215={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -243,13 +243,16 @@
 }
 
 216={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -262,10 +265,10 @@
 }
 
 217={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -281,10 +284,10 @@
 }
 
 218={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -300,10 +303,10 @@
 }
 
 219={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -319,10 +322,10 @@
 }
 
 220={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -338,10 +341,10 @@
 }
 
 221={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -359,8 +362,8 @@
 222={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -376,10 +379,10 @@
 }
 
 223={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -395,10 +398,10 @@
 }
 
 224={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -414,10 +417,10 @@
 }
 
 225={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -433,29 +436,37 @@
 }
 
 226={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gitaliote"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
 	}	
 	tribesmen={
 		amount=4
+		religion="illyric_pantheon"
+		culture="imessapi"
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 227={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -471,10 +482,10 @@
 }
 
 228={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -490,10 +501,10 @@
 }
 
 229={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -509,10 +520,10 @@
 }
 
 230={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -528,13 +539,16 @@
 }
 
 231={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -547,10 +561,10 @@
 }
 
 232={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -566,10 +580,10 @@
 }
 
 233={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -585,10 +599,10 @@
 }
 
 234={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -606,8 +620,8 @@
 235={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -623,10 +637,10 @@
 }
 
 236={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -644,8 +658,8 @@
 237={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -661,10 +675,10 @@
 }
 
 238={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -680,10 +694,10 @@
 }
 
 239={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -701,8 +715,8 @@
 240={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -718,10 +732,10 @@
 }
 
 241={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -737,10 +751,10 @@
 }
 
 242={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -758,11 +772,14 @@
 243={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}	
@@ -777,8 +794,8 @@
 244={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -794,10 +811,10 @@
 }
 
 245={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -815,8 +832,8 @@
 246={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -834,12 +851,12 @@
 247={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
 	tribesmen={
@@ -853,8 +870,8 @@
 248={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -872,8 +889,8 @@
 249={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -891,8 +908,8 @@
 250={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -908,10 +925,10 @@
 }
 
 251={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -927,10 +944,10 @@
 }
 
 252={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -946,10 +963,10 @@
 }
 
 253={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -1,8 +1,8 @@
 ﻿254={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -20,8 +20,8 @@
 255={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -39,8 +39,8 @@
 256={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -58,8 +58,8 @@
 257={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -75,10 +75,10 @@
 }
 
 258={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -96,8 +96,8 @@
 259={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -115,8 +115,8 @@
 260={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -134,8 +134,8 @@
 270={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -153,8 +153,8 @@
 271={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -170,7 +170,7 @@
 }
 
 272={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gitaliote"
@@ -197,29 +197,39 @@
 }
 
 273={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		religion="villanic_pantheon"
+		culture="etrusci"
+	}	
+	citizen={
+		amount=5
+		religion="villanic_pantheon"
+		culture="etrusci"
+	}	
+	freemen={
+		amount=5
 	}	
 	tribesmen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 274={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -237,8 +247,8 @@
 275={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -256,11 +266,14 @@
 276={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -275,8 +288,8 @@
 277={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -294,8 +307,8 @@
 278={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -313,8 +326,8 @@
 279={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -332,8 +345,8 @@
 280={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -349,10 +362,10 @@
 }
 
 281={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -370,8 +383,8 @@
 282={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -387,10 +400,10 @@
 }
 
 283={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -408,11 +421,14 @@
 284={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -427,8 +443,8 @@
 285={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -446,8 +462,8 @@
 286={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -465,8 +481,8 @@
 287={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -484,8 +500,8 @@
 288={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -503,11 +519,14 @@
 289={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -522,8 +541,8 @@
 290={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -539,10 +558,10 @@
 }
 
 291={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -558,13 +577,16 @@
 }
 
 292={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -579,8 +601,8 @@
 293={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -598,8 +620,8 @@
 294={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -617,8 +639,8 @@
 295={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -636,8 +658,8 @@
 296={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -655,8 +677,8 @@
 297={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -674,8 +696,8 @@
 298={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -693,11 +715,14 @@
 299={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -712,8 +737,8 @@
 300={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -731,8 +756,8 @@
 301={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -750,8 +775,8 @@
 302={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -769,8 +794,8 @@
 303={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -788,11 +813,14 @@
 304={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -807,11 +835,14 @@
 305={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -826,11 +857,14 @@
 306={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -845,8 +879,8 @@
 307={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -864,8 +898,8 @@
 308={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -881,14 +915,14 @@
 }
 
 309={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
 	tribesmen={
@@ -900,10 +934,10 @@
 }
 
 310={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -919,7 +953,7 @@
 }
 
 311={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="rroman"
@@ -951,7 +985,7 @@
 }
 
 312={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="rroman"
@@ -1007,10 +1041,11 @@
 	slaves={
 		amount=6
 	}
+	holy_site="omen_mjupiter"
 }
 
 314={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="rroman"
@@ -1053,11 +1088,14 @@
 316={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1091,8 +1129,8 @@
 318={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1110,8 +1148,8 @@
 319={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1129,8 +1167,8 @@
 320={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1146,10 +1184,10 @@
 }
 
 321={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1165,10 +1203,10 @@
 }
 
 322={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1184,10 +1222,10 @@
 }
 
 323={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1203,13 +1241,16 @@
 }
 
 324={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1224,8 +1265,8 @@
 325={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1243,8 +1284,8 @@
 326={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1262,8 +1303,8 @@
 327={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1317,7 +1358,7 @@
 }
 
 330={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1336,7 +1377,7 @@
 }
 
 331={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1357,11 +1398,14 @@
 332={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1376,8 +1420,8 @@
 333={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1395,8 +1439,8 @@
 334={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1414,8 +1458,8 @@
 335={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1433,8 +1477,8 @@
 336={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1490,8 +1534,8 @@
 339={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1507,36 +1551,39 @@
 }
 
 340={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 341={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1545,17 +1592,17 @@
 }
 
 342={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1566,15 +1613,15 @@
 343={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1585,15 +1632,15 @@
 344={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1602,36 +1649,39 @@
 }
 
 345={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 346={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1642,34 +1692,37 @@
 347={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 348={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1680,34 +1733,37 @@
 349={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 350={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1716,55 +1772,61 @@
 }
 
 351={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 352={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 353={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1775,15 +1837,15 @@
 354={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1794,15 +1856,15 @@
 355={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1813,15 +1875,15 @@
 356={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1832,15 +1894,15 @@
 357={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1851,15 +1913,15 @@
 358={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1870,53 +1932,59 @@
 359={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 360={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 361={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1927,15 +1995,15 @@
 362={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1946,15 +2014,15 @@
 363={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1963,17 +2031,17 @@
 }
 
 364={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1984,15 +2052,15 @@
 365={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2001,17 +2069,17 @@
 }
 
 366={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2022,34 +2090,37 @@
 367={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 368={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2058,17 +2129,17 @@
 }
 
 369={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={

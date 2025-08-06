@@ -85,6 +85,9 @@ provinces = { #Any entry must contain a comment with city name.
 	311 = { port_building = 1 }
 	107 = { port_building = 1 }
 	101 = { port_building = 1 }
+	260 = { port_building = 1 }
+	245 = { port_building = 1 }
+	233 = { port_building = 1 }
 	85 = { port_building = 1 }
 	97 = { port_building = 1 }
 	53 = { port_building = 2 }
@@ -137,7 +140,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				313 311 312 314 315 317
+				313 311 312 314 315 317 325 303
 			}
 		}
 		
@@ -218,7 +221,9 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				349
+				360 361 359 365 366 368 367 362 358 369
+				346 347 345 344 343 342 341 340 350 348
+				351 352 354 355 353 357 356 349 363 364
 			}
 		}
 		
@@ -352,6 +357,114 @@ country = {
 			}
 		}
 		
+		AAP = {          
+			government = aristocratic_republic
+			primary_culture = gitaliote
+			religion = grecoid_pantheon
+			capital = 226
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				226
+			}
+		}
+		
+		AAR = {          
+			government = tribal_kingdom
+			primary_culture = imessapi
+			religion = illyric_pantheon
+			capital = 243
+			
+			own_control_core = 	{ 
+				243 233 234 240 239 241 242 244 232
+			}
+		}
+		
+		AAS = {          
+			government = tribal_kingdom
+			primary_culture = imessapi
+			religion = illyric_pantheon
+			capital = 247
+			
+			own_control_core = 	{ 
+				245 246 247 248 249
+			}
+		}
+		
+		AAT = {          
+			government = tribal_kingdom
+			primary_culture = imessapi
+			religion = illyric_pantheon
+			capital = 276
+			
+			own_control_core = 	{ 
+				276 258 259 260 270 277
+			}
+		}
+		
+		AAU = {          
+			government = tribal_federation
+			primary_culture = ioscan
+			religion = italiotan_pantheon
+			capital = 216
+			
+			own_control_core = 	{ 
+				218 220 219 216 217 215 221 213
+				212 211 208 207 120 206 209 210
+			}
+		}
+		
+		AAW = {          
+			government = tribal_federation
+			primary_culture = ioscan
+			religion = italiotan_pantheon
+			capital = 231
+			
+			own_control_core = 	{ 
+				238 252 230 227 228 229 223 231 
+				224 222 235 225 236 237 250 251 253
+			}
+		}
+		
+		AAY = {          
+			government = tribal_federation
+			primary_culture = ioscan
+			religion = italiotan_pantheon
+			capital = 289
+			
+			own_control_core = 	{ 
+				289 294 293 290 291 286 287 285 280 279 278 257
+			}
+		}
+		
+		AAZ = {          
+			government = tribal_federation
+			primary_culture = iumbrian
+			religion = italiotan_pantheon
+			capital = 332  
+			
+			own_control_core = 	{ 
+				332 333 335 334 339 336
+			}
+		}
+		
+		ABA = {          
+			government = tribal_kingdom
+			primary_culture = ioscan
+			religion = italiotan_pantheon
+			capital = 316
+			
+			own_control_core = 	{ 
+				316 318 319 326
+			}
+		}
+		
 		ABB = {          
 			government = aristocratic_republic
 			primary_culture = punici
@@ -367,6 +480,112 @@ country = {
 			
 			own_control_core = 	{ 
 				50 44
+			}
+		}
+		
+		ABC = {          
+			government = tribal_kingdom
+			primary_culture = iumbrian
+			religion = italiotan_pantheon
+			capital = 299
+			
+			own_control_core = 	{ 
+				299 298 301 302
+			}
+		}
+		
+		ABD = {          
+			government = tribal_kingdom
+			primary_culture = ioscan
+			religion = italiotan_pantheon
+			capital = 292
+			
+			own_control_core = 	{ 
+				292 288 295 296
+			}
+		}
+		
+		ABE = {     
+			government = aristocratic_republic
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 273
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				273 283 271 274 275 254 255 256
+			}
+		}
+		
+		ABF = {          
+			government = tribal_kingdom
+			primary_culture = iumbrian
+			religion = italiotan_pantheon
+			capital = 305
+			
+			own_control_core = 	{ 
+				305 
+			}
+		}
+		
+		ABG = {          
+			government = tribal_kingdom
+			primary_culture = ioscan
+			religion = italiotan_pantheon
+			capital = 306
+			
+			own_control_core = 	{ 
+				306 308
+			}
+		}
+		
+		ABH = {          
+			government = tribal_kingdom
+			primary_culture = iumbrian
+			religion = italiotan_pantheon
+			capital = 304
+			
+			own_control_core = 	{ 
+				304 307
+			}
+		}
+		
+		ABI = {          
+			government = tribal_kingdom
+			primary_culture = ioscan
+			religion = italiotan_pantheon
+			capital = 284
+			
+			own_control_core = 	{ 
+				284 281 282 300
+			}
+		}
+		
+		ABJ = {          
+			government = tribal_kingdom
+			primary_culture = iumbrian
+			religion = italiotan_pantheon
+			capital = 309
+			
+			own_control_core = 	{ 
+				309 310 297
+			}
+		}
+		
+		ABK = {          
+			government = tribal_kingdom
+			primary_culture = ipicentes
+			religion = italiotan_pantheon
+			capital = 324
+			
+			own_control_core = 	{ 
+				324 321 320 327 322 323
 			}
 		}
 		
