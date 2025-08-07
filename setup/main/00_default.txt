@@ -83,6 +83,9 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	311 = { port_building = 1 }
+	345 = { port_building = 1 }
+	366 = { port_building = 1 }
+	361 = { port_building = 1 }
 	529 = { port_building = 1 }
 	107 = { port_building = 1 }
 	772 = { port_building = 1 }
@@ -648,6 +651,17 @@ country = {
 			
 			own_control_core = 	{ 
 				531 530 529 532 533 528 527
+			}
+		}
+		
+		ABP = {          
+			government = tribal_kingdom
+			primary_culture = lcisalpine
+			religion = liguric_pantheon
+			capital = 447
+			
+			own_control_core = 	{ 
+				448 447
 			}
 		}
 	}
