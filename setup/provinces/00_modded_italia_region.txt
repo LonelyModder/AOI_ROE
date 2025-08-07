@@ -18,7 +18,7 @@
 }
 
 255={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -37,7 +37,7 @@
 }
 
 256={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -56,7 +56,7 @@
 }
 
 257={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -113,7 +113,7 @@
 }
 
 260={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="illyric_pantheon"
 	culture="imessapi"
@@ -132,7 +132,7 @@
 }
 
 270={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="illyric_pantheon"
 	culture="imessapi"
@@ -286,7 +286,7 @@
 }
 
 277={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="illyric_pantheon"
 	culture="imessapi"
@@ -305,7 +305,7 @@
 }
 
 278={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -463,7 +463,7 @@
 }
 
 286={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -482,7 +482,7 @@
 }
 
 287={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -542,7 +542,7 @@
 }
 
 290={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -602,7 +602,7 @@
 }
 
 293={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -716,7 +716,7 @@
 }
 
 299={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
@@ -760,7 +760,7 @@
 }
 
 301={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
@@ -798,7 +798,7 @@
 }
 
 303={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="rroman"
@@ -999,13 +999,25 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount=6
+	}
+	citizen={
+		amount=1
+		religion="villanic_pantheon"
+		culture="rutulic"
 	}
 	freemen={
-		amount=2
+		amount=4
 	}	
-	tribesmen={
+	freemen={
 		amount=2
+		religion="villanic_pantheon"
+		culture="rutulic"
+	}
+	tribesmen={
+		amount=8
+		religion="villanic_pantheon"
+		culture="rutulic"
 	}
 	slaves={
 		amount=4
@@ -1073,7 +1085,7 @@
 }
 
 315={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="rroman"
@@ -1092,7 +1104,7 @@
 }
 
 316={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -1171,7 +1183,7 @@
 }
 
 320={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ipicentes"
@@ -1288,7 +1300,7 @@
 }
 
 326={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -1345,7 +1357,7 @@
 }
 
 329={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1462,7 +1474,7 @@
 }
 
 335={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
@@ -1500,7 +1512,7 @@
 }
 
 337={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1519,7 +1531,7 @@
 }
 
 338={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1538,7 +1550,7 @@
 }
 
 339={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
@@ -1696,7 +1708,7 @@
 }
 
 347={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="villanic_pantheon"
 	culture="etrusci"
@@ -1718,7 +1730,7 @@
 }
 
 348={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="villanic_pantheon"
 	culture="etrusci"
@@ -1759,7 +1771,7 @@
 }
 
 350={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="villanic_pantheon"
 	culture="etrusci"

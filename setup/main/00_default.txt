@@ -83,7 +83,10 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	311 = { port_building = 1 }
+	529 = { port_building = 1 }
 	107 = { port_building = 1 }
+	772 = { port_building = 1 }
+	725 = { port_building = 1 }
 	504 = { port_building = 1 }
 	101 = { port_building = 1 }
 	260 = { port_building = 1 }
@@ -137,6 +140,10 @@ country = {
 				{
 					culture = gitaliote 
 					type = nobles
+				}
+				{
+					culture = rutulic 
+					type = citizen
 				}
 			}
 			
@@ -519,6 +526,13 @@ country = {
 				religious_tech= { level=1 progress=0  }
 			}
 			
+			poptype_rights = {
+				{
+					culture = ioscan 
+					type = citizen
+				}
+			}
+			
 			own_control_core = 	{ 
 				273 283 271 274 275 254 255 256
 			}
@@ -611,6 +625,29 @@ country = {
 			own_control_core = 	{ 
 				503 504 505 507 510 502 508 506 509 512 
 				513 514 519 511 517 518 523 522 520 521 524
+			}
+		}
+		
+		ABN = {          
+			government = tribal_kingdom
+			primary_culture = lliburni
+			religion = illyric_pantheon
+			capital = 739
+			
+			own_control_core = 	{ 
+				739 740 738 734 733 730 727 724 725 
+				726 771 772 773 741 743
+			}
+		}
+		
+		ABO = {          
+			government = tribal_kingdom
+			primary_culture = castelieric
+			religion = illyric_pantheon
+			capital = 531
+			
+			own_control_core = 	{ 
+				531 530 529 532 533 528 527
 			}
 		}
 	}
