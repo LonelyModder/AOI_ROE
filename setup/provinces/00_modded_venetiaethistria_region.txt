@@ -1202,7 +1202,7 @@
 }
 
 496={ 
-	terrain="mountain"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1221,7 +1221,7 @@
 }
 
 498={ 
-	terrain="mountain"
+	terrain="hills"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"

@@ -1,5 +1,5 @@
 ﻿914={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -18,7 +18,7 @@
 }
 
 916={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -75,7 +75,7 @@
 }
 
 919={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -94,7 +94,7 @@
 }
 
 920={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -113,7 +113,7 @@
 }
 
 921={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -132,7 +132,7 @@
 }
 
 922={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -189,7 +189,7 @@
 }
 
 925={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -265,7 +265,7 @@
 }
 
 929={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -322,7 +322,7 @@
 }
 
 932={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -360,7 +360,7 @@
 }
 
 934={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -379,7 +379,7 @@
 }
 
 935={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -398,7 +398,7 @@
 }
 
 939={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -417,7 +417,7 @@
 }
 
 940={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -436,7 +436,7 @@
 }
 
 941={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -455,7 +455,7 @@
 }
 
 942={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -474,7 +474,7 @@
 }
 
 943={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -493,7 +493,7 @@
 }
 
 944={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -512,7 +512,7 @@
 }
 
 945={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -531,7 +531,7 @@
 }
 
 946={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -550,7 +550,7 @@
 }
 
 947={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -569,7 +569,7 @@
 }
 
 948={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -588,7 +588,7 @@
 }
 
 949={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -607,7 +607,7 @@
 }
 
 950={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -626,7 +626,7 @@
 }
 
 951={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -645,7 +645,7 @@
 }
 
 952={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -664,7 +664,7 @@
 }
 
 953={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -683,7 +683,7 @@
 }
 
 954={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -702,7 +702,7 @@
 }
 
 955={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -721,7 +721,7 @@
 }
 
 956={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -740,7 +740,7 @@
 }
 
 957={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -759,7 +759,7 @@
 }
 
 958={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -778,7 +778,7 @@
 }
 
 959={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -797,7 +797,7 @@
 }
 
 960={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -816,7 +816,7 @@
 }
 
 961={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -835,7 +835,7 @@
 }
 
 962={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -854,7 +854,7 @@
 }
 
 963={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -873,7 +873,7 @@
 }
 
 964={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -892,7 +892,7 @@
 }
 
 965={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -911,7 +911,7 @@
 }
 
 966={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -930,7 +930,7 @@
 }
 
 967={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -949,7 +949,7 @@
 }
 
 968={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -968,7 +968,7 @@
 }
 
 969={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -987,7 +987,7 @@
 }
 
 970={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1006,7 +1006,7 @@
 }
 
 971={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1025,7 +1025,7 @@
 }
 
 972={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1044,7 +1044,7 @@
 }
 
 973={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1063,7 +1063,7 @@
 }
 
 974={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1082,7 +1082,7 @@
 }
 
 975={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1101,7 +1101,7 @@
 }
 
 976={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1120,7 +1120,7 @@
 }
 
 977={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1139,7 +1139,7 @@
 }
 
 978={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1158,7 +1158,7 @@
 }
 
 979={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1177,7 +1177,7 @@
 }
 
 980={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1196,7 +1196,7 @@
 }
 
 981={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1215,7 +1215,7 @@
 }
 
 982={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1234,7 +1234,7 @@
 }
 
 983={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1253,7 +1253,7 @@
 }
 
 984={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1272,7 +1272,7 @@
 }
 
 985={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1291,7 +1291,7 @@
 }
 
 986={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1310,7 +1310,7 @@
 }
 
 987={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1329,7 +1329,7 @@
 }
 
 988={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
