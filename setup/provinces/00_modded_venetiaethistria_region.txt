@@ -403,8 +403,8 @@
 525={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lcarnian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -422,11 +422,14 @@
 526={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lcarnian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -577,8 +580,8 @@
 534={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lcarnian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -596,8 +599,8 @@
 535={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lcarnian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -615,8 +618,8 @@
 536={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="lcarnian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -862,11 +865,14 @@
 501={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="eugeneian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -995,8 +1001,8 @@
 499={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="eugeneian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1185,8 +1191,8 @@
 495={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="eugeneian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1204,8 +1210,8 @@
 496={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="eugeneian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1223,8 +1229,8 @@
 498={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="eugeneian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
