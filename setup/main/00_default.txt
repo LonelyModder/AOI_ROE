@@ -664,6 +664,28 @@ country = {
 				448 447
 			}
 		}
+		
+		ABS = {          
+			government = tribal_kingdom
+			primary_culture = lliburni
+			religion = illyric_pantheon
+			capital = 381
+			
+			own_control_core = 	{ 
+				737 736 747 749 735 750 753 755 751 748
+			}
+		}
+		
+		ABT = {          
+			government = tribal_kingdom
+			primary_culture = lcisalpine
+			religion = liguric_pantheon
+			capital = 410
+			
+			own_control_core = 	{ 
+				410 420
+			}
+		}
 	}
 }
 
