@@ -856,7 +856,164 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				494 423 421 422 493 492 490 483 482 424 428 431 434 433 430 426 427 396 397 395 
+				494 423 421 422 493 492 490 483 482 424 
+				428 431 434 433 430 426 427 396 397 395 
+			}
+		}
+		
+		ACL = {          
+			government = tribal_kingdom
+			primary_culture = cvindelician
+			religion = celtic_pantheon
+			capital = 624
+			
+			own_control_core = 	{ 
+				630 632 633 629 628 624 627 626 625 613
+				614 619 617 618 623 622 636 638 639 640 637 
+			}
+		}
+		
+		ACM = {          
+			government = tribal_kingdom
+			primary_culture = ctauriscian
+			religion = celtic_pantheon
+			capital = 651
+			
+			own_control_core = 	{ 
+				651 652 647 650 649 648 646 655 654 653
+			}
+		}
+		
+		ACN = {          
+			government = tribal_kingdom
+			primary_culture = cvindelician
+			religion = celtic_pantheon
+			capital = 644
+			
+			own_control_core = 	{ 
+				644 631 645 643 642 641
+			}
+		}
+		
+		ACO = {          
+			government = tribal_kingdom
+			primary_culture = ctauriscian
+			religion = celtic_pantheon
+			capital = 664
+			
+			own_control_core = 	{ 
+				664 663 662 656 661 660 666 658 665
+			}
+		}
+		
+		ACP = {          
+			government = tribal_kingdom
+			primary_culture = ctauriscian
+			religion = celtic_pantheon
+			capital = 594
+			
+			own_control_core = 	{ 
+				594 586 584 596 582
+			}
+		}
+		
+		ACR = {          
+			government = tribal_kingdom
+			primary_culture = ctauriscian
+			religion = celtic_pantheon
+			capital = 593
+			
+			own_control_core = 	{ 
+				593 595 590 591 589 588 587 585 583 581
+			}
+		}
+		
+		ACS = {          
+			government = tribal_kingdom
+			primary_culture = ctauriscian
+			religion = celtic_pantheon
+			capital = 686
+			
+			own_control_core = 	{ 
+				686 685 683 684 681 682 680 679 670 
+				954 956 955 953 952 678 677 
+			}
+		}
+		
+		ACT = {          
+			government = tribal_kingdom
+			primary_culture = csedunian
+			religion = celtic_pantheon
+			capital = 473
+			
+			own_control_core = 	{ 
+				473 472 471
+			}
+		}
+		
+		ACU = {          
+			government = tribal_kingdom
+			primary_culture = ideurian
+			religion = illyric_pantheon
+			capital = 761
+			
+			own_control_core = 	{ 
+				761 758 766 770 768 752 865 866 864 863 824 876 877 878 862 861
+			}
+		}
+		
+		ACW = {          
+			government = tribal_kingdom
+			primary_culture = idelmatian
+			religion = illyric_pantheon
+			capital = 808
+			
+			own_control_core = 	{ 
+				805 793 790 806 808 800 789 807 809 811
+			}
+		}
+		
+		ACY = {          
+			government = tribal_kingdom
+			primary_culture = camunnic
+			religion = villanic_pantheon
+			capital = 487
+			
+			own_control_core = 	{ 
+				487 488 489
+			}
+		}
+		
+		ACZ = {          
+			government = tribal_kingdom
+			primary_culture = raetic
+			religion = villanic_pantheon
+			capital = 539 
+			
+			own_control_core = 	{ 
+				539 537 497 477 478
+			}
+		}
+		
+		ADA = {          
+			government = tribal_kingdom
+			primary_culture = raetic
+			religion = villanic_pantheon
+			capital = 579
+			
+			own_control_core = 	{ 
+				579 580 578 577 635 634 612 611 610 575 576 574 573 572 500 538 571
+			}
+		}
+		
+		ADB = {          
+			government = tribal_kingdom
+			primary_culture = ideurian
+			religion = illyric_pantheon
+			capital = 415
+			
+			own_control_core = 	{ 
+				
 			}
 		}
 	}

@@ -648,7 +648,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cpannonian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -667,7 +667,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cpannonian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -686,7 +686,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cpannonian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -705,7 +705,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cpannonian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -724,7 +724,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="cpannonian"
+	culture="ctauriscian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

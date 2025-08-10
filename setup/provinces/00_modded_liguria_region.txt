@@ -1355,8 +1355,8 @@
 471={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="csedunian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1374,8 +1374,8 @@
 472={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="csedunian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1393,11 +1393,14 @@
 473={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="csedunian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	

@@ -539,8 +539,8 @@
 752={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -653,8 +653,8 @@
 758={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -713,11 +713,14 @@
 761={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -808,8 +811,8 @@
 766={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -846,8 +849,8 @@
 768={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -884,8 +887,8 @@
 770={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1254,8 +1257,8 @@
 789={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1273,8 +1276,8 @@
 790={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1330,8 +1333,8 @@
 793={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1463,8 +1466,8 @@
 800={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1558,8 +1561,8 @@
 805={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1577,8 +1580,8 @@
 806={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1596,8 +1599,8 @@
 807={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1615,11 +1618,14 @@
 808={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1634,8 +1640,8 @@
 809={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1672,8 +1678,8 @@
 811={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1919,8 +1925,8 @@
 824={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

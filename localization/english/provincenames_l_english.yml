@@ -803,11 +803,11 @@
  PROV801:0 "Mamnica"
  PROV802:0 "Numuria"
  PROV803:0 "Pulatania"
- PROV804:0 "Hemnica"
+ PROV804:0 "Ianerus"
  PROV805:0 "Iurnellia"
  PROV806:0 "Ievia"
  PROV807:0 "Povia"
- PROV808:0 "Ianerus"
+ PROV808:0 "Hemnica"
  PROV809:0 "Lamavia"
  PROV810:0 "Paesitus"
  PROV811:0 "Samae Hercula"
@@ -988,5 +988,6 @@
  PROV986:0 "Brigetio"
  PROV987:0 "Bimeria"
  PROV988:0 "Nercetia"
+ PROV989:0 ""
  #Changeble province names
  
