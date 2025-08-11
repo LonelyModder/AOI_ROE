@@ -63,6 +63,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -457,8 +460,8 @@
 891={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -557,6 +560,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -609,11 +615,14 @@
 889={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -628,8 +637,8 @@
 890={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -647,8 +656,8 @@
 887={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -666,8 +675,8 @@
 888={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -728,6 +737,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -894,8 +906,8 @@
 881={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1046,12 +1058,12 @@
 882={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
 	tribesmen={
@@ -1065,8 +1077,8 @@
 883={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1084,8 +1096,8 @@
 884={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1103,8 +1115,8 @@
 885={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1122,8 +1134,8 @@
 886={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="celtic_pantheon"
-	culture="cpannonian"
+	religion="illyric_pantheon"
+	culture="ideurian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

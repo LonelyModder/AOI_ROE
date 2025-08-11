@@ -107,6 +107,7 @@ provinces = { #Any entry must contain a comment with city name.
 	11 = { port_building = 2 }
 	50 = { port_building = 2 }
 	44 = { port_building = 2 }
+	26 = { port_building = 2 }
 	
 	#Passes
 	108 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -491,7 +492,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				50 44
+				50 44 26
 			}
 		}
 		
@@ -838,7 +839,7 @@ country = {
 			capital = 760
 			
 			own_control_core = 	{ 
-				760 762 759 757 756 754 767
+				760 762 759 757 756 754 767 769 796
 			}
 		}
 		
@@ -856,8 +857,8 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				494 423 421 422 493 492 490 483 482 424 
-				428 431 434 433 430 426 427 396 397 395 
+				494 423 421 422 493 492 490 483 482 424 432 429 425 393 394 391 
+				428 431 434 433 430 426 427 396 397 395 484 491 390 389 386 387 388
 			}
 		}
 		
@@ -902,7 +903,7 @@ country = {
 			capital = 664
 			
 			own_control_core = 	{ 
-				664 663 662 656 661 660 666 658 665
+				664 663 662 656 661 660 666 658 665 659
 			}
 		}
 		
@@ -1010,10 +1011,169 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ideurian
 			religion = illyric_pantheon
-			capital = 415
+			capital = 882
 			
 			own_control_core = 	{ 
-				
+				882 881 883 884 886 885 819 817 820 823 822 821
+			}
+		}
+		
+		ADC = {          
+			government = tribal_kingdom
+			primary_culture = ideurian
+			religion = illyric_pantheon
+			capital = 889 
+			
+			own_control_core = 	{ 
+				890 891 889 888 887 818 814 815 816 810 812 813
+			}
+		}
+		
+		ADE = {          
+			government = tribal_kingdom
+			primary_culture = idelmatian
+			religion = illyric_pantheon
+			capital = 791
+			
+			own_control_core = 	{ 
+				791 792 799 782 794 798 802 803 804 797 795 801
+			}
+		}
+		
+		ADF = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = celtic_pantheon
+			capital = 896
+			
+			own_control_core = 	{ 
+				896 894 895 893 892 898 897 899 900
+			}
+		}
+		
+		ADG = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = celtic_pantheon
+			capital = 871
+			
+			own_control_core = 	{ 
+				871 868 869 867 870 872 873 875 874
+			}
+		}
+		
+		ADH = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = celtic_pantheon
+			capital = 945
+			
+			own_control_core = 	{ 
+				945 944 946 949 943 942 938 937 936 
+				940 935 939 959 948 947 950 957 958
+				693 692 689
+			}
+		}
+		
+		ADI = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = celtic_pantheon
+			capital = 978
+			
+			own_control_core = 	{ 
+				976 975 974 973 921 978 979 980 988 987 985 986
+				971 972 981 982 983 984 941 970 977
+			}
+		}
+		
+		ADJ = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = celtic_pantheon
+			capital = 909
+			
+			own_control_core = 	{ 
+				909 907 879 880 901 902 908 903 912 
+				911 913 910 906 904 905
+			}
+		}
+		
+		ADK = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = celtic_pantheon
+			capital = 929
+			
+			own_control_core = 	{ 
+				928 934 932 929 922 933 931 925 920 919
+			}
+		}
+		
+		ADL = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = celtic_pantheon
+			capital = 924 
+			
+			own_control_core = 	{ 
+				924 918 917 923 916 914 927 926 930
+			}
+		}
+		
+		ADM = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = celtic_pantheon
+			capital = 962 
+			
+			own_control_core = 	{ 
+				962 961 963 966 967 968 969 964 965 951 960
+			}
+		}
+		
+		ADN = {          
+			government = tribal_kingdom
+			primary_culture = ctauriscian
+			religion = celtic_pantheon
+			capital = 673 
+			
+			own_control_core = 	{ 
+				673 671 672 688 691 690 687 674 675 676 
+				667 668 669 600 601 602 599 598
+			}
+		}
+		
+		ADO = {          
+			government = tribal_kingdom
+			primary_culture = ctauriscian
+			religion = celtic_pantheon
+			capital = 516 
+			
+			own_control_core = 	{ 
+				516 515
+			}
+		}
+		
+		ADP = {          
+			government = tribal_kingdom
+			primary_culture = csedunian
+			religion = celtic_pantheon
+			capital = 560 
+			
+			own_control_core = 	{ 
+				560 558 561 562 563 565 559 570 569 568 567
+			}
+		}
+		
+		ADR = {          
+			government = tribal_kingdom
+			primary_culture = epicenic
+			religion = villanic_pantheon
+			capital = 330 
+			
+			own_control_core = 	{ 
+				330 331 337 338 329 328
 			}
 		}
 	}

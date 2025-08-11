@@ -949,6 +949,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1252,7 +1255,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="ctauriscian"
+	culture="cpannonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1309,7 +1312,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="ctauriscian"
+	culture="cpannonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1328,7 +1331,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="celtic_pantheon"
-	culture="ctauriscian"
+	culture="cpannonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
