@@ -617,7 +617,7 @@ country = {
 			capital = 476
 			
 			own_control_core = 	{ 
-				476 466 467 475 474 468 469 470 461 462 464 460 463 465 454
+				476 466 467 475 474 468 469 470 461 462 464 460 463 465 454 480 481 485 486 479
 			}
 		}
 		
@@ -847,7 +847,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = etrusci
 			religion = villanic_pantheon
-			capital = 494
+			capital = 396
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -857,7 +857,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				494 423 421 422 493 492 490 483 482 424 432 429 425 393 394 391 
+				494 423 421 422 493 492 490 483 482 424 429 425 393 394 391 
 				428 431 434 433 430 426 427 396 397 395 484 491 390 389 386 387 388
 			}
 		}
@@ -1174,6 +1174,17 @@ country = {
 			
 			own_control_core = 	{ 
 				330 331 337 338 329 328
+			}
+		}
+		
+		ADS = {          
+			government = tribal_kingdom
+			primary_culture = lcisalpine
+			religion = liguric_pantheon
+			capital = 437 
+			
+			own_control_core = 	{ 
+				437 438 440 436 435 432
 			}
 		}
 	}

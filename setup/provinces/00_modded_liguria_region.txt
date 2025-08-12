@@ -466,8 +466,8 @@
 425={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -485,8 +485,8 @@
 426={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -504,8 +504,8 @@
 427={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -523,8 +523,8 @@
 428={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -542,8 +542,8 @@
 429={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,8 +561,8 @@
 430={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -580,8 +580,8 @@
 431={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -599,8 +599,8 @@
 432={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="liguric_pantheon"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -618,8 +618,8 @@
 433={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -637,8 +637,8 @@
 434={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -656,8 +656,8 @@
 435={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="liguric_pantheon"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -675,8 +675,8 @@
 436={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="liguric_pantheon"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -694,11 +694,14 @@
 437={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="liguric_pantheon"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -713,8 +716,8 @@
 438={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="liguric_pantheon"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -751,8 +754,8 @@
 440={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="liguric_pantheon"
+	culture="lcisalpine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

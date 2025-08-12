@@ -889,8 +889,8 @@
  ABJ_ADJ:0 "Vestinian"
  ABK:0 "Picenum"
  ABK_ADJ:0 "Picenian"
- ABL:0 "Insubres"
- ABL_ADJ:0 "Insubrian"
+ ABL:0 "Lepontic Conphederacy"
+ ABL_ADJ:0 "Lepontic"
  ABM:0 "Venetia"
  ABM_ADJ:0 "Veneti"
  ABN:0 "Liburnia"
@@ -989,8 +989,8 @@
  ADP_ADJ:0 "Vennonian"
  ADR:0 "Picentia"
  ADR_ADJ:0 "Picentian"
- ADS:0 "Additional"
- ADS_ADJ:0 "Additional"
+ ADS:0 "Veleiatia"
+ ADS_ADJ:0 "Veleiatian"
  
  #Modded Formables
  ITALIA_NAME:0 "Italia"
