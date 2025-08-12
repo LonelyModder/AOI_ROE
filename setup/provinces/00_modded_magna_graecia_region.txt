@@ -1,6 +1,6 @@
 ﻿119={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="grecoid_pantheon"
 	culture="gitaliote"
 	civilization_value=0
@@ -103,7 +103,7 @@
 
 209={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
