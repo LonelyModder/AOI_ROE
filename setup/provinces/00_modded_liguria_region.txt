@@ -1,6 +1,6 @@
 ﻿392={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 398={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -37,8 +37,8 @@
 }
 
 399={ 
-	terrain="forest"
-	trade_goods="spices"
+	terrain="plains"
+	trade_goods="fish"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -59,8 +59,8 @@
 }
 
 400={ 
-	terrain="forest"
-	trade_goods="spices"
+	terrain="plains"
+	trade_goods="marble"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -98,7 +98,7 @@
 
 402={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -155,7 +155,7 @@
 
 405={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -174,7 +174,7 @@
 
 406={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -193,7 +193,7 @@
 
 407={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -250,7 +250,7 @@
 
 410={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -272,7 +272,7 @@
 
 411={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -291,7 +291,7 @@
 
 412={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -310,7 +310,7 @@
 
 413={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -332,7 +332,7 @@
 
 414={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -370,7 +370,7 @@
 
 416={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -389,7 +389,7 @@
 
 417={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -408,7 +408,7 @@
 
 418={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -427,7 +427,7 @@
 
 419={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -446,7 +446,7 @@
 
 420={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -465,7 +465,7 @@
 
 425={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -484,7 +484,7 @@
 
 426={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -503,7 +503,7 @@
 
 427={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -522,7 +522,7 @@
 
 428={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -541,7 +541,7 @@
 
 429={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -560,7 +560,7 @@
 
 430={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -579,7 +579,7 @@
 
 431={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -598,7 +598,7 @@
 
 432={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -617,7 +617,7 @@
 
 433={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -636,7 +636,7 @@
 
 434={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="villanic_pantheon"
 	culture="epicenic"
 	civilization_value=0
@@ -655,7 +655,7 @@
 
 435={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -674,7 +674,7 @@
 
 436={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -693,7 +693,7 @@
 
 437={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -734,7 +734,7 @@
 
 439={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -772,7 +772,7 @@
 
 441={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -791,7 +791,7 @@
 
 442={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -813,7 +813,7 @@
 
 443={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -854,7 +854,7 @@
 
 445={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -873,7 +873,7 @@
 
 446={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -933,7 +933,7 @@
 
 449={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -952,7 +952,7 @@
 
 450={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -1012,7 +1012,7 @@
 
 453={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="liguric_pantheon"
 	culture="lcisalpine"
 	civilization_value=0
@@ -1031,7 +1031,7 @@
 
 454={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1148,7 +1148,7 @@
 
 460={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1167,7 +1167,7 @@
 
 461={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1186,7 +1186,7 @@
 
 462={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1205,7 +1205,7 @@
 
 463={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1224,7 +1224,7 @@
 
 464={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1243,7 +1243,7 @@
 
 465={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1262,7 +1262,7 @@
 
 466={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1281,7 +1281,7 @@
 
 467={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1300,7 +1300,7 @@
 
 468={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1319,7 +1319,7 @@
 
 469={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1338,7 +1338,7 @@
 
 470={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1417,7 +1417,7 @@
 
 474={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
@@ -1436,7 +1436,7 @@
 
 475={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="clepontic"
 	civilization_value=0
