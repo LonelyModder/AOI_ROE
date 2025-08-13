@@ -27,7 +27,7 @@
 
 120={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -46,7 +46,7 @@
 
 206={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -65,7 +65,7 @@
 
 207={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -84,7 +84,7 @@
 
 208={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -103,7 +103,7 @@
 
 209={ 
 	terrain="hills"
-	trade_goods="glass"
+	trade_goods="earthware"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -122,7 +122,7 @@
 
 210={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -141,7 +141,7 @@
 
 211={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -160,7 +160,7 @@
 
 212={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -179,7 +179,7 @@
 
 213={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -198,7 +198,7 @@
 
 214={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="grecoid_pantheon"
 	culture="gitaliote"
 	civilization_value=0
@@ -225,7 +225,7 @@
 
 215={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -244,7 +244,7 @@
 
 216={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -266,7 +266,7 @@
 
 217={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -285,7 +285,7 @@
 
 218={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -304,7 +304,7 @@
 
 219={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -323,7 +323,7 @@
 
 220={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -361,7 +361,7 @@
 
 222={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -380,7 +380,7 @@
 
 223={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -399,7 +399,7 @@
 
 224={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -418,7 +418,7 @@
 
 225={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -437,7 +437,7 @@
 
 226={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="grecoid_pantheon"
 	culture="gitaliote"
 	civilization_value=0
@@ -464,7 +464,7 @@
 
 227={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -483,7 +483,7 @@
 
 228={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -502,7 +502,7 @@
 
 229={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -521,7 +521,7 @@
 
 230={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -540,7 +540,7 @@
 
 231={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -562,7 +562,7 @@
 
 232={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -581,7 +581,7 @@
 
 233={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -600,7 +600,7 @@
 
 234={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -619,7 +619,7 @@
 
 235={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -638,7 +638,7 @@
 
 236={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -657,7 +657,7 @@
 
 237={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -676,7 +676,7 @@
 
 238={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -695,7 +695,7 @@
 
 239={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -714,7 +714,7 @@
 
 240={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -733,7 +733,7 @@
 
 241={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -752,7 +752,7 @@
 
 242={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -771,7 +771,7 @@
 
 243={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -793,7 +793,7 @@
 
 244={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -812,7 +812,7 @@
 
 245={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -831,7 +831,7 @@
 
 246={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -850,7 +850,7 @@
 
 247={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -869,7 +869,7 @@
 
 248={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fruits"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -888,7 +888,7 @@
 
 249={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="illyric_pantheon"
 	culture="imessapi"
 	civilization_value=0
@@ -907,7 +907,7 @@
 
 250={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -926,7 +926,7 @@
 
 251={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -945,7 +945,7 @@
 
 252={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -964,7 +964,7 @@
 
 253={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0

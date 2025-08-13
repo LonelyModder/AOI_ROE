@@ -217,7 +217,7 @@
 
 28={ 
 	terrain="farmland"
-	trade_goods="olives"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
