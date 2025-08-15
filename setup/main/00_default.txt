@@ -112,6 +112,31 @@ provinces = { #Any entry must contain a comment with city name.
 	#Passes
 	108 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	85 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	216 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	221 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	294 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	300 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	305 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	302 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	318 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	401 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	404 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	406 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	447 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	455 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	471 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	477 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	497 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	515 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	525 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	539 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	787 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	795 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	759 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	762 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	754 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	538 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	571 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	
 	########################################
 	# Barbarian Spawn Spots

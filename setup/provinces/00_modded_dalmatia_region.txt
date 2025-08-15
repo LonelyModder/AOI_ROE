@@ -19,7 +19,7 @@
 
 725={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 726={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -114,7 +114,7 @@
 
 730={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -190,7 +190,7 @@
 
 734={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -269,7 +269,7 @@
 
 738={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -287,8 +287,8 @@
 }
 
 739={ 
-	terrain="forest"
-	trade_goods="wood"
+	terrain="plains"
+	trade_goods="salt"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -310,7 +310,7 @@
 
 740={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -329,7 +329,7 @@
 
 741={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -348,7 +348,7 @@
 
 742={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -367,7 +367,7 @@
 
 743={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -386,7 +386,7 @@
 
 744={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -424,7 +424,7 @@
 
 746={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -791,7 +791,7 @@
 
 765={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -905,7 +905,7 @@
 
 771={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -924,7 +924,7 @@
 
 772={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -943,7 +943,7 @@
 
 773={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -1041,7 +1041,7 @@
 
 778={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -1063,7 +1063,7 @@
 
 779={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -1082,7 +1082,7 @@
 
 780={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -1139,7 +1139,7 @@
 
 783={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -1215,7 +1215,7 @@
 
 787={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -1234,7 +1234,7 @@
 
 788={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -1275,7 +1275,7 @@
 
 790={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="stone"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -1334,8 +1334,8 @@
 }
 
 793={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="stone"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
