@@ -1,6 +1,6 @@
 ﻿581={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 582={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 583={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 584={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 585={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -95,7 +95,7 @@
 
 586={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -114,7 +114,7 @@
 
 587={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -133,7 +133,7 @@
 
 588={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -152,7 +152,7 @@
 
 589={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -171,7 +171,7 @@
 
 590={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -190,7 +190,7 @@
 
 591={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -209,7 +209,7 @@
 
 592={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="illyric_pantheon"
 	culture="lcarnian"
 	civilization_value=0
@@ -228,7 +228,7 @@
 
 593={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -250,7 +250,7 @@
 
 594={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -272,7 +272,7 @@
 
 595={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -291,7 +291,7 @@
 
 596={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -310,7 +310,7 @@
 
 597={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="illyric_pantheon"
 	culture="lcarnian"
 	civilization_value=0
@@ -329,7 +329,7 @@
 
 598={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -348,7 +348,7 @@
 
 599={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -367,7 +367,7 @@
 
 600={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -386,7 +386,7 @@
 
 601={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -405,7 +405,7 @@
 
 602={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -462,7 +462,7 @@
 
 648={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -481,7 +481,7 @@
 
 649={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -500,7 +500,7 @@
 
 650={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -519,7 +519,7 @@
 
 651={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -560,7 +560,7 @@
 
 653={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -579,7 +579,7 @@
 
 654={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -598,7 +598,7 @@
 
 655={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -617,7 +617,7 @@
 
 656={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -636,7 +636,7 @@
 
 657={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="illyric_pantheon"
 	culture="lcarnian"
 	civilization_value=0
@@ -655,7 +655,7 @@
 
 658={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -674,7 +674,7 @@
 
 659={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -712,7 +712,7 @@
 
 661={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -731,7 +731,7 @@
 
 662={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -750,7 +750,7 @@
 
 663={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -791,7 +791,7 @@
 
 665={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -829,7 +829,7 @@
 
 667={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -848,7 +848,7 @@
 
 668={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -867,7 +867,7 @@
 
 669={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -886,7 +886,7 @@
 
 670={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -905,7 +905,7 @@
 
 671={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -924,7 +924,7 @@
 
 672={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -943,7 +943,7 @@
 
 673={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -965,7 +965,7 @@
 
 674={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -984,7 +984,7 @@
 
 675={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1003,7 +1003,7 @@
 
 676={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1022,7 +1022,7 @@
 
 677={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1041,7 +1041,7 @@
 
 678={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1060,7 +1060,7 @@
 
 679={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1079,7 +1079,7 @@
 
 680={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1117,7 +1117,7 @@
 
 682={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1136,7 +1136,7 @@
 
 683={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1155,7 +1155,7 @@
 
 684={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1174,7 +1174,7 @@
 
 685={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1193,7 +1193,7 @@
 
 686={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1215,7 +1215,7 @@
 
 687={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1234,7 +1234,7 @@
 
 688={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1253,7 +1253,7 @@
 
 689={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -1272,7 +1272,7 @@
 
 690={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1291,7 +1291,7 @@
 
 691={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="ctauriscian"
 	civilization_value=0
@@ -1310,7 +1310,7 @@
 
 692={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
@@ -1329,7 +1329,7 @@
 
 693={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="celtic_pantheon"
 	culture="cpannonian"
 	civilization_value=0
