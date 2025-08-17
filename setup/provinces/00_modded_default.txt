@@ -1472,8 +1472,8 @@
 
 379={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1612,8 +1612,8 @@
 
 547={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="csedunian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1732,8 +1732,8 @@
 
 695={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="csedunian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1782,8 +1782,8 @@
 
 700={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="villanic_pantheon"
+	culture="raetic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1862,8 +1862,8 @@
 
 708={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="ctauriscian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1942,8 +1942,8 @@
 
 716={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="ctauriscian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1972,8 +1972,8 @@
 
 719={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="celtic_pantheon"
+	culture="ctauriscian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2122,8 +2122,8 @@
 
 835={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2202,8 +2202,8 @@
 
 843={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

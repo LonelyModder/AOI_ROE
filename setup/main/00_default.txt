@@ -79,7 +79,12 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 
 	#Pirates
-	#124 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	107 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	85 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	725 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	765 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	247 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
 	311 = { port_building = 1 }
@@ -141,7 +146,15 @@ provinces = { #Any entry must contain a comment with city name.
 	########################################
 	# Barbarian Spawn Spots
 	########################################
-	
+	379 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	547 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	695 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	700 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	708 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	719 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	835 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	843 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	716 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	
 }
 

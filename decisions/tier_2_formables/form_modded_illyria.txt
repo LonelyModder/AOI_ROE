@@ -1,0 +1,88 @@
+﻿country_decisions = {
+	
+	# Form Illyria
+	form_Illyria = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XIL
+			}
+			is_ai = no
+			NOT = {
+				is_endgame_tag_trigger = yes
+				is_tier_2_formable_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 765 # Salona
+					province_id = 739 # Idassa
+					province_id = 528 # Tergeste
+					province_id = 783 # Epidaurum
+					province_id = 778 # Narona
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = Illyria_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XIL
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 765 # Salona
+			owns = 739 # Idassa
+			owns = 528 # Tergeste
+			owns = 783 # Epidaurum
+			owns = 778 # Narona
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			#tribal_formable_government_change_effect = yes
+			change_country_name = "ILLYRIA_NAME"
+			hidden_effect = {
+				change_country_adjective = "ILLYRIA_ADJECTIVE"
+				change_country_color = "ILLYRIA_COLOR"
+				change_country_tag = XIL
+				change_country_flag = ILLYRIA_FLAG
+			}
+			if = {
+				limit = {
+					p:765 = { is_capital = no }
+				}
+				set_capital = 765
+				hidden_effect = {
+					p:765.state = {
+						set_state_capital = 765
+					}
+				}
+				capital_scope = {
+					establish_city_effect = yes
+				}
+			}
+			p:765 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = Illyria_claims_tooltip
+			hidden_effect = {
+				region:modded_dalmatia_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

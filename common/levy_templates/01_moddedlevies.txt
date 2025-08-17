@@ -117,7 +117,7 @@ levy_astelixian = { #celtic militia
 levy_thyrrenic = { #celtic militia
 	default = no
 
-	ia_archers = 0.2
+	ia_scirmishers = 0.2
 	ia_hoplites = 0.2
 	ia_lightcavalry = 0.1
 	ia_lightinfantry = 0.5
