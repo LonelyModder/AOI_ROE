@@ -82,17 +82,29 @@ italic_heritage = {
 	modifier = {
 		#good
 		omen_power = 0.2
-		levy_size_multiplier = 0.025 
+		discipline = 0.05
 		
 		#bad
 		naval_morale_modifier = -0.1
 	}
 	
 	trigger = {
-		OR = {
-			country_culture_group = latinic
 			country_culture_group = italic
-		}
+	}
+}
+
+rroman_heritage = {
+	modifier = {
+		#good
+		omen_power = 0.2
+		levy_size_multiplier = 0.05 
+		
+		#bad
+		naval_morale_modifier = -0.1
+	}
+	
+	trigger = {
+		country_culture_group = latinic
 	}
 }
 

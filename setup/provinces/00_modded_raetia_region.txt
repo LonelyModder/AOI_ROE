@@ -136,7 +136,7 @@
 
 567={ 
 	terrain="mountain"
-	trade_goods="stone"
+	trade_goods="cattle"
 	religion="celtic_pantheon"
 	culture="csedunian"
 	civilization_value=0
@@ -174,7 +174,7 @@
 
 569={ 
 	terrain="mountain"
-	trade_goods="stone"
+	trade_goods="wool"
 	religion="celtic_pantheon"
 	culture="csedunian"
 	civilization_value=0
@@ -212,7 +212,7 @@
 
 603={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -329,7 +329,7 @@
 
 608={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -348,7 +348,7 @@
 
 620={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -617,7 +617,7 @@
 
 617={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -693,7 +693,7 @@
 
 609={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="woad"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -712,7 +712,7 @@
 
 611={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="honey"
 	religion="villanic_pantheon"
 	culture="raetic"
 	civilization_value=0
@@ -731,7 +731,7 @@
 
 612={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="honey"
 	religion="villanic_pantheon"
 	culture="raetic"
 	civilization_value=0
@@ -826,7 +826,7 @@
 
 630={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -845,7 +845,7 @@
 
 631={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -962,7 +962,7 @@
 
 625={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -1019,7 +1019,7 @@
 
 613={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -1095,7 +1095,7 @@
 
 636={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -1133,7 +1133,7 @@
 
 639={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -1152,7 +1152,7 @@
 
 640={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -1171,7 +1171,7 @@
 
 641={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -1190,7 +1190,7 @@
 
 642={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
@@ -1209,7 +1209,7 @@
 
 643={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="celtic_pantheon"
 	culture="cvindelician"
 	civilization_value=0
