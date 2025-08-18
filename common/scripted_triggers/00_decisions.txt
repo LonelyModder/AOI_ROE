@@ -1,13 +1,13 @@
 ﻿is_tier_1_formable_trigger = {
 	OR = {
-		tag = XSL #Sicily
+		tag = XIT #Italia
+		tag = XIL #Illyria
 	}
 }
 
 is_tier_2_formable_trigger = {
 	OR = {
-		tag = XIT #Italia
-		tag = XIL #Illyria
+		tag = XSL #Sicily
 	}
 }
 
