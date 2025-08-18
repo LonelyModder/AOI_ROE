@@ -1,11 +1,15 @@
 ﻿l_english:
  #Formable Nations
+ #Tier I
  Italia_must_not_exist:0 "Italy must not exist."
  form_Italia:0 "Form Italy"
- form_Italia_desc:0 "Italian Peninsula has an important strategic value to any eastern power wanting to trade with western meditarranean and vice versa. The greeks and phoenicians already began founding colonies, etruscans atempt to capture Po walley or maybe it's time for someone else. There are romors that not all Trojans are dead with their city."
+ form_Italia_desc:0 "Italian Peninsula has an important strategic value to any eastern power wanting to trade with western meditarranean and vice versa. The greeks and phoenicians already began founding colonies, etruscans atempt to capture Po walley or maybe it's time for someone else. There are rumors that not all Trojans are dead with their city."
  Illyria_must_not_exist:0 "Illyria must not exist."
  form_Illyria:0 "Form Illyria"
  form_Illyria_desc:0 "Illyria is the region with the long coastline filled with bays where you can hide entire fleet. In fact the very name illyrians is often translated as sea serpents. All nations that live here are tied to the sea in one way or another. Illyrians are known as pirates and mercenaries with unreliable reputation which is most likely tied to the devided nature of the region. Thou only one can rule the seas."
  Sicily_must_not_exist:0 "Sicily must not exist."
  form_Sicily:0 "Form Sicily"
  form_Sicily_desc:0 "The Isle of Sicily is a strategic location in the middle of the Mediterranean Sea. Additionally it's one of the three major exporters of grain beside Punic colonies in Africa and Egypt. It's also home to ethnically diverse group of people starting from illyrian Sicels, local Sicanians to italic Elymians. Punic settlers are already present on the isle from some time and Greeks arrived just recently. Whoever will capture the isle will also control the mediterrainean."
+ Sherden_must_not_exist:0 "Shard must not exist."
+ form_Sherden:0 "Form Shard"
+ form_Sherden_desc:0 "There is a lot of evidence that Shardana from the egyptian sources are the same people as Nuragians of Sardinia. Those sea raiders known from their castle like structures and horned helmets controled the isles of Corsica and Sardinia with the latter being the heart of this civilisation. "

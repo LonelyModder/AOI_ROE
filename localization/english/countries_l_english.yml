@@ -1001,6 +1001,8 @@
  ILLYRIA_ADJECTIVE:0 "Illyrian"
  SICILY_NAME:0 "Sicily"
  SICILY_ADJECTIVE:0 "Sicilian"
+ SHERDEN_NAME:0 "Shard"
+ SHERDEN_ADJECTIVE:0 "Sherdenese"
  #Event Names
  Alessia_NAME:0 "Alessian Revolt"
  Alessia_ADJECTIVE:0 "Alessian"

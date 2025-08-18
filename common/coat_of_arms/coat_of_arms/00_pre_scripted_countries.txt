@@ -150,3 +150,14 @@ SICILY_FLAG = {
 		instance = { scale = { 0.4  0.4 } }
 	}
 }
+
+SHERDEN_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "etruscan_blue"
+	color2 = "etruscan_blue"
+
+	colored_emblem = {
+		texture = "ce_nuragian.dds"
+		color1 = "roman_red"
+	}
+}

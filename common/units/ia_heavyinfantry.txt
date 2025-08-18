@@ -13,7 +13,7 @@
 	build_time = 60
 
 	ia_scirmishers = 1.3	
-	ia_archers = 0.9	
+	ia_archers = 1.1	
 	ia_warriors = 1.3	
 	ia_lightinfantry = 1.3	
 	ia_heavyinfantry = 1	

@@ -1,0 +1,71 @@
+﻿country_decisions = {
+	
+	#form Sherden
+	form_Sherden = {
+		
+		potential = {
+			num_of_cities >= 1
+			capital_scope = {
+				OR = {
+					is_in_area = caralis_area
+					is_in_area = sulci_area
+					is_in_area = turris_area
+					is_in_area = olbia_area
+					is_in_area = corsica_area
+				}
+			}
+			NOT = {
+				tag = XSH
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				is_in_area = caralis_area
+				is_in_area = sulci_area
+				is_in_area = turris_area
+				is_in_area = olbia_area
+				is_in_area = corsica_area
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = "Sherden_must_not_exists"
+				NOT = {
+					any_country = {
+						tag = XSH
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_area = caralis_area
+			owns_area = sulci_area
+			owns_area = turris_area
+			owns_area = olbia_area
+			owns_area = corsica_area
+		}
+		
+		effect = {
+			custom_tooltip = "tier_1_formable_tooltip"
+			change_country_name = "SHERDEN_NAME"
+			hidden_effect = {
+				change_country_adjective = "SHERDEN_ADJECTIVE"
+				change_country_tag = "XSH"
+				change_country_flag = SHERDEN_FLAG
+				change_country_color = "SHERDEN_COLOR"
+			}
+			capital_scope = {
+				capital_formable_small_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+	}
+	
+}
