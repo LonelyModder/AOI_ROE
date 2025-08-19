@@ -17,3 +17,4 @@ numidian_gfx = {}
 anatolian_gfx = {}
 
 #Modded Below
+occidental_gfx = {}
