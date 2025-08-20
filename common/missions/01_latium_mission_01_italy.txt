@@ -1,6 +1,6 @@
 ﻿latium_01_italy = { # Alessian Revolt
-	icon = latium_01
-	header = latium_01_italy #mission_image_phrygia
+	icon = latium_01_italy
+	header = mission_image_rome #mission_image_phrygia
 	
 	repeatable = no
 
@@ -69,35 +69,37 @@
 	
 	
 	latium_01_italy_1 = { # Rising in Revolt
-		requires = { latium_01_italy_12 }
+		requires = {  }
 		icon = task_conquest
-		#duration = 90
+		duration = 30
 		
 		allow = {
-			OR = {
-				owns = 313
-			}
+			political_influence > 25
+			treasury > 100
 		}
 		
 		highlight = {
-			scope:province = {
-				OR = {
-					province_id = 313
-				}
-			}
-		}
-		
-		on_start = {
 			
 		}
 		
+		on_start = {
+			show_as_tooltip = { 
+				political_influence = -25
+				add_treasury = -100 
+			}
+			hidden_effect = { 
+				political_influence = -25
+				add_treasury = -100 
+			}
+		}
+		
 		on_completion = {
-			trigger_event = { id = alessian_revolt_mission_1.8 }
+			trigger_event = { id = latium_01_italy_1.1 }
 		}
 	}
 	
 	latium_01_italy_12 = { # Cyrodilic Empire
-		requires = { latium_01_italy_3 latium_01_italy_16 }
+		requires = { latium_01_italy_1 }
 		icon = task_conquest
 		#duration = 30
 		
@@ -118,7 +120,7 @@
 		}
 		
 		on_completion = {
-			#trigger_event = { id = alessian_revolt_mission_1.98}
+			#trigger_event = { id = latium_01_italy_1.99}
 			set_global_variable = {
 				name = latium_01_italy
 			}
