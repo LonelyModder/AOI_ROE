@@ -41,7 +41,7 @@
     	start_mission_ai_effect = yes
     	save_scope_as = me_italy_scope
 		add_country_modifier = {
-	        name = revolt_starts
+	        name = latium_1_starts
 	        duration = 3650 # 10 years
 	    }
     }
@@ -49,8 +49,8 @@
 	on_abort = {
     	custom_tooltip = ant_1_mission_cooldown_tt
     	if = {
-	    	limit = { has_country_modifier = revolt_starts }
-    		remove_country_modifier = revolt_starts
+	    	limit = { has_country_modifier = latium_1_starts }
+    		remove_country_modifier = latium_1_starts
 	    }
 		set_variable = {
 			name = latium_01_italy
@@ -60,7 +60,7 @@
 	
 	on_completion = {
 		add_country_modifier = {
-    		name = revolt_victory
+    		name = latium_1_victory
     		duration = 7300 # 20 years
     	}
     	complete_mission_effect = yes #
@@ -68,13 +68,13 @@
     }
 	
 	
-	latium_01_italy_1 = { # Rising in Revolt
+	latium_01_italy_1 = { # The Dream of Romulus
 		requires = {  }
 		icon = task_conquest
 		duration = 30
 		
 		allow = {
-			political_influence > 25
+			political_influence > 20
 			treasury > 100
 		}
 		
@@ -84,11 +84,11 @@
 		
 		on_start = {
 			show_as_tooltip = { 
-				political_influence = -25
+				add_political_influence = -20
 				add_treasury = -100 
 			}
 			hidden_effect = { 
-				political_influence = -25
+				add_political_influence = -20
 				add_treasury = -100 
 			}
 		}
@@ -98,20 +98,20 @@
 		}
 	}
 	
-	latium_01_italy_12 = { # Cyrodilic Empire
+	latium_01_italy_12 = { # Italy Conquered
 		requires = { latium_01_italy_1 }
 		icon = task_conquest
 		#duration = 30
 		
 		allow = {
-			owns = 313
+			owns_region = modded_italia_region
+			owns_region = modded_magnagraecia_region
 		}
 		
 		highlight = {
 			scope:province = {
-				OR = {
-					province_id = 313
-				}
+				is_in_region = modded_italia_region
+				is_in_region = modded_magnagraecia_region
 			}
 		}
 		

@@ -27,5 +27,11 @@
  patch_notes_text:0 "What's new:\n- Iron Age Italy, Illyria and Raetia to explore. \n- 753 land provinces to conquer (pure coincidence). \n- New units."
  
  #Modifier text
+ osasis:0 "Oasis"
+ osasis_desc:0 "The only water source in the desert and also the only permanent place to live in this harsh enviroment."
  lepontic_invasion_modifier:0 "Mobilisation"
  desc_lepontic_invasion_modifier:0 "Under extreme circumstances all available males (and in some cultures like scythians females) are mobilised for war."
+ latium_1_starts:0 "Latins Mobilise"
+ desc_latium_1_starts:0 "Latin tribes are capable of mobilising large amount of warriors in a short amount of time thanks to the system of obligations. Each clan and city is obliged to send agreed amount of warriors."
+ latium_1_victory:0 "Italy Conquered!"
+ desc_latium_1_victory:0 "Rome just became the hegemon of Italian peninsula. Roman armies march unoposed from Arritim to Rhegion. Their superiority is undisputed."
