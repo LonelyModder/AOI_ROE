@@ -7,5 +7,7 @@
  latium_01_italy_BUTTON_TOOLTIP:0 "Follow the path of Latin tribes in their struggle to conquer the italian peninsula. Become the undisputed ruler of Italy."
  #Missions
  latium_01_italy_1:0 "The Dream of Romulus"
- latium_01_italy_1_DESC:2 ""
+ latium_01_italy_1_DESC:2 "Acording to the pre-imperial historians the founder of rome was an arcadian greek named Romos (There is also version that the city's name was taken from local tribe called Rumlni). His most important reform was establishment of the military system thanks to which rome could gather more men than enemies and in shorter time. Soon Romans began to wonder if they are strong enaugh to one day rule Italy."
+ latium_01_italy_2:0 "Rome vs Alba Longa"
+ latium_01_italy_2_DESC:2 "(Mission becomes active after special event!) Before the rise of rome Alba Longa was the most important settlement of the Latins. The city had temple to Jupiter but since the Rome had risen to challenge their supremacy the conflict seemed inevitable. Acording to myth Romans destroyed the city. In reality the city was destroyed during etruscan invasion somewhere near 650BC."
  

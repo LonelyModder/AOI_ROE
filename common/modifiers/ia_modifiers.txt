@@ -8,7 +8,7 @@ is_oasis = {
 
 #missions
 latium_1_starts = {
-	levy_size_multiplier = 0.1
+	levy_size_multiplier = 0.05
 	agressive_expansion_impact = -0.75
 	agressive_expansion_monthly_change = -0.05
 }

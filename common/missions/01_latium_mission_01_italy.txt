@@ -95,11 +95,68 @@
 		
 		on_completion = {
 			trigger_event = { id = latium_01_italy_1.1 }
+			trigger_event = { 
+				id = latium_01_italy_1.2 
+				days = 30
+			} # Event for Struggle with Alba Longa
+		}
+	}
+	
+	latium_01_italy_2 = { # The Conflict with Alba Longa
+		requires = { latium_01_italy_1 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			owns = 314
+			has_variable = albas_revolt_start
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 314
+			}
+		}
+		
+		on_start = {
+			#trigger_event = { id = latium_01_italy_1.2 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.3 }
+			trigger_event = { 
+				id = latium_01_italy_1.4
+				days = 30
+			} # Event for the Veii attacking Rome
+		}
+	}
+	
+	latium_01_italy_3 = { # The Siege of Veii
+		requires = { latium_01_italy_2 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			owns = 340
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 340
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.5 }
 		}
 	}
 	
 	latium_01_italy_12 = { # Italy Conquered
-		requires = { latium_01_italy_1 }
+		requires = { latium_01_italy_3 }
 		icon = task_conquest
 		#duration = 30
 		

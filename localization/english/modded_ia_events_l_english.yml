@@ -1,5 +1,12 @@
 ﻿l_english:
  #Startup Event Texts
  latium_01_italy_1.1.t:0 "The Dream of Romulus"
- latium_01_italy_1.1.desc:0 "Since the Romos started his jurney to Italia he expected to encounter barbarian tribes but instead he met with the growing civilisation. Latins might be not be numerous but they are disciplined and stong. All they need is a vision. A vision of Italy under the leadership of Latium, with Rome as the capital. "
+ latium_01_italy_1.1.desc:0 "Since the Romos started his jurney to Italia he expected to encounter barbarian tribes but instead he met with the growing civilisation. Latins might be not be numerous but they are disciplined and stong. All they need is a vision. A vision of Italy under the leadership of Latium, with Rome as the capital. Soon Rome started yearly campaigns to realise that dream."
  latium_01_italy_1.1.a:0 "For Rome and the Latin League!"
+ latium_01_italy_1.2.t:0 "The Conflict with Alba Longa"
+ latium_01_italy_1.2.desc:0 "Alba Longa enjoyed prestige due to its proximity to the temple of Jupiter. Until the founding of Rome the city was an informal capital of the Latin League. With the sudden rise of competition conflict arose because as all kings learn quickly only one can sit on the throne."
+ latium_01_italy_1.2.a:0 "And Rome will be leading the Latins."
+ latium_01_italy_1.3.t:0 "Fate of the Rebels"
+ latium_01_italy_1.3.desc:0 "The defeated citizens of Alba Longa plead for mercy offering gifts. Some say we need to show others what is the price for defying Rome. And yet if we will crush them who will surender to us knowing what may happen."
+ latium_01_italy_1.3.a:0 "They know they are beaten."
+ latium_01_italy_1.3.b:0 "We must send a warning!"

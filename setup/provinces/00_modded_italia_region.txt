@@ -427,20 +427,17 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
-	nobles={
+	citizen={
 		amount=1
 	}
-	citizen={
-		amount=7
-	}
 	freemen={
-		amount=2
+		amount=1
 	}	
 	tribesmen={
-		amount=2
+		amount=4
 	}
 	slaves={
-		amount=4
+		amount=1
 	}
 }
 
@@ -451,15 +448,18 @@
 	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=1
 	}	
+	freemen={
+		amount=3
+	}	
 	tribesmen={
-		amount=4
+		amount=10
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -1152,15 +1152,18 @@
 	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=1
 	}	
+	freemen={
+		amount=3
+	}	
 	tribesmen={
-		amount=4
+		amount=10
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -1307,15 +1310,18 @@
 	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=1
 	}	
+	freemen={
+		amount=3
+	}	
 	tribesmen={
-		amount=4
+		amount=10
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 

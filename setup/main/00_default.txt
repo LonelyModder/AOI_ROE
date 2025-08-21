@@ -88,6 +88,9 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	311 = { port_building = 1 }
+	788 = { port_building = 1 }
+	483 = { port_building = 1 }
+	739 = { port_building = 1 }
 	345 = { port_building = 1 }
 	366 = { port_building = 1 }
 	361 = { port_building = 1 }
@@ -243,7 +246,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
-			capital = 107
+			capital = 53
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -509,7 +512,7 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ioscan
 			religion = italiotan_pantheon
-			capital = 316
+			capital = 318
 			
 			own_control_core = 	{ 
 				316 318 319 326
