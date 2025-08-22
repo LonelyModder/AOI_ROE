@@ -50,7 +50,6 @@ on_game_initialized = {
 	#Events
 	events = {
 		units_allowance_events.1
-		#race_startup.1 
 		#Startup info
 		esfa_startup.1
 		esfa_startup.2

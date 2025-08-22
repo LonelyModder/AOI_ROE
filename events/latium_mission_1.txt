@@ -31,7 +31,7 @@ latium_01_italy_1.2 = {
 	
 	option = { 
 		name = "latium_01_italy_1.2.a"
-		p:314 = { #Gomora
+		p:314 = { #Alba Longa
 			create_country = {
 				change_government = despotic_monarchy
 				set_primary_culture = rroman
@@ -47,7 +47,7 @@ latium_01_italy_1.2 = {
 				target = p:314.owner
 			}
 		}
-		set_variable = {
+		set_global_variable = {
 			name = albas_revolt_start
 		}
 	}
@@ -70,6 +70,7 @@ latium_01_italy_1.3 = {
 		change_country_name = "Roman_NAME"
 		change_country_adjective = "Roman_ADJECTIVE"
 		add_treasury = 100
+		ai_chance = { base = 20 }
 	}
 	
 	option = { 
@@ -86,5 +87,359 @@ latium_01_italy_1.3 = {
 			reduce_province_rank_effect = yes
 		}
 		add_treasury = 200
+		ai_chance = { base = 80 }
+	}
+}
+
+latium_01_italy_1.4 = {  
+	type = country_event
+	title = "latium_01_italy_1.4.t"
+	desc = "latium_01_italy_1.4.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag=AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.4.a"
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.4.b"
+		show_as_tooltip = { 
+			add_political_influence = -20
+			add_treasury = -100 
+		}
+		hidden_effect = { 
+			add_political_influence = -20
+			add_treasury = -100 
+		}
+		set_global_variable = {
+			name = bribing_etruscans_start
+		}
+		trigger_event = { id = latium_01_italy_1.5 }
+	}
+}
+
+latium_01_italy_1.5 = {  
+	type = country_event
+	title = "latium_01_italy_1.5.t"
+	desc = "latium_01_italy_1.5.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag=AAG
+		has_global_variable = bribing_etruscans_start
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.5.a"
+		show_as_tooltip = { 
+			add_political_influence = -20
+			add_treasury = -100 
+		}
+		hidden_effect = { 
+			add_political_influence = -20
+			add_treasury = -100 
+		}
+		set_global_variable = {
+			name = roman_bribe_rejected
+		}
+		trigger_event = { id = latium_01_italy_1.6 }
+		ai_chance = { base = 20 }
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.5.b"
+		set_global_variable = {
+			name = roman_bribe_accepted
+		}
+		trigger_event = { id = latium_01_italy_1.7 }
+		ai_chance = { base = 80 }
+	}
+}
+
+latium_01_italy_1.6 = {  
+	type = country_event
+	title = "latium_01_italy_1.6.t"
+	desc = "latium_01_italy_1.6.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag=AAA
+		has_global_variable = roman_bribe_rejected
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.6.a"
+	}
+}
+
+latium_01_italy_1.7 = {  
+	type = country_event
+	title = "latium_01_italy_1.7.t"
+	desc = "latium_01_italy_1.7.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag=AAA
+		has_global_variable = roman_bribe_accepted
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.7.a"
+		p:340 = { #Veii
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = etrusci
+				set_country_religion = villanic_pantheon
+				change_country_name = "Veii_NAME"
+				change_country_adjective = "Veii_ADJECTIVE"
+			}
+		}
+		p:313.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:340
+				target = p:340.owner
+			}
+		}
+	}
+}
+
+latium_01_italy_1.8 = {  
+	type = country_event
+	title = "latium_01_italy_1.8.t"
+	desc = "latium_01_italy_1.8.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag=AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.8.a"
+		set_global_variable = {
+			name = camillus_banished
+		}
+		trigger_event = { 
+			id = latium_01_italy_1.9 
+			days=30
+		}
+		ai_chance = { base = 80 }
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.8.b"
+		create_character = {
+			first_name = "Marcus"
+			family_name = "Camillus"
+			no_stats = yes
+			culture = rroman
+			religion = italiotan_pantheon
+			age = 23
+			good_martial_effect = yes
+			good_charisma_effect = yes
+			average_finesse_effect = yes
+			average_zeal_effect = yes
+			add_gold=200
+			save_scope_as = camillus_gov
+		}
+		ai_chance = { base = 20 }
+	}
+}
+
+latium_01_italy_1.9 = {  
+	type = country_event
+	title = "latium_01_italy_1.9.t"
+	desc = "latium_01_italy_1.9.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag=AAA
+		has_global_variable = camillus_banished
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.9.a"
+		create_character = {
+			first_name = "Marcus"
+			family_name = "Camillus"
+			no_stats = yes
+			culture = rroman
+			religion = italiotan_pantheon
+			age = 23
+			good_martial_effect = yes
+			good_charisma_effect = yes
+			average_finesse_effect = yes
+			average_zeal_effect = yes
+			add_gold=200
+			save_scope_as = camillus_gov
+		}
+		#Invading Celts
+		p:330 = { #Senones
+			while = {
+                count = 30
+                define_pop = {
+					type = tribesmen
+					culture = clepontic
+					religion = celtic_pantheon
+                }
+            } 
+			create_country = {
+				change_government = tribal_kingdom
+				set_primary_culture = clepontic
+				set_country_religion = celtic_pantheon
+				change_country_name = "Senones_NAME"
+				change_country_adjective = "Senones_ADJECTIVE"
+			}
+		}
+		p:330.owner = {
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 365
+			}	
+		}			
+		p:331.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:330
+				target = p:330.owner
+			}
+		}
+		p:423 = { #Lingones
+			while = {
+                count = 30
+                define_pop = {
+					type = tribesmen
+					culture = clepontic
+					religion = celtic_pantheon
+                }
+            } 
+			create_country = {
+				change_government = tribal_kingdom
+				set_primary_culture = clepontic
+				set_country_religion = celtic_pantheon
+				change_country_name = "Lingones_NAME"
+				change_country_adjective = "Lingones_ADJECTIVE"
+			}
+		}
+		p:423.owner = {
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 365
+			}	
+		}	
+		p:421.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:423
+				target = p:423.owner
+			}
+		}
+		p:394 = { #Boii
+			while = {
+                count = 30
+                define_pop = {
+					type = tribesmen
+					culture = clepontic
+					religion = celtic_pantheon
+                }
+            } 
+			create_country = {
+				change_government = tribal_kingdom
+				set_primary_culture = clepontic
+				set_country_religion = celtic_pantheon
+				change_country_name = "Boioni_NAME"
+				change_country_adjective = "Boioni_ADJECTIVE"
+			}
+		}
+		p:394.owner = {
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 365
+			}	
+		}	
+		p:396.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:394
+				target = p:394.owner
+			}
+		}
+		p:487 = { #Cenomani
+			while = {
+                count = 30
+                define_pop = {
+					type = tribesmen
+					culture = clepontic
+					religion = celtic_pantheon
+                }
+            } 
+			create_country = {
+				change_government = tribal_kingdom
+				set_primary_culture = clepontic
+				set_country_religion = celtic_pantheon
+				change_country_name = "Cenomani_NAME"
+				change_country_adjective = "Cenomani_ADJECTIVE"
+			}
+		}
+		p:487.owner = {
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 365
+			}	
+		}	
+		p:484.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:487
+				target = p:487.owner
+			}
+		}
+		p:486.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:487
+				target = p:487.owner
+			}
+		}
+		p:476 = { #Insubri
+			while = {
+                count = 30
+                define_pop = {
+					type = tribesmen
+					culture = clepontic
+					religion = celtic_pantheon
+                }
+            } 
+			create_country = {
+				change_government = tribal_kingdom
+				set_primary_culture = clepontic
+				set_country_religion = celtic_pantheon
+				change_country_name = "Insubri_NAME"
+				change_country_adjective = "Insubri_ADJECTIVE"
+			}
+		}
+		p:476.owner = {
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 365
+			}	
+		}	
+		p:468.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:476
+				target = p:476.owner
+			}
+		}
 	}
 }

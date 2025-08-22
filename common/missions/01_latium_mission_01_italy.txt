@@ -1,4 +1,4 @@
-﻿latium_01_italy = { # Alessian Revolt
+﻿latium_01_italy = { # Latin Italy
 	icon = latium_01_italy
 	header = mission_image_rome #mission_image_phrygia
 	
@@ -109,7 +109,7 @@
 		
 		allow = {
 			owns = 314
-			has_variable = albas_revolt_start
+			has_global_variable = albas_revolt_start
 		}
 		
 		highlight = {
@@ -124,15 +124,39 @@
 		
 		on_completion = {
 			trigger_event = { id = latium_01_italy_1.3 }
-			trigger_event = { 
-				id = latium_01_italy_1.4
-				days = 30
-			} # Event for the Veii attacking Rome
 		}
 	}
 	
-	latium_01_italy_3 = { # The Siege of Veii
+	latium_01_italy_3a = { # First conflict with Etruscans
 		requires = { latium_01_italy_2 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			c:AAG = {
+				owns = 340
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				is_in_area = perusia_area
+				is_in_area = setruria_area
+				is_in_area = netruria_area
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.4 } #Etruscan League abandons Veii
+		}
+	}
+	
+	latium_01_italy_4a = { # Fall of Veii
+		requires = { latium_01_italy_3a }
 		icon = task_conquest
 		#duration = 30
 		
@@ -151,12 +175,12 @@
 		}
 		
 		on_completion = {
-			trigger_event = { id = latium_01_italy_1.5 }
+			trigger_event = { id = latium_01_italy_1.8 } #Furius Camillus
 		}
 	}
 	
-	latium_01_italy_12 = { # Italy Conquered
-		requires = { latium_01_italy_3 }
+	latium_01_italy_99 = { # Italy Conquered
+		requires = { latium_01_italy_4a }
 		icon = task_conquest
 		#duration = 30
 		
@@ -179,7 +203,7 @@
 		on_completion = {
 			#trigger_event = { id = latium_01_italy_1.99}
 			set_global_variable = {
-				name = latium_01_italy
+				name = latium_01_italy_beaten
 			}
 		}
 		final = yes 
