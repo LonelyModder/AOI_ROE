@@ -179,8 +179,94 @@
 		}
 	}
 	
+	latium_01_italy_3b = { # New Dynasty
+		requires = { latium_01_italy_2 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			owns = 313
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 313
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.10 } #Trquin on the Throne
+		}
+	}
+	
+	latium_01_italy_4b = { # Capitoline Hill
+		requires = { latium_01_italy_3b }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			owns = 313
+			current_ruler = {
+				has_culture = etrusci
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 313
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -20
+				add_treasury = -100 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+				add_treasury = -100 
+			}
+			trigger_event = { id = latium_01_italy_1.11 } 
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.12 } 
+		}
+	}
+	
+	latium_01_italy_5b = { # Rome as a Republic
+		requires = { latium_01_italy_3b }
+		icon = task_conquest
+		#duration = 60
+		
+		allow = {
+			owns = 313
+			current_ruler = {
+				has_culture = etrusci
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 313
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.13 } 
+		}
+	}
+	
 	latium_01_italy_99 = { # Italy Conquered
-		requires = { latium_01_italy_4a }
+		requires = { latium_01_italy_4a latium_01_italy_5b }
 		icon = task_conquest
 		#duration = 30
 		

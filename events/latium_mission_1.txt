@@ -286,7 +286,7 @@ latium_01_italy_1.9 = {
 		#Invading Celts
 		p:330 = { #Senones
 			while = {
-                count = 30
+                count = 50
                 define_pop = {
 					type = tribesmen
 					culture = clepontic
@@ -304,7 +304,7 @@ latium_01_italy_1.9 = {
 		p:330.owner = {
 			add_country_modifier = {
 				name = lepontic_invasion_modifier
-				duration = 365
+				duration = 14600
 			}	
 		}			
 		p:331.owner = {
@@ -316,7 +316,7 @@ latium_01_italy_1.9 = {
 		}
 		p:423 = { #Lingones
 			while = {
-                count = 30
+                count = 50
                 define_pop = {
 					type = tribesmen
 					culture = clepontic
@@ -334,7 +334,7 @@ latium_01_italy_1.9 = {
 		p:423.owner = {
 			add_country_modifier = {
 				name = lepontic_invasion_modifier
-				duration = 365
+				duration = 14600
 			}	
 		}	
 		p:421.owner = {
@@ -346,7 +346,7 @@ latium_01_italy_1.9 = {
 		}
 		p:394 = { #Boii
 			while = {
-                count = 30
+                count = 50
                 define_pop = {
 					type = tribesmen
 					culture = clepontic
@@ -364,7 +364,7 @@ latium_01_italy_1.9 = {
 		p:394.owner = {
 			add_country_modifier = {
 				name = lepontic_invasion_modifier
-				duration = 365
+				duration = 14600
 			}	
 		}	
 		p:396.owner = {
@@ -376,7 +376,7 @@ latium_01_italy_1.9 = {
 		}
 		p:487 = { #Cenomani
 			while = {
-                count = 30
+                count = 50
                 define_pop = {
 					type = tribesmen
 					culture = clepontic
@@ -394,7 +394,7 @@ latium_01_italy_1.9 = {
 		p:487.owner = {
 			add_country_modifier = {
 				name = lepontic_invasion_modifier
-				duration = 365
+				duration = 14600
 			}	
 		}	
 		p:484.owner = {
@@ -413,7 +413,7 @@ latium_01_italy_1.9 = {
 		}
 		p:476 = { #Insubri
 			while = {
-                count = 30
+                count = 50
                 define_pop = {
 					type = tribesmen
 					culture = clepontic
@@ -431,7 +431,7 @@ latium_01_italy_1.9 = {
 		p:476.owner = {
 			add_country_modifier = {
 				name = lepontic_invasion_modifier
-				duration = 365
+				duration = 14600
 			}	
 		}	
 		p:468.owner = {
@@ -441,5 +441,131 @@ latium_01_italy_1.9 = {
 				target = p:476.owner
 			}
 		}
+	}
+}
+
+latium_01_italy_1.10 = {  
+	type = country_event
+	title = "latium_01_italy_1.10.t"
+	desc = "latium_01_italy_1.10.desc"
+	fire_only_once = yes
+	picture = tarquin_latium_pic_1
+	
+	trigger = {
+		tag=AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.10.a"
+		ai_chance = { base = 20 }
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.10.b"
+		create_character = {
+			first_name = "Lucius"
+			family_name = "Tarquinius"
+			no_stats = yes
+			culture = etrusci
+			religion = italiotan_pantheon
+			add_trait="tarquinius"
+			age = 40
+			good_martial_effect = yes
+			good_charisma_effect = yes
+			average_finesse_effect = yes
+			average_zeal_effect = yes
+			add_gold=200
+			save_scope_as = tarquintheold_gov
+		}
+		create_character = {
+			first_name = "Tanaqila"
+			family_name = "Tarquinius"
+			female=yes
+			no_stats = yes
+			culture = etrusci
+			religion = italiotan_pantheon
+			add_trait="tarquinius"
+			age = 33
+			good_martial_effect = yes
+			good_charisma_effect = yes
+			average_finesse_effect = yes
+			average_zeal_effect = yes
+			marry_character=scope:tarquintheold_gov
+			save_scope_as = tanaquila_gov
+		}
+		c:AAA={
+			set_as_ruler=scope:tarquintheold_gov
+		}
+		ai_chance = { base = 80 }
+	}
+}
+
+latium_01_italy_1.11 = {  
+	type = country_event
+	title = "latium_01_italy_1.11.t"
+	desc = "latium_01_italy_1.11.desc"
+	fire_only_once = yes
+	picture = tarquin_latium_pic_1
+	
+	trigger = {
+		tag=AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.11.a"
+		p:313={ # Capitoline Temple
+			begin_great_work_construction = {
+				great_work = "temple_of_jupiter"
+				locator = primary_great_work
+				is_ancient = yes						
+			}
+		}
+	}
+}
+
+latium_01_italy_1.12 = {  
+	type = country_event
+	title = "latium_01_italy_1.12.t"
+	desc = "latium_01_italy_1.12.desc"
+	fire_only_once = yes
+	picture = tarquin_latium_pic_1
+	
+	trigger = {
+		tag=AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.12.a"
+		p:313={ # Capitoline Temple
+			finish_great_work_construction = {
+				great_work = "temple_of_jupiter"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+latium_01_italy_1.13 = {  
+	type = country_event
+	title = "latium_01_italy_1.13.t"
+	desc = "latium_01_italy_1.13.desc"
+	fire_only_once = yes
+	picture = tarquin_latium_pic_1
+	
+	trigger = {
+		tag=AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.13.a"
+		
+		ai_chance = { base = 20 }
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.13.b"
+		change_government = aristocratic_republic
+		switch_government_type_event_clearup_effect = yes
+		ai_chance = { base = 80 }
 	}
 }
