@@ -426,7 +426,7 @@
 	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=1
 	}
@@ -1092,15 +1092,18 @@
 	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=1
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=2
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 

@@ -179,6 +179,28 @@
 		}
 	}
 	
+	latium_01_italy_5a = { # Samnite Threat
+		requires = { latium_01_italy_3a }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.14 } #Campanian Cities
+		}
+	}
+	
 	latium_01_italy_3b = { # New Dynasty
 		requires = { latium_01_italy_2 }
 		icon = task_conquest
@@ -266,7 +288,7 @@
 	}
 	
 	latium_01_italy_99 = { # Italy Conquered
-		requires = { latium_01_italy_4a latium_01_italy_5b }
+		requires = { latium_01_italy_5a latium_01_italy_5b }
 		icon = task_conquest
 		#duration = 30
 		

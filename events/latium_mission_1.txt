@@ -558,7 +558,22 @@ latium_01_italy_1.13 = {
 	
 	option = { 
 		name = "latium_01_italy_1.13.a"
-		
+		p:312 = { #Roman Republic
+			create_country = {
+				change_government = aristocratic_republic
+				set_primary_culture = rroman
+				set_country_religion = italiotan_pantheon
+				change_country_name = "RR_NAME"
+				change_country_adjective = "RR_ADJECTIVE"
+			}
+		}
+		p:313.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:312
+				target = p:312.owner
+			}
+		}
 		ai_chance = { base = 20 }
 	}
 	
@@ -566,6 +581,40 @@ latium_01_italy_1.13 = {
 		name = "latium_01_italy_1.13.b"
 		change_government = aristocratic_republic
 		switch_government_type_event_clearup_effect = yes
+		p:315 = { #Roman Monarchy
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = rroman
+				set_country_religion = italiotan_pantheon
+				change_country_name = "RM_NAME"
+				change_country_adjective = "RM_ADJECTIVE"
+			}
+		}
+		p:315.owner = {
+			create_character = {
+				#first_name = "Lucius"
+				family_name = "Tarquinius"
+				no_stats = yes
+				culture = etrusci
+				religion = italiotan_pantheon
+				add_trait="tarquinius"
+				age = 40
+				good_martial_effect = yes
+				good_charisma_effect = yes
+				average_finesse_effect = yes
+				average_zeal_effect = yes
+				add_gold=200
+				save_scope_as = lasttarquin_gov
+			}
+			set_as_ruler=scope:lasttarquin_gov
+		}
+		p:313.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:315
+				target = p:315.owner
+			}
+		}
 		ai_chance = { base = 80 }
 	}
 }
