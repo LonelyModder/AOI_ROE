@@ -182,7 +182,7 @@
 	latium_01_italy_5a = { # Samnite Threat
 		requires = { latium_01_italy_3a }
 		icon = task_conquest
-		#duration = 30
+		duration = 30
 		
 		allow = {
 			
@@ -193,11 +193,11 @@
 		}
 		
 		on_start = {
-			
+			trigger_event = { id = latium_01_italy_1.14 } 
 		}
 		
 		on_completion = {
-			trigger_event = { id = latium_01_italy_1.14 } #Campanian Cities
+			trigger_event = { id = latium_01_italy_1.15} #Campanian Cities
 		}
 	}
 	
