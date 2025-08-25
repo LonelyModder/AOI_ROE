@@ -25,7 +25,7 @@ levy_thyrrenic = { #etruscan militia
 	ia_scirmishers = 0.2
 	ia_hoplites = 0.5
 	ia_lightcavalry = 0.1
-	ia_heavyinfantry = 0.2
+	ia_lightinfantry = 0.2
 }
 
 levy_raetic = { #etruscan militia

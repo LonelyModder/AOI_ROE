@@ -35,3 +35,5 @@
  desc_latium_1_starts:0 "Latin tribes are capable of mobilising large amount of warriors in a short amount of time thanks to the system of obligations. Each clan and city is obliged to send agreed amount of warriors."
  latium_1_victory:0 "Italy Conquered!"
  desc_latium_1_victory:0 "Rome just became the hegemon of Italian peninsula. Roman armies march unoposed from Arritim to Rhegion. Their superiority is undisputed."
+ roman_colony:0 "Roman Colony"
+ desc_roman_colony:0 "Roman veterans were entitled to a land grant after discharge. The roman colonies were created to not only serve as settlements for retiring soldiers but also as a source of expirienced veterans in case of revolt. They were practically strongholds filled with war veterans. System was supposingly existing since the year after the very founding of Rome."

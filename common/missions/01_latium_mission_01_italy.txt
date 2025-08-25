@@ -180,9 +180,76 @@
 	}
 	
 	latium_01_italy_5a = { # Samnite Threat
-		requires = { latium_01_italy_3a }
+		requires = { latium_01_italy_4a }
 		icon = task_conquest
 		duration = 30
+		
+		allow = {
+			owns = 299
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 299
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = latium_01_italy_1.14 } #Campanian Cities
+		}
+		
+		on_completion = {
+			#trigger_event = { id = latium_01_italy_1.15} 
+		}
+		
+		bypass = {
+			NOT = {exists = c:AAY}
+			NAND = {
+				exists = c:ABI
+				exists = c:ABE
+			}
+		}
+	}
+	
+	latium_01_italy_6a = { # Apenine Tribes
+		requires = { latium_01_italy_5a }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			owns = 283
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 283
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = latium_01_italy_1.17 } #Apenine Tribes
+		}
+		
+		on_completion = {
+			add_political_influence = -20
+		}
+		
+		bypass = { 
+			NOT = {exists = c:AAY}
+			NOR = {
+				exists = c:ABF
+				exists = c:ABG
+				exists = c:ABH
+				exists = c:ABJ
+				exists = c:ABD
+			}
+		}
+	}
+	
+	latium_01_italy_7a = { # Pyrrus Invades Italy
+		requires = { latium_01_italy_6a }
+		icon = task_conquest
+		#duration = 30
 		
 		allow = {
 			
@@ -193,11 +260,20 @@
 		}
 		
 		on_start = {
-			trigger_event = { id = latium_01_italy_1.14 } 
+			
 		}
 		
 		on_completion = {
-			trigger_event = { id = latium_01_italy_1.15} #Campanian Cities
+			#trigger_event = { id = latium_01_italy_1.20 } # Pyrrus Event?
+		}
+		
+		bypass = {
+			OR = {
+				NOT = {exists = c:AAH}
+				NOT = {exists = c:AAI}
+				NOT = {exists = c:AAK}
+				NOT = {exists = c:AAP}
+			}
 		}
 	}
 	
@@ -261,7 +337,7 @@
 	}
 	
 	latium_01_italy_5b = { # Rome as a Republic
-		requires = { latium_01_italy_3b }
+		requires = { latium_01_italy_4b }
 		icon = task_conquest
 		#duration = 60
 		
@@ -287,8 +363,32 @@
 		}
 	}
 	
+	latium_01_italy_3c = { # Settling of Campania
+		requires = { latium_01_italy_2 }
+		icon = task_conquest
+		#duration = 60
+		
+		allow = {
+			owns_area = campania_area
+		}
+		
+		highlight = {
+			scope:province = {
+				is_in_area = campania_area
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.20 } 
+		}
+	}
+	
 	latium_01_italy_99 = { # Italy Conquered
-		requires = { latium_01_italy_5a latium_01_italy_5b }
+		requires = { latium_01_italy_7a latium_01_italy_5b latium_01_italy_3c }
 		icon = task_conquest
 		#duration = 30
 		

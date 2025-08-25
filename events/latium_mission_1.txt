@@ -225,9 +225,9 @@ latium_01_italy_1.8 = {
 	
 	option = { 
 		name = "latium_01_italy_1.8.a"
-		set_global_variable = {
-			name = camillus_banished
-		}
+		#set_global_variable = {
+		#	name = camillus_banished
+		#}
 		trigger_event = { 
 			id = latium_01_italy_1.9 
 			days=30
@@ -264,7 +264,7 @@ latium_01_italy_1.9 = {
 	
 	trigger = {
 		tag=AAA
-		has_global_variable = camillus_banished
+		#has_global_variable = camillus_banished
 	}
 	
 	option = { 
@@ -616,5 +616,155 @@ latium_01_italy_1.13 = {
 			}
 		}
 		ai_chance = { base = 80 }
+	}
+}
+
+latium_01_italy_1.14 = {  
+	type = country_event
+	title = "latium_01_italy_1.14.t"
+	desc = "latium_01_italy_1.14.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag=AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.14.a"
+		ai_chance = { base = 20 }
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.14.b"
+		add_political_influence = -20
+		trigger_event = { 
+			id = latium_01_italy_1.15
+			days = 15
+		}
+		ai_chance = { base = 80 }
+	}
+}
+
+latium_01_italy_1.15 = {  
+	type = country_event
+	title = "latium_01_italy_1.15.t"
+	desc = "latium_01_italy_1.15.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		OR = {
+			tag=ABI
+			tag=ABE
+		}
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.15.a"
+		ai_chance = { base = 20 }
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.15.b"
+		trigger_event = { 
+			id = latium_01_italy_1.16
+			days = 15
+		}
+		every_owned_province = { 
+			limit = { 
+				has_owner = yes 
+			}
+			set_conquered_by = c:AAA
+		}
+		ai_chance = { base = 80 }
+	}
+}
+
+latium_01_italy_1.16 = {  
+	type = country_event
+	title = "latium_01_italy_1.16.t"
+	desc = "latium_01_italy_1.16.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.16.a"
+	}
+}
+
+latium_01_italy_1.17 = {  
+	type = country_event
+	title = "latium_01_italy_1.17.t"
+	desc = "latium_01_italy_1.17.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.17.a"
+		trigger_event = { 
+			id = latium_01_italy_1.18
+			days = 15
+		}
+	}
+}
+
+latium_01_italy_1.18 = {  
+	type = country_event
+	title = "latium_01_italy_1.18.t"
+	desc = "latium_01_italy_1.18.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		OR = {
+			tag = ABF
+			tag = ABG
+			tag = ABH
+			tag = ABJ
+			tag = ABD
+		}
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.18.a"
+		c:AAA = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+		trigger_event = { 
+			id = latium_01_italy_1.19
+			days = 15
+		}
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.18.b"
+	}
+}
+
+latium_01_italy_1.19 = {  
+	type = country_event
+	title = "latium_01_italy_1.19.t"
+	desc = "latium_01_italy_1.19.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.19.a"
 	}
 }
