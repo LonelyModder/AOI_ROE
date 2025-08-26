@@ -98,7 +98,7 @@
 
 558={ 
 	terrain="mountain"
-	trade_goods="wegetables"
+	trade_goods="vegetables"
 	religion="celtic_pantheon"
 	culture="csedunian"
 	civilization_value=0

@@ -768,3 +768,61 @@ latium_01_italy_1.19 = {
 		name = "latium_01_italy_1.19.a"
 	}
 }
+
+latium_01_italy_1.20 = {  
+	type = country_event
+	title = "latium_01_italy_1.20.t"
+	desc = "latium_01_italy_1.20.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.20.a"
+	}
+}
+
+latium_01_italy_1.21 = {  
+	type = country_event
+	title = "latium_01_italy_1.21.t"
+	desc = "latium_01_italy_1.21.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+	}
+	
+	immediate = {
+		p:313 = { add_road_towards = p:314 }
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.21.a"
+		p:283 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			add_province_modifier = {
+				name = roman_colony
+			}
+		}
+	}
+}

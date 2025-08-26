@@ -84,11 +84,11 @@
 		
 		on_start = {
 			show_as_tooltip = { 
-				add_political_influence = -20
+				add_political_influence = -10
 				add_treasury = -100 
 			}
 			hidden_effect = { 
-				add_political_influence = -20
+				add_political_influence = -10
 				add_treasury = -100 
 			}
 		}
@@ -231,7 +231,7 @@
 		}
 		
 		on_completion = {
-			add_political_influence = -20
+			add_political_influence = -10
 		}
 		
 		bypass = { 
@@ -321,11 +321,11 @@
 		
 		on_start = {
 			show_as_tooltip = { 
-				add_political_influence = -20
+				add_political_influence = -10
 				add_treasury = -100 
 			}
 			hidden_effect = { 
-				add_political_influence = -20
+				add_political_influence = -10
 				add_treasury = -100 
 			}
 			trigger_event = { id = latium_01_italy_1.11 } 
@@ -366,10 +366,12 @@
 	latium_01_italy_3c = { # Settling of Campania
 		requires = { latium_01_italy_2 }
 		icon = task_conquest
-		#duration = 60
+		duration = 60
 		
 		allow = {
 			owns_area = campania_area
+			political_influence > 10
+			treasury > 100
 		}
 		
 		highlight = {
@@ -379,11 +381,19 @@
 		}
 		
 		on_start = {
-			
+			show_as_tooltip = { 
+				add_political_influence = -10
+				add_treasury = -100 
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+				add_treasury = -100 
+			}
+			trigger_event = { id = latium_01_italy_1.20 }
 		}
 		
 		on_completion = {
-			trigger_event = { id = latium_01_italy_1.20 } 
+			trigger_event = { id = latium_01_italy_1.21 } 
 		}
 	}
 	

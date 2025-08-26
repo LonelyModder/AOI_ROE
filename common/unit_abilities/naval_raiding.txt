@@ -11,9 +11,7 @@
 				NOR = {
 					is_tradition_tree_allowed = grekoid_philosophy
 					heritage = illyric_heritage
-					heritage = dravidic_heritage
-					heritage = veddic_heritage
-					heritage = germanic_heritage
+					heritage = nuragian_heritage
 				}
 			}
 		}
@@ -29,9 +27,7 @@
 				limit = {
 					OR = {
 						heritage = illyric_heritage
-						heritage = dravidic_heritage
-						heritage = veddic_heritage
-						heritage = germanic_heritage
+						heritage = nuragian_heritage
 					}
 				}
 			}
