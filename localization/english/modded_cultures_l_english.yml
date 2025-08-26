@@ -17,6 +17,7 @@
  grekoid:2 "Hellenic"
  gsicilian:0 "Sicelote"
  gitaliote:0 "Italiote"
+ gepirote:0 "Epirote"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  thyrrenic:2 "Villanovan"

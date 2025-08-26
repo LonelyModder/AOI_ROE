@@ -12,6 +12,7 @@
 					is_tradition_tree_allowed = grekoid_philosophy
 					heritage = illyric_heritage
 					heritage = nuragian_heritage
+					heritage = germanic_heritage
 				}
 			}
 		}
@@ -28,6 +29,7 @@
 					OR = {
 						heritage = illyric_heritage
 						heritage = nuragian_heritage
+						heritage = germanic_heritage
 					}
 				}
 			}

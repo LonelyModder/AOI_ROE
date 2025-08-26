@@ -374,7 +374,7 @@ latium_01_italy_1.9 = {
 				target = p:394.owner
 			}
 		}
-		p:487 = { #Cenomani
+		p:484 = { #Cenomani
 			while = {
                 count = 50
                 define_pop = {
@@ -391,24 +391,24 @@ latium_01_italy_1.9 = {
 				change_country_adjective = "Cenomani_ADJECTIVE"
 			}
 		}
-		p:487.owner = {
+		p:484.owner = {
 			add_country_modifier = {
 				name = lepontic_invasion_modifier
 				duration = 14600
 			}	
 		}	
-		p:484.owner = {
+		p:483.owner = {
 			declare_war_with_wargoal = {
 				war_goal = conquer_wargoal
-				province = p:487
-				target = p:487.owner
+				province = p:484
+				target = p:484.owner
 			}
 		}
 		p:486.owner = {
 			declare_war_with_wargoal = {
 				war_goal = conquer_wargoal
-				province = p:487
-				target = p:487.owner
+				province = p:484
+				target = p:484.owner
 			}
 		}
 		p:476 = { #Insubri
@@ -798,6 +798,11 @@ latium_01_italy_1.21 = {
 	
 	immediate = {
 		p:313 = { add_road_towards = p:314 }
+		p:314 = { add_road_towards = p:303 }
+		p:303 = { add_road_towards = p:301 }
+		p:301 = { add_road_towards = p:282 }
+		p:282 = { add_road_towards = p:284 }
+		p:284 = { add_road_towards = p:283 }
 	}
 	
 	option = { 
@@ -824,5 +829,109 @@ latium_01_italy_1.21 = {
 				name = roman_colony
 			}
 		}
+	}
+}
+
+latium_01_italy_1.22 = {  
+	type = country_event
+	title = "latium_01_italy_1.22.t"
+	desc = "latium_01_italy_1.22.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.22.a"
+		p:245 = { #Epirus in Greece
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = gepirote
+				set_country_religion = grecoid_pantheon
+				change_country_name = "Epirus_NAME"
+				change_country_adjective = "Epirus_ADJECTIVE"
+			}
+		}
+		p:245.owner = { 
+			region:modded_italia_region = { formable_region_province_effect = yes }
+			region:modded_magnagraecia_region = { formable_region_province_effect = yes }
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = engineer_cohort
+						add_subunit = supply_train
+						add_subunit = supply_train
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_elephants
+						add_subunit = ia_heavycavalry
+						add_subunit = ia_heavycavalry
+					}
+				}
+			}
+			add_country_modifier = {
+				name = cymmerian_invasion_modifier
+				duration = 14600 # 10 years
+			}
+			every_unit = {
+				add_food = 100
+			}
+		}
+		p:245.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:313
+				target = p:313.owner
+			}
+		}
+		trigger_event = { 
+			id = latium_01_italy_1.23
+			days = 15
+		}
+	}
+}
+
+latium_01_italy_1.23 = {  
+	type = country_event
+	title = "latium_01_italy_1.23.t"
+	desc = "latium_01_italy_1.23.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		capital_scope = {
+			is_in_region = modded_magnagraecia_region
+		}
+		NOT = { owns = 245 }
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.23.a"
+		ai_chance = { base = 20 }
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.23.a"
+		every_owned_province = { 
+			limit = { 
+				has_owner = yes 
+			}
+			set_conquered_by = p:245.owner
+		}
+		ai_chance = { base = 80 }
 	}
 }

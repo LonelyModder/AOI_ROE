@@ -252,11 +252,17 @@
 		#duration = 30
 		
 		allow = {
-			
+			owns = 289
+			owns = 285
 		}
 		
 		highlight = {
-			
+			scope:province = {
+				OR = {
+					province_id = 289
+					province_id = 285
+				}
+			}
 		}
 		
 		on_start = {
@@ -264,7 +270,7 @@
 		}
 		
 		on_completion = {
-			#trigger_event = { id = latium_01_italy_1.20 } # Pyrrus Event?
+			trigger_event = { id = latium_01_italy_1.22 } # Pyrrus Event?
 		}
 		
 		bypass = {
@@ -370,13 +376,17 @@
 		
 		allow = {
 			owns_area = campania_area
+			owns_area = latium_area
 			political_influence > 10
 			treasury > 100
 		}
 		
 		highlight = {
+				
 			scope:province = {
+				is_in_area = latium_area
 				is_in_area = campania_area
+				NOT = { province_id = 280 }
 			}
 		}
 		

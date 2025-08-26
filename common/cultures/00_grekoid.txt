@@ -106,6 +106,7 @@
 	culture = {
 		gsicilian = {}
 		gitaliote = {}
+		gepirote = {}
 	}
 	
 	barbarian_names = { 
