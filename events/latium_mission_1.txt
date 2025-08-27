@@ -404,42 +404,9 @@ latium_01_italy_1.9 = {
 				target = p:484.owner
 			}
 		}
-		p:486.owner = {
-			declare_war_with_wargoal = {
-				war_goal = conquer_wargoal
-				province = p:484
-				target = p:484.owner
-			}
-		}
-		p:476 = { #Insubri
-			while = {
-                count = 50
-                define_pop = {
-					type = tribesmen
-					culture = clepontic
-					religion = celtic_pantheon
-                }
-            } 
-			create_country = {
-				change_government = tribal_kingdom
-				set_primary_culture = clepontic
-				set_country_religion = celtic_pantheon
-				change_country_name = "Insubri_NAME"
-				change_country_adjective = "Insubri_ADJECTIVE"
-			}
-		}
 		p:476.owner = {
-			add_country_modifier = {
-				name = lepontic_invasion_modifier
-				duration = 14600
-			}	
-		}	
-		p:468.owner = {
-			declare_war_with_wargoal = {
-				war_goal = conquer_wargoal
-				province = p:476
-				target = p:476.owner
-			}
+			change_country_name = "Insubri_NAME"
+			change_country_adjective = "Insubri_ADJECTIVE"	
 		}
 	}
 }
@@ -656,6 +623,7 @@ latium_01_italy_1.15 = {
 		OR = {
 			tag=ABI
 			tag=ABE
+			tag=AAI
 		}
 		has_global_variable = campanian_proposition
 	}
