@@ -82,6 +82,7 @@ provinces = { #Any entry must contain a comment with city name.
 	107 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	85 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	725 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	788 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	765 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	247 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }

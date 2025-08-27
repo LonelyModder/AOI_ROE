@@ -27,7 +27,6 @@
 	
 	abort = {	
 		OR = {
-			is_monarchy = no
 			NOT = { primary_culture = rroman }
 			custom_tooltip = {
 				text = latium_01_italy_abort_tt
@@ -384,9 +383,10 @@
 		highlight = {
 				
 			scope:province = {
-				is_in_area = latium_area
-				is_in_area = campania_area
-				NOT = { province_id = 280 }
+				AND = {
+					is_in_area = latium_area
+					is_in_area = campania_area
+				}
 			}
 		}
 		

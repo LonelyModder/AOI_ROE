@@ -638,9 +638,8 @@ latium_01_italy_1.14 = {
 	option = { 
 		name = "latium_01_italy_1.14.b"
 		add_political_influence = -20
-		trigger_event = { 
-			id = latium_01_italy_1.15
-			days = 15
+		set_global_variable = {
+			name = campanian_proposition
 		}
 		ai_chance = { base = 80 }
 	}
@@ -658,6 +657,7 @@ latium_01_italy_1.15 = {
 			tag=ABI
 			tag=ABE
 		}
+		has_global_variable = campanian_proposition
 	}
 	
 	option = { 
@@ -667,9 +667,8 @@ latium_01_italy_1.15 = {
 	
 	option = { 
 		name = "latium_01_italy_1.15.b"
-		trigger_event = { 
-			id = latium_01_italy_1.16
-			days = 15
+		set_global_variable = {
+			name = campanians_agree
 		}
 		every_owned_province = { 
 			limit = { 
@@ -690,6 +689,7 @@ latium_01_italy_1.16 = {
 	
 	trigger = {
 		tag = AAA
+		has_global_variable = campanians_agree
 	}
 	
 	option = { 
@@ -710,9 +710,8 @@ latium_01_italy_1.17 = {
 	
 	option = { 
 		name = "latium_01_italy_1.17.a"
-		trigger_event = { 
-			id = latium_01_italy_1.18
-			days = 15
+		set_global_variable = {
+			name = proposition_for_hillbillies
 		}
 	}
 }
@@ -732,6 +731,7 @@ latium_01_italy_1.18 = {
 			tag = ABJ
 			tag = ABD
 		}
+		has_global_variable = proposition_for_hillbillies
 	}
 	
 	option = { 
@@ -742,9 +742,8 @@ latium_01_italy_1.18 = {
                 target = root
             }
         }
-		trigger_event = { 
-			id = latium_01_italy_1.19
-			days = 15
+		set_global_variable = {
+			name = apen_hillb_accept
 		}
 	}
 	
@@ -762,6 +761,7 @@ latium_01_italy_1.19 = {
 	
 	trigger = {
 		tag = AAA
+		has_global_variable = apen_hillb_accept
 	}
 	
 	option = { 
@@ -898,9 +898,8 @@ latium_01_italy_1.22 = {
 				target = p:313.owner
 			}
 		}
-		trigger_event = { 
-			id = latium_01_italy_1.23
-			days = 15
+		set_global_variable = {
+			name = pyrrus_looking_allies
 		}
 	}
 }
@@ -917,6 +916,7 @@ latium_01_italy_1.23 = {
 			is_in_region = modded_magnagraecia_region
 		}
 		NOT = { owns = 245 }
+		has_global_variable = pyrrus_looking_allies
 	}
 	
 	option = { 

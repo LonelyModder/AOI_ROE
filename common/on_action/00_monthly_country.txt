@@ -14,9 +14,12 @@
 		latium_01_italy_1.5
 		latium_01_italy_1.6
 		latium_01_italy_1.7
-		#latium_01_italy_1.9 #?
-		#latium_01_italy_1.15
-		#latium_01_italy_1.16
+		#latium_01_italy_1.9 #It works cus it's roman mission event?
+		latium_01_italy_1.15
+		latium_01_italy_1.16
+		latium_01_italy_1.18
+		latium_01_italy_1.19
+		latium_01_italy_1.23
 		#Units
 		units_allowance_events.1
 		#Modded events 
