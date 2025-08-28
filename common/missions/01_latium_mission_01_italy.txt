@@ -377,11 +377,9 @@
 			owns_area = campania_area
 			owns_area = latium_area
 			political_influence > 10
-			treasury > 100
 		}
 		
 		highlight = {
-				
 			scope:province = {
 				AND = {
 					is_in_area = latium_area
@@ -393,22 +391,169 @@
 		on_start = {
 			show_as_tooltip = { 
 				add_political_influence = -10
-				add_treasury = -100 
 			}
 			hidden_effect = { 
 				add_political_influence = -10
-				add_treasury = -100 
 			}
 			trigger_event = { id = latium_01_italy_1.20 }
 		}
 		
 		on_completion = {
-			trigger_event = { id = latium_01_italy_1.21 } 
+			if = {
+				limit = {
+					has_global_variable = poorer_campania
+				}
+				trigger_event = { id = latium_01_italy_1.21 } 
+			}
+			else_if = {
+				limit = {
+					has_global_variable = richer_campania
+				}
+				trigger_event = { id = latium_01_italy_1.24 } 
+			}
+		}
+	}
+	
+	latium_01_italy_4c = { # Administering Samnium
+		requires = { latium_01_italy_3c }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			owns_area = frentania_area
+			owns_area = deunia_area
+			political_influence > 10
+		}
+		
+		highlight = {
+			scope:province = {
+				AND = {
+					is_in_area = frentania_area
+					is_in_area = deunia_area
+				}
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -10
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+			}
+			trigger_event = { id = latium_01_italy_1.25 }
+		}
+		
+		on_completion = {
+			if = {
+				limit = {
+					has_global_variable = poorer_samnium
+				}
+				trigger_event = { id = latium_01_italy_1.26 } 
+			}
+			else_if = {
+				limit = {
+					has_global_variable = richer_samnium
+				}
+				trigger_event = { id = latium_01_italy_1.27 } 
+			}
+		}
+	}
+	
+	latium_01_italy_5c = { # Administering Magna Graecia
+		requires = { latium_01_italy_4c }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			owns_region = modded_magnagraecia_region
+			political_influence > 10
+		}
+		
+		highlight = {
+			scope:province = {
+				AND = {
+					is_in_region = modded_magnagraecia_region
+				}
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -10
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+			}
+			trigger_event = { id = latium_01_italy_1.28 }
+		}
+		
+		on_completion = {
+			if = {
+				limit = {
+					has_global_variable = poorer_magnagraecia
+				}
+				trigger_event = { id = latium_01_italy_1.29 } 
+			}
+			else_if = {
+				limit = {
+					has_global_variable = richer_magnagraecia
+				}
+				trigger_event = { id = latium_01_italy_1.30 } 
+			}
+		}
+	}
+	
+	latium_01_italy_6c = { # Administering Umbria
+		requires = { latium_01_italy_5c }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			owns_area = umbria_area
+			owns_area = sabinia_area
+			owns_area = picentia_area
+			political_influence > 10
+		}
+		
+		highlight = {
+			scope:province = {
+				AND = {
+					is_in_area = umbria_area
+					is_in_area = sabinia_area
+					is_in_area = picentia_area
+				}
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -10
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+			}
+			trigger_event = { id = latium_01_italy_1.31 }
+		}
+		
+		on_completion = {
+			if = {
+				limit = {
+					has_global_variable = poorer_umbria
+				}
+				trigger_event = { id = latium_01_italy_1.32 } 
+			}
+			else_if = {
+				limit = {
+					has_global_variable = richer_umbria
+				}
+				trigger_event = { id = latium_01_italy_1.33 } 
+			}
 		}
 	}
 	
 	latium_01_italy_99 = { # Italy Conquered
-		requires = { latium_01_italy_7a latium_01_italy_5b latium_01_italy_3c }
+		requires = { latium_01_italy_7a latium_01_italy_5b latium_01_italy_6c } #latium_01_italy_6c
 		icon = task_conquest
 		#duration = 30
 		

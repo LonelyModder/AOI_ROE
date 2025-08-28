@@ -64,6 +64,7 @@
 			if = {
 				limit = {
 					country_culture_group = latinic
+					NOT = { is_monarchy = yes }
 				}
 				change_country_name = "ROMANREPUBLIC_NAME"
 			}
@@ -74,6 +75,7 @@
 				if = {
 					limit = {
 						country_culture_group = latinic
+						NOT = { is_monarchy = yes }
 					}
 					change_country_adjective = "ROMANREPUBLIC_ADJECTIVE"
 				}
