@@ -1,8 +1,8 @@
 ﻿386={ 
 	terrain="farmland"
 	trade_goods="wine"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -20,8 +20,8 @@
 387={ 
 	terrain="plains"
 	trade_goods="salt"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -40,14 +40,14 @@
 	terrain="marsh"
 	trade_goods="fish"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -59,14 +59,14 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -78,14 +78,14 @@
 	terrain="forest"
 	trade_goods="leather"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -97,14 +97,14 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -116,14 +116,14 @@
 	terrain="forest"
 	trade_goods="cattle"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -135,14 +135,14 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -154,14 +154,14 @@
 	terrain="forest"
 	trade_goods="leather"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -200,14 +200,14 @@
 	terrain="forest"
 	trade_goods="fruits"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -253,8 +253,8 @@
 	}
 	tribesmen={
 		amount=5
-		religion="villanic_pantheon"
-		culture="epicenic"
+		religion="illyric_pantheon"
+		culture="lveneti"
 	}
 	slaves={
 		amount=6
@@ -292,14 +292,14 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -311,14 +311,14 @@
 	terrain="marsh"
 	trade_goods="salt"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -330,14 +330,14 @@
 	terrain="farmland"
 	trade_goods="wine"
 	religion="villanic_pantheon"
-	culture="epicenic"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -348,8 +348,8 @@
 493={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -367,8 +367,8 @@
 492={ 
 	terrain="farmland"
 	trade_goods="fish"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="illyric_pantheon"
+	culture="lveneti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1124,8 +1124,8 @@
 	}
 	tribesmen={
 		amount=5
-		religion="villanic_pantheon"
-		culture="epicenic"
+		religion="celtic_pantheon"
+		culture="clepontic"
 	}
 	slaves={
 		amount=6
@@ -1135,8 +1135,8 @@
 484={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="celtic_pantheon"
+	culture="clepontic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1173,8 +1173,8 @@
 490={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="celtic_pantheon"
+	culture="clepontic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1192,8 +1192,8 @@
 491={ 
 	terrain="forest"
 	trade_goods="cloth"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="celtic_pantheon"
+	culture="clepontic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1363,8 +1363,8 @@
 482={ 
 	terrain="farmland"
 	trade_goods="wine"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="celtic_pantheon"
+	culture="clepontic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

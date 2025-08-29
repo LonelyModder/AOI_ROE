@@ -967,8 +967,11 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
-		amount=3
+		amount=8
 	}
 	citizen={
 		amount=1
@@ -1034,12 +1037,15 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
+		amount=3
+	}
+	nobles={
 		amount=1
 		culture = gitaliote
 		religion = grecoid_pantheon
 	}
 	citizen={
-		amount=6
+		amount=10
 	}
 	citizen={
 		amount=3
@@ -1369,8 +1375,8 @@
 329={ 
 	terrain="hills"
 	trade_goods="cattle"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1527,8 +1533,8 @@
 337={ 
 	terrain="hills"
 	trade_goods="wood"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1546,8 +1552,8 @@
 338={ 
 	terrain="hills"
 	trade_goods="wool"
-	religion="villanic_pantheon"
-	culture="epicenic"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1610,15 +1616,18 @@
 	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
+	}
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 	holy_site="omen_mapulu"
 }
@@ -1874,15 +1883,18 @@
 	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
+	}
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1912,15 +1924,18 @@
 	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
+	}
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 	holy_site="omen_mtinia"
 }

@@ -1567,7 +1567,30 @@ latium_01_italy_1.33 = {
 	
 	immediate = {
 		#via salaria
-		#p:283 = { add_road_towards = p:285 }
+		p:313 = { add_road_towards = p:315 }
+		p:315 = { add_road_towards = p:316 }
+		p:316 = { add_road_towards = p:318 }
+		p:318 = { add_road_towards = p:310 }
+		p:310 = { add_road_towards = p:321 }
+		p:321 = { add_road_towards = p:324 }
+		p:324 = { add_road_towards = p:322 }
+		p:322 = { add_road_towards = p:323 }
+		#via flaminia
+		p:313 = { add_road_towards = p:340 }
+		p:340 = { add_road_towards = p:317 }
+		p:317 = { add_road_towards = p:325 }
+		p:325 = { add_road_towards = p:332 }
+		p:332 = { add_road_towards = p:335 }
+		p:335 = { add_road_towards = p:336 }
+		p:336 = { add_road_towards = p:338 }
+		p:338 = { add_road_towards = p:330 }
+		p:330 = { add_road_towards = p:331 }
+		p:330 = { add_road_towards = p:328 }
+		p:328 = { add_road_towards = p:323 }
+		p:332 = { add_road_towards = p:333 }
+		p:333 = { add_road_towards = p:334 }
+		p:334 = { add_road_towards = p:327 }
+		p:327 = { add_road_towards = p:323 }
 		p:331 = {
 			establish_city_effect = yes
 			if = {
@@ -1596,9 +1619,300 @@ latium_01_italy_1.33 = {
 				name = roman_colony
 			}
 		}
+		p:323 = {
+			establish_city_effect = yes
+			if = {
+				limit = {
+					num_of_port_building < 1
+				}
+				add_building_level = port_building
+			}
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			add_province_modifier = {
+				name = roman_colony
+			}
+		}
+		p:330 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			add_province_modifier = {
+				name = roman_colony
+			}
+		}
+		p:333 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			add_province_modifier = {
+				name = roman_colony
+			}
+		}
+		p:316= {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			add_province_modifier = {
+				name = roman_colony
+			}
+		}
+		p:320 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			add_province_modifier = {
+				name = roman_colony
+			}
+		}
 	}
 	
 	option = { 
 		name = "latium_01_italy_1.33.a"
+	}
+}
+
+latium_01_italy_1.34 = {  
+	type = country_event
+	title = "latium_01_italy_1.34.t"
+	desc = "latium_01_italy_1.34.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.34.a"
+		set_global_variable = {
+			name = poorer_etruria
+		}
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.34.b"
+		show_as_tooltip = { 
+			add_treasury = -100
+		}
+		hidden_effect = { 
+			add_treasury = -100
+		}
+		set_global_variable = {
+			name = richer_etruria
+		}
+	}
+}
+
+latium_01_italy_1.35 = {  
+	type = country_event
+	title = "latium_01_italy_1.35.t"
+	desc = "latium_01_italy_1.35.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+	}
+	
+	immediate = {
+		p:345 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			add_province_modifier = {
+				name = roman_colony
+			}
+		}
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.35.a"
+	}
+}
+
+latium_01_italy_1.36 = {  
+	type = country_event
+	title = "latium_01_italy_1.36.t"
+	desc = "latium_01_italy_1.36.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+	}
+	
+	immediate = {
+		#via aurelia
+		p:313 = { add_road_towards = p:341 }
+		p:341 = { add_road_towards = p:342 }
+		p:342 = { add_road_towards = p:345 }
+		p:345 = { add_road_towards = p:346 }
+		p:346 = { add_road_towards = p:350 }
+		p:350 = { add_road_towards = p:359 }
+		p:359 = { add_road_towards = p:360 }
+		p:360 = { add_road_towards = p:365 }
+		p:365 = { add_road_towards = p:366 }
+		#via cassia
+		p:340 = { add_road_towards = p:343 }
+		p:343 = { add_road_towards = p:344 }
+		p:344 = { add_road_towards = p:349 }
+		p:349 = { add_road_towards = p:352 }
+		p:352 = { add_road_towards = p:357 }
+		p:357 = { add_road_towards = p:364 }
+		p:345 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			add_province_modifier = {
+				name = roman_colony
+			}
+		}
+		p:341 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			add_province_modifier = {
+				name = roman_colony
+			}
+		}
+		p:367 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = rroman
+					religion = italiotan_pantheon
+                }
+            }
+			add_province_modifier = {
+				name = roman_colony
+			}
+		}
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.36.a"
 	}
 }

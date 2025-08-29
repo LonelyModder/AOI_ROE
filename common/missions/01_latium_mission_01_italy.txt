@@ -552,8 +552,56 @@
 		}
 	}
 	
+	latium_01_italy_7c = { # Administering Etruria
+		requires = { latium_01_italy_6c }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			owns_area = setruria_area
+			owns_area = netruria_area
+			owns_area = perusia_area
+			political_influence > 10
+		}
+		
+		highlight = {
+			scope:province = {
+				AND = {
+					is_in_area = setruria_area
+					is_in_area = netruria_area
+					is_in_area = perusia_area
+				}
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -10
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+			}
+			trigger_event = { id = latium_01_italy_1.34 }
+		}
+		
+		on_completion = {
+			if = {
+				limit = {
+					has_global_variable = poorer_etruria
+				}
+				trigger_event = { id = latium_01_italy_1.35 } 
+			}
+			else_if = {
+				limit = {
+					has_global_variable = richer_etruria
+				}
+				trigger_event = { id = latium_01_italy_1.36 } 
+			}
+		}
+	}
+	
 	latium_01_italy_99 = { # Italy Conquered
-		requires = { latium_01_italy_7a latium_01_italy_5b latium_01_italy_6c } #latium_01_italy_6c
+		requires = { latium_01_italy_7a latium_01_italy_5b latium_01_italy_7c } #latium_01_italy_7c
 		icon = task_conquest
 		#duration = 30
 		
