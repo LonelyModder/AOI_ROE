@@ -342,7 +342,7 @@
 	}
 	
 	latium_01_italy_5b = { # Sybilline Books
-		requires = { latium_01_italy_6b }
+		requires = { latium_01_italy_4b }
 		icon = task_conquest
 		#duration = 60
 		
