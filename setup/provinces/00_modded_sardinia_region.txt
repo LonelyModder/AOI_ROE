@@ -1,0 +1,860 @@
+﻿53={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture = punici
+		religion = canaanitic_pantheon
+	}
+	citizen={
+		amount=4
+		culture = punici
+		religion = canaanitic_pantheon
+	}
+	freemen={
+		amount=2
+		culture = punici
+		religion = canaanitic_pantheon
+	}	
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		amount=1
+		culture = punici
+		religion = canaanitic_pantheon
+	}
+	slaves={
+		amount=4
+	}
+}
+
+73={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+74={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+75={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+		culture = punici
+		religion = canaanitic_pantheon
+	}	
+	freemen={
+		amount=2
+		culture = punici
+		religion = canaanitic_pantheon
+	}	
+	tribesmen={
+		amount=5
+	}
+	slaves={
+		amount=1
+		culture = punici
+		religion = canaanitic_pantheon
+	}	
+	slaves={
+		amount=2
+	}
+}
+
+76={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture = punici
+		religion = canaanitic_pantheon
+	}
+	citizen={
+		amount=4
+		culture = punici
+		religion = canaanitic_pantheon
+	}
+	freemen={
+		amount=2
+		culture = punici
+		religion = canaanitic_pantheon
+	}	
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		amount=1
+		culture = punici
+		religion = canaanitic_pantheon
+	}
+	slaves={
+		amount=4
+	}
+}
+
+77={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+78={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+79={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+80={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture = punici
+		religion = canaanitic_pantheon
+	}
+	citizen={
+		amount=4
+		culture = punici
+		religion = canaanitic_pantheon
+	}
+	freemen={
+		amount=2
+		culture = punici
+		religion = canaanitic_pantheon
+	}	
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		amount=1
+		culture = punici
+		religion = canaanitic_pantheon
+	}
+	slaves={
+		amount=4
+	}
+}
+
+81={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+82={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+83={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	holy_site="omen_babai"
+}
+
+84={ 
+	terrain="hills"
+	trade_goods="hemp"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+85={ 
+	terrain="mountain"
+	trade_goods="base_metals"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+86={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+87={ 
+	terrain="hills"
+	trade_goods="salt"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+88={ 
+	terrain="plains"
+	trade_goods="fruits"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+89{ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+90={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+91={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+92={ 
+	terrain="mountain"
+	trade_goods="base_metals"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+93={ 
+	terrain="mountain"
+	trade_goods="base_metals"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+94={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+95={ 
+	terrain="hills"
+	trade_goods="hemp"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+96={ 
+	terrain="hills"
+	trade_goods="hemp"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+97={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+98={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+99={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="nuragian_pantheon"
+	culture="nurage"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+100={ 
+	terrain="hills"
+	trade_goods="salt"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+101={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+102={ 
+	terrain="hills"
+	trade_goods="salt"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+103={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+104={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+105={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+106={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+107={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+108={ 
+	terrain="mountain"
+	trade_goods="hemp"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+109={ 
+	terrain="hills"
+	trade_goods="honey"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+110={ 
+	terrain="hills"
+	trade_goods="hemp"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+111={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+112={ 
+	terrain="hills"
+	trade_goods="salt"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

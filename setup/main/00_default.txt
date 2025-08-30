@@ -33,7 +33,7 @@ family={
 			prestige=300
 		}
 		2={
-			key="Julia"
+			key="Julius"
 			owner=AAA
 			culture = rroman
 			prestige=300
@@ -45,7 +45,7 @@ family={
 			prestige=300
 		}
 		4={
-			key="Cornelia"
+			key="Cornelius"
 			owner=AAA
 			culture = rroman
 			prestige=300
@@ -66,73 +66,99 @@ family={
 		}
 }
 diplomacy = {
-	#Etruria in Latium
-	dependency = { first = AAG second = AAA subject_type = tributary }
-	dependency = { first = AAG second = ABC subject_type = tributary }
+	
 }
 
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
-	217 = { # Rome
+	313 = { # Rome
 		treasure_slots = { 	treasures = { 1 } }
 	}
-	115 = { # For Babai Sardinia
+	83 = { # Nolza
 		treasure_slots = { 	treasures = { 2 } }
 	}
 
 	#Pirates
-	124 = { modifier = { modifier = pirate_haven_modifier always = yes } }
-	112 = { modifier = { modifier = pirate_haven_modifier always = yes } }
-	375 = { modifier = { modifier = pirate_haven_modifier always = yes } } 
-	391 = { modifier = { modifier = pirate_haven_modifier always = yes } } 
-	398 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	107 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	85 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	725 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	788 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	765 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	247 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
-	217 = { port_building = 1 }
-	398 = { port_building = 1 }
-	391 = { port_building = 1 }
-	112 = { port_building = 1 }
-	133 = { port_building = 1 }
-	375 = { port_building = 1 }
-	246 = { port_building = 1 }
-	257 = { port_building = 1 }
-	146 = { port_building = 1 }
-	124 = { port_building = 1 }
-	382 = { port_building = 1 }
-	394 = { port_building = 1 }
-	107 = { port_building = 2 }
-	110 = { port_building = 2 }
-	116 = { port_building = 2 }
-	88 = { port_building = 2 }
-	148 = { port_building = 2 }
-	91 = { port_building = 2 }
-	93 = { port_building = 2 }
-	272 = { fortress_building = 1 }
-	151 = { fortress_building = 1 }
+	311 = { port_building = 1 }
+	788 = { port_building = 1 }
+	483 = { port_building = 1 }
+	739 = { port_building = 1 }
+	345 = { port_building = 1 }
+	366 = { port_building = 1 }
+	361 = { port_building = 1 }
+	529 = { port_building = 1 }
+	107 = { port_building = 1 }
+	772 = { port_building = 1 }
+	725 = { port_building = 1 }
+	504 = { port_building = 1 }
+	765 = { port_building = 1 }
+	101 = { port_building = 1 }
+	260 = { port_building = 1 }
+	245 = { port_building = 1 }
+	233 = { port_building = 1 }
+	85 = { port_building = 1 }
+	97 = { port_building = 1 }
+	53 = { port_building = 2 }
+	76 = { port_building = 2 }
+	80 = { port_building = 2 }
+	214 = { port_building = 2 }
+	272 = { port_building = 2 }
+	21 = { port_building = 2 }
+	11 = { port_building = 2 }
+	50 = { port_building = 2 }
+	44 = { port_building = 2 }
+	26 = { port_building = 2 }
 	
 	#Passes
+	108 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	85 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	216 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	221 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	294 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	300 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	305 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	302 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	318 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	401 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	263 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	316 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	342 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	271 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	285 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	290 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	317 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	345 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	322 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	319 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	326 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	358 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	404 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	406 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	447 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	455 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	471 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	477 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	497 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	515 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	525 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	539 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	787 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	795 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	759 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	762 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	754 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	538 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	571 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	
 	########################################
 	# Barbarian Spawn Spots
 	########################################
-	191 = { modifier = { modifier = generic_barbarian_spawn_place } }
-	197 = { modifier = { modifier = generic_barbarian_spawn_place } }
-	200 = { modifier = { modifier = generic_barbarian_spawn_place } }
-	205 = { modifier = { modifier = generic_barbarian_spawn_place } }
-	209 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	379 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	547 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	695 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	700 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	708 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	719 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	835 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	843 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	716 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	
 }
 
@@ -146,26 +172,30 @@ country = {
 		BAR = {
 			government = tribal_kingdom
 		}
-		#I update
+		
 		AAA = {      
 			family = 1
 			family = 2
 			family = 3
 			family = 4
-			government = tribal_federation
+			government = despotic_monarchy
 			primary_culture = rroman
 			religion = italiotan_pantheon
-			capital = 218
+			capital = 313
 			
 			poptype_rights = {
 				{
 					culture = gitaliote 
 					type = nobles
 				}
+				{
+					culture = rutulic 
+					type = citizen
+				}
 			}
 			
 			own_control_core = 	{ 
-				217 219 218
+				313 311 312 314 315 317 325 303
 			}
 		}
 		
@@ -173,10 +203,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = corsi
 			religion = nuragian_pantheon
-			capital = 126
+			capital = 108
 			
 			own_control_core = 	{ 
-				126 124 122 121 125 123 114
+				101 102 103 104 105 106 107 108 109 110 111 112 100 89 88 
 			}
 		}
 		
@@ -184,10 +214,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = nurage
 			religion = nuragian_pantheon
-			capital = 120
+			capital = 99
 			
 			own_control_core = 	{ 
-				120 119 117
+				99 97 98 96 95 94 90
 			}
 		}
 		
@@ -195,10 +225,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = nurage
 			religion = nuragian_pantheon
-			capital = 115
+			capital = 83
 			
 			own_control_core = 	{ 
-				115 111 112 113 118
+				83 79 77 74 82 81 73 91 92 93 84 85 86 87 78
 			}
 		}
 		
@@ -206,10 +236,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = elymoi
 			religion = italiotan_pantheon
-			capital = 104
+			capital = 49
 			
 			own_control_core = 	{ 
-				104
+				49 48
 			}
 		}
 		
@@ -217,7 +247,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
-			capital = 107
+			capital = 53
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -227,7 +257,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				107 108 109 110 116
+				53 75 76 80
 			}
 		}
 		
@@ -236,7 +266,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = etrusci
 			religion = villanic_pantheon
-			capital = 248
+			capital = 349
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -246,10 +276,9 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				247 246 244 245 248 249 254
-				250 252 256 257 255 258 251
-				240 242 243 264 265 272 273 274 306 305 275 276 277 278
-				378 302 377 300 298 279 151 147 149 150
+				360 361 359 365 366 368 367 362 358 369
+				346 347 345 344 343 342 341 340 350 348
+				351 352 354 355 353 357 356 349 363 364
 			}
 		}
 		
@@ -257,7 +286,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = gitaliote
 			religion = grecoid_pantheon
-			capital = 88
+			capital = 214
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -267,7 +296,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				88
+				214
 			}
 		}
 		
@@ -275,7 +304,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = gitaliote
 			religion = grecoid_pantheon
-			capital = 148
+			capital = 272
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -285,7 +314,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				148
+				272
 			}
 		}
 		
@@ -293,7 +322,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = gsicilian
 			religion = grecoid_pantheon
-			capital = 91
+			capital = 21
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -303,7 +332,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				91 
+				21 
 			}
 		}
 		
@@ -311,7 +340,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = gitaliote
 			religion = grecoid_pantheon
-			capital = 5
+			capital = 119
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -321,7 +350,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				5
+				119
 			}
 		}
 		
@@ -329,7 +358,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = gsicilian
 			religion = grecoid_pantheon
-			capital = 92
+			capital = 22
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -339,7 +368,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				92
+				22
 			}
 		}
 		
@@ -347,7 +376,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = gsicilian
 			religion = grecoid_pantheon
-			capital = 93
+			capital = 11
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -357,7 +386,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				93
+				11
 			}
 		}
 		
@@ -365,10 +394,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = sicanic
 			religion = villanic_pantheon
-			capital = 105
+			capital = 47
 			
 			own_control_core = 	{ 
-				105 106 103
+				47 46 45 43 42 40 41 
 			}
 		}
 		
@@ -376,10 +405,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = isicelian
 			religion = illyric_pantheon
-			capital = 97
-			
+			capital = 31
+			 
 			own_control_core = 	{ 
-				97 94 101 95 96 98 102 100 99
+				31 28 30 13 12 36 37 35 32 34 33 39 38 29 27 25 24 23 
 			}
 		}
 		
@@ -387,7 +416,7 @@ country = {
 			government = aristocratic_republic
 			primary_culture = gitaliote
 			religion = grecoid_pantheon
-			capital = 135
+			capital = 226
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -397,7 +426,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				135
+				226
 			}
 		}
 		
@@ -405,10 +434,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = imessapi
 			religion = illyric_pantheon
-			capital = 134
+			capital = 243
 			
 			own_control_core = 	{ 
-				134 133 132 485
+				243 233 234 240 239 241 242 244 232
 			}
 		}
 		
@@ -416,10 +445,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = imessapi
 			religion = illyric_pantheon
-			capital = 136
+			capital = 247
 			
 			own_control_core = 	{ 
-				138 137 136 139
+				245 246 247 248 249
 			}
 		}
 		
@@ -427,10 +456,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = imessapi
 			religion = illyric_pantheon
-			capital = 154
+			capital = 276
 			
 			own_control_core = 	{ 
-				154 146 141
+				276 258 259 260 270 277
 			}
 		}
 		
@@ -438,10 +467,11 @@ country = {
 			government = tribal_federation
 			primary_culture = ioscan
 			religion = italiotan_pantheon
-			capital = 90
+			capital = 216
 			
 			own_control_core = 	{ 
-				90 127 89 85 87 86 84
+				218 220 219 216 217 215 221 213
+				212 211 208 207 120 206 209 210
 			}
 		}
 		
@@ -449,10 +479,11 @@ country = {
 			government = tribal_federation
 			primary_culture = ioscan
 			religion = italiotan_pantheon
-			capital = 131
+			capital = 231
 			
 			own_control_core = 	{ 
-				131 130 128 140 129 142 144 143
+				238 252 230 227 228 229 223 231 
+				224 222 235 225 236 237 250 251 253
 			}
 		}
 		
@@ -460,10 +491,10 @@ country = {
 			government = tribal_federation
 			primary_culture = ioscan
 			religion = italiotan_pantheon
-			capital = 156
+			capital = 289
 			
 			own_control_core = 	{ 
-				155 156 153 152 145 160 159
+				289 294 293 290 291 286 287 285 280 279 278 257
 			}
 		}
 		
@@ -471,10 +502,10 @@ country = {
 			government = tribal_federation
 			primary_culture = iumbrian
 			religion = italiotan_pantheon
-			capital = 235
+			capital = 332  
 			
 			own_control_core = 	{ 
-				230 234 235 236 241
+				332 333 335 334 339 336 
 			}
 		}
 		
@@ -482,32 +513,39 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ioscan
 			religion = italiotan_pantheon
-			capital = 220
+			capital = 318
 			
 			own_control_core = 	{ 
-				220 226 227
+				316 318 319 326
 			}
 		}
 		
 		ABB = {          
-			government = tribal_kingdom
-			primary_culture = rroman
-			religion = italiotan_pantheon
-			capital = 233
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 50
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				233
+				50 44 26
 			}
 		}
 		
 		ABC = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = iumbrian
 			religion = italiotan_pantheon
-			capital = 216
+			capital = 299
 			
 			own_control_core = 	{ 
-				216 158 222
+				299 298 301 302
 			}
 		}
 		
@@ -515,21 +553,35 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ioscan
 			religion = italiotan_pantheon
-			capital = 228
+			capital = 292
 			
 			own_control_core = 	{ 
-				228 157
+				292 288 295 296
 			}
 		}
 		
-		ABE = {          
-			government = tribal_kingdom
-			primary_culture = ioscan
-			religion = italiotan_pantheon
-			capital = 215
+		ABE = {     
+			government = aristocratic_republic
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 273
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			poptype_rights = {
+				{
+					culture = ioscan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				215
+				273 283 271 274 275 254 255 256
 			}
 		}
 		
@@ -537,10 +589,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = iumbrian
 			religion = italiotan_pantheon
-			capital = 223
+			capital = 305
 			
 			own_control_core = 	{ 
-				223
+				305 
 			}
 		}
 		
@@ -548,10 +600,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ioscan
 			religion = italiotan_pantheon
-			capital = 221
+			capital = 306
 			
 			own_control_core = 	{ 
-				221
+				306 308
 			}
 		}
 		
@@ -559,21 +611,21 @@ country = {
 			government = tribal_kingdom
 			primary_culture = iumbrian
 			religion = italiotan_pantheon
-			capital = 224
+			capital = 304
 			
 			own_control_core = 	{ 
-				224
+				304 307
 			}
 		}
 		
 		ABI = {          
-			government = tribal_kingdom
-			primary_culture = iumbrian
+			government = despotic_monarchy
+			primary_culture = ioscan
 			religion = italiotan_pantheon
-			capital = 225
+			capital = 284
 			
 			own_control_core = 	{ 
-				225
+				284 281 282 300
 			}
 		}
 		
@@ -581,10 +633,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = iumbrian
 			religion = italiotan_pantheon
-			capital = 229
+			capital = 309
 			
 			own_control_core = 	{ 
-				229
+				309 310 297
 			}
 		}
 		
@@ -592,22 +644,22 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ipicentes
 			religion = italiotan_pantheon
-			capital = 232
+			capital = 324
 			
 			own_control_core = 	{ 
-				232 231 238 237 239
+				324 321 320 327 322 323
 			}
 		}
 		
 		ABL = {    
 			family = 6
-			government = tribal_federation
+			government = tribal_kingdom
 			primary_culture = clepontic
 			religion = celtic_pantheon
-			capital = 294
+			capital = 476
 			
 			own_control_core = 	{ 
-				294 292 291 293 287 295 296 297 299
+				476 466 467 475 474 468 469 470 461 462 464 460 463 465 454 480 481 485 486 479
 			}
 		}
 		
@@ -615,10 +667,11 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lveneti
 			religion = illyric_pantheon
-			capital = 309
+			capital = 507
 			
 			own_control_core = 	{ 
-				309 308 310 311 312 313 314 315 321
+				503 504 505 507 510 502 508 506 509 512 
+				513 514 519 511 517 518 523 522 520 521 524
 			}
 		}
 		
@@ -626,10 +679,11 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lliburni
 			religion = illyric_pantheon
-			capital = 385
+			capital = 739
 			
 			own_control_core = 	{ 
-				385 387 384 383 382 380 394
+				739 740 738 734 733 730 727 724 725 
+				726 771 772 741 743
 			}
 		}
 		
@@ -637,10 +691,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = castelieric
 			religion = illyric_pantheon
-			capital = 374
+			capital = 531
 			
 			own_control_core = 	{ 
-				374 375
+				531 530 529 532 533 528 527
 			}
 		}
 		
@@ -648,10 +702,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lcisalpine
 			religion = liguric_pantheon
-			capital = 285
+			capital = 447
 			
 			own_control_core = 	{ 
-				285
+				448 447
 			}
 		}
 		
@@ -659,10 +713,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = cvindelician
 			religion = celtic_pantheon
-			capital = 330
+			capital = 603
 			
 			own_control_core = 	{ 
-				330 335 331 334 333 325
+				603 564 566 604 605 606 607 616 608 621 620 615 609
 			}
 		}
 		
@@ -673,7 +727,7 @@ country = {
 			capital = 381
 			
 			own_control_core = 	{ 
-				381 379
+				737 736 747 749 735 750 753 755 751 748
 			}
 		}
 		
@@ -681,10 +735,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lcisalpine
 			religion = liguric_pantheon
-			capital = 267
+			capital = 410
 			
 			own_control_core = 	{ 
-				267 266 262 263
+				410 411 407 406 409 405 404 408
 			}
 		}
 		
@@ -692,10 +746,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lcisalpine
 			religion = liguric_pantheon
-			capital = 260
+			capital = 399
 			
 			own_control_core = 	{ 
-				260 261 253
+				399 400 401 402 403 398
 			}
 		}
 		
@@ -703,10 +757,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lcisalpine
 			religion = liguric_pantheon
-			capital = 281
+			capital = 442
 			
 			own_control_core = 	{ 
-				281 280 282
+				442 420 418 416 439 441
 			}
 		}
 		
@@ -714,10 +768,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lcisalpine
 			religion = liguric_pantheon
-			capital = 269
+			capital = 413
 			
 			own_control_core = 	{ 
-				269 268
+				413 414 412
 			}
 		}
 		
@@ -725,10 +779,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lcisalpine
 			religion = liguric_pantheon
-			capital = 286
+			capital = 451
 			
 			own_control_core = 	{ 
-				286 284 283 288
+				451 452 450 449 453 446 445
 			}
 		}
 		
@@ -736,10 +790,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lcisalpine
 			religion = liguric_pantheon
-			capital = 270
+			capital = 443
 			
 			own_control_core = 	{ 
-				270 271
+				443 419 444 417 415
 			}
 		}
 		
@@ -747,10 +801,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lcarnian
 			religion = illyric_pantheon
-			capital = 354
+			capital = 526
 			
 			own_control_core = 	{ 
-				354 355 353
+				526 525 534 597 592 657 536 535
 			}
 		}
 		
@@ -758,10 +812,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = eugeneian
 			religion = villanic_pantheon
-			capital = 304
+			capital = 501
 			
 			own_control_core = 	{ 
-				304 301
+				501 499 495 496 498
 			}
 		}
 		
@@ -769,10 +823,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = csedunian
 			religion = celtic_pantheon
-			capital = 289
+			capital = 456
 			
 			own_control_core = 	{ 
-				289 290
+				456 455 457 458 459
 			}
 		}
 		
@@ -780,10 +834,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = idelmatian
 			religion = illyric_pantheon
-			capital = 392
+			capital = 775
 			
 			own_control_core = 	{ 
-				392 393 391 389 395
+				775 774 746 744 742 745 764 763 777 776 765
 			}
 		}
 		
@@ -791,10 +845,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = idelmatian
 			religion = illyric_pantheon
-			capital = 396
+			capital = 788
 			
 			own_control_core = 	{ 
-				396 397 398
+				788 787 786 785 784 783
 			}
 		}
 		
@@ -802,10 +856,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = idelmatian
 			religion = illyric_pantheon
-			capital = 399
+			capital = 778
 			
 			own_control_core = 	{ 
-				399 400 401
+				778 780 773 779 781
 			}
 		}
 		
@@ -813,10 +867,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lcatari
 			religion = illyric_pantheon
-			capital = 440
+			capital = 859
 			
 			own_control_core = 	{ 
-				440 424 420
+				859 857 858 860 731 732 728 729
 			}
 		}
 		
@@ -824,21 +878,29 @@ country = {
 			government = tribal_kingdom
 			primary_culture = idelmatian
 			religion = illyric_pantheon
-			capital = 413
+			capital = 760
 			
 			own_control_core = 	{ 
-				413 421 386 388 390 410 411 412
+				760 762 759 757 756 754 767 769 796
 			}
 		}
 		
 		ACK = {          
-			government = tribal_kingdom
-			primary_culture = csedunian
-			religion = celtic_pantheon
-			capital = 317
+			government = aristocratic_republic
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 396
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				317 318
+				494 423 421 422 493 492 490 483 482 424 429 425 393 394 391 392
+				428 431 434 433 430 426 427 396 397 395 484 491 390 389 386 387 388
 			}
 		}
 		
@@ -846,10 +908,11 @@ country = {
 			government = tribal_kingdom
 			primary_culture = cvindelician
 			religion = celtic_pantheon
-			capital = 340
+			capital = 624
 			
 			own_control_core = 	{ 
-				340 338 339 350 337 363 349 365
+				630 632 633 629 628 624 627 626 625 613
+				614 619 617 618 623 622 636 638 639 640 637 
 			}
 		}
 		
@@ -857,10 +920,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ctauriscian
 			religion = celtic_pantheon
-			capital = 361
+			capital = 651
 			
 			own_control_core = 	{ 
-				362 361
+				651 652 647 650 649 648 646 655 654 653
 			}
 		}
 		
@@ -868,10 +931,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = cvindelician
 			religion = celtic_pantheon
-			capital = 366
+			capital = 644
 			
 			own_control_core = 	{ 
-				366 364 367
+				644 631 645 643 642 641
 			}
 		}
 		
@@ -879,10 +942,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ctauriscian
 			religion = celtic_pantheon
-			capital = 370
+			capital = 664
 			
 			own_control_core = 	{ 
-				370 368 369
+				664 663 662 656 661 660 666 658 665 659
 			}
 		}
 		
@@ -890,10 +953,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ctauriscian
 			religion = celtic_pantheon
-			capital = 346
+			capital = 594
 			
 			own_control_core = 	{ 
-				346 347 343 342
+				594 586 584 596 582
 			}
 		}
 		
@@ -901,10 +964,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ctauriscian
 			religion = celtic_pantheon
-			capital = 351
+			capital = 593
 			
 			own_control_core = 	{ 
-				351 352 356
+				593 595 590 591 589 588 587 585 583 581
 			}
 		}
 		
@@ -912,10 +975,11 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ctauriscian
 			religion = celtic_pantheon
-			capital = 372
+			capital = 686
 			
 			own_control_core = 	{ 
-				431 373 372 371 358 357 359 360
+				686 685 683 684 681 682 680 679 670 
+				954 956 955 953 952 678 677 
 			}
 		}
 		
@@ -923,10 +987,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = csedunian
 			religion = celtic_pantheon
-			capital = 324
+			capital = 473
 			
 			own_control_core = 	{ 
-				324 322
+				473 472 471
 			}
 		}
 		
@@ -934,10 +998,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ideurian
 			religion = illyric_pantheon
-			capital = 441
+			capital = 761
 			
 			own_control_core = 	{ 
-				441 422 423 470 472
+				761 758 766 770 768 752 865 866 864 863 824 876 877 878 862 861
 			}
 		}
 		
@@ -945,10 +1009,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = idelmatian
 			religion = illyric_pantheon
-			capital = 404
+			capital = 808
 			
 			own_control_core = 	{ 
-				404 406 405 403 402
+				805 793 790 806 808 800 789 807 809 811
 			}
 		}
 		
@@ -956,10 +1020,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = camunnic
 			religion = villanic_pantheon
-			capital = 316
+			capital = 487
 			
 			own_control_core = 	{ 
-				316 303 307 320
+				487 488 489
 			}
 		}
 		
@@ -967,10 +1031,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = raetic
 			religion = villanic_pantheon
-			capital = 323
+			capital = 539 
 			
 			own_control_core = 	{ 
-				323 319 326
+				539 537 497 477 478
 			}
 		}
 		
@@ -978,10 +1042,10 @@ country = {
 			government = tribal_kingdom
 			primary_culture = raetic
 			religion = villanic_pantheon
-			capital = 327
+			capital = 579
 			
 			own_control_core = 	{ 
-				327 328 329 332 336 348 345 344 341
+				579 580 578 577 635 634 612 611 610 575 576 574 573 572 500 538 571
 			}
 		}
 		
@@ -989,21 +1053,21 @@ country = {
 			government = tribal_kingdom
 			primary_culture = ideurian
 			religion = illyric_pantheon
-			capital = 415
+			capital = 882
 			
 			own_control_core = 	{ 
-				415 414 418 473 476
+				882 881 883 884 886 885 819 817 820 823 822 821
 			}
 		}
 		
 		ADC = {          
 			government = tribal_kingdom
-			primary_culture = iazalian
+			primary_culture = ideurian
 			religion = illyric_pantheon
-			capital = 437
+			capital = 889 
 			
 			own_control_core = 	{ 
-				437 419 438 439
+				890 891 889 888 887 818 814 815 816 810 812 813
 			}
 		}
 		
@@ -1011,90 +1075,160 @@ country = {
 			government = tribal_kingdom
 			primary_culture = idelmatian
 			religion = illyric_pantheon
-			capital = 408
+			capital = 791
 			
 			own_control_core = 	{ 
-				408 409 407 416 417
+				791 792 799 782 794 798 802 803 804 797 795 801
 			}
 		}
 		
 		ADF = {          
 			government = tribal_kingdom
 			primary_culture = cpannonian
-			religion = illyric_pantheon
-			capital = 482
+			religion = celtic_pantheon
+			capital = 896
 			
 			own_control_core = 	{ 
-				482 483 484 481
+				896 894 895 893 892 898 897 899 900
 			}
 		}
 		
 		ADG = {          
 			government = tribal_kingdom
 			primary_culture = cpannonian
-			religion = illyric_pantheon
-			capital = 442
+			religion = celtic_pantheon
+			capital = 871
 			
 			own_control_core = 	{ 
-				442 443 427 426 425 445 428 444
+				871 868 869 867 870 872 873 875 874
 			}
 		}
 		
 		ADH = {          
 			government = tribal_kingdom
 			primary_culture = cpannonian
-			religion = illyric_pantheon
-			capital = 432
+			religion = celtic_pantheon
+			capital = 945
 			
 			own_control_core = 	{ 
-				432 430 429 434 435 433 436
+				945 944 946 949 943 942 938 937 936 
+				940 935 939 959 948 947 950 957 958
+				693 692 689
 			}
 		}
 		
 		ADI = {          
 			government = tribal_kingdom
 			primary_culture = cpannonian
-			religion = illyric_pantheon
-			capital = 451
+			religion = celtic_pantheon
+			capital = 978
 			
 			own_control_core = 	{ 
-				451 452 453 450 449 448 446 447 454
+				976 975 974 973 921 978 979 980 988 987 985 986
+				971 972 981 982 983 984 941 970 977
 			}
 		}
 		
 		ADJ = {          
 			government = tribal_kingdom
 			primary_culture = cpannonian
-			religion = illyric_pantheon
-			capital = 477
+			religion = celtic_pantheon
+			capital = 909
 			
 			own_control_core = 	{ 
-				477 475 474 471 478 479 480
+				909 907 879 880 901 902 908 903 912 
+				911 913 910 906 904 905
 			}
 		}
 		
 		ADK = {          
 			government = tribal_kingdom
 			primary_culture = cpannonian
-			religion = illyric_pantheon
-			capital = 458
+			religion = celtic_pantheon
+			capital = 929
 			
 			own_control_core = 	{ 
-				459 464 462 458 461 456 457 455 
+				928 934 932 929 922 933 931 925 920 919
 			}
 		}
 		
 		ADL = {          
 			government = tribal_kingdom
 			primary_culture = cpannonian
-			religion = illyric_pantheon
-			capital = 465
+			religion = celtic_pantheon
+			capital = 924 
 			
 			own_control_core = 	{ 
-				465 460 463 466 468 467 469
+				924 918 917 923 916 914 927 926 930
 			}
 		}
 		
+		ADM = {          
+			government = tribal_kingdom
+			primary_culture = cpannonian
+			religion = celtic_pantheon
+			capital = 962 
+			
+			own_control_core = 	{ 
+				962 961 963 966 967 968 969 964 965 951 960
+			}
+		}
+		
+		ADN = {          
+			government = tribal_kingdom
+			primary_culture = ctauriscian
+			religion = celtic_pantheon
+			capital = 673 
+			
+			own_control_core = 	{ 
+				673 671 672 688 691 690 687 674 675 676 
+				667 668 669 600 601 602 599 598
+			}
+		}
+		
+		ADO = {          
+			government = tribal_kingdom
+			primary_culture = ctauriscian
+			religion = celtic_pantheon
+			capital = 516 
+			
+			own_control_core = 	{ 
+				516 515
+			}
+		}
+		
+		ADP = {          
+			government = tribal_kingdom
+			primary_culture = csedunian
+			religion = celtic_pantheon
+			capital = 560 
+			
+			own_control_core = 	{ 
+				560 558 561 562 563 565 559 570 569 568 567
+			}
+		}
+		
+		ADR = {          
+			government = tribal_kingdom
+			primary_culture = epicenic
+			religion = villanic_pantheon
+			capital = 330 
+			
+			own_control_core = 	{ 
+				330 331 337 338 329 328
+			}
+		}
+		
+		ADS = {          
+			government = tribal_kingdom
+			primary_culture = lcisalpine
+			religion = liguric_pantheon
+			capital = 437 
+			
+			own_control_core = 	{ 
+				437 438 440 436 435 432
+			}
+		}
 	}
 }
 

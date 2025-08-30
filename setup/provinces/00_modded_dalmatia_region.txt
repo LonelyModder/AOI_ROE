@@ -1,6 +1,6 @@
-﻿379={ 
+﻿724={ 
 	terrain="hills"
-	trade_goods="olive"
+	trade_goods="vegetables"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -8,7 +8,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -17,7 +17,7 @@
 	}
 }
 
-380={ 
+725={ 
 	terrain="hills"
 	trade_goods="fish"
 	religion="illyric_pantheon"
@@ -27,7 +27,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -36,31 +36,9 @@
 	}
 }
 
-381={ 
+726={ 
 	terrain="hills"
-	trade_goods="vegetables"
-	religion="illyric_pantheon"
-	culture="lliburni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-382={ 
-	terrain="hills"
-	trade_goods="olive"
+	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -68,7 +46,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -77,7 +55,7 @@
 	}
 }
 
-383={ 
+727={ 
 	terrain="hills"
 	trade_goods="leather"
 	religion="illyric_pantheon"
@@ -87,7 +65,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -96,86 +74,7 @@
 	}
 }
 
-384={ 
-	terrain="hills"
-	trade_goods="fish"
-	religion="illyric_pantheon"
-	culture="lliburni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-386={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="illyric_pantheon"
-	culture="idelmatian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-421={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="illyric_pantheon"
-	culture="idelmatian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-413={ 
-	terrain="forest"
-	trade_goods="woad"
-	religion="illyric_pantheon"
-	culture="idelmatian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-420={ 
+728={ 
 	terrain="forest"
 	trade_goods="wood"
 	religion="illyric_pantheon"
@@ -185,7 +84,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -194,9 +93,161 @@
 	}
 }
 
-385={ 
+729={ 
+	terrain="forest"
+	trade_goods="fur"
+	religion="illyric_pantheon"
+	culture="lcatari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+730={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+731={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lcatari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+732={ 
 	terrain="farmland"
-	trade_goods="wine"
+	trade_goods="grain"
+	religion="illyric_pantheon"
+	culture="lcatari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+733={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+734={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+735={ 
+	terrain="forest"
+	trade_goods="wool"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+736={ 
+	terrain="forest"
+	trade_goods="fur"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+737={ 
+	terrain="forest"
+	trade_goods="cattle"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -204,10 +255,10 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
+	}	
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -216,7 +267,67 @@
 	}
 }
 
-387={ 
+738={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+739={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=10
+	}
+	slaves={
+		amount=5
+	}
+}
+
+740={ 
+	terrain="farmland"
+	trade_goods="fish"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+741={ 
 	terrain="farmland"
 	trade_goods="grain"
 	religion="illyric_pantheon"
@@ -226,7 +337,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -235,9 +346,9 @@
 	}
 }
 
-388={ 
-	terrain="mountain"
-	trade_goods="cattle"
+742={ 
+	terrain="plains"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -245,7 +356,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -254,7 +365,26 @@
 	}
 }
 
-389={ 
+743={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+744={ 
 	terrain="farmland"
 	trade_goods="hemp"
 	religion="illyric_pantheon"
@@ -264,7 +394,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -273,9 +403,9 @@
 	}
 }
 
-391={ 
-	terrain="hills"
-	trade_goods="fish"
+745={ 
+	terrain="farmland"
+	trade_goods="fruits"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -283,17 +413,168 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
 	slaves={
 		amount=1
 	}
-	holy_site="omen_zis"
 }
 
-390={ 
+746={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+747={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+748={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+749={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+750={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+751={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+752={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+753={ 
+	terrain="hills"
+	trade_goods="fur"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+754={ 
 	terrain="mountain"
 	trade_goods="fur"
 	religion="illyric_pantheon"
@@ -303,7 +584,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -312,8 +593,394 @@
 	}
 }
 
-392={ 
+755={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+756={ 
 	terrain="hills"
+	trade_goods="cattle"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+757={ 
+	terrain="hills"
+	trade_goods="fruits"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+758={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+759={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+760={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+761={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+762={ 
+	terrain="mountain"
+	trade_goods="spices"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+763={ 
+	terrain="mountain"
+	trade_goods="cattle"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+764={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+765={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+766={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+767={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+768={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+769={ 
+	terrain="forest"
+	trade_goods="honey"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+770={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+771={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+772={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+773={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+774={ 
+	terrain="hills"
+	trade_goods="fruits"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+775={ 
+	terrain="forest"
 	trade_goods="wood"
 	religion="illyric_pantheon"
 	culture="idelmatian"
@@ -322,10 +989,10 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
+	}	
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -334,9 +1001,9 @@
 	}
 }
 
-393={ 
+776={ 
 	terrain="hills"
-	trade_goods="olive"
+	trade_goods="cattle"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -344,7 +1011,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -353,28 +1020,9 @@
 	}
 }
 
-394={ 
-	terrain="plains"
-	trade_goods="marble"
-	religion="illyric_pantheon"
-	culture="lliburni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-395={ 
+777={ 
 	terrain="hills"
-	trade_goods="olive"
+	trade_goods="spices"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -382,7 +1030,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -391,9 +1039,9 @@
 	}
 }
 
-396={ 
-	terrain="hills"
-	trade_goods="fish"
+778={ 
+	terrain="farmland"
+	trade_goods="wine"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -401,10 +1049,10 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
+	}	
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -413,7 +1061,7 @@
 	}
 }
 
-397={ 
+779={ 
 	terrain="farmland"
 	trade_goods="wine"
 	religion="illyric_pantheon"
@@ -423,7 +1071,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -432,7 +1080,64 @@
 	}
 }
 
-398={ 
+780={ 
+	terrain="farmland"
+	trade_goods="fish"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+781={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+782={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+783={ 
 	terrain="hills"
 	trade_goods="salt"
 	religion="illyric_pantheon"
@@ -442,7 +1147,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -451,7 +1156,7 @@
 	}
 }
 
-399={ 
+784={ 
 	terrain="forest"
 	trade_goods="wood"
 	religion="illyric_pantheon"
@@ -459,12 +1164,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=1
-	}
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -473,9 +1175,9 @@
 	}
 }
 
-400={ 
-	terrain="forest"
-	trade_goods="fish"
+785={ 
+	terrain="hills"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -483,7 +1185,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -492,7 +1194,165 @@
 	}
 }
 
-401={ 
+786={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+787={ 
+	terrain="mountain"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+788={ 
+	terrain="mountain"
+	trade_goods="fish"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=10
+	}
+	slaves={
+		amount=5
+	}
+}
+
+789={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+790={ 
+	terrain="forest"
+	trade_goods="stone"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+791={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=10
+	}
+	slaves={
+		amount=5
+	}
+}
+
+792={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+793={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+794={ 
 	terrain="mountain"
 	trade_goods="stone"
 	religion="illyric_pantheon"
@@ -502,7 +1362,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -511,9 +1371,9 @@
 	}
 }
 
-402={ 
+795={ 
 	terrain="mountain"
-	trade_goods="leather"
+	trade_goods="stone"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -521,7 +1381,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -530,8 +1390,84 @@
 	}
 }
 
-403={ 
-	terrain="mountain"
+796={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+797={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+798={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+799={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+800={ 
+	terrain="hills"
 	trade_goods="woad"
 	religion="illyric_pantheon"
 	culture="idelmatian"
@@ -540,7 +1476,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -549,31 +1485,9 @@
 	}
 }
 
-404={ 
+801={ 
 	terrain="forest"
-	trade_goods="wood"
-	religion="illyric_pantheon"
-	culture="idelmatian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-405={ 
-	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fur"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -581,7 +1495,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -590,7 +1504,7 @@
 	}
 }
 
-406={ 
+802={ 
 	terrain="forest"
 	trade_goods="wood"
 	religion="illyric_pantheon"
@@ -600,7 +1514,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -609,67 +1523,7 @@
 	}
 }
 
-407={ 
-	terrain="forest"
-	trade_goods="cattle"
-	religion="illyric_pantheon"
-	culture="idelmatian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-408={ 
-	terrain="forest"
-	trade_goods="cattle"
-	religion="illyric_pantheon"
-	culture="idelmatian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-417={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="illyric_pantheon"
-	culture="idelmatian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-409={ 
+803={ 
 	terrain="forest"
 	trade_goods="vegetables"
 	religion="illyric_pantheon"
@@ -679,7 +1533,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -688,7 +1542,7 @@
 	}
 }
 
-410={ 
+804={ 
 	terrain="forest"
 	trade_goods="wood"
 	religion="illyric_pantheon"
@@ -698,7 +1552,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -707,7 +1561,26 @@
 	}
 }
 
-411={ 
+805={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+806={ 
 	terrain="forest"
 	trade_goods="wood"
 	religion="illyric_pantheon"
@@ -717,7 +1590,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -726,17 +1599,39 @@
 	}
 }
 
-412={ 
-	terrain="forest"
+807={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+808={ 
+	terrain="hills"
 	trade_goods="woad"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -745,9 +1640,9 @@
 	}
 }
 
-416={ 
-	terrain="forest"
-	trade_goods="leather"
+809={ 
+	terrain="mountain"
+	trade_goods="precious_metals"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0
@@ -755,7 +1650,292 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
+	}	
+	tribesmen={
+		amount=4
 	}
+	slaves={
+		amount=1
+	}
+}
+
+810={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+811={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="idelmatian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+812={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+813={ 
+	terrain="hills"
+	trade_goods="precious_metals"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+814={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+815={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+816={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+817={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+818={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+819={ 
+	terrain="hills"
+	trade_goods="honey"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+820={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+821={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+822={ 
+	terrain="hills"
+	trade_goods="woad"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+823={ 
+	terrain="hills"
+	trade_goods="woad"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+824={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="ideurian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
 	tribesmen={
 		amount=4
 	}

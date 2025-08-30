@@ -12,8 +12,8 @@
 	ia_archers = 1	
 	ia_warriors = 1.3	
 	ia_lightinfantry = 1.3	
-	ia_heavyinfantry = 1.1	
-	ia_hoplites = 1.1	
+	ia_heavyinfantry = 0.9	
+	ia_hoplites = 0.9
 	ia_lightcavalry = 0.7	
 	ia_heavycavalry = 0.5	
 	ia_lancers = 0.5	

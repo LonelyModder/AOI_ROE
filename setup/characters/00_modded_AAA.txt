@@ -22,7 +22,7 @@
 	
 	2={
 		first_name="Lucius"
-		family = c:AAA.fam:Julia
+		family = c:AAA.fam:Julius
 		birth_date=410.1.1
 		culture="rroman"
 		religion="italiotan_pantheon"
@@ -62,7 +62,7 @@
 	
 	4={
 		first_name="Marcus"
-		family = c:AAA.fam:Cornelia
+		family = c:AAA.fam:Cornelius
 		birth_date=410.1.1
 		culture="rroman"
 		religion="italiotan_pantheon"

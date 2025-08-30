@@ -10,19 +10,20 @@
 			}
 			is_ai = no
 			NOT = {
-				is_endgame_tag_trigger = yes
+				is_tier_1_formable_trigger = yes
 				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
 			}
 		}
 		
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 391 # Salona
-					province_id = 385 # Idassa
-					province_id = 374 # Tergeste
-					province_id = 398 # Epidaurum
-					province_id = 396 # Narona
+					province_id = 765 # Salona
+					province_id = 739 # Idassa
+					province_id = 528 # Tergeste
+					province_id = 783 # Epidaurum
+					province_id = 778 # Narona
 				}
 			}
 		}
@@ -37,11 +38,11 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 391 # Salona
-			owns = 385 # Idassa
-			owns = 374 # Tergeste
-			owns = 398 # Epidaurum
-			owns = 396 # Narona
+			owns = 765 # Salona
+			owns = 739 # Idassa
+			owns = 528 # Tergeste
+			owns = 783 # Epidaurum
+			owns = 778 # Narona
 		}
 		
 		
@@ -57,19 +58,19 @@
 			}
 			if = {
 				limit = {
-					p:391 = { is_capital = no }
+					p:765 = { is_capital = no }
 				}
-				set_capital = 391
+				set_capital = 765
 				hidden_effect = {
-					p:391.state = {
-						set_state_capital = 391
+					p:765.state = {
+						set_state_capital = 765
 					}
 				}
 				capital_scope = {
 					establish_city_effect = yes
 				}
 			}
-			p:391 = {
+			p:765 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

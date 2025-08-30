@@ -1,0 +1,1535 @@
+﻿386={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+387={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+388={ 
+	terrain="marsh"
+	trade_goods="fish"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+395={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+390={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+389={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+391={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+393={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+394={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+396={ 
+	terrain="forest"
+	trade_goods="earthware"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=5
+		religion="villanic_pantheon"
+		culture="epicenic"
+	}
+	slaves={
+		amount=6
+	}
+}
+
+397={ 
+	terrain="forest"
+	trade_goods="fruits"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+504={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+494={ 
+	terrain="marsh"
+	trade_goods="salt"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=5
+		religion="illyric_pantheon"
+		culture="lveneti"
+	}
+	slaves={
+		amount=6
+	}
+}
+
+421={ 
+	terrain="marsh"
+	trade_goods="fish"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=5
+		religion="villanic_pantheon"
+		culture="epicenic"
+	}
+	slaves={
+		amount=6
+	}
+}
+
+422={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+423={ 
+	terrain="marsh"
+	trade_goods="salt"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+424={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+493={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+492={ 
+	terrain="farmland"
+	trade_goods="fish"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+503={ 
+	terrain="farmland"
+	trade_goods="horses"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+507={ 
+	terrain="forest"
+	trade_goods="cloth"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=10
+	}
+	slaves={
+		amount=5
+	}
+}
+
+525={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lcarnian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+526={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="illyric_pantheon"
+	culture="lcarnian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+527={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="illyric_pantheon"
+	culture="castelieric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+528={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="castelieric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	holy_site="omen_sentona"
+}
+
+529={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="illyric_pantheon"
+	culture="castelieric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+530={ 
+	terrain="farmland"
+	trade_goods="fish"
+	religion="illyric_pantheon"
+	culture="castelieric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+531={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="illyric_pantheon"
+	culture="castelieric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=10
+	}
+	slaves={
+		amount=5
+	}
+}
+
+532={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="castelieric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+533={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="castelieric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+534={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="illyric_pantheon"
+	culture="lcarnian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+535={ 
+	terrain="forest"
+	trade_goods="fur"
+	religion="illyric_pantheon"
+	culture="lcarnian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+536={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lcarnian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+509={ 
+	terrain="marsh"
+	trade_goods="salt"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+510={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+511={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+518={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+520={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+508={ 
+	terrain="forest"
+	trade_goods="fruits"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+514={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+519={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+523={ 
+	terrain="forest"
+	trade_goods="woad"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+521={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+522={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+524={ 
+	terrain="forest"
+	trade_goods="woad"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+501={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="villanic_pantheon"
+	culture="eugeneian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+506={ 
+	terrain="forest"
+	trade_goods="honey"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+512={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+513={ 
+	terrain="forest"
+	trade_goods="base_metals"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+515={ 
+	terrain="mountain"
+	trade_goods="fur"
+	religion="celtic_pantheon"
+	culture="ctauriscian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+516={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="celtic_pantheon"
+	culture="ctauriscian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+517={ 
+	terrain="forest"
+	trade_goods="base_metals"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+499={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="villanic_pantheon"
+	culture="eugeneian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+502={ 
+	terrain="farmland"
+	trade_goods="horses"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+505={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="lveneti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+487={ 
+	terrain="forest"
+	trade_goods="fish"
+	religion="villanic_pantheon"
+	culture="camunnic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+483={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=5
+		religion="celtic_pantheon"
+		culture="clepontic"
+	}
+	slaves={
+		amount=6
+	}
+}
+
+484={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="celtic_pantheon"
+	culture="clepontic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+489={ 
+	terrain="forest"
+	trade_goods="fish"
+	religion="villanic_pantheon"
+	culture="camunnic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+490={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="celtic_pantheon"
+	culture="clepontic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+491={ 
+	terrain="forest"
+	trade_goods="cloth"
+	religion="celtic_pantheon"
+	culture="clepontic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+538={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+495={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="villanic_pantheon"
+	culture="eugeneian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+496={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="villanic_pantheon"
+	culture="eugeneian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+498={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="eugeneian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+500={ 
+	terrain="mountain"
+	trade_goods="precious_metals"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+479={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="celtic_pantheon"
+	culture="clepontic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+480={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="celtic_pantheon"
+	culture="clepontic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+481={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="celtic_pantheon"
+	culture="clepontic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+482={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="celtic_pantheon"
+	culture="clepontic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+485={ 
+	terrain="forest"
+	trade_goods="wine"
+	religion="celtic_pantheon"
+	culture="clepontic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+486={ 
+	terrain="plains"
+	trade_goods="grain"
+	religion="celtic_pantheon"
+	culture="clepontic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+477={ 
+	terrain="mountain"
+	trade_goods="fur"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+478={ 
+	terrain="mountain"
+	trade_goods="fur"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+537={ 
+	terrain="mountain"
+	trade_goods="vegetables"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+539={ 
+	terrain="mountain"
+	trade_goods="leather"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+488={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="villanic_pantheon"
+	culture="camunnic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+497={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

@@ -10,16 +10,19 @@
 		family_events.7 #Tribal family fall
 		family_events.9 #Rise of Family in Republics
 		#Modded events
-		#Invasions
-		#cymmerian_invasion.1
-		#Militarism
-		#militarism_events.1
-		#militarism_events.4
-		#Plague
-		#plague_event.2
-		#plague_event.3
-		#Admin Efficiency
-		#admin_efficiency.1
+		#Latium Mission Italy
+		latium_01_italy_1.5
+		latium_01_italy_1.6
+		latium_01_italy_1.7
+		#latium_01_italy_1.9 #It works cus it's roman mission event?
+		latium_01_italy_1.15
+		latium_01_italy_1.16
+		latium_01_italy_1.18
+		latium_01_italy_1.19
+		latium_01_italy_1.23
+		latium_01_italy_1.38
+		latium_01_italy_1.39
+		latium_01_italy_1.40
 		#Units
 		units_allowance_events.1
 		#Modded events 

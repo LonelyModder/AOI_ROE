@@ -1,0 +1,1268 @@
+﻿565={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+560={ 
+	terrain="mountain"
+	trade_goods="fur"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+561={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+562={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+563={ 
+	terrain="hills"
+	trade_goods="fur"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+558={ 
+	terrain="mountain"
+	trade_goods="vegetables"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+559={ 
+	terrain="mountain"
+	trade_goods="cattle"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+567={ 
+	terrain="mountain"
+	trade_goods="cattle"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+568={ 
+	terrain="mountain"
+	trade_goods="vegetables"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+569={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+570={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="celtic_pantheon"
+	culture="csedunian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+603={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+604={ 
+	terrain="forest"
+	trade_goods="hemp"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+605={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+606={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+607={ 
+	terrain="forest"
+	trade_goods="hemp"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+616={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+608={ 
+	terrain="plains"
+	trade_goods="fur"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+620={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+621={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+564={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+566={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+571={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+572={ 
+	terrain="mountain"
+	trade_goods="cattle"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+573={ 
+	terrain="mountain"
+	trade_goods="cattle"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+574={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+575={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+576={ 
+	terrain="mountain"
+	trade_goods="vegetables"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+577={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+578={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+579={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+580={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+617={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+618={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+615={ 
+	terrain="forest"
+	trade_goods="woad"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+610={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+609={ 
+	terrain="hills"
+	trade_goods="woad"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+611={ 
+	terrain="forest"
+	trade_goods="honey"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+612={ 
+	terrain="forest"
+	trade_goods="honey"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+614={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+619={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+622={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+623={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+630={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+631={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+632={ 
+	terrain="plains"
+	trade_goods="honey"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+633={ 
+	terrain="plains"
+	trade_goods="honey"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+628={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+629={ 
+	terrain="plains"
+	trade_goods="woad"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+624={ 
+	terrain="plains"
+	trade_goods="woad"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+625={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+626={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+627={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+613={ 
+	terrain="plains"
+	trade_goods="fur"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+637={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+634={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+635={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="villanic_pantheon"
+	culture="raetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+636={ 
+	terrain="forest"
+	trade_goods="fur"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+638={ 
+	terrain="plains"
+	trade_goods="woad"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+639={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+640={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+641={ 
+	terrain="plains"
+	trade_goods="fur"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+642={ 
+	terrain="plains"
+	trade_goods="fur"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+643={ 
+	terrain="plains"
+	trade_goods="fur"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+644={ 
+	terrain="plains"
+	trade_goods="hemp"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+645={ 
+	terrain="plains"
+	trade_goods="hemp"
+	religion="celtic_pantheon"
+	culture="cvindelician"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

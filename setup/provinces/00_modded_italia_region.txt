@@ -1,59 +1,158 @@
-﻿5={ 
+﻿254={ 
 	terrain="hills"
-	trade_goods="glass"
-	religion="grecoid_pantheon"
-	culture="gitaliote"
+	trade_goods="olive"
+	religion="italiotan_pantheon"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
-	citizen={
-		amount=7
-	}
+	province_rank="settlement"
 	freemen={
-		amount=5
-	}
+		amount=1
+	}	
 	tribesmen={
 		amount=4
-		religion="italiotan_pantheon"
-		culture="ioscan"
 	}
 	slaves={
 		amount=1
-	}
-	slaves={
-		amount=4
-		religion="italiotan_pantheon"
-		culture="ioscan"
 	}
 }
 
-84={ 
+255={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+256={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+257={ 
+	terrain="hills"
+	trade_goods="fruits"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+258={ 
+	terrain="farmland"
+	trade_goods="hemp"
+	religion="illyric_pantheon"
+	culture="imessapi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+259={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="illyric_pantheon"
+	culture="imessapi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+260={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="illyric_pantheon"
+	culture="imessapi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+270={ 
 	terrain="hills"
 	trade_goods="earthware"
-	religion="italiotan_pantheon"
-	culture="ioscan"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
-		religion="illyric_pantheon"
-		culture="isicelian"
 	}
 	slaves={
 		amount=1
 	}
 }
 
-85={ 
+271={ 
 	terrain="hills"
-	trade_goods="base_metals"
+	trade_goods="wine"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -61,7 +160,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -70,45 +169,7 @@
 	}
 }
 
-86={ 
-	terrain="hills"
-	trade_goods="fish"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-87={ 
-	terrain="hills"
-	trade_goods="wood"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-88={ 
+272={ 
 	terrain="farmland"
 	trade_goods="cloth"
 	religion="grecoid_pantheon"
@@ -120,70 +181,53 @@
 		amount=1
 	}
 	citizen={
-		amount=7
+		amount=8
 	}
 	freemen={
 		amount=5
-	}
+	}	
 	tribesmen={
 		amount=4
-		religion="illyric_pantheon"
-	culture="isicelian"
+		religion="italiotan_pantheon"
+		culture="ioscan"
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		amount=4
-		religion="illyric_pantheon"
-		culture="isicelian"
+		amount=5
 	}
 }
 
-89={ 
+273={ 
 	terrain="farmland"
-	trade_goods="wine"
+	trade_goods="grain"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-90={ 
-	terrain="hills"
-	trade_goods="base_metals"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
+		religion="villanic_pantheon"
+		culture="etrusci"
+	}	
 	citizen={
-		amount=1
-	}
+		amount=5
+		religion="villanic_pantheon"
+		culture="etrusci"
+	}	
 	freemen={
-		amount=1
-	}
+		amount=5
+	}	
 	tribesmen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
-127={ 
+274={ 
 	terrain="hills"
-	trade_goods="salt"
+	trade_goods="glass"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -191,7 +235,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -200,77 +244,39 @@
 	}
 }
 
-128={ 
+275={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+276={ 
 	terrain="plains"
-	trade_goods="hemp"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-129={ 
-	terrain="hills"
-	trade_goods="fish"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-130={ 
-	terrain="farmland"
-	trade_goods="hemp"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-131={ 
-	terrain="hills"
 	trade_goods="cattle"
-	religion="italiotan_pantheon"
-	culture="ioscan"
+	religion="illyric_pantheon"
+	culture="imessapi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
+	}	
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -279,8 +285,8 @@
 	}
 }
 
-132={ 
-	terrain="farmland"
+277={ 
+	terrain="hills"
 	trade_goods="fish"
 	religion="illyric_pantheon"
 	culture="imessapi"
@@ -289,7 +295,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -298,161 +304,9 @@
 	}
 }
 
-133={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="illyric_pantheon"
-	culture="imessapi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-134={ 
-	terrain="plains"
-	trade_goods="vegetables"
-	religion="illyric_pantheon"
-	culture="imessapi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-135={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="grecoid_pantheon"
-	culture="gitaliote"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
-	citizen={
-		amount=7
-	}
-	freemen={
-		amount=5
-	}
-	tribesmen={
-		amount=4
-		religion="illyric_pantheon"
-		culture="imessapi"
-	}
-	slaves={
-		amount=1
-	}
-	slaves={
-		amount=4
-		religion="illyric_pantheon"
-		culture="imessapi"
-	}
-}
-
-136={ 
-	terrain="farmland"
-	trade_goods="olive"
-	religion="illyric_pantheon"
-	culture="imessapi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-137={ 
-	terrain="plains"
-	trade_goods="fruits"
-	religion="illyric_pantheon"
-	culture="imessapi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-138={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="illyric_pantheon"
-	culture="imessapi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-139={ 
-	terrain="farmland"
+278={ 
+	terrain="hills"
 	trade_goods="hemp"
-	religion="illyric_pantheon"
-	culture="imessapi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-140={ 
-	terrain="hills"
-	trade_goods="leather"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -460,7 +314,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -469,83 +323,7 @@
 	}
 }
 
-141={ 
-	terrain="farmland"
-	trade_goods="wine"
-	religion="illyric_pantheon"
-	culture="imessapi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-142={ 
-	terrain="hills"
-	trade_goods="fish"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-143={ 
-	terrain="plains"
-	trade_goods="leather"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-144={ 
-	terrain="hills"
-	trade_goods="olive"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-145={ 
+279={ 
 	terrain="plains"
 	trade_goods="fruits"
 	religion="italiotan_pantheon"
@@ -555,7 +333,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -564,28 +342,9 @@
 	}
 }
 
-146={ 
-	terrain="hills"
-	trade_goods="wool"
-	religion="illyric_pantheon"
-	culture="imessapi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-147={ 
+280={ 
 	terrain="plains"
-	trade_goods="wine"
+	trade_goods="hemp"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -593,7 +352,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -602,39 +361,7 @@
 	}
 }
 
-148={ 
-	terrain="farmland"
-	trade_goods="olive"
-	religion="grecoid_pantheon"
-	culture="gitaliote"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
-	citizen={
-		amount=7
-	}
-	freemen={
-		amount=5
-	}
-	tribesmen={
-		amount=4
-		religion="italiotan_pantheon"
-		culture="ioscan"
-	}
-	slaves={
-		amount=1
-	}
-	slaves={
-		amount=4
-		religion="italiotan_pantheon"
-		culture="ioscan"
-	}
-}
-
-149={ 
+281={ 
 	terrain="farmland"
 	trade_goods="wine"
 	religion="italiotan_pantheon"
@@ -644,7 +371,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -653,9 +380,9 @@
 	}
 }
 
-150={ 
-	terrain="farmland"
-	trade_goods="olive"
+282={ 
+	terrain="hills"
+	trade_goods="cloth"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
@@ -663,7 +390,26 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
+	}	
+	tribesmen={
+		amount=4
 	}
+	slaves={
+		amount=1
+	}
+}
+
+283={ 
+	terrain="farmland"
+	trade_goods="cloth"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -673,38 +419,130 @@
 	holy_site="omen_mdiana"
 }
 
-151={ 
+284={ 
 	terrain="hills"
-	trade_goods="glass"
+	trade_goods="olive"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+285={ 
+	terrain="plains"
+	trade_goods="horses"
 	religion="italiotan_pantheon"
 	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		amount=1
-		religion="villanic_pantheon"
-		culture="etrusci"
-	}
 	citizen={
-		amount=4
-		religion="villanic_pantheon"
-		culture="etrusci"
-	}
+		amount=1
+	}	
 	freemen={
-		amount=2
-		religion="villanic_pantheon"
-		culture="etrusci"
-	}
+		amount=3
+	}	
 	tribesmen={
-		amount=6
+		amount=10
 	}
 	slaves={
-		amount=3
+		amount=5
 	}
 }
 
-152={ 
+286={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+287={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+288={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+289={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+290={ 
 	terrain="hills"
 	trade_goods="hemp"
 	religion="italiotan_pantheon"
@@ -714,7 +552,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -723,49 +561,8 @@
 	}
 }
 
-153={ 
-	terrain="plains"
-	trade_goods="horses"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-154={ 
-	terrain="plains"
-	trade_goods="fish"
-	religion="illyric_pantheon"
-	culture="imessapi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-155={ 
-	terrain="plains"
+291={ 
+	terrain="farmland"
 	trade_goods="cattle"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -774,7 +571,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -783,29 +580,7 @@
 	}
 }
 
-156={ 
-	terrain="hills"
-	trade_goods="cattle"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-157={ 
+292={ 
 	terrain="farmland"
 	trade_goods="olive"
 	religion="italiotan_pantheon"
@@ -813,9 +588,12 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -824,17 +602,17 @@
 	}
 }
 
-158={ 
-	terrain="plains"
-	trade_goods="fruits"
+293={ 
+	terrain="hills"
+	trade_goods="cattle"
 	religion="italiotan_pantheon"
-	culture="iumbrian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -843,7 +621,7 @@
 	}
 }
 
-159={ 
+294={ 
 	terrain="hills"
 	trade_goods="leather"
 	religion="italiotan_pantheon"
@@ -853,7 +631,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -862,8 +640,270 @@
 	}
 }
 
-160={ 
+295={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+296={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+297={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+298={ 
 	terrain="hills"
+	trade_goods="olive"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+299={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=2
+	}	
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
+}
+
+300={ 
+	terrain="mountain"
+	trade_goods="wood"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+301={ 
+	terrain="hills"
+	trade_goods="fruits"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+302={ 
+	terrain="mountain"
+	trade_goods="wood"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+303={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="italiotan_pantheon"
+	culture="rroman"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+304={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+305={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+306={ 
+	terrain="mountain"
+	trade_goods="wood"
+	religion="italiotan_pantheon"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+307={ 
+	terrain="mountain"
+	trade_goods="leather"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+308={ 
+	terrain="mountain"
 	trade_goods="stone"
 	religion="italiotan_pantheon"
 	culture="ioscan"
@@ -872,7 +912,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -881,31 +921,9 @@
 	}
 }
 
-215={ 
+309={ 
 	terrain="farmland"
-	trade_goods="wine"
-	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-216={ 
-	terrain="hills"
-	trade_goods="cloth"
+	trade_goods="fish"
 	religion="italiotan_pantheon"
 	culture="iumbrian"
 	civilization_value=0
@@ -913,10 +931,7 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
-	freemen={
-		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -925,9 +940,63 @@
 	}
 }
 
-217={ 
+310={ 
 	terrain="farmland"
-	trade_goods="cloth"
+	trade_goods="vegetables"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+311={ 
+	terrain="farmland"
+	trade_goods="salt"
+	religion="italiotan_pantheon"
+	culture="rroman"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=8
+	}
+	citizen={
+		amount=1
+		culture = gitaliote
+		religion = grecoid_pantheon
+	}
+	freemen={
+		amount=4
+	}	
+	freemen={
+		amount=3
+		culture = gitaliote
+		religion = grecoid_pantheon
+	}
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=6
+	}
+}
+
+312={ 
+	terrain="farmland"
+	trade_goods="wine"
 	religion="italiotan_pantheon"
 	culture="rroman"
 	civilization_value=0
@@ -937,23 +1006,65 @@
 		amount=1
 	}
 	citizen={
-		amount=3
+		amount=8
 	}
 	citizen={
 		amount=1
-		religion="grecoid_pantheon"
-		culture="gitaliote"
+		religion="villanic_pantheon"
+		culture="rutulic"
 	}
 	freemen={
-		amount=5
-	}
+		amount=4
+	}	
 	freemen={
-		amount=5
-		religion="grecoid_pantheon"
-		culture="gitaliote"
+		amount=2
+		religion="villanic_pantheon"
+		culture="rutulic"
 	}
 	tribesmen={
+		amount=8
+		religion="villanic_pantheon"
+		culture="rutulic"
+	}
+	slaves={
+		amount=4
+	}
+}
+
+313={ 
+	terrain="farmland"
+	trade_goods="cloth"
+	religion="italiotan_pantheon"
+	culture="rroman"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	nobles={
+		amount=1
+		culture = gitaliote
+		religion = grecoid_pantheon
+	}
+	citizen={
 		amount=10
+	}
+	citizen={
+		amount=3
+		culture = gitaliote
+		religion = grecoid_pantheon
+	}
+	freemen={
+		amount=4
+	}	
+	freemen={
+		amount=3
+		culture = gitaliote
+		religion = grecoid_pantheon
+	}
+	tribesmen={
+		amount=3
 	}
 	slaves={
 		amount=6
@@ -961,9 +1072,9 @@
 	holy_site="omen_mjupiter"
 }
 
-218={ 
-	terrain="plains"
-	trade_goods="salt"
+314={ 
+	terrain="farmland"
+	trade_goods="grain"
 	religion="italiotan_pantheon"
 	culture="rroman"
 	civilization_value=0
@@ -973,47 +1084,45 @@
 		amount=1
 	}
 	citizen={
-		amount=3
+		amount=8
 	}
 	freemen={
-		amount=5
-	}
-	tribesmen={
 		amount=4
-	}
+	}	
 	tribesmen={
-		amount=4
-		religion="villanic_pantheon"
-		culture="rutulic"
+		amount=2
 	}
 	slaves={
-		amount=6
+		amount=4
 	}
 }
 
-219={ 
-	terrain="plains"
-	trade_goods="horses"
+315={ 
+	terrain="hills"
+	trade_goods="iron"
 	religion="italiotan_pantheon"
 	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=1
+	}
 	citizen={
-		amount=2
+		amount=8
 	}
 	freemen={
-		amount=5
-	}
+		amount=4
+	}	
 	tribesmen={
-		amount=10
+		amount=2
 	}
 	slaves={
-		amount=6
+		amount=4
 	}
 }
 
-220={ 
+316={ 
 	terrain="hills"
 	trade_goods="iron"
 	religion="italiotan_pantheon"
@@ -1023,10 +1132,10 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
+	}	
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -1035,39 +1144,17 @@
 	}
 }
 
-221={ 
-	terrain="hills"
-	trade_goods="wool"
+317={ 
+	terrain="plains"
+	trade_goods="cattle"
 	religion="italiotan_pantheon"
-	culture="ioscan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-222={ 
-	terrain="hills"
-	trade_goods="earthware"
-	religion="italiotan_pantheon"
-	culture="iumbrian"
+	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -1076,73 +1163,29 @@
 	}
 }
 
-223={ 
+318={ 
 	terrain="hills"
 	trade_goods="wood"
 	religion="italiotan_pantheon"
-	culture="iumbrian"
+	culture="ioscan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
 		amount=1
-	}
+	}	
 	freemen={
-		amount=1
-	}
+		amount=3
+	}	
 	tribesmen={
-		amount=4
+		amount=10
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
-224={ 
-	terrain="hills"
-	trade_goods="wool"
-	religion="italiotan_pantheon"
-	culture="iumbrian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-225={ 
-	terrain="hills"
-	trade_goods="leather"
-	religion="italiotan_pantheon"
-	culture="iumbrian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-226={ 
+319={ 
 	terrain="hills"
 	trade_goods="wool"
 	religion="italiotan_pantheon"
@@ -1152,7 +1195,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -1161,17 +1204,17 @@
 	}
 }
 
-227={ 
+320={ 
 	terrain="hills"
-	trade_goods="wine"
+	trade_goods="vegetables"
 	religion="italiotan_pantheon"
-	culture="ioscan"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -1180,20 +1223,17 @@
 	}
 }
 
-228={ 
-	terrain="plains"
-	trade_goods="salt"
+321={ 
+	terrain="farmland"
+	trade_goods="grain"
 	religion="italiotan_pantheon"
-	culture="ioscan"
+	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=1
-	}
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -1202,58 +1242,17 @@
 	}
 }
 
-229={ 
+322={ 
 	terrain="farmland"
 	trade_goods="olive"
 	religion="italiotan_pantheon"
-	culture="iumbrian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-230={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="italiotan_pantheon"
-	culture="iumbrian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-231={ 
-	terrain="plains"
-	trade_goods="fruits"
-	religion="italiotan_pantheon"
 	culture="ipicentes"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -1262,7 +1261,7 @@
 	}
 }
 
-232={ 
+323={ 
 	terrain="farmland"
 	trade_goods="wine"
 	religion="italiotan_pantheon"
@@ -1270,12 +1269,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=1
-	}
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -1284,20 +1280,39 @@
 	}
 }
 
-233={ 
-	terrain="hills"
+324={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+325={ 
+	terrain="plains"
 	trade_goods="leather"
 	religion="italiotan_pantheon"
 	culture="rroman"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=1
-	}
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -1306,39 +1321,99 @@
 	}
 }
 
-234={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="italiotan_pantheon"
-	culture="iumbrian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-235={ 
-	terrain="forest"
+326={ 
+	terrain="hills"
 	trade_goods="leather"
 	religion="italiotan_pantheon"
-	culture="iumbrian"
+	culture="ioscan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=10
+	}
+	slaves={
+		amount=5
+	}
+}
+
+327={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+328={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="villanic_pantheon"
+	culture="epicenic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+329={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+330={ 
+	terrain="farmland"
+	trade_goods="fish"
+	religion="villanic_pantheon"
+	culture="epicenic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
+	}	
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -1347,150 +1422,7 @@
 	}
 }
 
-236={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="italiotan_pantheon"
-	culture="iumbrian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-237={ 
-	terrain="farmland"
-	trade_goods="fish"
-	religion="italiotan_pantheon"
-	culture="ipicentes"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-238={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="italiotan_pantheon"
-	culture="ipicentes"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-239={ 
-	terrain="plains"
-	trade_goods="fish"
-	religion="italiotan_pantheon"
-	culture="ipicentes"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-240={ 
-	terrain="hills"
-	trade_goods="honey"
-	religion="villanic_pantheon"
-	culture="epicenic"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		amount=2
-		religion="italiotan_pantheon"
-		culture="iumbrian"
-	}
-	slaves={
-		amount=1
-	}
-}
-
-241={ 
-	terrain="hills"
-	trade_goods="wool"
-	religion="italiotan_pantheon"
-	culture="iumbrian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-242={ 
-	terrain="farmland"
-	trade_goods="olive"
-	religion="villanic_pantheon"
-	culture="epicenic"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		amount=2
-		religion="italiotan_pantheon"
-		culture="ipicentes"
-	}
-	slaves={
-		amount=1
-	}
-}
-
-243={ 
+331={ 
 	terrain="farmland"
 	trade_goods="wine"
 	religion="villanic_pantheon"
@@ -1500,23 +1432,173 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		amount=2
-		religion="italiotan_pantheon"
-		culture="ipicentes"
+		amount=4
 	}
 	slaves={
 		amount=1
 	}
 }
 
-244={ 
+332={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+333={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+334={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+335={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+336={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+337={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+338={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="italiotan_pantheon"
+	culture="ipicentes"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+339={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="italiotan_pantheon"
+	culture="iumbrian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+340={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="olive"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1529,12 +1611,150 @@
 		amount=8
 	}
 	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
+	}
+}
+
+341={ 
+	terrain="farmland"
+	trade_goods="hemp"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
 		amount=1
 	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
+	}
+	holy_site="omen_mapulu"
+}
+
+342={ 
+	terrain="farmland"
+	trade_goods="iron"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=4
-		religion="italiotan_pantheon"
-		culture="rroman"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+343={ 
+	terrain="plains"
+	trade_goods="fruits"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+344={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+345={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
+	}
+}
+
+346={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+347={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
 		amount=6
@@ -1542,8 +1762,214 @@
 	holy_site="omen_mturan"
 }
 
-245={ 
+348={ 
 	terrain="hills"
+	trade_goods="honey"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+349={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
+	}
+}
+
+350={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+351={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
+	}
+}
+
+352={ 
+	terrain="farmland"
+	trade_goods="leather"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
+	}
+}
+
+353={ 
+	terrain="farmland"
+	trade_goods="horses"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+354={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
+	}
+}
+
+355={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+356={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
+	}
+	holy_site="omen_mtinia"
+}
+
+357={ 
+	terrain="plains"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+358={ 
+	terrain="plains"
 	trade_goods="earthware"
 	religion="villanic_pantheon"
 	culture="etrusci"
@@ -1552,23 +1978,18 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
+	}	
 	freemen={
-		amount=2
-	}
-	freemen={
-		amount=2
-		religion="italiotan_pantheon"
-		culture="rroman"
+		amount=4
 	}
 	slaves={
 		amount=1
 	}
 }
 
-246={ 
-	terrain="farmland"
-	trade_goods="cloth"
+359={ 
+	terrain="plains"
+	trade_goods="wine"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1579,213 +2000,16 @@
 	}
 	citizen={
 		amount=8
-	}
-	freemen={
-		amount=5
-	}
-	slaves={
-		amount=4
-	}
-}
-
-247={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="villanic_pantheon"
-	culture="etrusci"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-248={ 
-	terrain="plains"
-	trade_goods="cattle"
-	religion="villanic_pantheon"
-	culture="etrusci"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
-	citizen={
-		amount=10
 	}
 	freemen={
 		amount=6
 	}
 	slaves={
-		amount=7
+		amount=6
 	}
 }
 
-249={ 
-	terrain="hills"
-	trade_goods="cattle"
-	religion="villanic_pantheon"
-	culture="etrusci"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-250={ 
-	terrain="hills"
-	trade_goods="stone"
-	religion="villanic_pantheon"
-	culture="etrusci"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
-	citizen={
-		amount=8
-	}
-	freemen={
-		amount=5
-	}
-	slaves={
-		amount=4
-	}
-	holy_site="omen_mtinia"
-}
-
-251={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="villanic_pantheon"
-	culture="etrusci"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-252={ 
-	terrain="hills"
-	trade_goods="stone"
-	religion="villanic_pantheon"
-	culture="etrusci"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-253={ 
-	terrain="hills"
-	trade_goods="iron"
-	religion="liguric_pantheon"
-	culture="lcisalpine"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-254={ 
-	terrain="plains"
-	trade_goods="precious_metals"
-	religion="villanic_pantheon"
-	culture="etrusci"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-255={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="villanic_pantheon"
-	culture="etrusci"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-256={ 
-	terrain="plains"
-	trade_goods="olive"
-	religion="villanic_pantheon"
-	culture="etrusci"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-257={ 
+360={ 
 	terrain="plains"
 	trade_goods="base_metals"
 	religion="villanic_pantheon"
@@ -1800,16 +2024,130 @@
 		amount=8
 	}
 	freemen={
-		amount=5
+		amount=6
 	}
 	slaves={
-		amount=4
+		amount=6
 	}
 }
 
-258={ 
+361={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+362={ 
+	terrain="plains"
+	trade_goods="fruits"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+363={ 
+	terrain="plains"
+	trade_goods="fruits"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+364={ 
 	terrain="farmland"
-	trade_goods="wine"
+	trade_goods="grain"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+365={ 
+	terrain="plains"
+	trade_goods="base_metals"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+366={ 
+	terrain="farmland"
+	trade_goods="salt"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+367={ 
+	terrain="plains"
+	trade_goods="marble"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0
@@ -1822,25 +2160,44 @@
 		amount=8
 	}
 	freemen={
-		amount=5
+		amount=6
 	}
 	slaves={
-		amount=4
+		amount=6
 	}
 }
 
-485={ 
-	terrain="farmland"
-	trade_goods="earthware"
-	religion="illyric_pantheon"
-	culture="imessapi"
+368={ 
+	terrain="plains"
+	trade_goods="marble"
+	religion="villanic_pantheon"
+	culture="etrusci"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
+		amount=4
+	}
+	slaves={
 		amount=1
 	}
-	tribesmen={
+}
+
+369={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="villanic_pantheon"
+	culture="etrusci"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
 		amount=4
 	}
 	slaves={

@@ -17,6 +17,26 @@ levy_roughroman = { #latin militia
 	ia_hoplites = 0.3
 }
 
+#Thyrrenic
+
+levy_thyrrenic = { #etruscan militia
+	default = no
+
+	ia_scirmishers = 0.2
+	ia_hoplites = 0.5
+	ia_lightcavalry = 0.1
+	ia_lightinfantry = 0.2
+}
+
+levy_raetic = { #etruscan militia
+	default = no
+
+	ia_scirmishers = 0.2
+	ia_warriors = 0.5
+	ia_lightcavalry = 0.1
+	ia_lightinfantry = 0.2
+}
+
 #Italic
 
 levy_italic = { #italic militia
@@ -110,15 +130,4 @@ levy_astelixian = { #celtic militia
 	ia_lightcavalry = 0.1
 	ia_chariots = 0.2
 	ia_warriors = 0.5
-}
-
-#Thyrrenic
-
-levy_thyrrenic = { #celtic militia
-	default = no
-
-	ia_archers = 0.2
-	ia_hoplites = 0.2
-	ia_lightcavalry = 0.1
-	ia_lightinfantry = 0.5
 }

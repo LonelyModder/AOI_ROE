@@ -11,68 +11,128 @@ modded_tmp_region = {
 	}
 }
 
+modded_savia_region = {
+	areas = {
+		poetovio_area
+		siscia_area
+		sirmium_area
+		iasorum_area
+		mursa_area
+	}
+}
+
+modded_valeria_region = {
+	areas = {
+		sopianae_area
+		gorsium_area
+		mogentianae_area
+		vindobona_area
+		savaria_area
+		sala_area
+	}
+}
+
+modded_dalmatia_region = {
+	areas = {
+		tarsatica_area
+		iader_area
+		delminium_area
+		epidaurum_area
+		maetulum_area
+		domavia_area
+		salvium_area
+		narensia_area
+		ardia_area
+	}
+}
+
+modded_raetia_region = {
+	areas = {
+		curia_area
+		brigantium_area
+		teriolis_area
+		vindelicum_area
+		regina_area
+		aenus_area
+	}
+}
+
+modded_noricum_region = {
+	areas = {
+		teurnia_area
+		virunum_area
+		iuvavum_area
+		ovilva_area
+		solvia_area
+		cetium_area
+	}
+}
+
 modded_sicily_region = {
 	areas = {
-		esicily_area
-		wsicily_area
-		nsardinia_area
-		ssardinia_area
+		syracuse_area
+		messina_area
+		sicelia_area
+		elymia_area
+		sicania_area
+	}
+}
+
+modded_sardiniaetcorsica_region = {
+	areas = {
+		caralis_area
+		sulci_area
+		turris_area
+		olbia_area
 		corsica_area
+	}
+}
+
+modded_magnagraecia_region = {
+	areas = {
+		messapia_area
+		bruttium_area
+		ubruttium_area
+		lucania_area
+		apulia_area
 	}
 }
 
 modded_italia_region = {
 	areas = {
 		latium_area
-		umbria_area
-		marsia_area
-		picenum_area
 		setruria_area
 		netruria_area
-		samniumandlucania_area
-		massapia_area
-		bruttium_area
+		campania_area
+		perusia_area
+		umbria_area
+		sabinia_area
+		deunia_area
+		frentania_area
+		picentia_area
 	}
 }
 
-modded_galliacisalpina_region = {
+modded_venetiaethistria_region = {
 	areas = {
-		flaminia_area
-		cenomania_area
-		insubria_area
-		taurinia_area
-		liguria_area
-		venetiaethistria_area
+		ravenna_area
+		patavium_area
+		histria_area
+		venetia_area
+		vicetia_area
+		brixia_area
+		cremona_area
 	}
 }
 
-modded_raetiaetnoricum_region = {
+modded_liguria_region = {
 	areas = {
-		curia_area
-		teriolis_area
-		cambodunum_area
-		noricum_area
-		ovilva_area
-	}
-}
-
-modded_dalmatia_region = {
-	areas = {
-		liburnia_area
-		dalmatia_area
-		ardiaei_area
-		deuria_area
-		cataria_area
-	}
-}
-
-modded_pannonia_region = {
-	areas = {
-		siscia_area
-		sirmium_area
-		poetivo_area
-		sopianae_area
-		savaria_area
-		gorsium_area
+		mediolanum_area
+		placentia_area
+		luca_area
+		mutina_area
+		genua_area
+		segusio_area
+		vercellae_area
 	}
 }

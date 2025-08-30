@@ -1,5 +1,98 @@
-﻿93={ 
+﻿11={ 
 	terrain="plains"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gsicilian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
+	}	
+	tribesmen={
+		amount=4
+		religion="illyric_pantheon"
+		culture="isicelian"
+	}
+	slaves={
+		amount=5
+	}
+	holy_site="omen_marethousa"
+}
+
+12={ 
+	terrain="plains"
+	trade_goods="fruits"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+13={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+21={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="grecoid_pantheon"
+	culture="gsicilian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
+	}	
+	tribesmen={
+		amount=4
+		religion="illyric_pantheon"
+		culture="isicelian"
+	}
+	slaves={
+		amount=5
+	}
+}
+
+22={ 
+	terrain="hills"
 	trade_goods="glass"
 	religion="grecoid_pantheon"
 	culture="gsicilian"
@@ -10,89 +103,83 @@
 		amount=1
 	}
 	citizen={
-		amount=7
+		amount=8
 	}
 	freemen={
 		amount=5
-	}
+	}	
 	tribesmen={
 		amount=4
 		religion="illyric_pantheon"
 		culture="isicelian"
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		amount=4
-		religion="illyric_pantheon"
-		culture="isicelian"
-	}
-	holy_site="omen_mheracles"
-}
-
-95={ 
-	terrain="farmland"
-	trade_goods="wine"
-	religion="illyric_pantheon"
-	culture="isicelian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
+		amount=5
 	}
 }
 
-96={ 
-	terrain="farmland"
-	trade_goods="horses"
-	religion="illyric_pantheon"
-	culture="isicelian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-101={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="illyric_pantheon"
-	culture="isicelian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-91={ 
+23={ 
 	terrain="hills"
-	trade_goods="stone"
-	religion="grecoid_pantheon"
-	culture="gsicilian"
+	trade_goods="base_metals"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+24={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+25={ 
+	terrain="hills"
+	trade_goods="glass"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+26={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="canaanitic_pantheon"
+	culture="punici"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -105,51 +192,12 @@
 	freemen={
 		amount=5
 	}
-	tribesmen={
-		amount=4
-		religion="illyric_pantheon"
-		culture="isicelian"
-	}
-	slaves={
-		amount=1
-	}
 	slaves={
 		amount=4
-		religion="illyric_pantheon"
-		culture="isicelian"
 	}
 }
 
-92={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="grecoid_pantheon"
-	culture="gsicilian"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=4
-	}
-	freemen={
-		amount=3
-	}
-	tribesmen={
-		amount=2
-		religion="illyric_pantheon"
-		culture="isicelian"
-	}
-	slaves={
-		amount=1
-	}
-	slaves={
-		amount=2
-		religion="illyric_pantheon"
-		culture="isicelian"
-	}
-}
-
-94={ 
+27={ 
 	terrain="farmland"
 	trade_goods="grain"
 	religion="illyric_pantheon"
@@ -159,7 +207,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -168,7 +216,64 @@
 	}
 }
 
-97={ 
+28={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+29={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+30={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+31={ 
 	terrain="farmland"
 	trade_goods="grain"
 	religion="illyric_pantheon"
@@ -178,10 +283,10 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
+	}	
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -190,7 +295,7 @@
 	}
 }
 
-98={ 
+32={ 
 	terrain="hills"
 	trade_goods="vegetables"
 	religion="illyric_pantheon"
@@ -200,7 +305,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -209,9 +314,9 @@
 	}
 }
 
-99={ 
-	terrain="plains"
-	trade_goods="base_metals"
+33={ 
+	terrain="hills"
+	trade_goods="glass"
 	religion="illyric_pantheon"
 	culture="isicelian"
 	civilization_value=0
@@ -219,7 +324,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -228,7 +333,7 @@
 	}
 }
 
-100={ 
+34={ 
 	terrain="hills"
 	trade_goods="fish"
 	religion="illyric_pantheon"
@@ -238,7 +343,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -247,7 +352,64 @@
 	}
 }
 
-102={ 
+35={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+36={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+37={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+38={ 
 	terrain="hills"
 	trade_goods="fish"
 	religion="illyric_pantheon"
@@ -257,7 +419,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -266,7 +428,64 @@
 	}
 }
 
-103={ 
+39={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="illyric_pantheon"
+	culture="isicelian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+40={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="villanic_pantheon"
+	culture="sicanic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+41={ 
+	terrain="farmland"
+	trade_goods="horses"
+	religion="villanic_pantheon"
+	culture="sicanic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+42={ 
 	terrain="farmland"
 	trade_goods="grain"
 	religion="villanic_pantheon"
@@ -276,7 +495,7 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -285,9 +504,139 @@
 	}
 }
 
-104={ 
+43={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="villanic_pantheon"
+	culture="sicanic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+44={ 
 	terrain="hills"
 	trade_goods="stone"
+	religion="canaanitic_pantheon"
+	culture="punici"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
+	}	
+	tribesmen={
+		amount=4
+		religion="villanic_pantheon"
+		culture="sicanic"
+	}
+	slaves={
+		amount=1
+	}
+	slaves={
+		amount=3
+		religion="villanic_pantheon"
+		culture="sicanic"
+	}
+}
+
+45={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="sicanic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+46={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="villanic_pantheon"
+	culture="sicanic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+47={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="villanic_pantheon"
+	culture="sicanic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+48={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="italiotan_pantheon"
+	culture="elymoi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+49={ 
+	terrain="plains"
+	trade_goods="fruits"
 	religion="italiotan_pantheon"
 	culture="elymoi"
 	civilization_value=0
@@ -298,7 +647,7 @@
 	}
 	freemen={
 		amount=1
-	}
+	}	
 	tribesmen={
 		amount=4
 	}
@@ -307,50 +656,9 @@
 	}
 }
 
-105={ 
-	terrain="plains"
-	trade_goods="salt"
-	religion="villanic_pantheon"
-	culture="sicanic"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-106={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="villanic_pantheon"
-	culture="sicanic"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-107={ 
+50={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="canaanitic_pantheon"
 	culture="punici"
 	civilization_value=0
@@ -364,415 +672,18 @@
 	}
 	freemen={
 		amount=5
-	}
+	}	
 	tribesmen={
 		amount=4
 		religion="italiotan_pantheon"
 		culture="elymoi"
 	}
 	slaves={
-		amount=5
-	}
-}
-
-108={ 
-	terrain="plains"
-	trade_goods="salt"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-		religion="canaanitic_pantheon"
-		culture="punici"
-	}
-	freemen={
-		amount=1
-		religion="canaanitic_pantheon"
-		culture="punici"
-	}
-	tribesmen={
-		amount=2
-	}
-	slaves={
-		amount=2
-	}
-}
-
-109={ 
-	terrain="hills"
-	trade_goods="precious_metals"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-		religion="canaanitic_pantheon"
-		culture="punici"
-	}
-	freemen={
-		amount=1
-		religion="canaanitic_pantheon"
-		culture="punici"
-	}
-	tribesmen={
-		amount=2
-	}
-	slaves={
-		amount=2
-	}
-}
-
-110={ 
-	terrain="farmland"
-	trade_goods="wine"
-	religion="canaanitic_pantheon"
-	culture="punici"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=2
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=6
-		religion="nuragian_pantheon"
-		culture="nurage"
-	}
-	slaves={
 		amount=1
 	}
 	slaves={
-		amount=2
-		religion="nuragian_pantheon"
-		culture="nurage"
-	}
-}
-
-111={ 
-	terrain="hills"
-	trade_goods="iron"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-112={ 
-	terrain="hills"
-	trade_goods="base_metals"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-115={ 
-	terrain="mountain"
-	trade_goods="wood"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-	holy_site="omen_babai"
-}
-
-116={ 
-	terrain="farmland"
-	trade_goods="earthware"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-		religion="canaanitic_pantheon"
-		culture="punici"
-	}
-	freemen={
-		amount=1
-		religion="canaanitic_pantheon"
-		culture="punici"
-	}
-	tribesmen={
-		amount=2
-	}
-	slaves={
-		amount=2
-	}
-}
-
-113={ 
-	terrain="plains"
-	trade_goods="salt"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-114={ 
-	terrain="hills"
-	trade_goods="stone"
-	religion="nuragian_pantheon"
-	culture="corsi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-117={ 
-	terrain="hills"
-	trade_goods="fish"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-118={ 
-	terrain="hills"
-	trade_goods="base_metals"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-119={ 
-	terrain="hills"
-	trade_goods="hemp"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-120={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="nuragian_pantheon"
-	culture="nurage"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-121={ 
-	terrain="hills"
-	trade_goods="stone"
-	religion="nuragian_pantheon"
-	culture="corsi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-122={ 
-	terrain="plains"
-	trade_goods="fish"
-	religion="nuragian_pantheon"
-	culture="corsi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-123={ 
-	terrain="hills"
-	trade_goods="salt"
-	religion="nuragian_pantheon"
-	culture="corsi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-124={ 
-	terrain="farmland"
-	trade_goods="wine"
-	religion="nuragian_pantheon"
-	culture="corsi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-125={ 
-	terrain="hills"
-	trade_goods="fish"
-	religion="nuragian_pantheon"
-	culture="corsi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-126={ 
-	terrain="hills"
-	trade_goods="wool"
-	religion="nuragian_pantheon"
-	culture="corsi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
+		amount=3
+		religion="italiotan_pantheon"
+		culture="elymoi"
 	}
 }
