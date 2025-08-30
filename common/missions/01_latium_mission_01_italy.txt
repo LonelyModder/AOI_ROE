@@ -341,8 +341,32 @@
 		}
 	}
 	
-	latium_01_italy_5b = { # Rome as a Republic
-		requires = { latium_01_italy_4b }
+	latium_01_italy_5b = { # Sybilline Books
+		requires = { latium_01_italy_6b }
+		icon = task_conquest
+		#duration = 60
+		
+		allow = {
+			treasury > 50
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 313
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.37 } 
+		}
+	}
+	
+	latium_01_italy_6b = { # Rome as a Republic
+		requires = { latium_01_italy_5b }
 		icon = task_conquest
 		#duration = 60
 		
@@ -601,7 +625,7 @@
 	}
 	
 	latium_01_italy_99 = { # Italy Conquered
-		requires = { latium_01_italy_7a latium_01_italy_5b latium_01_italy_7c } #latium_01_italy_7c
+		requires = { latium_01_italy_7a latium_01_italy_6b latium_01_italy_7c } #latium_01_italy_7c
 		icon = task_conquest
 		#duration = 30
 		

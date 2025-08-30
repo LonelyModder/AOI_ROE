@@ -1916,3 +1916,159 @@ latium_01_italy_1.36 = {
 		name = "latium_01_italy_1.36.a"
 	}
 }
+
+latium_01_italy_1.37 = {  
+	type = country_event
+	title = "latium_01_italy_1.37.t"
+	desc = "latium_01_italy_1.37.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+	}
+	
+	immediate = {
+		
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.37.a"
+		set_global_variable = {
+			name = good_sybilline_negotiation
+		}
+		ai_chance = { base = 20 }
+	}
+	option = { 
+		name = "latium_01_italy_1.37.b"
+		set_global_variable = {
+			name = sybilline_negotiation_2nd_round
+		}
+		ai_chance = { base = 80 }
+	}
+}
+
+latium_01_italy_1.38 = {  
+	type = country_event
+	title = "latium_01_italy_1.38.t"
+	desc = "latium_01_italy_1.38.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+		has_global_variable = sybilline_negotiation_2nd_round
+	}
+	
+	immediate = {
+		
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.38.a"
+		set_global_variable = {
+			name = mediocre_sybilline_negotiation
+		}
+		ai_chance = { base = 20 }
+	}
+	option = { 
+		name = "latium_01_italy_1.38.b"
+		set_global_variable = {
+			name = sybilline_negotiation_3rd_round
+		}
+		ai_chance = { base = 80 }
+	}
+}
+
+latium_01_italy_1.39 = {  
+	type = country_event
+	title = "latium_01_italy_1.39.t"
+	desc = "latium_01_italy_1.39.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+		has_global_variable = sybilline_negotiation_3rd_round
+	}
+	
+	immediate = {
+		
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.39.a"
+		set_global_variable = {
+			name = bad_sybilline_negotiation
+		}
+		ai_chance = { base = 80 }
+	}
+	option = { 
+		name = "latium_01_italy_1.39.b"
+		ai_chance = { base = 20 }
+	}
+}
+
+latium_01_italy_1.40 = {  
+	type = country_event
+	title = "latium_01_italy_1.40.t"
+	desc = "latium_01_italy_1.40.desc"
+	fire_only_once = yes
+	picture = latium_pic_1
+	
+	trigger = {
+		tag = AAA
+		OR = {
+			has_global_variable = good_sybilline_negotiation
+			has_global_variable = mediocre_sybilline_negotiation
+			has_global_variable = bad_sybilline_negotiation
+		}
+	}
+	
+	immediate = {
+		
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.40.a"
+		trigger = {
+			has_global_variable = good_sybilline_negotiation
+		}
+		create_country_treasure = { 
+			key = "treasure_9sybilbooks"
+			icon = "treasure_chest"
+			
+			modifier = {
+				local_research_points_modifier = 0.2
+			}
+		}
+	}
+	option = { 
+		name = "latium_01_italy_1.40.b"
+		trigger = {
+			has_global_variable = mediocre_sybilline_negotiation
+		}
+		create_country_treasure = { 
+			key = "treasure_6sybilbooks"
+			icon = "treasure_chest"
+			
+			modifier = {
+				local_research_points_modifier = 0.15
+			}
+		}
+	}
+	option = { 
+		name = "latium_01_italy_1.40.c"
+		trigger = {
+			has_global_variable = bad_sybilline_negotiation
+		}
+		create_country_treasure = { 
+			key = "treasure_3sybilbooks"
+			icon = "treasure_chest"
+			
+			modifier = {
+				local_research_points_modifier = 0.1
+			}
+		}
+	}
+}
