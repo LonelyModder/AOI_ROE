@@ -1937,6 +1937,7 @@ latium_01_italy_1.37 = {
 		set_global_variable = {
 			name = good_sybilline_negotiation
 		}
+		add_treasury = -50
 		ai_chance = { base = 20 }
 	}
 	option = { 
@@ -1969,6 +1970,7 @@ latium_01_italy_1.38 = {
 		set_global_variable = {
 			name = mediocre_sybilline_negotiation
 		}
+		add_treasury = -50
 		ai_chance = { base = 20 }
 	}
 	option = { 
@@ -2001,6 +2003,7 @@ latium_01_italy_1.39 = {
 		set_global_variable = {
 			name = bad_sybilline_negotiation
 		}
+		add_treasury = -50
 		ai_chance = { base = 80 }
 	}
 	option = { 
