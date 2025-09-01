@@ -313,9 +313,6 @@
 		
 		allow = {
 			owns = 313
-			current_ruler = {
-				has_culture = etrusci
-			}
 		}
 		
 		highlight = {
@@ -372,9 +369,6 @@
 		
 		allow = {
 			owns = 313
-			current_ruler = {
-				has_culture = etrusci
-			}
 		}
 		
 		highlight = {
