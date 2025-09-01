@@ -306,13 +306,6 @@ latium_01_italy_1.9 = {
 				name = lepontic_invasion_modifier
 				duration = 14600
 			}	
-		}			
-		p:331.owner = {
-			declare_war_with_wargoal = {
-				war_goal = conquer_wargoal
-				province = p:330
-				target = p:330.owner
-			}
 		}
 		p:423 = { #Lingones
 			while = {
@@ -336,13 +329,6 @@ latium_01_italy_1.9 = {
 				name = lepontic_invasion_modifier
 				duration = 14600
 			}	
-		}	
-		p:421.owner = {
-			declare_war_with_wargoal = {
-				war_goal = conquer_wargoal
-				province = p:423
-				target = p:423.owner
-			}
 		}
 		p:394 = { #Boii
 			while = {
@@ -366,13 +352,6 @@ latium_01_italy_1.9 = {
 				name = lepontic_invasion_modifier
 				duration = 14600
 			}	
-		}	
-		p:396.owner = {
-			declare_war_with_wargoal = {
-				war_goal = conquer_wargoal
-				province = p:394
-				target = p:394.owner
-			}
 		}
 		p:484 = { #Cenomani
 			while = {
@@ -396,7 +375,7 @@ latium_01_italy_1.9 = {
 				name = lepontic_invasion_modifier
 				duration = 14600
 			}	
-		}	
+		}
 		p:483.owner = {
 			declare_war_with_wargoal = {
 				war_goal = conquer_wargoal
@@ -404,10 +383,37 @@ latium_01_italy_1.9 = {
 				target = p:484.owner
 			}
 		}
+		p:331.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:330
+				target = p:330.owner
+			}
+		}
+		p:421.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:423
+				target = p:423.owner
+			}
+		}
+		p:396.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:394
+				target = p:394.owner
+			}
+		}
 		p:476.owner = {
 			change_country_name = "Insubri_NAME"
 			change_country_adjective = "Insubri_ADJECTIVE"	
 		}
+		p:330.owner = {
+			add_alliance = p:484.owner
+			add_alliance = p:423.owner
+			add_alliance = p:394.owner
+			add_alliance = p:476.owner
+		} 
 	}
 }
 
