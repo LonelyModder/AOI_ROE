@@ -23,6 +23,7 @@
 		latium_01_italy_1.38
 		latium_01_italy_1.39
 		latium_01_italy_1.40
+		latium_01_italy_1.41
 		#Units
 		units_allowance_events.1
 		#Modded events 

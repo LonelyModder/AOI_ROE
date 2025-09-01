@@ -413,7 +413,10 @@ latium_01_italy_1.9 = {
 			add_alliance = p:423.owner
 			add_alliance = p:394.owner
 			add_alliance = p:476.owner
-		} 
+		}
+		set_global_variable = {
+			name = lepontic_invasion_v
+		}		
 	}
 }
 
@@ -2079,5 +2082,26 @@ latium_01_italy_1.40 = {
 				local_research_points_modifier = 0.1
 			}
 		}
+	}
+}
+
+latium_01_italy_1.41 = {  
+	type = country_event
+	title = "latium_01_italy_1.41.t"
+	desc = "latium_01_italy_1.41.desc"
+	fire_only_once = yes
+	picture = celtic_chiefs
+	
+	trigger = {
+		NOT = { tag = AAA }
+		has_global_variable = lepontic_invasion_v
+	}
+	
+	immediate = {
+		
+	}
+	
+	option = { 
+		name = "latium_01_italy_1.41.a"
 	}
 }
