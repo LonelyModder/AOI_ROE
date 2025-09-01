@@ -10,7 +10,7 @@
 			}
 			country_culture_group = grekoid
 		}
-		trigger_if = {
+		trigger_else_if = {
 			limit = {
 				AND = {
 					OR = {
