@@ -67,156 +67,156 @@ disallow_ia_scirmishers = {
 
 allow_ia_archers = {
 	set_variable = {
-		name = au01
+		name = au02
 		value = flag:ia_archers
 	}
 }
 disallow_ia_archers = {
 	set_variable = {
-		name = au01
+		name = au02
 		value = flag:na
 	}
 }
 
 allow_ia_warriors = {
 	set_variable = {
-		name = au01
+		name = au03
 		value = flag:ia_warriors
 	}
 }
 disallow_ia_warriors = {
 	set_variable = {
-		name = au01
+		name = au03
 		value = flag:na
 	}
 }
 
 allow_ia_lightinfantry = {
 	set_variable = {
-		name = au01
+		name = au04
 		value = flag:ia_lightinfantry
 	}
 }
 disallow_ia_lightinfantry = {
 	set_variable = {
-		name = au01
+		name = au04
 		value = flag:na
 	}
 }
 
 allow_ia_heavyinfantry = {
 	set_variable = {
-		name = au01
+		name = au05
 		value = flag:ia_heavyinfantry
 	}
 }
 disallow_ia_heavyinfantry = {
 	set_variable = {
-		name = au01
+		name = au05
 		value = flag:na
 	}
 }
 
 allow_ia_hoplites = {
 	set_variable = {
-		name = au01
+		name = au06
 		value = flag:ia_hoplites
 	}
 }
 disallow_ia_hoplites = {
 	set_variable = {
-		name = au01
+		name = au06
 		value = flag:na
 	}
 }
 
 allow_ia_lightcavalry = {
 	set_variable = {
-		name = au01
+		name = au07
 		value = flag:ia_lightcavalry
 	}
 }
 disallow_ia_lightcavalry = {
 	set_variable = {
-		name = au01
+		name = au07
 		value = flag:na
 	}
 }
 
 allow_ia_heavycavalry = {
 	set_variable = {
-		name = au01
+		name = au08
 		value = flag:ia_heavycavalry
 	}
 }
 disallow_ia_heavycavalry = {
 	set_variable = {
-		name = au01
+		name = au08
 		value = flag:na
 	}
 }
 
 allow_ia_lancers = {
 	set_variable = {
-		name = au01
+		name = au09
 		value = flag:ia_lancers
 	}
 }
 disallow_ia_lancers = {
 	set_variable = {
-		name = au01
+		name = au09
 		value = flag:na
 	}
 }
 
 allow_ia_horsearchers = {
 	set_variable = {
-		name = au01
+		name = au10
 		value = flag:ia_horsearchers
 	}
 }
 disallow_ia_horsearchers = {
 	set_variable = {
-		name = au01
+		name = au10
 		value = flag:na
 	}
 }
 
 allow_ia_chariots = {
 	set_variable = {
-		name = au01
+		name = au11
 		value = flag:ia_chariots
 	}
 }
 disallow_ia_chariots = {
 	set_variable = {
-		name = au01
+		name = au11
 		value = flag:na
 	}
 }
 
 allow_ia_camels = {
 	set_variable = {
-		name = au01
+		name = au12
 		value = flag:ia_camels
 	}
 }
 disallow_ia_camels = {
 	set_variable = {
-		name = au01
+		name = au12
 		value = flag:na
 	}
 }
 
 allow_ia_elephants = {
 	set_variable = {
-		name = au01
+		name = au13
 		value = flag:ia_elephants
 	}
 }
 disallow_ia_elephants = {
 	set_variable = {
-		name = au01
+		name = au13
 		value = flag:na
 	}
 }
