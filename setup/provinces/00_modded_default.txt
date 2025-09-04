@@ -2379,3 +2379,393 @@
 	barbarian_power=0
 	province_rank=""
 }
+
+992={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+993={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+994={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+995={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+996={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+997={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+998={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+999={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1000={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1001={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1002={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1003={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1004={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1005={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1006={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1007={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1008={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1009={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1010={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1011={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1012={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1013={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1014={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1015={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1016={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1017={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1018={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1019={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1020={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1021={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1022={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1023={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1024={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1025={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1026={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1027={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1028={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1029={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1030={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
