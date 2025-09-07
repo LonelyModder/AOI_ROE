@@ -11,6 +11,20 @@ modded_tmp_region = {
 	}
 }
 
+modded_achea_region = {
+	areas = {
+		wcrete_area
+		ecrete_area
+		laconiaetmessenia_area
+		cyclades_area
+		attykaeteuboea_area
+		arcadiaetelis_area
+		acheaetargolis_area
+		beotiaetphocis_area
+		aetolia_area
+	}
+}
+
 modded_savia_region = {
 	areas = {
 		poetovio_area
