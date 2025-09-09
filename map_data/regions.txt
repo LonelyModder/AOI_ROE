@@ -11,6 +11,18 @@ modded_tmp_region = {
 	}
 }
 
+modded_epirus_region = {
+	areas = {
+		
+	}
+}
+
+modded_macedonia_region = {
+	areas = {
+		
+	}
+}
+
 modded_achea_region = {
 	areas = {
 		wcrete_area
