@@ -13,13 +13,25 @@ modded_tmp_region = {
 
 modded_epirus_region = {
 	areas = {
-		
+		actium_area
+		vetus_area
+		byllis_area
+		brygia_area
+		dyrrhachium_area
 	}
 }
 
 modded_macedonia_region = {
 	areas = {
-		
+		lamia_area
+		larissa_area
+		tricca_area
+		macedon_area
+		stobi_area
+		thessalonica_area
+		philippi_area
+		serrae_area
+		sintike_area
 	}
 }
 
