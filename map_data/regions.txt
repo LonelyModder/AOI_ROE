@@ -11,6 +11,18 @@ modded_tmp_region = {
 	}
 }
 
+modded_dardania_region = {
+	areas = {
+		
+	}
+}
+
+modded_ripensis_region = {
+	areas = {
+		
+	}
+}
+
 modded_epirus_region = {
 	areas = {
 		actium_area
