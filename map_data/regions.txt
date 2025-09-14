@@ -13,13 +13,23 @@ modded_tmp_region = {
 
 modded_dardania_region = {
 	areas = {
-		
+		lissus_area
+		scitaria_area
+		meteonia_area
+		autariatia_area
+		taurisium_area
+		scupi_area
+		serdica_area
 	}
 }
 
 modded_ripensis_region = {
 	areas = {
-		
+		melta_area
+		ulpia_area
+		drobeta_area
+		viminiacum_area
+		tricornensia_area
 	}
 }
 
