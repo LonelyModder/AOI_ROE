@@ -4629,3 +4629,63 @@
 	barbarian_power=0
 	province_rank=""
 }
+
+1650={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1691={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1692={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1693={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1694={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1695={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}

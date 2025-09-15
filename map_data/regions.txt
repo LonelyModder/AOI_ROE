@@ -11,6 +11,26 @@ modded_tmp_region = {
 	}
 }
 
+modded_moesia_region = {
+	areas = {
+		
+	}
+}
+
+modded_thraciae_region = {
+	areas = {
+		byzantium_area
+		aenos_area
+		maronea_area
+		arcadiopolis_area
+		debeltum_area
+		nicopolis_area
+		hebros_area
+		beroea_area
+		hadrianopolis_area
+	}
+}
+
 modded_dardania_region = {
 	areas = {
 		lissus_area
