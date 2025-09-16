@@ -20,6 +20,12 @@
  modded_thraciae_region:0 "Thrace"
  modded_moesia_region:0 "Moesia"
  #Areas
+ novae_area:0 "Novae"
+ nicoplolis_area:0 "Nicopolis"
+ durostorum_area:0 "Durostorum"
+ marcianopolis_area:0 "Marcianopolis"
+ tomis_area:0 "Tomis"
+ istrus_area:0 "Istrus"
  hadrianopolis_area:0 "Hadrianopolis"
  beroea_area:0 "Beroea"
  hebros_area:0 "Hebros"

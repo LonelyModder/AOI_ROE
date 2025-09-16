@@ -23,8 +23,8 @@
  no_neighbor_has_colonization_progress:0 "No neighbour has #Y Colonization Progress#!"
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
- patch_notes:0 "Part I: Iron Age in Italy"
- patch_notes_text:0 "What's new:\n- Iron Age Italy, Illyria and Raetia to explore. \n- 753 land provinces to conquer (pure coincidence). \n- New units. \n- Mission tree for Latins."
+ patch_notes:0 "Part II: Hegemon"
+ patch_notes_text:0 "What's new:\n- Iron Age Balkans to explore. \n- 533 land provinces to conquer."
  
  #Modifier text
  osasis:0 "Oasis"

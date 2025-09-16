@@ -13,7 +13,12 @@ modded_tmp_region = {
 
 modded_moesia_region = {
 	areas = {
-		
+		istrus_area
+		tomis_area
+		marcianopolis_area
+		durostorum_area
+		nicoplolis_area
+		novae_area
 	}
 }
 
