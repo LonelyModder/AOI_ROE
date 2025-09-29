@@ -91,3 +91,5 @@ ADO = "setup/countries/modded/mADO.txt"
 ADP = "setup/countries/modded/mADP.txt"
 ADR = "setup/countries/modded/mADR.txt"
 ADS = "setup/countries/modded/mADS.txt"
+
+ABA = "setup/countries/modded/mABA.txt"

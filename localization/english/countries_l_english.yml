@@ -991,7 +991,8 @@
  ADR_ADJ:0 "Picentian"
  ADS:0 "Veleiatia"
  ADS_ADJ:0 "Veleiatian"
- 
+ ABA:0 "Macedon"
+ ABA_ADJ:0 "Macedonian"
  #Modded Formables
  ITALIA_NAME:0 "Italia"
  ITALIA_ADJECTIVE:0 "Italic"
