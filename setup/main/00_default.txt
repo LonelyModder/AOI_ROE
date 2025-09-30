@@ -1230,7 +1230,7 @@ country = {
 			}
 		}
 		
-		ABA = {          
+		BAA = {          
 			government = aristocratic_republic
 			primary_culture = gmacedonian
 			religion = grecoid_pantheon
