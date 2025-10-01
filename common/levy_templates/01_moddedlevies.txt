@@ -131,3 +131,14 @@ levy_astelixian = { #celtic militia
 	ia_chariots = 0.2
 	ia_warriors = 0.5
 }
+
+#Thracian
+
+levy_dacotan = { #celtic militia
+	default = no
+
+	ia_archers = 0.2
+	ia_lightcavalry = 0.1
+	ia_scirmishers = 0.2
+	ia_warriors = 0.5
+}

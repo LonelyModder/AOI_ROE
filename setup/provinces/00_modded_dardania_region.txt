@@ -115,8 +115,8 @@
 1431={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -134,8 +134,8 @@
 1432={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -153,8 +153,8 @@
 1433={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -168,3 +168,18 @@ castelic_heritage = {
 		country_culture_group = castelic
 	}
 }
+
+thracianic_heritage = {
+	modifier = {
+		#good
+		war_score_cost = -0.1
+		price_state_investment_civic_cost_modifier = -0.1
+		
+		#bad
+		subject_opinions = -10
+	}
+	
+	trigger = {
+		country_culture_group = thracianic
+	}
+}
