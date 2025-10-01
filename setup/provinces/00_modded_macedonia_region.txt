@@ -1880,7 +1880,7 @@
 }
 
 1378={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
