@@ -1,6 +1,6 @@
 ﻿1234={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -56,7 +56,7 @@
 }
 
 1237={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -285,7 +285,7 @@
 
 1249={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1121,7 +1121,7 @@
 
 1319={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1197,7 +1197,7 @@
 
 1323={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1235,7 +1235,7 @@
 
 1325={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0

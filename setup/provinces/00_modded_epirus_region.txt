@@ -1,6 +1,6 @@
 ﻿1254={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olives"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 1255={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olives"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 1256={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 1257={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olives"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 1258={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olives"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0

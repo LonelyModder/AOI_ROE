@@ -57,7 +57,7 @@
 
 1584={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -171,7 +171,7 @@
 
 1590={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -228,7 +228,7 @@
 
 1593={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -247,7 +247,7 @@
 
 1594={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -285,7 +285,7 @@
 
 1596={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -361,7 +361,7 @@
 
 1600={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -533,7 +533,7 @@
 
 1609={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -628,7 +628,7 @@
 
 1614={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -647,7 +647,7 @@
 
 1615={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -666,7 +666,7 @@
 
 1616={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -685,7 +685,7 @@
 
 1617={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1616,7 +1616,7 @@
 
 1672={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
