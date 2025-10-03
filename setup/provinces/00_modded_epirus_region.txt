@@ -1,6 +1,6 @@
 ﻿1254={ 
 	terrain="farmland"
-	trade_goods="olives"
+	trade_goods="olive"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 1255={ 
 	terrain="hills"
-	trade_goods="olives"
+	trade_goods="olive"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 1257={ 
 	terrain="farmland"
-	trade_goods="olives"
+	trade_goods="olive"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 1258={ 
 	terrain="farmland"
-	trade_goods="olives"
+	trade_goods="olive"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -133,7 +133,7 @@
 
 1262={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -152,7 +152,7 @@
 
 1264={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -189,8 +189,8 @@
 }
 
 1267={ 
-	terrain="mountain"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="horses"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -209,7 +209,7 @@
 
 1270={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -228,7 +228,7 @@
 
 1263={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="lliburni"
 	civilization_value=0
@@ -247,7 +247,7 @@
 
 1266={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -285,7 +285,7 @@
 
 1269={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -475,7 +475,7 @@
 
 1360={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -703,7 +703,7 @@
 
 1363={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -722,7 +722,7 @@
 
 1364={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
