@@ -626,7 +626,7 @@
 
 1164={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -683,7 +683,7 @@
 
 1167={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -835,7 +835,7 @@
 
 1175={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -854,7 +854,7 @@
 
 1176={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -892,7 +892,7 @@
 
 1178={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -930,7 +930,7 @@
 
 1180={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1025,7 +1025,7 @@
 
 1185={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1044,7 +1044,7 @@
 
 1186={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1063,7 +1063,7 @@
 
 1187={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1082,7 +1082,7 @@
 
 1188={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1234,7 +1234,7 @@
 
 1196={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1329,7 +1329,7 @@
 
 1201={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1367,7 +1367,7 @@
 
 1203={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1462,7 +1462,7 @@
 
 1208={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1481,7 +1481,7 @@
 
 1209={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="grecoid_pantheon"
 	culture="wvenedi"
 	civilization_value=0
