@@ -133,7 +133,7 @@
 
 1588={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="iron"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -418,7 +418,7 @@
 
 1603={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cattle"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -571,7 +571,7 @@
 
 1611={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="wine"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -704,7 +704,7 @@
 
 1618={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cattle"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -723,7 +723,7 @@
 
 1619={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="honey"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -780,7 +780,7 @@
 
 1627={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -818,7 +818,7 @@
 
 1629={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -856,7 +856,7 @@
 
 1631={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -875,7 +875,7 @@
 
 1632={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -894,7 +894,7 @@
 
 1633={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -932,7 +932,7 @@
 
 1635={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1008,7 +1008,7 @@
 
 1639={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1141,7 +1141,7 @@
 
 1646={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="wine"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1160,7 +1160,7 @@
 
 1647={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="wine"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1217,7 +1217,7 @@
 
 1651={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1255,7 +1255,7 @@
 
 1653={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="earthware"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1274,7 +1274,7 @@
 
 1654={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1350,7 +1350,7 @@
 
 1658={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="honey"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1426,7 +1426,7 @@
 
 1662={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="wine"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1445,7 +1445,7 @@
 
 1663={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1502,7 +1502,7 @@
 
 1666={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cattle"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1521,7 +1521,7 @@
 
 1667={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cattle"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1692,7 +1692,7 @@
 
 1676={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="earthware"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1749,7 +1749,7 @@
 
 1679={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1768,7 +1768,7 @@
 
 1680={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0

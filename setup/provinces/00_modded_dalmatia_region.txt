@@ -734,7 +734,7 @@
 
 762={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="illyric_pantheon"
 	culture="idelmatian"
 	civilization_value=0

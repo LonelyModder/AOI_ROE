@@ -120,6 +120,16 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { port_building = 2 }
 	
 	#Passes
+	1328 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1331 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1350 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1201 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1203 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1150 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1252 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1455 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1448 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1425 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	108 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	85 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	216 = { modifier = { modifier = lesser_pass_modifier always = yes } }
