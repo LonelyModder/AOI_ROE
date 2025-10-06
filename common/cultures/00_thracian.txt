@@ -2,7 +2,7 @@
 	color = hsv { 0.0 0.5 1.0 }
 	
 	primary = ia_archers
-	second = ia_lightinfantry
+	second = ia_warriors
 	flank = ia_lightcavalry
 	
 	primary_navy = tetrere
