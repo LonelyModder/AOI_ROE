@@ -75,6 +75,15 @@
  csedunian:0 "Vallensian"
  celtic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  celtic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Daco-Thracian
+ thracianic:2 "Daco-Thracian"
+ phrygic:0 "Phrygian"
+ bithynic:0 "Bithynian"
+ mysic:0 "Mysian"
+ cthracian:0 "Thracian"
+ peonic:0 "Peonian"
+ thracianic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ thracianic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  venedi:2 "Aedric"
  wvenedi:0 "Heresy"

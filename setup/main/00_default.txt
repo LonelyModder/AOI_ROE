@@ -1279,6 +1279,16 @@ country = {
 			}
 		}
 		
+		BAD = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = grecoid_pantheon
+			capital = 1617
+			
+			own_control_core = 	{ 
+				1617 1615 1614 1616 1613 1612 1619 1620 1661
+			}
+		}
 		
 	}
 }

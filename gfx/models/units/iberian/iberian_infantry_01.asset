@@ -1412,7 +1412,7 @@ entity ={
 
 ### Archers ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_archers"
+	name = "iberian_gfx_levy_ia_archers"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1422,7 +1422,7 @@ entity ={
 
 ### Warriors ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_warriors"
+	name = "iberian_gfx_levy_ia_warriors"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1432,7 +1432,7 @@ entity ={
 
 ### Light Infantry ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_lightinfantry"
+	name = "iberian_gfx_levy_ia_lightinfantry"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1442,7 +1442,7 @@ entity ={
 
 ### Heavy Infantry ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_heavyinfantry"
+	name = "iberian_gfx_levy_ia_heavyinfantry"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1452,7 +1452,7 @@ entity ={
 
 ### Hoplites ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_hoplites"
+	name = "iberian_gfx_levy_ia_hoplites"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1462,7 +1462,7 @@ entity ={
 
 ### Light Cavalry ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_lightcavalry"
+	name = "iberian_gfx_levy_ia_lightcavalry"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1472,7 +1472,7 @@ entity ={
 
 ### Heavy Cavalry ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_heavycavalry"
+	name = "iberian_gfx_levy_ia_heavycavalry"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1482,7 +1482,7 @@ entity ={
 
 ### Lancers ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_lancers"
+	name = "iberian_gfx_levy_ia_lancers"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1492,7 +1492,7 @@ entity ={
 
 ### Horse Archers ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_horsearchers"
+	name = "iberian_gfx_levy_ia_horsearchers"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1502,7 +1502,7 @@ entity ={
 
 ### Chariots ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_chariots"
+	name = "iberian_gfx_levy_ia_chariots"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1512,7 +1512,7 @@ entity ={
 
 ### Camels ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_camels"
+	name = "iberian_gfx_levy_ia_camels"
 	clone = "iberian_levies_infantry"
 }
 entity ={
@@ -1522,7 +1522,7 @@ entity ={
 
 ### Elephants ----------------------------------------------------------------
 entity ={
-	name = "iberian_levies_infantry_ia_elephants"
+	name = "iberian_gfx_levy_ia_elephants"
 	clone = "iberian_levies_infantry"
 }
 entity ={
