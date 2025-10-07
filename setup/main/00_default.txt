@@ -88,6 +88,10 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	1170 = { port_building = 2 }
+	1181 = { port_building = 2 }
+	1154 = { port_building = 2 }
+	1149 = { port_building = 2 }
 	1263 = { port_building = 1 }
 	311 = { port_building = 1 }
 	788 = { port_building = 1 }
@@ -859,7 +863,7 @@ country = {
 			capital = 788
 			
 			own_control_core = 	{ 
-				788 787 786 785 784 783 1433 1432 1431
+				788 787 786 785 784 783 1433 1432 1431 1436 1434 789 
 			}
 		}
 		
@@ -1023,7 +1027,7 @@ country = {
 			capital = 808
 			
 			own_control_core = 	{ 
-				805 793 790 806 808 800 789 807 809 811
+				805 793 790 806 808 800 807 809 811
 			}
 		}
 		
@@ -1279,6 +1283,20 @@ country = {
 			}
 		}
 		
+		BAC = {          
+			government = tribal_kingdom
+			primary_culture = isesarethian
+			religion = illyric_pantheon
+			capital = 1427
+			
+			own_control_core = 	{ 
+				1428 1430 1435 1439 1437 1438 1429 1427 1426 1425
+      			1364 1365 1363 1367 1366 1355 1357 1356
+				1345 1344 1354 1353 1352 1351
+				1362 1361 1360 1358 
+			}
+		}
+		
 		BAD = {          
 			government = tribal_kingdom
 			primary_culture = cthracian
@@ -1290,6 +1308,132 @@ country = {
 			}
 		}
 		
+		BAE = {          
+			government = stratocratic_monarchy
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1150
+			monarchy_military_reforms = recruit_from_nobles
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1150 1149 1151 1147 1146 1145 1148
+			}
+		}
+		
+		BAF = {          
+			government = stratocratic_monarchy
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1154
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1154 1153 1156 1152 1155
+			}
+		}
+		
+		BAG = {          
+			government = despotic_monarchy
+			primary_culture = gepirote
+			religion = grecoid_pantheon
+			capital = 1266
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1266 1264 1261 
+			}
+		}
+		
+		BAH = {          
+			government = despotic_monarchy
+			primary_culture = gepirote
+			religion = grecoid_pantheon
+			capital = 1271
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1271 1267 1359 1272 1278 1270
+			}
+		}
+		
+		BAI = {          
+			government = despotic_monarchy
+			primary_culture = gepirote
+			religion = grecoid_pantheon
+			capital = 1275
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1275 1269 1268 1274 1265 1276 1277 1279 1280 1290
+			}
+		}
+		
+		BAJ = {          
+			government = despotic_monarchy
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1170
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1170 1162
+			}
+		}
+		
+		BAK = {          
+			government = democratic_republic
+			primary_culture = gattic
+			religion = grecoid_pantheon
+			capital = 1181
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1181 1182 1183 1180 1184
+			}
+		}
 	}
 }
 

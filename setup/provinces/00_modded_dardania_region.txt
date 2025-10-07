@@ -172,8 +172,8 @@
 1434={ 
 	terrain="mountain"
 	trade_goods="earthware"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,8 +210,8 @@
 1436={ 
 	terrain="plains"
 	trade_goods="earthware"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="idelmatian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
