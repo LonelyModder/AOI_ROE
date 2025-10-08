@@ -1,6 +1,8 @@
 ﻿l_english:
  #Modded Titles
  #Celtic
- tribal_federation_ruler_celtic:0 "Brennus"
- tribal_federation_ruler_female_celtic:0 "Brenna"
- 
+ #tribal_federation_ruler_celtic:0 "Brennus" # tri_king ?
+ #tribal_federation_ruler_female_celtic:0 "Brenna"
+ #Greek
+ despotic_monarchy_ruler_grekoid:0 "Basileus"
+ despotic_monarchy_ruler_female_grekoid:0 "Basilisa"

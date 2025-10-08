@@ -526,7 +526,7 @@
 	terrain="hills"
 	trade_goods="stone"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gachean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1425,18 +1425,21 @@
 	terrain="hills"
 	trade_goods="earthware"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gnorthwest"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -1444,7 +1447,7 @@
 	terrain="mountain"
 	trade_goods="marble"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gnorthwest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1463,18 +1466,21 @@
 	terrain="mountain"
 	trade_goods="marble"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gnorthwest"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -1482,7 +1488,7 @@
 	terrain="hills"
 	trade_goods="fish"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gnorthwest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1501,7 +1507,7 @@
 	terrain="hills"
 	trade_goods="wool"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gnorthwest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

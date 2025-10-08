@@ -1,8 +1,8 @@
 ﻿1425={ 
 	terrain="mountain"
 	trade_goods="leather"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -20,8 +20,8 @@
 1426={ 
 	terrain="hills"
 	trade_goods="stone"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -39,27 +39,30 @@
 1427={ 
 	terrain="hills"
 	trade_goods="wool"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=1
+		amount=4
 	}	
 	tribesmen={
-		amount=4
+		amount=10
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
 1428={ 
 	terrain="forest"
 	trade_goods="fish"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -77,8 +80,8 @@
 1429={ 
 	terrain="forest"
 	trade_goods="fur"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -96,8 +99,8 @@
 1430={ 
 	terrain="hills"
 	trade_goods="salt"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -191,8 +194,8 @@
 1435={ 
 	terrain="hills"
 	trade_goods="olive"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -229,8 +232,8 @@
 1437={ 
 	terrain="hills"
 	trade_goods="stone"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -248,8 +251,8 @@
 1438={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -267,8 +270,8 @@
 1439={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

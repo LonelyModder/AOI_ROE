@@ -110,6 +110,8 @@
 		gmacedonian = {}
 		guppermacedonian = {}
 		gdorian = {}
+		gthessalian = {}
+		gnorthwest = {}
 		gachean = {}
 		gattic = {}
 		gaeolic = {}

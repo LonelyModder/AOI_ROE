@@ -46,6 +46,7 @@
 		mysic = {}
 		cthracian = {}
 		peonic = {}
+		brygian = {}
 	}
 	
 	barbarian_names = { AEDI BIEPHI BIESSOI CARPI CIAGINSI CROBIDAE PIEPHIGI SUCI TERICI TRIXAE }

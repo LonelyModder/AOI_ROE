@@ -1,8 +1,8 @@
 ﻿1234={ 
 	terrain="plains"
 	trade_goods="iron"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -20,15 +20,15 @@
 1235={ 
 	terrain="hills"
 	trade_goods="iron"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -39,15 +39,15 @@
 1236={ 
 	terrain="hills"
 	trade_goods="fish"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -58,8 +58,8 @@
 1237={ 
 	terrain="mountain"
 	trade_goods="stone"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -77,15 +77,15 @@
 1238={ 
 	terrain="farmland"
 	trade_goods="olive"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -96,15 +96,15 @@
 1239={ 
 	terrain="marsh"
 	trade_goods="earthware"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -115,15 +115,15 @@
 1240={ 
 	terrain="farmland"
 	trade_goods="olive"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -134,15 +134,15 @@
 1241={ 
 	terrain="farmland"
 	trade_goods="wine"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -153,15 +153,15 @@
 1242={ 
 	terrain="plains"
 	trade_goods="olive"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -172,15 +172,15 @@
 1243={ 
 	terrain="farmland"
 	trade_goods="wine"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -191,15 +191,15 @@
 1244={ 
 	terrain="hills"
 	trade_goods="earthware"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -210,15 +210,15 @@
 1245={ 
 	terrain="farmland"
 	trade_goods="fish"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -229,15 +229,15 @@
 1246={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -248,15 +248,15 @@
 1247={ 
 	terrain="farmland"
 	trade_goods="wine"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -267,8 +267,8 @@
 1248={ 
 	terrain="hills"
 	trade_goods="stone"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gmacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -286,8 +286,8 @@
 1249={ 
 	terrain="hills"
 	trade_goods="fish"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -305,8 +305,8 @@
 1250={ 
 	terrain="farmland"
 	trade_goods="horses"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -324,15 +324,15 @@
 1251={ 
 	terrain="plains"
 	trade_goods="horses"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -343,11 +343,14 @@
 1252={ 
 	terrain="mountain"
 	trade_goods="vegetables"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -362,8 +365,8 @@
 1253={ 
 	terrain="mountain"
 	trade_goods="vegetables"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -381,8 +384,8 @@
 1260={ 
 	terrain="mountain"
 	trade_goods="stone"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -400,8 +403,8 @@
 1273={ 
 	terrain="mountain"
 	trade_goods="stone"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -419,8 +422,8 @@
 1281={ 
 	terrain="hills"
 	trade_goods="cattle"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -438,8 +441,8 @@
 1282={ 
 	terrain="hills"
 	trade_goods="honey"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,8 +460,8 @@
 1283={ 
 	terrain="hills"
 	trade_goods="honey"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -476,8 +479,8 @@
 1284={ 
 	terrain="hills"
 	trade_goods="cattle"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -495,8 +498,8 @@
 1285={ 
 	terrain="hills"
 	trade_goods="vegetables"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -514,8 +517,8 @@
 1286={ 
 	terrain="hills"
 	trade_goods="vegetables"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -533,8 +536,8 @@
 1287={ 
 	terrain="hills"
 	trade_goods="vegetables"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -552,8 +555,8 @@
 1288={ 
 	terrain="farmland"
 	trade_goods="olive"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -571,8 +574,8 @@
 1289={ 
 	terrain="plains"
 	trade_goods="stone"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gmacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -590,27 +593,33 @@
 1291={ 
 	terrain="plains"
 	trade_goods="earthware"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gmacedonian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
 1292={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gmacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -628,8 +637,8 @@
 1293={ 
 	terrain="plains"
 	trade_goods="cattle"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gmacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -647,8 +656,8 @@
 1294={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -666,8 +675,8 @@
 1295={ 
 	terrain="farmland"
 	trade_goods="wine"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gmacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -685,8 +694,8 @@
 1296={ 
 	terrain="plains"
 	trade_goods="wine"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gmacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,8 +713,8 @@
 1297={ 
 	terrain="farmland"
 	trade_goods="olive"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gmacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -723,27 +732,33 @@
 1298={ 
 	terrain="farmland"
 	trade_goods="olive"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gmacedonian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
 1299={ 
 	terrain="hills"
 	trade_goods="wool"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -761,8 +776,8 @@
 1300={ 
 	terrain="hills"
 	trade_goods="cattle"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -780,27 +795,33 @@
 1301={ 
 	terrain="hills"
 	trade_goods="glass"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gmacedonian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
 1302={ 
 	terrain="plains"
 	trade_goods="horses"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -818,8 +839,8 @@
 1303={ 
 	terrain="plains"
 	trade_goods="horses"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -837,7 +858,7 @@
 1304={ 
 	terrain="hills"
 	trade_goods="cattle"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -856,8 +877,8 @@
 1305={ 
 	terrain="plains"
 	trade_goods="glass"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -875,7 +896,7 @@
 1306={ 
 	terrain="hills"
 	trade_goods="precious_metals"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -894,7 +915,7 @@
 1307={ 
 	terrain="plains"
 	trade_goods="precious_metals"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -913,8 +934,8 @@
 1308={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -932,7 +953,7 @@
 1309={ 
 	terrain="hills"
 	trade_goods="fish"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -951,7 +972,7 @@
 1310={ 
 	terrain="hills"
 	trade_goods="leather"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -970,7 +991,7 @@
 1311={ 
 	terrain="hills"
 	trade_goods="olive"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -989,7 +1010,7 @@
 1312={ 
 	terrain="farmland"
 	trade_goods="olive"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1008,7 +1029,7 @@
 1313={ 
 	terrain="hills"
 	trade_goods="olive"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1027,7 +1048,7 @@
 1314={ 
 	terrain="hills"
 	trade_goods="precious_metals"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1046,7 +1067,7 @@
 1315={ 
 	terrain="hills"
 	trade_goods="precious_metals"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1065,7 +1086,7 @@
 1316={ 
 	terrain="hills"
 	trade_goods="stone"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1084,7 +1105,7 @@
 1317={ 
 	terrain="hills"
 	trade_goods="stone"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1103,7 +1124,7 @@
 1318={ 
 	terrain="plains"
 	trade_goods="cattle"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1122,7 +1143,7 @@
 1319={ 
 	terrain="hills"
 	trade_goods="iron"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1141,7 +1162,7 @@
 1320={ 
 	terrain="hills"
 	trade_goods="wine"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1160,7 +1181,7 @@
 1321={ 
 	terrain="hills"
 	trade_goods="wine"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1179,7 +1200,7 @@
 1322={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1198,7 +1219,7 @@
 1323={ 
 	terrain="hills"
 	trade_goods="iron"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1217,7 +1238,7 @@
 1324={ 
 	terrain="hills"
 	trade_goods="leather"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1236,7 +1257,7 @@
 1325={ 
 	terrain="hills"
 	trade_goods="iron"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1255,7 +1276,7 @@
 1326={ 
 	terrain="hills"
 	trade_goods="leather"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1274,7 +1295,7 @@
 1327={ 
 	terrain="hills"
 	trade_goods="fur"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1293,7 +1314,7 @@
 1328={ 
 	terrain="hills"
 	trade_goods="fur"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1312,8 +1333,8 @@
 1329={ 
 	terrain="hills"
 	trade_goods="cattle"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1331,8 +1352,8 @@
 1330={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1350,7 +1371,7 @@
 1331={ 
 	terrain="hills"
 	trade_goods="iron"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1369,7 +1390,7 @@
 1332={ 
 	terrain="mountain"
 	trade_goods="wool"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1388,7 +1409,7 @@
 1333={ 
 	terrain="hills"
 	trade_goods="leather"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1407,7 +1428,7 @@
 1334={ 
 	terrain="farmland"
 	trade_goods="base_metals"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1426,7 +1447,7 @@
 1335={ 
 	terrain="mountain"
 	trade_goods="base_metals"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1445,7 +1466,7 @@
 1336={ 
 	terrain="hills"
 	trade_goods="cattle"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1464,7 +1485,7 @@
 1337={ 
 	terrain="farmland"
 	trade_goods="vegetables"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1483,8 +1504,8 @@
 1338={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1502,7 +1523,7 @@
 1339={ 
 	terrain="hills"
 	trade_goods="wool"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1521,8 +1542,8 @@
 1340={ 
 	terrain="mountain"
 	trade_goods="wool"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1540,7 +1561,7 @@
 1341={ 
 	terrain="hills"
 	trade_goods="stone"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1559,7 +1580,7 @@
 1342={ 
 	terrain="hills"
 	trade_goods="fur"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1578,8 +1599,8 @@
 1343={ 
 	terrain="mountain"
 	trade_goods="cattle"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1597,7 +1618,7 @@
 1346={ 
 	terrain="hills"
 	trade_goods="vegetables"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1616,7 +1637,7 @@
 1347={ 
 	terrain="hills"
 	trade_goods="vegetables"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1635,7 +1656,7 @@
 1348={ 
 	terrain="forest"
 	trade_goods="leather"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1654,8 +1675,8 @@
 1349={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1673,8 +1694,8 @@
 1350={ 
 	terrain="mountain"
 	trade_goods="vegetables"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="guppermacedonian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1692,7 +1713,7 @@
 1368={ 
 	terrain="mountain"
 	trade_goods="stone"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1711,7 +1732,7 @@
 1369={ 
 	terrain="forest"
 	trade_goods="leather"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1730,7 +1751,7 @@
 1370={ 
 	terrain="hills"
 	trade_goods="stone"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1749,7 +1770,7 @@
 1371={ 
 	terrain="mountain"
 	trade_goods="hemp"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1768,7 +1789,7 @@
 1372={ 
 	terrain="mountain"
 	trade_goods="fur"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1787,7 +1808,7 @@
 1373={ 
 	terrain="hills"
 	trade_goods="woad"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1806,7 +1827,7 @@
 1374={ 
 	terrain="hills"
 	trade_goods="woad"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1825,7 +1846,7 @@
 1375={ 
 	terrain="mountain"
 	trade_goods="stone"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1844,7 +1865,7 @@
 1376={ 
 	terrain="hills"
 	trade_goods="vegetables"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1863,7 +1884,7 @@
 1377={ 
 	terrain="mountain"
 	trade_goods="hemp"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1882,7 +1903,7 @@
 1378={ 
 	terrain="mountain"
 	trade_goods="leather"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1901,7 +1922,7 @@
 1379={ 
 	terrain="hills"
 	trade_goods="leather"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
