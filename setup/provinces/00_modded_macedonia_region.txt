@@ -5,15 +5,18 @@
 	culture="gnorthwest"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -21,7 +24,7 @@
 	terrain="hills"
 	trade_goods="iron"
 	religion="grecoid_pantheon"
-	culture="gthessalian"
+	culture="gnorthwest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -81,15 +84,18 @@
 	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -195,15 +201,18 @@
 	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -252,15 +261,18 @@
 	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -385,7 +397,7 @@
 	terrain="mountain"
 	trade_goods="stone"
 	religion="grecoid_pantheon"
-	culture="gnorthwest"
+	culture="gepirote"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -404,7 +416,7 @@
 	terrain="mountain"
 	trade_goods="stone"
 	religion="grecoid_pantheon"
-	culture="gnorthwest"
+	culture="gepirote"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -602,12 +614,12 @@
 		amount=1
 	}
 	citizen={
-		amount=6
+		amount=8
 	}	
 	freemen={
 		amount=4
 	}
-	slaves={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -746,7 +758,7 @@
 	freemen={
 		amount=4
 	}
-	slaves={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -809,7 +821,7 @@
 	freemen={
 		amount=4
 	}
-	slaves={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -915,19 +927,27 @@
 1307={ 
 	terrain="plains"
 	trade_goods="precious_metals"
-	religion="thracic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
+	tribesmen={
+		amount=4
+		religion="thracic_pantheon"
+		culture="brygian"
+	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
@@ -953,16 +973,21 @@
 1309={ 
 	terrain="hills"
 	trade_goods="fish"
-	religion="thracic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
+	}
+	tribesmen={
+		amount=2
+		religion="thracic_pantheon"
+		culture="brygian"
 	}
 	slaves={
 		amount=1

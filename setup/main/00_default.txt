@@ -88,6 +88,9 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	1255 = { port_building = 2 }
+	1159 = { port_building = 2 }
+	1244 = { port_building = 2 }
 	1170 = { port_building = 2 }
 	1181 = { port_building = 2 }
 	1154 = { port_building = 2 }
@@ -125,6 +128,22 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { port_building = 2 }
 	
 	#Passes
+	1552 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1697 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1539 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1342 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1583 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1335 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1485 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1432 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1433 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1422 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1355 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1356 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1248 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1294 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1283 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1273 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	1328 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	1331 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	1350 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -1280,7 +1299,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				1247 1245 1246 1244 1239 1238 1240 1241 1243 1242 1251 1236 1235 1249
+				1247 1245 1246 1244 1239 1238 1240 1241 1243 1242 1251 1236 1249
 			}
 		}
 		
@@ -1438,7 +1457,7 @@ country = {
 		
 		BAL = {          
 			government = despotic_monarchy
-			primary_culture = gnorthwest
+			primary_culture = gepirote
 			religion = grecoid_pantheon
 			capital = 1262
 			
@@ -1468,7 +1487,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				1257 1254
+				1257 1254 1256
 			}
 		}
 		
@@ -1505,6 +1524,240 @@ country = {
 			
 			own_control_core = 	{ 
 				1207 1209 1208 1205 1206
+			}
+		}
+		
+		BAP = {          
+			government = aristocratic_republic
+			primary_culture = gnorthwest
+			religion = grecoid_pantheon
+			capital = 1234
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1234 1235
+			}
+		}
+		
+		BAS = {          
+			government = aristocratic_republic
+			primary_culture = gnorthwest
+			religion = grecoid_pantheon
+			capital = 1159
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1159 1160 1161 1157
+			}
+		}
+		
+		BAT = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1171
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1171 1172 1179
+			}
+		}
+		
+		BAU = {          
+			government = aristocratic_republic
+			primary_culture = garcadian
+			religion = grecoid_pantheon
+			capital = 1178
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1178 1177 1176 1173 1174 1175
+			}
+		}
+		
+		BAW = {          
+			government = aristocratic_republic
+			primary_culture = gachean
+			religion = grecoid_pantheon
+			capital = 1164
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1164 1165 1166 1167 1168
+			}
+		}
+		
+		BAY = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1169
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1169
+			}
+		}
+		
+		BAZ = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1163
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1163
+			}
+		}
+		
+		BBA = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 1307
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1307 1309
+			}
+		}
+		
+		BBB = {          
+			government = aristocratic_republic
+			primary_culture = gbeotian
+			religion = grecoid_pantheon
+			capital = 1185
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1185 1186 1188 1196 1189 1187
+			}
+		}
+		
+		BBC = {          
+			government = aristocratic_republic
+			primary_culture = gnorthwest
+			religion = grecoid_pantheon
+			capital = 1199
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1199 1197 1202
+			}
+		}
+		
+		BBD = {          
+			government = aristocratic_republic
+			primary_culture = gnorthwest
+			religion = grecoid_pantheon
+			capital = 1198
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1198 1200 1204
+			}
+		}
+		
+		BBE = {          
+			government = aristocratic_republic
+			primary_culture = gnorthwest
+			religion = grecoid_pantheon
+			capital = 1201
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1201 1203
+			}
+		}
+		
+		BBF = {          
+			government = aristocratic_republic
+			primary_culture = gachean
+			religion = grecoid_pantheon
+			capital = 1255
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1255 1158
 			}
 		}
 	}

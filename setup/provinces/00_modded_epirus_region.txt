@@ -24,15 +24,18 @@
 	culture="gachean"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -44,10 +47,10 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -85,10 +88,10 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -100,7 +103,7 @@
 	terrain="hills"
 	trade_goods="precious_metals"
 	religion="grecoid_pantheon"
-	culture="gnorthwest"
+	culture="gepirote"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -138,7 +141,7 @@
 	terrain="mountain"
 	trade_goods="precious_metals"
 	religion="grecoid_pantheon"
-	culture="gnorthwest"
+	culture="gepirote"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,10 +395,17 @@
 		amount=1
 	}	
 	tribesmen={
-		amount=4
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		religion="grecoid_pantheon"
+		culture="gepirote"
 	}
 	slaves={
 		amount=1
+		religion="grecoid_pantheon"
+		culture="gepirote"
 	}
 }
 

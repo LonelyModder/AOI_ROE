@@ -114,8 +114,9 @@
 		gnorthwest = {}
 		gachean = {}
 		gattic = {}
-		gaeolic = {}
+		gbeotian = {}
 		garcadian = {}
+		gionian = {}
 	}
 	
 	barbarian_names = { 
