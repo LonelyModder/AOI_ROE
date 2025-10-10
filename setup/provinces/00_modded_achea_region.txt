@@ -2,7 +2,7 @@
 	terrain="hills"
 	trade_goods="iron"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -21,18 +21,21 @@
 	terrain="plains"
 	trade_goods="wine"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=7
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -40,7 +43,7 @@
 	terrain="hills"
 	trade_goods="vegetables"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -59,18 +62,21 @@
 	terrain="hills"
 	trade_goods="olive"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=5
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -78,7 +84,7 @@
 	terrain="hills"
 	trade_goods="olive"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -97,18 +103,21 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -116,18 +125,21 @@
 	terrain="hills"
 	trade_goods="glass"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -135,7 +147,7 @@
 	terrain="plains"
 	trade_goods="fish"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -154,18 +166,21 @@
 	terrain="plains"
 	trade_goods="olive"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=5
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -173,7 +188,7 @@
 	terrain="hills"
 	trade_goods="marble"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -192,18 +207,21 @@
 	terrain="hills"
 	trade_goods="fish"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=5
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -211,7 +229,7 @@
 	terrain="hills"
 	trade_goods="marble"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -230,18 +248,21 @@
 	terrain="hills"
 	trade_goods="olive"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
 	freemen={
-		amount=4
+		amount=3
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -249,15 +270,15 @@
 	terrain="hills"
 	trade_goods="fish"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
-		amount=1
+		amount=3
 	}	
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
 		amount=1
@@ -1179,18 +1200,21 @@
 	terrain="plains"
 	trade_goods="wood"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=3
+	}
 	citizen={
-		amount=1
+		amount=13
 	}	
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -1198,18 +1222,21 @@
 	terrain="plains"
 	trade_goods="fish"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
-		amount=1
+		amount=10
 	}	
 	freemen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
@@ -1217,18 +1244,21 @@
 	terrain="hills"
 	trade_goods="fish"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
@@ -1236,7 +1266,7 @@
 	terrain="hills"
 	trade_goods="wine"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1255,15 +1285,15 @@
 	terrain="hills"
 	trade_goods="iron"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gthessalian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
-		amount=1
+		amount=3
 	}	
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
 		amount=1
@@ -1274,7 +1304,7 @@
 	terrain="hills"
 	trade_goods="marble"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1574,18 +1604,21 @@
 	terrain="hills"
 	trade_goods="iron"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=7
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -1593,18 +1626,18 @@
 	terrain="hills"
 	trade_goods="fish"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}	
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -1612,7 +1645,7 @@
 	terrain="hills"
 	trade_goods="iron"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1631,18 +1664,21 @@
 	terrain="hills"
 	trade_goods="precious_metals"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}	
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -1650,7 +1686,7 @@
 	terrain="hills"
 	trade_goods="base_metals"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1669,18 +1705,21 @@
 	terrain="hills"
 	trade_goods="marble"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -1688,7 +1727,7 @@
 	terrain="hills"
 	trade_goods="fish"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1707,7 +1746,7 @@
 	terrain="hills"
 	trade_goods="wine"
 	religion="grecoid_pantheon"
-	culture="wvenedi"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

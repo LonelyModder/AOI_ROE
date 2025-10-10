@@ -88,6 +88,12 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	1141 = { port_building = 2 }
+	1136 = { port_building = 2 }
+	1131 = { port_building = 2 }
+	1144 = { port_building = 2 }
+	1137 = { port_building = 2 }
+	1215 = { port_building = 2 }
 	1255 = { port_building = 2 }
 	1159 = { port_building = 2 }
 	1244 = { port_building = 2 }
@@ -1451,7 +1457,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				1181 1182 1183 1180 1184
+				1181 1182 1183 1180 1184 1212
 			}
 		}
 		
@@ -1758,6 +1764,294 @@ country = {
 			
 			own_control_core = 	{ 
 				1255 1158
+			}
+		}
+		
+		BBG = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 1215
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1215 1214 1216 1217
+			}
+		}
+		
+		BBH = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 1210
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1210
+			}
+		}
+		
+		BBI = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 1211
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1211
+			}
+		}
+		
+		BBJ = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1213
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1213
+			}
+		}
+		
+		BBK = {          
+			government = aristocratic_republic
+			primary_culture = gthessalian
+			religion = grecoid_pantheon
+			capital = 1194
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1194
+			}
+		}
+		
+		BBL = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1144
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1144
+			}
+		}
+		
+		TAA = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1137
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1137 1135 1140
+			}
+		}
+		
+		TAB = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 1190
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1190
+			}
+		}
+		
+		TAC = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 1191
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1191 1195
+			}
+		}
+		
+		TAD = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 1192
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1193 1192
+			}
+		}
+		
+		TAE = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1136
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1136 1138
+			}
+		}
+		
+		TAF = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1132
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1132 1131
+			}
+		}
+		
+		TAG = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1143
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1143
+			}
+		}
+		
+		TAH = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1134
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1134 1133
+			}
+		}
+		
+		TAI = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1141
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1141 1142
+			}
+		}
+		
+		TAJ = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 1139
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1139
 			}
 		}
 	}

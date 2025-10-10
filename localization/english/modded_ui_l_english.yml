@@ -5,7 +5,7 @@
  CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\n Date in the mod is counted since the fall of the City of Ugarit and the Bronze Age Collapse.\n\n#TF The degraded one trembles, and the low one is torn to pieces. Our food in the threshing floors is sacked and the vineyards are also destroyed. Our city is sacked, and may you know it! - Report to ruler of Carchemish about fall of Ugarit#!"
  DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since Bronze Age Collapse."
  THE_WORLD:1 "[GetDateString]#T  BAC"
- THE_WORLD_TOOLTIP:1 "#T Current Date#!\n BAC stands for Bronze Age Collapse. The year 437 BAC was chosen as the starting date because this year the city of Ugarit fell to the Luccan invaders marking the beginning of the great offensive of the Sea Peoples against Egypt."
+ THE_WORLD_TOOLTIP:1 "#T Current Date#!\n BAC stands for Bronze Age Collapse. The year 437 BAC (1185 BC) was chosen as the starting date because 437 years before the city of Ugarit fell to the Luccan invaders marking the beginning of the famous great offensive of the Sea Peoples against Egypt."
  
  
  AlinorINTRO:0 "#T Latium#!\nDifficulty: #Y HARD#!\n\n During the Middle Iron Age Latium starts under the influence of Etruscan League. The research done shows that the region was densly populated hich can explain the increasing rise in importance over time. The original story about the founding of Rome claims that the city was founded by the Arcadian merchant called Romos."
