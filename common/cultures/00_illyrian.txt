@@ -36,6 +36,7 @@
 	culture = {
 		imessapi = {}
 		idelmatian = {}
+		idardanian = {}
 		ideurian = {}
 		isicelian = {}
 		isesarethian = {}

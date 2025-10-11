@@ -44,7 +44,10 @@
 		phrygic = {}
 		bithynic = {}
 		mysic = {}
+		tmoesian = {}
+		tgetic = {}
 		cthracian = {}
+		ttriballian = {}
 		peonic = {}
 		brygian = {}
 	}

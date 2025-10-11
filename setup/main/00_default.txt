@@ -2119,7 +2119,7 @@ country = {
 			capital = 1595
 			
 			own_control_core = 	{ 
-				1595 1596 1593 1592 1594 1597 1600 1607 1608
+				1595 1596 1593 1592 1594 1597 1607 1608
 			}
 		}
 		
@@ -2130,7 +2130,73 @@ country = {
 			capital = 1610
 			
 			own_control_core = 	{ 
-				1610 1611 1609 
+				1610 1611 1609 1600 
+			}
+		}
+		
+		TAR = {          
+			government = tribal_kingdom
+			primary_culture = tgetic
+			religion = thracic_pantheon
+			capital = 1750
+			
+			own_control_core = 	{ 
+				1750 1749 1746 1748 1747 1751 1752 1755 1754 1753
+			}
+		}
+		
+		TAS = {          
+			government = tribal_kingdom
+			primary_culture = tmoesian
+			religion = thracic_pantheon
+			capital = 1741
+			
+			own_control_core = 	{ 
+				1741 1743 1745 1744 1742 1736
+			}
+		}
+		
+		TAT = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1323
+			
+			own_control_core = 	{ 
+				1323 1322 1315 1316 1321 1320 1325 1326 1324
+			}
+		}
+		
+		TAU = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1341
+			
+			own_control_core = 	{ 
+				1342 1341 1317 1318 1581 1585 1582 1584 1588
+			}
+		}
+		
+		TAW = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1601
+			
+			own_control_core = 	{ 
+				1601 1589 1586 1603 1587 1590 1598 1602 1604
+			}
+		}
+		
+		TAY = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1665
+			
+			own_control_core = 	{ 
+				1665 1664 1663 1668 1671 1673 1672
 			}
 		}
 	}

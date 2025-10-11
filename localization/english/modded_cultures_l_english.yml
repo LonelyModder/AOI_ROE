@@ -53,6 +53,7 @@
  italic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  illyric:2 "Illyrian"
  imessapi:0 "Lapygian"
+ idardanian:0 "Dardanian"
  idelmatian:0 "Dalmatian"
  ideurian:0 "Deurian"
  isicelian:0 "Sicelian"
@@ -86,6 +87,9 @@
  #Daco-Thracian
  thracianic:2 "Daco-Thracian"
  phrygic:0 "Phrygian"
+ tmoesian:0 "Moesian"
+ ttriballian:0 "Triballian"
+ tgetic:0 "Getic"
  bithynic:0 "Bithynian"
  brygian:0 "Brygian"
  mysic:0 "Mysian"

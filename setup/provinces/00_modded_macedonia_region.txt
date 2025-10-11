@@ -1099,7 +1099,7 @@
 	terrain="hills"
 	trade_goods="precious_metals"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1118,7 +1118,7 @@
 	terrain="hills"
 	trade_goods="stone"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1137,7 +1137,7 @@
 	terrain="hills"
 	trade_goods="stone"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1156,7 +1156,7 @@
 	terrain="plains"
 	trade_goods="cattle"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1194,7 +1194,7 @@
 	terrain="hills"
 	trade_goods="wine"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1213,7 +1213,7 @@
 	terrain="hills"
 	trade_goods="wine"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1232,7 +1232,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1251,10 +1251,13 @@
 	terrain="hills"
 	trade_goods="iron"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1270,7 +1273,7 @@
 	terrain="hills"
 	trade_goods="leather"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1289,7 +1292,7 @@
 	terrain="hills"
 	trade_goods="iron"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1308,7 +1311,7 @@
 	terrain="hills"
 	trade_goods="leather"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1593,10 +1596,13 @@
 	terrain="hills"
 	trade_goods="stone"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1612,7 +1618,7 @@
 	terrain="hills"
 	trade_goods="fur"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
