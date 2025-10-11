@@ -909,7 +909,7 @@
 	terrain="hills"
 	trade_goods="precious_metals"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -998,7 +998,7 @@
 	terrain="hills"
 	trade_goods="leather"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1017,7 +1017,7 @@
 	terrain="hills"
 	trade_goods="olive"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1036,10 +1036,13 @@
 	terrain="farmland"
 	trade_goods="olive"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1055,7 +1058,7 @@
 	terrain="hills"
 	trade_goods="olive"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1073,19 +1076,22 @@
 1314={ 
 	terrain="hills"
 	trade_goods="precious_metals"
-	religion="thracic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="grecopunic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=5
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -1796,7 +1802,7 @@
 	terrain="mountain"
 	trade_goods="hemp"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1815,10 +1821,13 @@
 	terrain="mountain"
 	trade_goods="fur"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	

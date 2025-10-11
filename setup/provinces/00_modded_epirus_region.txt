@@ -607,8 +607,8 @@
 1352={ 
 	terrain="mountain"
 	trade_goods="cattle"
-	religion="illyric_pantheon"
-	culture="isesarethian"
+	religion="thracic_pantheon"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -721,8 +721,8 @@
 1351={ 
 	terrain="mountain"
 	trade_goods="cattle"
-	religion="illyric_pantheon"
-	culture="isesarethian"
+	religion="thracic_pantheon"
+	culture="brygian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -806,7 +806,12 @@
 		amount=1
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		religion="thracic_pantheon"
+		culture="brygian"
 	}
 	slaves={
 		amount=1

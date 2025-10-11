@@ -2,7 +2,7 @@
 	terrain="hills"
 	trade_goods="vegetables"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -21,7 +21,7 @@
 	terrain="hills"
 	trade_goods="vegetables"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -40,7 +40,7 @@
 	terrain="hills"
 	trade_goods="horses"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -59,7 +59,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -78,7 +78,7 @@
 	terrain="plains"
 	trade_goods="vegetables"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -97,7 +97,7 @@
 	terrain="plains"
 	trade_goods="horses"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -116,7 +116,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -135,7 +135,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -154,7 +154,7 @@
 	terrain="forest"
 	trade_goods="honey"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -173,7 +173,7 @@
 	terrain="hills"
 	trade_goods="stone"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -192,7 +192,7 @@
 	terrain="hills"
 	trade_goods="earthware"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -211,7 +211,7 @@
 	terrain="hills"
 	trade_goods="stone"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -230,7 +230,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="forest"
 	trade_goods="leather"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -268,7 +268,7 @@
 	terrain="forest"
 	trade_goods="honey"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -287,7 +287,7 @@
 	terrain="forest"
 	trade_goods="cattle"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -306,7 +306,7 @@
 	terrain="forest"
 	trade_goods="leather"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -325,7 +325,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -344,7 +344,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -363,7 +363,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -382,7 +382,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -401,7 +401,7 @@
 	terrain="plains"
 	trade_goods="earthware"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -420,7 +420,7 @@
 	terrain="plains"
 	trade_goods="cattle"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -439,7 +439,7 @@
 	terrain="plains"
 	trade_goods="vegetables"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -458,7 +458,7 @@
 	terrain="forest"
 	trade_goods="leather"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -477,7 +477,7 @@
 	terrain="forest"
 	trade_goods="earthware"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="hills"
 	trade_goods="stone"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -515,7 +515,7 @@
 	terrain="plains"
 	trade_goods="cattle"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -534,7 +534,7 @@
 	terrain="plains"
 	trade_goods="horses"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -553,7 +553,7 @@
 	terrain="plains"
 	trade_goods="cattle"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -572,7 +572,7 @@
 	terrain="plains"
 	trade_goods="horses"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -591,7 +591,7 @@
 	terrain="plains"
 	trade_goods="fish"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -610,7 +610,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -629,7 +629,7 @@
 	terrain="plains"
 	trade_goods="leather"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -648,7 +648,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -667,7 +667,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -686,7 +686,7 @@
 	terrain="forest"
 	trade_goods="vegetables"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -706,7 +706,7 @@
 	terrain="forest"
 	trade_goods="vegetables"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -725,7 +725,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -744,7 +744,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -763,7 +763,7 @@
 	terrain="forest"
 	trade_goods="hemp"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -782,7 +782,7 @@
 	terrain="forest"
 	trade_goods="honey"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -801,7 +801,7 @@
 	terrain="forest"
 	trade_goods="vegetables"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -820,7 +820,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -839,7 +839,7 @@
 	terrain="forest"
 	trade_goods="earthware"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -858,7 +858,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -877,7 +877,7 @@
 	terrain="plains"
 	trade_goods="fish"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -896,7 +896,7 @@
 	terrain="plains"
 	trade_goods="fish"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -915,7 +915,7 @@
 	terrain="plains"
 	trade_goods="salt"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -934,7 +934,7 @@
 	terrain="forest"
 	trade_goods="leather"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -953,7 +953,7 @@
 	terrain="forest"
 	trade_goods="leather"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -972,7 +972,7 @@
 	terrain="forest"
 	trade_goods="vegetables"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -991,7 +991,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1010,7 +1010,7 @@
 	terrain="plains"
 	trade_goods="earthware"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1029,7 +1029,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1048,7 +1048,7 @@
 	terrain="forest"
 	trade_goods="honey"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1067,7 +1067,7 @@
 	terrain="plains"
 	trade_goods="hemp"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1086,7 +1086,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1105,7 +1105,7 @@
 	terrain="marsh"
 	trade_goods="leather"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1124,7 +1124,7 @@
 	terrain="forest"
 	trade_goods="hemp"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1143,7 +1143,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1162,7 +1162,7 @@
 	terrain="marsh"
 	trade_goods="honey"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1181,7 +1181,7 @@
 	terrain="marsh"
 	trade_goods="fur"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1200,7 +1200,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1219,7 +1219,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1238,7 +1238,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1257,7 +1257,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1276,7 +1276,7 @@
 	terrain="marsh"
 	trade_goods="honey"
 	religion="thracic_pantheon"
-	culture="wvenedi"
+	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

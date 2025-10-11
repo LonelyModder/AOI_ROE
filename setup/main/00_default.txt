@@ -1318,8 +1318,7 @@ country = {
 			own_control_core = 	{ 
 				1428 1430 1435 1439 1437 1438 1429 1427 1426 1425
       			1364 1365 1363 1367 1366 1355 1357 1356
-				1345 1344 1354 1353 1352 1351
-				1362 1361 1360 1358 
+				1345 1344 1354 1353 1362 1361 1360 1358 
 			}
 		}
 		
@@ -2052,6 +2051,86 @@ country = {
 			
 			own_control_core = 	{ 
 				1139
+			}
+		}
+		
+		TAK = {          
+			government = aristocratic_republic
+			primary_culture = grecopunic
+			religion = grecoid_pantheon
+			capital = 1314
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1314
+			}
+		}
+		
+		TAL = {          
+			government = aristocratic_republic
+			primary_culture = grecopunic
+			religion = grecoid_pantheon
+			capital = 1591
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1591
+			}
+		}
+		
+		TAM = {          
+			government = tribal_kingdom
+			primary_culture = brygian
+			religion = thracic_pantheon
+			capital = 1312
+			
+			own_control_core = 	{ 
+				1312 1313 1306 1311 1310
+			}
+		}
+		
+		TAN = {          
+			government = tribal_kingdom
+			primary_culture = brygian
+			religion = thracic_pantheon
+			capital = 1372
+			
+			own_control_core = 	{ 
+				1372 1371 1352 1351
+			}
+		}
+		
+		TAO = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1595
+			
+			own_control_core = 	{ 
+				1595 1596 1593 1592 1594 1597 1600 1607 1608
+			}
+		}
+		
+		TAP = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1610
+			
+			own_control_core = 	{ 
+				1610 1611 1609 
 			}
 		}
 	}

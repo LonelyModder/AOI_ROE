@@ -191,19 +191,22 @@
 1591={ 
 	terrain="hills"
 	trade_goods="salt"
-	religion="thracic_pantheon"
-	culture="cthracian"
+	religion="grecoid_pantheon"
+	culture="lemnian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
+	province_rank="city"
+	citizen={
+		amount=2
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
+	tribesmen={
+		amount=7
+	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -272,6 +275,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -558,6 +564,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
