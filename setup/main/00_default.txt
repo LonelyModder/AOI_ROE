@@ -88,6 +88,8 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	1171 = { port_building = 2 }
+	1198 = { port_building = 2 }
 	1141 = { port_building = 2 }
 	1136 = { port_building = 2 }
 	1131 = { port_building = 2 }
@@ -2163,7 +2165,7 @@ country = {
 			capital = 1323
 			
 			own_control_core = 	{ 
-				1323 1322 1315 1316 1321 1320 1325 1326 1324
+				1323 1322 1315 1316 1321 1325 1326 1324
 			}
 		}
 		
@@ -2197,6 +2199,252 @@ country = {
 			
 			own_control_core = 	{ 
 				1665 1664 1663 1668 1671 1673 1672
+			}
+		}
+		
+		TAZ = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1666
+			
+			own_control_core = 	{ 
+				1666 1618 1662 1667 1599 1605 1606 1647 1654 1669 1670 1655 1656
+				1674 1675 1658 1660 1657 1659 1653 1652 1651
+			}
+		}
+		
+		TBA = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1677
+			
+			own_control_core = 	{ 
+				1677 1676 1678 1679 1680 1681 1682
+			}
+		}
+		
+		TBB = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1645
+			
+			own_control_core = 	{ 
+				1645 1643 1642 1644 1646
+			}
+		}
+		
+		TBC = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1638
+			
+			own_control_core = 	{ 
+				1638 1640 1649 1630 1628 1635 1636 1634 1639 1648 1637 1641
+			}
+		}
+		
+		TBD = {          
+			government = tribal_kingdom
+			primary_culture = tmoesian
+			religion = thracic_pantheon
+			capital = 1718
+			
+			own_control_core = 	{ 
+				1718 1719 1716 1717 1720 1722 1721
+			}
+		}
+		
+		TBE = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1332
+			
+			own_control_core = 	{ 
+				1332 1328 1327 1583 1626 1627
+			}
+		}
+		
+		TBF = {          
+			government = tribal_kingdom
+			primary_culture = peonic
+			religion = thracic_pantheon
+			capital = 1337
+			
+			own_control_core = 	{ 
+				1337 1336 1304 1335 1334 1346 1376 1347 
+				1339 1348 1373 1374 1379 1370 1369
+			}
+		}
+		
+		TBG = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1319
+			
+			own_control_core = 	{ 
+				1319 1331 1333 1320
+			}
+		}
+		
+		TBH = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1378
+			
+			own_control_core = 	{ 
+				1378 1377 1375 1368
+			}
+		}
+		
+		TBI = {          
+			government = tribal_kingdom
+			primary_culture = tmoesian
+			religion = thracic_pantheon
+			capital = 1738
+			
+			own_control_core = 	{ 
+				1738 1734 1735 1739 1737 1740
+			}
+		}
+		
+		TBJ = {          
+			government = tribal_kingdom
+			primary_culture = tmoesian
+			religion = thracic_pantheon
+			capital = 1733
+			
+			own_control_core = 	{ 
+				1733 1732 1728 1725 1730 1731 1729 1724
+			}
+		}
+		
+		TBK = {          
+			government = tribal_kingdom
+			primary_culture = tmoesian
+			religion = thracic_pantheon
+			capital = 1709
+			
+			own_control_core = 	{ 
+				1707 1705 1706 1708 1697 1698 1709 1711 1712 1713 1702 1696
+				1710 1715 1714 1699 1723 1726 1727
+			}
+		}
+		
+		TBL = {          
+			government = tribal_kingdom
+			primary_culture = tmoesian
+			religion = thracic_pantheon
+			capital = 1688
+			
+			own_control_core = 	{ 
+				1683 1684 1685 1686 1687 1688 1689 1690 1700 1701 1703 1704
+			}
+		}
+		
+		TBM = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1631
+			
+			own_control_core = 	{ 
+				1559 1560 1633 1631 1632 1629
+			}
+		}
+		
+		TBN = {          
+			government = tribal_kingdom
+			primary_culture = tmoesian
+			religion = thracic_pantheon
+			capital = 1555
+			
+			own_control_core = 	{ 
+				1555 1553 1554 1548 1556 1558 1557 1549 1550 1551 1552
+			}
+		}
+		
+		TBO = {          
+			government = tribal_kingdom
+			primary_culture = itaulantian
+			religion = illyric_pantheon
+			capital = 1462
+			
+			own_control_core = 	{ 
+				1462 1447 1441 1440 1446 
+			}
+		}
+		
+		TBP = {          
+			government = tribal_kingdom
+			primary_culture = itaulantian
+			religion = illyric_pantheon
+			capital = 1442
+			
+			own_control_core = 	{ 
+				1442 1444 1443 1449 1445 1448 
+			}
+		}
+		
+		TBR = {          
+			government = tribal_kingdom
+			primary_culture = idardanian
+			religion = illyric_pantheon
+			capital = 1503
+			
+			own_control_core = 	{ 
+				1503 1488 1481 1463 1461 1464 1482 1483 1486 1470 1507 
+				1484 1487 1489 1502 1505 1506 1508 1500 1501 1504 1509 1469
+			}
+		}
+		
+		TBS = {          
+			government = tribal_kingdom
+			primary_culture = itaulantian
+			religion = illyric_pantheon
+			capital = 1455
+			
+			own_control_core = 	{ 
+				1455 1450 1452 1451 1453 1454 1458
+			}
+		}
+		
+		TBT = {          
+			government = tribal_kingdom
+			primary_culture = itaulantian
+			religion = illyric_pantheon
+			capital = 1466
+			
+			own_control_core = 	{ 
+				1466 1465 1456 1457 1459 1460 1467 1468 1471
+			}
+		}
+		
+		TBU = {          
+			government = tribal_kingdom
+			primary_culture = cthracian
+			religion = thracic_pantheon
+			capital = 1536
+			
+			own_control_core = 	{ 
+				1536 1538 1539 1537 1485 1544 1547 1546 1545
+			}
+		}
+		
+		TBW = {          
+			government = tribal_kingdom
+			primary_culture = ttriballian
+			religion = thracic_pantheon
+			capital = 1532
+			
+			own_control_core = 	{ 
+				1532 1531 1510 1543 1541 1542 1533
 			}
 		}
 	}

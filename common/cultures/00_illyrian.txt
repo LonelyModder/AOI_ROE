@@ -37,6 +37,7 @@
 		imessapi = {}
 		idelmatian = {}
 		idardanian = {}
+		itaulantian = {}
 		ideurian = {}
 		isicelian = {}
 		isesarethian = {}
