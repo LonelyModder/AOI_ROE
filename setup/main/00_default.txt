@@ -79,8 +79,9 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 
 	#Pirates
-	1141 = { modifier = { modifier = pirate_haven_modifier always = yes } }
-	1131 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	#1141 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	#1131 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	#1263 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	107 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	85 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	725 = { modifier = { modifier = pirate_haven_modifier always = yes } }
@@ -787,7 +788,7 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lliburni
 			religion = illyric_pantheon
-			capital = 381
+			capital = 749
 			
 			own_control_core = 	{ 
 				737 736 747 749 735 750 753 755 751 748
