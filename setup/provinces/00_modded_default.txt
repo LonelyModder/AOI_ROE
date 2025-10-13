@@ -4192,8 +4192,8 @@
 
 1406={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="isesarethian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4392,8 +4392,8 @@
 
 1562={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="tmoesian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4512,8 +4512,8 @@
 
 1574={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="illyric_pantheon"
+	culture="itaulantian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4612,8 +4612,8 @@
 
 1624={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="cthracian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4672,8 +4672,8 @@
 
 1694={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="tmoesian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

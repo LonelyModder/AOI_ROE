@@ -5,15 +5,18 @@
 	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
 	}	
 	tribesmen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
@@ -236,15 +239,18 @@
 	culture="cthracian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
 	}	
 	tribesmen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 

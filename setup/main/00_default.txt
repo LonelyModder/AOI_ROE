@@ -136,6 +136,13 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { port_building = 2 }
 	
 	#Passes
+	1329 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1319 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1626 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1442 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1260 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1354 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	1202 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	1552 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	1697 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	1539 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -193,6 +200,11 @@ provinces = { #Any entry must contain a comment with city name.
 	########################################
 	# Barbarian Spawn Spots
 	########################################
+	1574 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	1406 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	1624 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	1562 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	1694 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	379 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	547 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	695 = { modifier = { modifier = generic_barbarian_spawn_place } }
@@ -2444,7 +2456,41 @@ country = {
 			capital = 1532
 			
 			own_control_core = 	{ 
-				1532 1531 1510 1543 1541 1542 1533
+				1532 1531 1510 1543 1541 1542 1533 1527 1526
+			}
+		}
+		
+		TBY = {          
+			government = tribal_kingdom
+			primary_culture = ttriballian
+			religion = thracic_pantheon
+			capital = 1529
+			
+			own_control_core = 	{ 
+				1529 1528 1530 1534 1535 1525 1521 1516 1524 1514 1515
+			}
+		}
+		
+		TBZ = {          
+			government = tribal_kingdom
+			primary_culture = ttriballian
+			religion = thracic_pantheon
+			capital = 1511
+			
+			own_control_core = 	{ 
+				1511 1517 1518 1519 1512 1496 1499 1497 1498 1491 1494 1493 
+				1523 1522 1520 1513
+			}
+		}
+		
+		TCA = {          
+			government = tribal_kingdom
+			primary_culture = ttriballian
+			religion = thracic_pantheon
+			capital = 1472
+			
+			own_control_core = 	{ 
+				1473 1474 1475 1476 1477 1478 1479 1480 1490 1492 1495 1472
 			}
 		}
 	}
