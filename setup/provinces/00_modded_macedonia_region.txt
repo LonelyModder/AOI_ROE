@@ -266,18 +266,10 @@
 		amount=1
 	}
 	citizen={
-		amount=4
-	}
-	citizen={
-		amount=2
-		culture="lemnian"
+		amount=6
 	}	
 	freemen={
-		amount=2
-	}
-	freemen={
-		amount=2
-		culture="lemnian"
+		amount=4
 	}
 	slaves={
 		amount=5

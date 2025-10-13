@@ -79,8 +79,6 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 
 	#Pirates
-	1141 = { modifier = { modifier = pirate_haven_modifier always = yes } }
-	1131 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	107 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	85 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	725 = { modifier = { modifier = pirate_haven_modifier always = yes } }
@@ -90,12 +88,6 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
-	1307 = { port_building = 2 }
-	1163 = { port_building = 2 }
-	1194 = { port_building = 2 }
-	1427 = { port_building = 2 }
-	1266 = { port_building = 2 }
-	1314 = { port_building = 2 }
 	1171 = { port_building = 2 }
 	1198 = { port_building = 2 }
 	1141 = { port_building = 2 }
