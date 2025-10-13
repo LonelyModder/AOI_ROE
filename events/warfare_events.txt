@@ -60,7 +60,7 @@ warfare.1 = {
 					has_nickname = no
 					has_variable = sieginator
 					var:sieginator >= 20
-					has_culture_group = latin
+					has_culture_group = latinic
 				}
 				add_nickname = NICKNAME_IMPERIOSUS
 				if = { limit = { is_minor_character = no } family = { add_prestige = prestige_small } }
@@ -71,7 +71,7 @@ warfare.1 = {
 					has_variable = sieginator
 					var:sieginator >= 20
 					NOT = {
-						has_culture_group = latin
+						has_culture_group = latinic
 					}
 				}
 				add_nickname = NICKNAME_THE_BESIEGER
@@ -79,9 +79,9 @@ warfare.1 = {
 			}
 			if = {
 				limit = {
-					has_culture_group = latin
+					has_culture_group = latinic
 					scope:target = {
-						province_id = 3256
+						province_id = 3256 #Carthage
 					}
 				}
 				random_list = {
