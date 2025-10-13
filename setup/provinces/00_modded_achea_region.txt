@@ -352,9 +352,10 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}	
+	}
 	freemen={
 		amount=4
+		culture="lemnian"
 	}
 	slaves={
 		amount=1
@@ -635,9 +636,10 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}	
+	}
 	freemen={
 		amount=4
+		culture="lemnian"
 	}
 	slaves={
 		amount=1
