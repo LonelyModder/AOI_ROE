@@ -54,3 +54,39 @@ bloodlines_startup.2 = { #Terquinius
 	}
 
 }
+
+bloodlines_startup.3 = { #Heraclidae
+
+	type = country_event
+	hidden = yes
+	
+	trigger = {
+		OR = {
+			tag = BAA
+			tag = BAJ
+			tag = BAE
+			tag = BAF
+		}
+	}
+	
+	immediate = {
+		every_character = {
+			limit = {
+				OR = {
+					has_same_family = char:6
+					has_same_family = char:7
+					has_same_family = char:8
+					has_same_family = char:9
+					has_same_family = char:10
+				}
+			}
+			add_trait = heraclid
+		
+		}
+		hidden_effect = {
+			trigger_event = { id = bloodlines_setup_completion.1 }
+		}
+	
+	}
+
+}

@@ -19,6 +19,34 @@ treasure_manager = {
 				local_cohort_start_experience = 15
 			}
 		}
+		3 = { # Sinopara
+			key = "treasure_orpheusbook"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_citizen_happyness = 0.1
+			}
+		}
+		4 = { # Kardzhali
+			key = "treasure_bronzehand"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_pop_assimilation_speed = 0.15
+			}
+		}
+		5 = { # Odessos
+			key = "treasure_derzelasstatue"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_tribesmen_happyness = 0.1
+			}
+		}
+		6 = { # Lemnos
+			key = "treasure_philoctates"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_population_growth = 0.05
+			}
+		}
     }
 }
 family={
@@ -62,6 +90,42 @@ family={
 			culture = clepontic
 			prestige=300
 		}
+		7={
+			key="Argead"
+			owner=BAA
+			culture = gmacedonian
+			prestige=300
+		}
+		8={
+			key="Heraclid"
+			owner=BAJ
+			culture = gdorian
+			prestige=300
+		}
+		9={
+			key="Agiad"
+			owner=BAE
+			culture = gdorian
+			prestige=300
+		}
+		10={
+			key="Eurypontid"
+			owner=BAE
+			culture = gdorian
+			prestige=300
+		}
+		11={
+			key="Heraclid"
+			owner=BAF
+			culture = gdorian
+			prestige=300
+		}
+		12={
+			key="Charopid"
+			owner=BAK
+			culture = gattic
+			prestige=300
+		}
 		
 		}
 }
@@ -76,6 +140,18 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 	83 = { # Nolza
 		treasure_slots = { 	treasures = { 2 } }
+	}
+	1538 = { # Sinopara
+		treasure_slots = { 	treasures = { 3 } }
+	}
+	1588 = { # Kardzhali
+		treasure_slots = { 	treasures = { 4 } }
+	}
+	1591 = { # Lemnos
+		treasure_slots = { 	treasures = { 6 } }
+	}
+	1719 = { # Odessos
+		treasure_slots = { 	treasures = { 5 } }
 	}
 
 	#Pirates
@@ -1294,7 +1370,8 @@ country = {
 			}
 		}
 		
-		BAA = {          
+		BAA = {  
+			family = 7
 			government = despotic_monarchy
 			primary_culture = gmacedonian
 			religion = grecoid_pantheon
@@ -1305,6 +1382,13 @@ country = {
 					culture = guppermacedonian 
 					type = citizen
 				}
+			}
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
 			}
 			
 			own_control_core = 	{ 
@@ -1356,7 +1440,9 @@ country = {
 			}
 		}
 		
-		BAE = {          
+		BAE = { 
+			family = 9
+			family = 10
 			government = stratocratic_monarchy
 			primary_culture = gdorian
 			religion = grecoid_pantheon
@@ -1375,7 +1461,8 @@ country = {
 			}
 		}
 		
-		BAF = {          
+		BAF = {    
+			family = 11
 			government = stratocratic_monarchy
 			primary_culture = gdorian
 			religion = grecoid_pantheon
@@ -1447,7 +1534,8 @@ country = {
 			}
 		}
 		
-		BAJ = {          
+		BAJ = { 
+			family = 8
 			government = despotic_monarchy
 			primary_culture = gdorian
 			religion = grecoid_pantheon
@@ -1465,7 +1553,8 @@ country = {
 			}
 		}
 		
-		BAK = {          
+		BAK = {  
+			family = 12
 			government = democratic_republic
 			primary_culture = gattic
 			religion = grecoid_pantheon

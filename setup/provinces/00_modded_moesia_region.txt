@@ -613,6 +613,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site = "omen_mderzelas"
 }
 
 1720={ 

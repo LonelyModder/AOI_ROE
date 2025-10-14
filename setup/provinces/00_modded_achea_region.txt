@@ -37,6 +37,7 @@
 	slaves={
 		amount=2
 	}
+	holy_site = "omen_mkarmanor"
 }
 
 1133={ 
@@ -141,6 +142,7 @@
 	slaves={
 		amount=2
 	}
+	holy_site = "omen_mariadne"
 }
 
 1138={ 
@@ -404,6 +406,7 @@
 	slaves={
 		amount=6
 	}
+	holy_site = "omen_mdioscuri"
 }
 
 1151={ 
@@ -624,6 +627,7 @@
 	slaves={
 		amount=2
 	}
+	holy_site = "omen_mzeus"
 }
 
 1162={ 
@@ -811,6 +815,7 @@
 	slaves={
 		amount=6
 	}
+	holy_site = "omen_mhera"
 }
 
 1171={ 
@@ -1013,6 +1018,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site = "omen_mdemeter"
 }
 
 1181={ 
@@ -1035,6 +1041,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site = "omen_mathena"
 }
 
 1182={ 
@@ -1054,6 +1061,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site = "omen_mposeidon"
 }
 
 1183={ 
@@ -1114,6 +1122,7 @@
 	slaves={
 		amount=4
 	}
+	holy_site = "omen_mdionysus"
 }
 
 1186={ 
@@ -1461,6 +1470,7 @@
 	slaves={
 		amount=5
 	}
+	holy_site = "omen_mapollo"
 }
 
 1203={ 
@@ -1641,6 +1651,7 @@
 	slaves={
 		amount=2
 	}
+	holy_site = "omen_martemis"
 }
 
 1212={ 
