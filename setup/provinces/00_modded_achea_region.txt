@@ -793,6 +793,7 @@
 	slaves={
 		amount=5
 	}
+	holy_site = "omen_masclepius"
 }
 
 1170={ 

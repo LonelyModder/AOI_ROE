@@ -47,6 +47,20 @@ treasure_manager = {
 				local_population_growth = 0.05
 			}
 		}
+		7 = { # Cnossos
+			key = "treasure_minosstomb"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_happiness_for_same_religion_modifier = 0.1
+			}
+		}
+		8 = { # Delos
+			key = "treasure_terracelions" 
+			icon = "treasure_chest"
+			state_modifier = {
+				local_freemen_output = 0.15
+			}
+		}
     }
 }
 family={
@@ -152,6 +166,12 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 	1719 = { # Odessos
 		treasure_slots = { 	treasures = { 5 } }
+	}
+	1137 = { # Cnossos
+		treasure_slots = { 	treasures = { 7 } }
+	}
+	1211 = { # Delos
+		treasure_slots = { 	treasures = { 8 } }
 	}
 
 	#Pirates
