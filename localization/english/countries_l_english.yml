@@ -1164,9 +1164,11 @@
  SICILY_ADJECTIVE:0 "Sicilian"
  SHERDEN_NAME:0 "Shard"
  SHERDEN_ADJECTIVE:0 "Sherdenese"
+ CRETE_NAME:0 "Crete"
+ CRETE_ADJECTIVE:0 "Cretan"
+ ACHEA_NAME:0 "Greece"
+ ACHEA_ADJECTIVE:0 "Greek"
  #Event Names
- Alessia_NAME:0 "Alessian Revolt"
- Alessia_ADJECTIVE:0 "Alessian"
  AlbaLonga_NAME:0 "Alba Longa"
  AlbaLonga_ADJECTIVE:0 "Alban"
  Roman_NAME:0 "Rome"
@@ -1189,4 +1191,6 @@
  RR_ADJECTIVE:0 "Roman"
  Epirus_NAME:0 "Epirus"
  Epirus_ADJECTIVE:0 "Epirote"
+ THRACE_NAME:0 "Thrace"
+ THRACE_ADJECTIVE:0 "Thracian"
  

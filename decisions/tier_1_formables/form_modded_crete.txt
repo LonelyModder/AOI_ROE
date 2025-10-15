@@ -1,0 +1,78 @@
+﻿country_decisions = {
+	
+	#form Crete
+	form_crete = {
+		
+		potential = {
+			num_of_cities >= 1
+			num_of_cities <= 13
+			capital_scope = {
+				OR = {
+					is_in_area = wcrete_area
+					is_in_area = ecrete_area
+				}
+				NOT = {capital_scope = {province_id = 1144}}
+			}
+			NOT = {
+				tag = XCR
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					is_in_area = wcrete_area
+					is_in_area = ecrete_area
+				}
+				NOT = {capital_scope = {province_id = 1144}}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = "crete_must_not_exist"
+				NOT = {
+					any_country = {
+						tag = XCR
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 1131 
+			owns = 1132 
+			owns = 1133 
+			owns = 1134 
+			owns = 1135 
+			owns = 1136 
+			owns = 1137 
+			owns = 1138 
+			owns = 1139 
+			owns = 1140 
+			owns = 1141 
+			owns = 1142 
+			owns = 1143 
+		}
+		
+		effect = {
+			custom_tooltip = "tier_1_formable_tooltip"
+			change_country_name = "CRETE_NAME"
+			hidden_effect = {
+				change_country_adjective = "CRETE_ADJECTIVE"
+				change_country_tag = "XCR"
+				change_country_color =  "cretan_blue"
+				change_country_flag = CRETE_FLAG
+			}
+			capital_scope = {
+				capital_formable_small_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+	}
+	
+}

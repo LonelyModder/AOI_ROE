@@ -164,6 +164,9 @@ colors = {
 	ILLYRIA_COLOR = rgb { 35 166 252 }
 	SICILY_COLOR = rgb { 235 122 23 }
 	SHERDEN_COLOR = rgb { 14 31 117 }
+	ACHEA_COLOR = rgb { 90 137 237 }
+	EPIRUS_COLOR = rgb { 135 136 138 }
+	THRACE_COLOR = rgb { 16 125 36 }
 	#Event Colors
 	KAlessian_color = rgb { 186 19 13 }
 	

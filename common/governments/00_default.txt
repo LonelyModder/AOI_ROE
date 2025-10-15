@@ -223,8 +223,8 @@ stratocratic_monarchy = {
 	
 	election_delay = 0
 	use_regnal_numbers = yes
-	
-	ruler_consort_benefits = yes
+	has_co_ruler = yes
+	ruler_consort_benefits = no
 	
 	color = hsv { 0  0.75  0.2 }
 }

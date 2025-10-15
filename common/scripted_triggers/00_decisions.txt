@@ -4,6 +4,10 @@
 		tag = XIL #Illyria
 		tag = XSL #Sicily
 		tag = XSH #Sherden
+		tag = XCR #Crete
+		tag = XCH #Greece
+		tag = XEI #Epirus
+		tag = XTH #Thrace
 	}
 }
 

@@ -191,6 +191,17 @@ BAK = {
 
 #Modded Emblems for starting countries
 
+THRACE_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "pitch_black"
+
+	colored_emblem = {
+		texture = "ce_thrace.dds"
+		color1 = "pitch_black"
+	}
+}
+
 ITALIA_FLAG = {
 	pattern = "pattern_solid.tga"
 	color1 = "roman_red"
@@ -210,6 +221,41 @@ ILLYRIA_FLAG = {
 	colored_emblem = {
 		texture = "ce_snake_01.dds"
 		color1 = "roman_red"
+	}
+}
+
+CRETE_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "cretan_blue"
+	color2 = "offwhite"
+	
+	colored_emblem = {
+		texture = "ce_border_simple_02.tga"
+		color1 = "offwhite"
+		color2 = "cretan_blue"
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+
+	colored_emblem = {
+		texture = "ce_bull_02.dds"
+		color1 = "offwhite"
+		instance = { scale = { 0.75 0.75 }  }
+	}
+}
+
+ACHEA_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "helvetia_color"
+	color2 = "pan_hellenic_blue"
+
+	colored_emblem = {
+		texture = "ce_pegasus_01.dds"
+		color1 = "pan_hellenic_blue"
+		color2= "helvetia_color"
+		instance = { 
+			scale = { 1 1 }  
+		}
 	}
 }
 
