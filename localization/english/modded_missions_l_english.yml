@@ -1,5 +1,5 @@
 ﻿l_english:
- #Alessian Revolt
+ #Latium
  #Starter
  latium_01_italy:0 "Masters of Italia"
  latium_01_italy_DESCRIPTION:0 "The tribes living near the lower Tiber are collectively called Latins. They are unique blrend of Italic and Etruscan culture, connecting the culturel achivements of etruscans with the discipline and strangth of the italic tribes. That unique mix can one day grat them control over the whole peninsula."
@@ -40,3 +40,12 @@
  latium_01_italy_7c_DESC:2 "Etruria was well developed way before romans even stepped foot there. There was little need for new urban centers so romans focused on tying the intrests of the etruscan city-states with rome like for example by bilateral defense contract with Tarquinii."
  latium_01_italy_99:0 "Italy Conquered!"
  latium_01_italy_99_DESC:2 "Finally Rome is the only power in italian peninsula. Petty wars are over and a new dawn is upon us. We need to use that new found strangth to spread light of roman civilisation to other regions."
+ #Macedonia
+ #Starter
+ macedon_01_macedonia:0 "Hegemony"
+ macedon_01_macedonia_DESCRIPTION:0 "Macedonians settled in northern greece barely four centuries ago. By living close to the Thracians they pushed out of the area they took over a lot of thracian habits like for example drinking undiluted wine. Thats why most of greeks sees them as barbarians and tends to mock them on every oportunity. Time to show them that macedonians are also the heirs of Heracles himself!"
+ macedon_01_macedonia_CRITERIA_DESCRIPTION:0 "Follow the path of Philip and Alexander and become the undisputed master of all Greece. Show the hellenes that you are the heraclidae worthy of your ancestor."
+ macedon_01_macedonia_BUTTON_TOOLTIP:0 "Follow the path of Philip and Alexander and become the undisputed master of all Greece. Show the hellenes that you are the heraclidae worthy of your ancestor."
+ #Missions
+ macedon_01_macedonia_1:0 "Greeks or Not"
+ macedon_01_macedonia_1_DESC:2 ""

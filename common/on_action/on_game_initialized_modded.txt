@@ -62,7 +62,7 @@ on_game_initialized = {
 		#Bloodlines
 		bloodlines_startup.1  #Nobiles
 		bloodlines_startup.2  #Tarquinius
-		bloodlines_startup.3  #Heraclidae in Macedon
+		bloodlines_startup.3  #Heraclidae
 	}
 }
 

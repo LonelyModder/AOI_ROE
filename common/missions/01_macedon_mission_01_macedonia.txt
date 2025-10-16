@@ -1,0 +1,124 @@
+﻿macedon_01_macedonia = { # Latin Italy
+	icon = macedon_01_macedonia
+	header = mission_image_rome #mission_image_phrygia
+	
+	repeatable = no
+
+    chance = {
+		factor = 10
+	}
+	
+	ai_chance = { factor = 10 }
+
+	potential = { 
+		NOT = { has_variable = macedon_01_macedonia }
+		primary_culture = gmacedonian
+		region:modded_italia_region = {
+            any_region_province = {
+                owned_or_subject_owned = root
+            }
+        }
+		tag=BAA
+		is_monarchy = yes
+		is_subject = no
+		has_civil_war = no
+		NOT = { has_global_variable = macedonia_fail }
+	}
+	
+	abort = {	
+		OR = {
+			NOT = { primary_culture = gmacedonian }
+			custom_tooltip = {
+				text = macedon_01_macedonia_abort_tt
+				has_global_variable = macedonia_fail
+			}
+			ai_mission_back_out_trigger = yes
+		}
+	}
+	
+	on_start = {
+    	start_mission_ai_effect = yes
+    	save_scope_as = me_macedonia_scope
+		add_country_modifier = {
+	        name = macedon_1_starts
+	        duration = 3650 # 10 years
+	    }
+    }
+	
+	on_abort = {
+    	custom_tooltip = ant_1_mission_cooldown_tt
+    	if = {
+	    	limit = { has_country_modifier = macedon_1_starts }
+    		remove_country_modifier = macedon_1_starts
+	    }
+		set_variable = {
+			name = macedon_01_macedonia
+			days = 7300
+		}
+    }
+	
+	on_completion = {
+		add_country_modifier = {
+    		name = macedon_1_victory
+    		duration = 7300 # 20 years
+    	}
+    	complete_mission_effect = yes #
+    	#trigger_event = { id = me_antigonid_1_vision.2 }
+    }
+	
+	
+	macedon_01_macedonia_1 = { # The Dream of Romulus
+		requires = {  }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			 
+		}
+	}
+	
+	macedon_01_macedonia_99 = { # Italy Conquered
+		requires = { macedon_01_macedonia_1 } 
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			owns_region = modded_macedonia_region
+			owns_region = modded_achea_region
+			owns_region = modded_epirus_region
+		}
+		
+		highlight = {
+			scope:province = {
+				is_in_region = modded_macedonia_region
+				is_in_region = modded_achea_region
+				is_in_region = modded_epirus_region
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = macedon_01_macedonia_beaten
+			}
+		}
+		final = yes 
+	}
+	
+}
+	
