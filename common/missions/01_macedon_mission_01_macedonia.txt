@@ -67,13 +67,13 @@
     }
 	
 	
-	macedon_01_macedonia_1 = { # The Dream of Romulus
+	macedon_01_macedonia_1 = { # Macedonian Origins
 		requires = {  }
 		icon = task_conquest
 		duration = 30
 		
 		allow = {
-			
+			treasury > 50
 		}
 		
 		highlight = {
@@ -81,16 +81,80 @@
 		}
 		
 		on_start = {
-			
+			show_as_tooltip = { 
+				add_treasury = -50
+			}
+			hidden_effect = { 
+				add_treasury = -50
+			}
+			trigger_event = { id = latium_01_italy_1.1 }
 		}
 		
 		on_completion = {
-			 
+			trigger_event = { id = latium_01_italy_1.2 } 
+		}
+	}
+	
+	macedon_01_macedonia_1a = { # New Capital
+		requires = {  }
+		icon = task_conquest
+		duration = 90
+		
+		allow = {
+			treasury > 100
+			owns = 1295
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = latium_01_italy_1.3 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.4 } 
+		}
+	}
+	
+	macedon_01_macedonia_2a = { # Upper Macedonia
+		requires = {  }
+		icon = task_conquest
+		duration = 90
+		
+		allow = {
+			treasury > 100
+			owns = 1295 #
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = latium_01_italy_1.5 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.6 } 
 		}
 	}
 	
 	macedon_01_macedonia_99 = { # Italy Conquered
-		requires = { macedon_01_macedonia_1 } 
+		requires = { macedon_01_macedonia_1a } 
 		icon = task_conquest
 		#duration = 30
 		

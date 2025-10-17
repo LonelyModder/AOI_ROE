@@ -1,0 +1,132 @@
+﻿namespace = macedon_01_macedonia_1
+
+macedon_01_macedonia_1.1 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.1.t"
+	desc = "macedon_01_macedonia_1.1.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.1.a"
+		
+	}
+}
+
+macedon_01_macedonia_1.2 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.2.t"
+	desc = "macedon_01_macedonia_1.2.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.2.a"
+		add_political_influence = 30
+	}
+}
+
+macedon_01_macedonia_1.3 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.3.t"
+	desc = "macedon_01_macedonia_1.3.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.3.a"
+		
+	}
+}
+
+macedon_01_macedonia_1.4 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.4.t"
+	desc = "macedon_01_macedonia_1.4.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.4.a"
+		if = {
+			limit = {
+				NOT = {
+					capital_scope = {
+						province_id = 1295
+					}
+				}
+			}
+			set_capital = 1295
+			hidden_effect = {
+				p:1295.state = {
+					set_state_capital = 1295
+				}
+			}
+		}
+		add_stability = 25
+		p:1295 = {
+			capital_formable_medium_effect = yes
+			formable_capital_modifier_normal_effect = yes
+		}
+		p:1295 = { #Pella
+			while = {
+                count = 1
+                define_pop = {
+					type = nobles
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+			while = {
+                count = 4
+                define_pop = {
+					type = citizen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+		}
+		add_2_free_province_investments = yes
+	}
+}
+
+macedon_01_macedonia_1.5 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.5.t"
+	desc = "macedon_01_macedonia_1.5.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.5.a"
+		
+	}
+}

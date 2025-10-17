@@ -73,7 +73,7 @@
 		duration = 30
 		
 		allow = {
-			political_influence > 20
+			political_influence > 10
 			treasury > 100
 		}
 		
