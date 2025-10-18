@@ -130,3 +130,198 @@ macedon_01_macedonia_1.5 = {
 		
 	}
 }
+
+macedon_01_macedonia_1.6 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.6.t"
+	desc = "macedon_01_macedonia_1.6.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.6.a"
+		p:1294 = {
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+		}
+		p:1329 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+		}
+		p:1340 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+		}
+		p:1349 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+		}
+	}
+}
+
+macedon_01_macedonia_1.7 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.7.t"
+	desc = "macedon_01_macedonia_1.7.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.7.a"
+		c:TBF = {
+			every_owned_province = {
+				add_claim = c:BAA
+			}
+		}
+		ai_chance = { base = 20 }
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.7.b"
+		set_global_variable = {
+			name = peonia_vassalisation
+		}
+		ai_chance = { base = 80 }
+	}
+}
+
+macedon_01_macedonia_1.8 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.8.t"
+	desc = "macedon_01_macedonia_1.8.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=TBF
+		has_global_variable = peonia_vassalisation
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.8.a"
+		c:TBF = {
+			every_owned_province = {
+				add_claim = c:BAA
+			}
+		}
+		set_global_variable = {
+			name = peonia_rejects_vassalisation
+		}
+		ai_chance = { base = 20 }
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.8.b"
+		set_global_variable = {
+			name = peonia_accepts_vassalisation
+		}
+		ai_chance = { base = 80 }
+	}
+}
+
+macedon_01_macedonia_1.9 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.9.t"
+	desc = "macedon_01_macedonia_1.9.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+		has_global_variable = peonia_rejects_vassalisation
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.9.a"
+	}
+}
+
+macedon_01_macedonia_1.10 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.10.t"
+	desc = "macedon_01_macedonia_1.10.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+		has_global_variable = peonia_accepts_vassalisation
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.10.a"
+		c:TBF = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+	}
+}

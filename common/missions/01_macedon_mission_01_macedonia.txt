@@ -125,7 +125,7 @@
 	}
 	
 	macedon_01_macedonia_2a = { # Upper Macedonia
-		requires = {  }
+		requires = { macedon_01_macedonia_1a macedon_01_macedonia_2b }
 		icon = task_conquest
 		duration = 90
 		
@@ -153,8 +153,74 @@
 		}
 	}
 	
-	macedon_01_macedonia_99 = { # Italy Conquered
-		requires = { macedon_01_macedonia_1a } 
+	macedon_01_macedonia_1b = { # Peonia
+		requires = {  }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.7 } 
+		}
+	}
+	
+	macedon_01_macedonia_2b = { # Enchelei
+		requires = { macedon_01_macedonia_1b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.7 } 
+		}
+	}
+	
+	macedon_01_macedonia_3b = { # Gold in Amfipolis
+		requires = { macedon_01_macedonia_2b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.11 } 
+		}
+	}
+	
+	macedon_01_macedonia_99 = { # Macedon Conquered
+		requires = { macedon_01_macedonia_2a macedon_01_macedonia_3b } 
 		icon = task_conquest
 		#duration = 30
 		
