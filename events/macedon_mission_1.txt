@@ -401,6 +401,7 @@ macedon_01_macedonia_1.12 = {
 			p:1344 = { set_conquered_by = c:BAA }
 			p:1354 = { set_conquered_by = c:BAA }
 		}
+		ai_chance = { base = 20 }
 	}
 	
 	option = { 
@@ -416,6 +417,7 @@ macedon_01_macedonia_1.12 = {
 				add_claim = c:BAA
 			}
 		}
+		ai_chance = { base = 80 }
 	}
 }
 
