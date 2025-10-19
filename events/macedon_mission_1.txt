@@ -325,3 +325,152 @@ macedon_01_macedonia_1.10 = {
         }
 	}
 }
+
+macedon_01_macedonia_1.11 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.11.t"
+	desc = "macedon_01_macedonia_1.11.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.11.a"
+		set_global_variable = {
+			name = macedonian_ultimatum
+		}
+	}
+}
+
+macedon_01_macedonia_1.12 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.12.t"
+	desc = "macedon_01_macedonia_1.12.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		OR = {
+			tag = TBH #Bisalta
+			tag = TAN #Brygia
+			owns = 1353 
+			owns = 1345 
+			owns = 1344 
+			owns = 1354 
+		}
+		OR = {
+			country_culture_group = thracianic
+			country_culture_group = illyric
+		}
+		has_global_variable = macedonian_ultimatum
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.12.a"
+		set_global_variable = {
+			name = macedonian_ultimatum_accepted
+		}
+		if = {
+			limit = {
+				OR = {
+					tag = TBH
+					tag = TAN
+				}
+			}
+			root = {
+				make_subject = {
+					type = feudatory
+					target = c:BAA
+				}
+			}
+		}
+		else_if = {
+			limit = {
+				OR = {
+					owns = 1353 
+					owns = 1345 
+					owns = 1344 
+					owns = 1354 
+				}
+			}
+			p:1353 = { set_conquered_by = c:BAA }
+			p:1345 = { set_conquered_by = c:BAA }
+			p:1344 = { set_conquered_by = c:BAA }
+			p:1354 = { set_conquered_by = c:BAA }
+		}
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.12.b"
+		set_global_variable = {
+			name = macedonian_ultimatum_rejected
+		}
+		p:1353 ={
+			every_area_province = {
+				limit = {
+					owner = root 
+				}
+				add_claim = c:BAA
+			}
+		}
+	}
+}
+
+macedon_01_macedonia_1.13 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.13.t"
+	desc = "macedon_01_macedonia_1.13.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+		has_global_variable = macedonian_ultimatum_accepted
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.13.a"
+	}
+}
+
+macedon_01_macedonia_1.14 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.14.t"
+	desc = "macedon_01_macedonia_1.14.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+		has_global_variable = macedonian_ultimatum_rejected
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.14.a"
+	}
+}
+
+macedon_01_macedonia_1.15 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.15.t"
+	desc = "macedon_01_macedonia_1.15.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.15.a"
+		
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.15.b"
+		
+	}
+}

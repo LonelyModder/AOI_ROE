@@ -2,7 +2,10 @@
 
 is_agressive_culture_aimod = {
 	trigger = {
-		tag = AAA
+		OR = {
+			tag = AAA
+			tag = BAA
+		}
 		NOT = { is_tribal = yes }
 		manpower > 4
 	}
@@ -14,7 +17,10 @@ is_lacking_levies_pseudo_trigger = {
 	trigger = {
 		military_experience > 80
 		military_experience < 85
-		tag = AAA
+		OR = {
+			tag = AAA
+			tag = BAA
+		}
 		NOT = { is_tribal = yes }
 	}
 	
