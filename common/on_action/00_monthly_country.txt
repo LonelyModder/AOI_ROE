@@ -28,6 +28,12 @@
 		macedon_01_macedonia_1.8
 		macedon_01_macedonia_1.9
 		macedon_01_macedonia_1.10
+		macedon_01_macedonia_1.12
+		macedon_01_macedonia_1.13
+		macedon_01_macedonia_1.14
+		macedon_01_macedonia_1.16
+		macedon_01_macedonia_1.17
+		macedon_01_macedonia_1.18
 		#Units
 		units_allowance_events.1
 		#Modded events 

@@ -468,11 +468,181 @@ macedon_01_macedonia_1.15 = {
 	
 	option = { 
 		name = "macedon_01_macedonia_1.15.a"
-		
+		set_global_variable = {
+			name = chalkidian_subjugation
+		}
+		area:serrae_area = { formable_area_province_effect = yes }
+		area:philippi_area = { formable_area_province_effect = yes }
+		area:thessalonica_area = { formable_area_province_effect = yes }
+		ai_chance = { base = 20 }
 	}
 	
 	option = { 
 		name = "macedon_01_macedonia_1.15.b"
-		
+		set_global_variable = {
+			name = chalkidian_promised
+		}
+		ai_chance = { base = 80 }
+	}
+}
+
+macedon_01_macedonia_1.16 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.16.t"
+	desc = "macedon_01_macedonia_1.16.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BBA
+		has_global_variable = chalkidian_promised
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.16.a"
+		set_global_variable = {
+			name = chalkidian_promised_confirmed
+		}
+		c:BBA = {
+             make_subject = {
+                type = feudatory
+                target = BAA
+            }
+        }
+		area:serrae_area = { formable_area_province_effect = yes }
+		area:philippi_area = { formable_area_province_effect = yes }
+		p:1306 = { add_claim = c:BAA }
+		p:1312 = { add_claim = c:BAA }
+		p:1313 = { add_claim = c:BAA }
+		ai_chance = { base = 80 }
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.16.b"
+		set_global_variable = {
+			name = chalkidian_promised_denied
+		}
+		area:serrae_area = { formable_area_province_effect = yes }
+		area:philippi_area = { formable_area_province_effect = yes }
+		area:thessalonica_area = { formable_area_province_effect = yes }
+		ai_chance = { base = 20 }
+	}
+}
+
+macedon_01_macedonia_1.17 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.17.t"
+	desc = "macedon_01_macedonia_1.17.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+		has_global_variable = chalkidian_promised_confirmed
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.17.a"
+	}
+}
+
+macedon_01_macedonia_1.18 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.18.t"
+	desc = "macedon_01_macedonia_1.18.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+		has_global_variable = chalkidian_promised_denied
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.18.a"
+	}
+}
+
+macedon_01_macedonia_1.19 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.19.t"
+	desc = "macedon_01_macedonia_1.19.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.19.a"
+		show_as_tooltip = { 
+			add_treasury = -100
+		}
+		hidden_effect = { 
+			add_treasury = -100
+		}
+		p:1247 = { set_conquered_by = c:BAA }
+		area:lamia_area = { formable_area_province_effect = yes }
+		area:larissa_area = { formable_area_province_effect = yes }
+		area:tricca_area = { formable_area_province_effect = yes }
+		declare_war_with_wargoal = {
+			war_goal = conquer_wargoal
+			province = p:1244
+			target = p:1244.owner
+		}
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.19.b"
+		area:lamia_area = { formable_area_province_effect = yes }
+		area:larissa_area = { formable_area_province_effect = yes }
+		area:tricca_area = { formable_area_province_effect = yes }
+	}
+}
+
+macedon_01_macedonia_1.20 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.20.t"
+	desc = "macedon_01_macedonia_1.20.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.20.a"
+		show_as_tooltip = { 
+			add_political_influence = -20
+		}
+		hidden_effect = { 
+			add_political_influence = -20
+		}
+		region:modded_thraciae_region = { formable_region_province_effect = yes }
+	}
+}
+
+macedon_01_macedonia_1.21 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.21.t"
+	desc = "macedon_01_macedonia_1.21.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.21.a"
+		show_as_tooltip = { 
+			add_political_influence = -20
+		}
+		hidden_effect = { 
+			add_political_influence = -20
+		}
+		region:modded_achea_region = { formable_region_province_effect = yes }
 	}
 }

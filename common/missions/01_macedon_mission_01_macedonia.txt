@@ -219,8 +219,74 @@
 		}
 	}
 	
+	macedon_01_macedonia_4b = { # Thessalian Archon
+		requires = { macedon_01_macedonia_3b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.19 } 
+		}
+	}
+	
+	macedon_01_macedonia_5b = { # Thracian Frontier
+		requires = { macedon_01_macedonia_4b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.20 } 
+		}
+	}
+	
+	macedon_01_macedonia_6b = { # Sacred War
+		requires = { macedon_01_macedonia_5b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.21 } 
+		}
+	}
+	
 	macedon_01_macedonia_99 = { # Macedon Conquered
-		requires = { macedon_01_macedonia_2a macedon_01_macedonia_3b } 
+		requires = { macedon_01_macedonia_2a macedon_01_macedonia_6b } 
 		icon = task_conquest
 		#duration = 30
 		
