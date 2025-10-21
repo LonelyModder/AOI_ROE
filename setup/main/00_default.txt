@@ -196,6 +196,12 @@ family={
 			culture = gattic
 			prestige=300
 		}
+		13={
+			key="Aeacid"
+			owner=BAI
+			culture = gepirote
+			prestige=300
+		}
 		
 		}
 }
@@ -1607,7 +1613,8 @@ country = {
 			}
 		}
 		
-		BAI = {          
+		BAI = {    
+			family = 13
 			government = despotic_monarchy
 			primary_culture = gepirote
 			religion = grecoid_pantheon

@@ -646,3 +646,196 @@ macedon_01_macedonia_1.21 = {
 		region:modded_achea_region = { formable_region_province_effect = yes }
 	}
 }
+
+macedon_01_macedonia_1.22 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.22.t"
+	desc = "macedon_01_macedonia_1.22.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.22.a"
+		show_as_tooltip = { 
+			add_treasury = -100
+		}
+		hidden_effect = { 
+			add_treasury = -100
+		}
+		set_global_variable = {
+			name = molossian_marriage
+		}
+		ai_chance = { base = 80 }
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.22.b"
+		region:modded_epirus_region = { formable_region_province_effect = yes } # Epirus Vetus ?
+		ai_chance = { base = 20 }
+	}
+}
+
+macedon_01_macedonia_1.23 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.23.t"
+	desc = "macedon_01_macedonia_1.23.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAI
+		has_global_variable = molossian_marriage
+	}
+	
+	immediate = {
+		hidden_effect = {
+			create_character = {
+				first_name = "Olimpias"
+				family_name = "Aeacid"
+				no_stats = yes
+				culture = gepirote
+				religion = grecoid_pantheon
+				age = 20
+				good_martial_effect = yes
+				good_charisma_effect = yes
+				average_finesse_effect = yes
+				average_zeal_effect = yes
+				add_trait="aeacid"
+				add_gold=100
+				save_scope_as = olimpias_gov
+			}
+		}
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.23.a"
+		set_global_variable = {
+			name = epirotes_agreed
+		}
+		ai_chance = { base = 80 }
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.22.b"
+		set_global_variable = {
+			name = epirotes_declined
+		}
+		ai_chance = { base = 20 }
+	}
+}
+
+macedon_01_macedonia_1.24 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.24.t"
+	desc = "macedon_01_macedonia_1.24.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+		has_global_variable = epirotes_agreed
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.24.a"
+		current_ruler = {
+			marry_character=scope:olimpias_gov
+		}
+		c:BAA = {
+			add_alliance = c:BAI
+		}
+		add_political_influence = 30
+	}
+}
+
+macedon_01_macedonia_1.25 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.25.t"
+	desc = "macedon_01_macedonia_1.25.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+		has_global_variable = epirotes_declined
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.25.a"
+		region:modded_epirus_region = { formable_region_province_effect = yes }
+	}
+}
+
+macedon_01_macedonia_1.26 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.26.t"
+	desc = "macedon_01_macedonia_1.26.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.26.a"
+	}
+}
+
+macedon_01_macedonia_1.27 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.27.t"
+	desc = "macedon_01_macedonia_1.27.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.27.a"
+		p:1315 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+		}
+		p:1323 = {
+			establish_city_effect = yes
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+		}
+	}
+}

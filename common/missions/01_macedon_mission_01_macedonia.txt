@@ -96,7 +96,7 @@
 	}
 	
 	macedon_01_macedonia_1a = { # New Capital
-		requires = {  }
+		requires = { macedon_01_macedonia_1 }
 		icon = task_conquest
 		duration = 90
 		
@@ -125,7 +125,7 @@
 	}
 	
 	macedon_01_macedonia_2a = { # Upper Macedonia
-		requires = { macedon_01_macedonia_1a macedon_01_macedonia_2b }
+		requires = { macedon_01_macedonia_2b }
 		icon = task_conquest
 		duration = 90
 		
@@ -150,6 +150,58 @@
 		
 		on_completion = {
 			trigger_event = { id = latium_01_italy_1.6 } 
+		}
+	}
+	
+	macedon_01_macedonia_3a = { # Alliance with Molossis
+		requires = { macedon_01_macedonia_4b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.22 } 
+		}
+	}
+	
+	macedon_01_macedonia_4a = { # Mining Operations
+		requires = { macedon_01_macedonia_3b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			treasury > 100
+			owns=1315
+			owns=1323
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = latium_01_italy_1.26 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.27 } 
 		}
 	}
 	
@@ -286,7 +338,7 @@
 	}
 	
 	macedon_01_macedonia_99 = { # Macedon Conquered
-		requires = { macedon_01_macedonia_2a macedon_01_macedonia_6b } 
+		requires = { macedon_01_macedonia_6b } 
 		icon = task_conquest
 		#duration = 30
 		
