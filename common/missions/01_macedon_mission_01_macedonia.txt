@@ -293,7 +293,7 @@
 	}
 	
 	macedon_01_macedonia_8a = { #Royal Palace
-		requires = { macedon_01_macedonia_1a }
+		requires = { macedon_01_macedonia_2a }
 		icon = task_conquest
 		duration = 60
 		
