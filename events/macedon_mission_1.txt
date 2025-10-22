@@ -839,3 +839,258 @@ macedon_01_macedonia_1.27 = {
 		}
 	}
 }
+
+macedon_01_macedonia_1.28 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.28.t"
+	desc = "macedon_01_macedonia_1.28.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.28.a"
+	}
+}
+
+macedon_01_macedonia_1.29 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.29.t"
+	desc = "macedon_01_macedonia_1.29.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.29.a"
+		p:1581 = {
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+		}
+		p:1593 = {
+			while = {
+                count = 2
+                define_pop = {
+					type = citizen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+			while = {
+                count = 2
+                define_pop = {
+					type = freemen
+					culture = gmacedonian
+					religion = grecoid_pantheon
+                }
+            }
+		}
+	}
+}
+
+macedon_01_macedonia_1.30 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.30.t"
+	desc = "macedon_01_macedonia_1.30.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.30.a"
+	}
+}
+
+macedon_01_macedonia_1.31 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.31.t"
+	desc = "macedon_01_macedonia_1.31.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.31.a"
+		if = {
+			limit = {
+				NOT = {
+					any_army = {
+						has_legion_trigger = yes
+						legion = ROOT.capital_scope.governorship.legion
+					}
+				}
+			}
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = engineer_cohort
+						add_subunit = supply_train
+						add_subunit = supply_train
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_heavycavalry
+						add_subunit = ia_heavycavalry
+						add_subunit = ia_heavycavalry
+					}
+				}
+			}
+			every_unit = {
+				add_food = 100
+			}
+		}
+	}
+}
+
+macedon_01_macedonia_1.32 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.32.t"
+	desc = "macedon_01_macedonia_1.32.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.32.a"
+	}
+}
+
+macedon_01_macedonia_1.33 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.33.t"
+	desc = "macedon_01_macedonia_1.33.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.33.a"
+		p:1171 = {
+			create_country = {
+				change_country_name = "KORLEAGUE_NAME"
+				change_country_adjective = "KORLEAGUE_ADJECTIVE"
+				change_government = aristocratic_republic
+				set_primary_culture = gdorian
+				set_country_religion = grecoid_pantheon
+				set_country_heritage = grekoid_heritage
+			}
+		}
+		every_owned_province = { 
+			limit = { 
+				has_owner = yes 
+				OR = {
+					is_in_region = modded_achea_region
+					is_in_region = modded_thraciae_region
+					is_in_region = modded_epirus_region
+					is_in_region = modded_macedonia_region
+				}
+				OR = {
+					dominant_province_culture = gdoric
+					dominant_province_culture = gachean
+					dominant_province_culture = gionian
+					dominant_province_culture = gnorthwest
+					dominant_province_culture = gattic
+					dominant_province_culture = gbeotian
+					dominant_province_culture = garcadian
+					dominant_province_culture = gbeotian
+					dominant_province_culture = gthessalian
+				}
+			}
+			set_conquered_by = p:1171.owner
+		}
+		p:1171.owner = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+	}
+}
+
+macedon_01_macedonia_1.34 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.34.t"
+	desc = "macedon_01_macedonia_1.34.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.34.a"
+		p:1295={ # Argead Palace
+			begin_great_work_construction = {
+				great_work = "argead_palace"
+				locator = primary_great_work
+				is_ancient = yes						
+			}
+		}
+	}
+}
+
+macedon_01_macedonia_1.35 = {  
+	type = country_event
+	title = "macedon_01_macedonia_1.35.t"
+	desc = "macedon_01_macedonia_1.35.desc"
+	fire_only_once = yes
+	picture = macedon_pic_1
+	
+	trigger = {
+		tag=BAA
+	}
+	
+	option = { 
+		name = "macedon_01_macedonia_1.35.a"
+		p:1295={ # Argead Palace
+			finish_great_work_construction = {
+				great_work = "argead_palace"
+				locator = primary_great_work
+			}
+		}
+	}
+}

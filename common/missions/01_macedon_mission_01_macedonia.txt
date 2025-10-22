@@ -178,7 +178,7 @@
 	macedon_01_macedonia_4a = { # Mining Operations
 		requires = { macedon_01_macedonia_3b }
 		icon = task_conquest
-		#duration = 90
+		duration = 60
 		
 		allow = {
 			treasury > 100
@@ -202,6 +202,122 @@
 		
 		on_completion = {
 			trigger_event = { id = latium_01_italy_1.27 } 
+		}
+	}
+	
+	macedon_01_macedonia_5a = { #thracian coast
+		requires = { macedon_01_macedonia_5b }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			treasury > 100
+			owns=1581
+			owns=1593
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = latium_01_italy_1.28 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.29 } 
+		}
+	}
+	
+	macedon_01_macedonia_6a = { #New Army Doctrine
+		requires = { macedon_01_macedonia_1a }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			treasury > 100
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = latium_01_italy_1.30 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.31 } 
+		}
+	}
+	
+	macedon_01_macedonia_7a = { #League of Corinth
+		requires = { macedon_01_macedonia_6b }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			political_influence > 50
+			owns = 1171
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -50
+			}
+			hidden_effect = { 
+				add_political_influence = -50
+			}
+			trigger_event = { id = latium_01_italy_1.32 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.33 } 
+		}
+	}
+	
+	macedon_01_macedonia_8a = { #Royal Palace
+		requires = { macedon_01_macedonia_1a }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			treasury > 100
+			owns = 1295
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = latium_01_italy_1.34 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = latium_01_italy_1.35 } 
 		}
 	}
 	
