@@ -21,7 +21,7 @@
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
  patch_notes:0 "Part II: Hegemony"
- patch_notes_text:0 "What's new:\n- Iron Age Balkans to explore. \n- 532 new land provinces to conquer (1285 land provinces, 1755 in total). \n- New Macedonian mission tree. \n- New/Old Daco-Thracian culture group. \n- A nomber of fixes to the Italy regions map (wrong trade goods etc)."
+ patch_notes_text:0 "What's new:\n- Iron Age Balkans to explore. \n- 532 new land provinces to conquer (1285 land provinces, 1755 in total). \n- New Macedonian mission tree. \n- New/Old Daco-Thracian culture group. \n- A number of fixes to the map from previous update (wrong trade goods etc). \n- Now epirote intervention is set to Epirote port so as long as epirus is held by the greeks, any ruler owning land there may intervene."
  
  #Modifier text
  osasis:0 "Oasis"

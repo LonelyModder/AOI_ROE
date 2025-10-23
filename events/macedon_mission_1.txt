@@ -81,6 +81,7 @@ macedon_01_macedonia_1.4 = {
 		}
 		add_stability = 25
 		p:1295 = {
+			establish_city_effect = yes
 			capital_formable_medium_effect = yes
 			formable_capital_modifier_normal_effect = yes
 		}
@@ -317,10 +318,10 @@ macedon_01_macedonia_1.10 = {
 	
 	option = { 
 		name = "macedon_01_macedonia_1.10.a"
-		c:TBF = {
+		c:BAA = {
              make_subject = {
                 type = feudatory
-                target = root
+                target = TBF
             }
         }
 	}
@@ -409,14 +410,12 @@ macedon_01_macedonia_1.12 = {
 		set_global_variable = {
 			name = macedonian_ultimatum_rejected
 		}
-		p:1353 ={
-			every_area_province = {
-				limit = {
-					owner = root 
-				}
-				add_claim = c:BAA
-			}
-		}
+		p:1353 ={ add_claim = c:BAA }
+		p:1345 ={ add_claim = c:BAA }
+		p:1344 ={ add_claim = c:BAA }
+		p:1354 ={ add_claim = c:BAA }
+		p:1351 ={ add_claim = c:BAA }
+		p:1352 ={ add_claim = c:BAA }
 		ai_chance = { base = 80 }
 	}
 }
@@ -586,11 +585,6 @@ macedon_01_macedonia_1.19 = {
 		area:lamia_area = { formable_area_province_effect = yes }
 		area:larissa_area = { formable_area_province_effect = yes }
 		area:tricca_area = { formable_area_province_effect = yes }
-		declare_war_with_wargoal = {
-			war_goal = conquer_wargoal
-			province = p:1244
-			target = p:1244.owner
-		}
 	}
 	
 	option = { 
