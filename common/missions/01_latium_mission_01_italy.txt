@@ -269,7 +269,10 @@
 		}
 		
 		on_completion = {
-			trigger_event = { id = latium_01_italy_1.22 } # Pyrrus Event?
+			#trigger_event = { id = latium_01_italy_1.22 } # Pyrrus Event?
+			set_global_variable = {
+				name = epirus_dilema
+			}
 		}
 		
 		bypass = {

@@ -24,6 +24,7 @@
 		latium_01_italy_1.39
 		latium_01_italy_1.40
 		latium_01_italy_1.41
+		latium_01_italy_1.42
 		#Macedon mission Macedonia
 		macedon_01_macedonia_1.8
 		macedon_01_macedonia_1.9
