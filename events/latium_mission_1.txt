@@ -2130,9 +2130,11 @@ latium_01_italy_1.42 = {
 			id = latium_01_italy_1.22 
 			days = 30
 		}
+		ai_chance = { base = 80 }
 	}
 	
 	option = { 
 		name = "latium_01_italy_1.42.b"
+		ai_chance = { base = 20 }
 	}
 }
