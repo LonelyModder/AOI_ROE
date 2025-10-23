@@ -19,6 +19,7 @@
 		latium_01_italy_1.16
 		latium_01_italy_1.18
 		latium_01_italy_1.19
+		latium_01_italy_1.22
 		latium_01_italy_1.23
 		latium_01_italy_1.38
 		latium_01_italy_1.39

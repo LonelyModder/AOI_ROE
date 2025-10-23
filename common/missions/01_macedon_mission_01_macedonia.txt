@@ -1,4 +1,4 @@
-﻿macedon_01_macedonia = { # Latin Italy
+﻿macedon_01_macedonia = { # Macedonian Greece
 	icon = macedon_01_macedonia
 	header = mission_image_rome #mission_image_phrygia
 	
@@ -13,7 +13,7 @@
 	potential = { 
 		NOT = { has_variable = macedon_01_macedonia }
 		primary_culture = gmacedonian
-		region:modded_italia_region = {
+		region:modded_macedonia_region = {
             any_region_province = {
                 owned_or_subject_owned = root
             }
@@ -322,7 +322,7 @@
 	}
 	
 	macedon_01_macedonia_1b = { # Peonia
-		requires = {  }
+		requires = { macedon_01_macedonia_1 }
 		icon = task_conquest
 		#duration = 90
 		

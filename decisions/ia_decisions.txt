@@ -29,11 +29,11 @@
 		effect = {
 			add_country_modifier = {
 				name = roman_draft_active
-				duration = 7300 # 5 years
+				duration = 1780 # 5 years
 			}
 			add_country_modifier = {
 				name = draft_ordered
-				duration = 14600 # 10 years
+				duration = 3560 # 10 years
 			}
 		}
 		

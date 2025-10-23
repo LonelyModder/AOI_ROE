@@ -39,7 +39,7 @@
  roman_colony:0 "Roman Colony"
  desc_roman_colony:0 "Roman veterans were entitled to a land grant after discharge. The roman colonies were created to not only serve as settlements for retiring soldiers but also as a source of expirienced veterans in case of revolt. They were practically strongholds filled with war veterans. System was supposingly existing since the year after the very founding of Rome."
  roman_draft_active:0 "Roman Draft"
- desc_roman_draft_active:0 "Romans had unique ability to mobilize their entire society in times of war. This sometimes gave their enemies impression that roman never run out of soldiers."
+ desc_roman_draft_active:0 "Romans had unique ability to mobilize their entire society in times of war. This sometimes gave their enemies impression that roman state never run out of soldiers."
  draft_ordered:0 "Recent Draft"
  desc_draft_ordered:0 "The mobilization was recently announced and another one should not be announced so soon otherwise it may have negative consequences for the economy."
  

@@ -2118,6 +2118,8 @@ latium_01_italy_1.42 = {
 	
 	trigger = {
 		owns = 1266
+		religion = grecoid_pantheon
+		country_cultur_group = grekoid
 		has_global_variable = epirus_dilema
 	}
 	
