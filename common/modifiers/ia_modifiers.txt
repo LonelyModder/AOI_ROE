@@ -57,3 +57,14 @@ roman_colony = {
 	local_pop_assimilation_speed_modifier = 0.5
 }
 
+#Roman Draft
+roman_draft_active = {
+	levy_size_multiplier = 0.2
+	global_manpower_modifier = 0.2
+	global_tax_modifier = -0.5
+}
+
+draft_ordered = {
+	
+}
+

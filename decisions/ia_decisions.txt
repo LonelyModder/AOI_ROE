@@ -1,0 +1,45 @@
+﻿country_decisions = {
+	
+	# Roman Draft
+	order_draft = {
+		
+		potential = {
+			num_of_cities <= 100
+			tag = AAA
+			country_culture_group = latinic
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 313 # Roma
+				}
+			}
+		}
+		
+		allow = {
+			num_of_cities <= 100
+			owns = 313 # Roma
+			country_culture_group = latinic
+			war = yes
+			NOT = { has_country_modifier = draft_ordered }
+			#Do not have draft active
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = roman_draft_active
+				duration = 7300 # 5 years
+			}
+			add_country_modifier = {
+				name = draft_ordered
+				duration = 14600 # 10 years
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}
