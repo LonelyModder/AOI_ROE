@@ -79,7 +79,6 @@ macedon_01_macedonia_1.4 = {
 				}
 			}
 		}
-		add_stability = 25
 		p:1295 = {
 			establish_city_effect = yes
 			capital_formable_medium_effect = yes
@@ -381,10 +380,10 @@ macedon_01_macedonia_1.12 = {
 					tag = TAN
 				}
 			}
-			root = {
+			c:BAA = {
 				make_subject = {
 					type = feudatory
-					target = c:BAA
+					target = root
 				}
 			}
 		}
@@ -470,9 +469,20 @@ macedon_01_macedonia_1.15 = {
 		set_global_variable = {
 			name = chalkidian_subjugation
 		}
-		area:serrae_area = { formable_area_province_effect = yes }
-		area:philippi_area = { formable_area_province_effect = yes }
-		area:thessalonica_area = { formable_area_province_effect = yes }
+		p:1321 = { add_claim = c:BAA }
+		p:1320 = { add_claim = c:BAA }
+		p:1325 = { add_claim = c:BAA }
+		p:1322 = { add_claim = c:BAA }
+		p:1323 = { add_claim = c:BAA }
+		p:1316 = { add_claim = c:BAA }
+		p:1315 = { add_claim = c:BAA }
+		p:1311 = { add_claim = c:BAA }
+		p:1310 = { add_claim = c:BAA }
+		p:1306 = { add_claim = c:BAA }
+		p:1312 = { add_claim = c:BAA }
+		p:1313 = { add_claim = c:BAA }
+		p:1309 = { add_claim = c:BAA }
+		p:1307 = { add_claim = c:BAA }
 		ai_chance = { base = 20 }
 	}
 	
@@ -499,31 +509,49 @@ macedon_01_macedonia_1.16 = {
 	
 	option = { 
 		name = "macedon_01_macedonia_1.16.a"
-		set_global_variable = {
-			name = chalkidian_promised_confirmed
-		}
-		c:BBA = {
+		c:BAA = {
              make_subject = {
                 type = feudatory
-                target = BAA
+                target = c:BBA
             }
         }
-		area:serrae_area = { formable_area_province_effect = yes }
-		area:philippi_area = { formable_area_province_effect = yes }
+		p:1321 = { add_claim = c:BAA }
+		p:1320 = { add_claim = c:BAA }
+		p:1325 = { add_claim = c:BAA }
+		p:1322 = { add_claim = c:BAA }
+		p:1323 = { add_claim = c:BAA }
+		p:1316 = { add_claim = c:BAA }
+		p:1315 = { add_claim = c:BAA }
+		p:1311 = { add_claim = c:BAA }
+		p:1310 = { add_claim = c:BAA }
 		p:1306 = { add_claim = c:BAA }
 		p:1312 = { add_claim = c:BAA }
 		p:1313 = { add_claim = c:BAA }
+		set_global_variable = {
+			name = chalkidian_promised_confirmed
+		}
 		ai_chance = { base = 80 }
 	}
 	
 	option = { 
 		name = "macedon_01_macedonia_1.16.b"
+		p:1321 = { add_claim = c:BAA }
+		p:1320 = { add_claim = c:BAA }
+		p:1325 = { add_claim = c:BAA }
+		p:1322 = { add_claim = c:BAA }
+		p:1323 = { add_claim = c:BAA }
+		p:1316 = { add_claim = c:BAA }
+		p:1315 = { add_claim = c:BAA }
+		p:1311 = { add_claim = c:BAA }
+		p:1310 = { add_claim = c:BAA }
+		p:1306 = { add_claim = c:BAA }
+		p:1312 = { add_claim = c:BAA }
+		p:1313 = { add_claim = c:BAA }
+		p:1309 = { add_claim = c:BAA }
+		p:1307 = { add_claim = c:BAA }
 		set_global_variable = {
 			name = chalkidian_promised_denied
 		}
-		area:serrae_area = { formable_area_province_effect = yes }
-		area:philippi_area = { formable_area_province_effect = yes }
-		area:thessalonica_area = { formable_area_province_effect = yes }
 		ai_chance = { base = 20 }
 	}
 }
@@ -685,26 +713,6 @@ macedon_01_macedonia_1.23 = {
 		has_global_variable = molossian_marriage
 	}
 	
-	immediate = {
-		hidden_effect = {
-			create_character = {
-				first_name = "Olimpias"
-				family_name = "Aeacid"
-				no_stats = yes
-				culture = gepirote
-				religion = grecoid_pantheon
-				age = 20
-				good_martial_effect = yes
-				good_charisma_effect = yes
-				average_finesse_effect = yes
-				average_zeal_effect = yes
-				add_trait="aeacid"
-				add_gold=100
-				save_scope_as = olimpias_gov
-			}
-		}
-	}
-	
 	option = { 
 		name = "macedon_01_macedonia_1.23.a"
 		set_global_variable = {
@@ -732,6 +740,27 @@ macedon_01_macedonia_1.24 = {
 	trigger = {
 		tag=BAA
 		has_global_variable = epirotes_agreed
+	}
+	
+	immediate = {
+		hidden_effect = {
+			create_character = {
+				first_name = "Olimpias"
+				family_name = "Aeacid"
+				female = yes
+				no_stats = yes
+				culture = gepirote
+				religion = grecoid_pantheon
+				age = 20
+				good_martial_effect = yes
+				good_charisma_effect = yes
+				average_finesse_effect = yes
+				average_zeal_effect = yes
+				add_trait="aeacid"
+				add_gold=100
+				save_scope_as = olimpias_gov
+			}
+		}
 	}
 	
 	option = { 
@@ -1022,7 +1051,7 @@ macedon_01_macedonia_1.33 = {
 					is_in_region = modded_macedonia_region
 				}
 				OR = {
-					dominant_province_culture = gdoric
+					dominant_province_culture = gdorian
 					dominant_province_culture = gachean
 					dominant_province_culture = gionian
 					dominant_province_culture = gnorthwest
@@ -1035,10 +1064,10 @@ macedon_01_macedonia_1.33 = {
 			}
 			set_conquered_by = p:1171.owner
 		}
-		p:1171.owner = {
+		c:BAA = {
              make_subject = {
                 type = feudatory
-                target = root
+                target = p:1171.owner
             }
         }
 	}

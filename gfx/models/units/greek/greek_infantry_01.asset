@@ -1282,22 +1282,22 @@ entity = {
 
 entity = {
 	name = "greek_gfx_ia_horsearchers"
-	clone = "greek_gfx_heavy_infantry"
+	clone = "greek_gfx_light_infantry"
 }
 
 entity = {
 	name = "greek_gfx_ia_chariots"
-	clone = "greek_gfx_heavy_infantry"
+	clone = "greek_gfx_light_infantry"
 }
 
 entity = {
 	name = "greek_gfx_ia_camels"
-	clone = "greek_gfx_heavy_infantry"
+	clone = "greek_gfx_light_infantry"
 }
 
 entity = {
 	name = "greek_gfx_ia_elephants"
-	clone = "greek_gfx_heavy_infantry"
+	clone = "greek_gfx_light_infantry"
 }
 
 
@@ -1323,7 +1323,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_archers"
+	name = "greek_gfx_legion_ia_archers"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1333,7 +1333,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_warriors"
+	name = "greek_gfx_legion_ia_warriors"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1343,7 +1343,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_lightinfantry"
+	name = "greek_gfx_legion_ia_lightinfantry"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1353,7 +1353,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_heavyinfantry"
+	name = "greek_gfx_legion_ia_heavyinfantry"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1363,7 +1363,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_hoplites"
+	name = "greek_gfx_legion_ia_hoplites"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1373,7 +1373,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_lightcavalry"
+	name = "greek_gfx_legion_ia_lightcavalry"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1383,7 +1383,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_heavycavalry"
+	name = "greek_gfx_legion_ia_heavycavalry"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1393,7 +1393,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_lancers"
+	name = "greek_gfx_legion_ia_lancers"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1403,7 +1403,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_horsearchers"
+	name = "greek_gfx_legion_ia_horsearchers"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1413,7 +1413,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_chariots"
+	name = "greek_gfx_legion_ia_chariots"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1423,7 +1423,7 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_camels"
+	name = "greek_gfx_legion_ia_camels"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1433,6 +1433,6 @@ entity ={
 	clone = "greek_levies_infantry"
 }
 entity ={
-	name = "greek_gfx_heavy_infantry_ia_elephants"
+	name = "greek_gfx_legion_ia_elephants"
 	clone = "greek_gfx_heavy_infantry"
 }
