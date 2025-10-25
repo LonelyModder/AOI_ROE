@@ -501,7 +501,7 @@
 		icon = task_conquest
 		#duration = 30
 		
-		allow = {
+		allow = { #Change to Important Capitals!
 			owns_region = modded_macedonia_region
 			owns_region = modded_achea_region
 			owns_region = modded_epirus_region
