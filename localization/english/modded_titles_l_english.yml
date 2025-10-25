@@ -6,6 +6,10 @@
  #Greek
  despotic_monarchy_ruler_grekoid:0 "Basileus"
  despotic_monarchy_ruler_female_grekoid:0 "Basilisa"
+ stratocratic_monarchy_ruler_grekoid:0 "Basileus"
+ stratocratic_monarchy_ruler_female_grekoid:0 "Basileus"
+ stratocratic_monarchy_co_ruler_grekoid:0 "Basileus"
+ stratocratic_monarchy_co_ruler_female_grekoid:0 "Basileus"
  #Latin
  aristocratic_republic_ruler_latinic:0 "Consul"
  aristocratic_republic_ruler_female_latinic:0 "Consul"
