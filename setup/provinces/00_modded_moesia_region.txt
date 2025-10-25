@@ -1,0 +1,1314 @@
+﻿1683={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1684={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1685={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1686={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1687={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1688={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1689={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1690={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1696={ 
+	terrain="hills"
+	trade_goods="honey"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1697={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1698={ 
+	terrain="hills"
+	trade_goods="earthware"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1699={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1700={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1701={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1702={ 
+	terrain="forest"
+	trade_goods="honey"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1703={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1704={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1705={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1706={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1707={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1708={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1709={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1710={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1711={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1712={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1713={ 
+	terrain="forest"
+	trade_goods="earthware"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1714={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1715={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1716={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1717={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1718={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1719={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	holy_site = "omen_mderzelas"
+}
+
+1720={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1721={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1722={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1723={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1724={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+
+1725={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1726={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1727={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1728={ 
+	terrain="forest"
+	trade_goods="hemp"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1729={ 
+	terrain="forest"
+	trade_goods="honey"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1730={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1731={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1732={ 
+	terrain="forest"
+	trade_goods="earthware"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1733={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1734={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1735={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1736={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1737={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1738={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1739={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1740={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1741={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1742={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1743={ 
+	terrain="forest"
+	trade_goods="honey"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1744={ 
+	terrain="plains"
+	trade_goods="hemp"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1745={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tmoesian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1746={ 
+	terrain="marsh"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="tgetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1747={ 
+	terrain="forest"
+	trade_goods="hemp"
+	religion="thracic_pantheon"
+	culture="tgetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1748={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tgetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1749={ 
+	terrain="marsh"
+	trade_goods="honey"
+	religion="thracic_pantheon"
+	culture="tgetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1750={ 
+	terrain="marsh"
+	trade_goods="fur"
+	religion="thracic_pantheon"
+	culture="tgetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1751={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tgetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1752={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tgetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1753={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tgetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1754={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="tgetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1755={ 
+	terrain="marsh"
+	trade_goods="honey"
+	religion="thracic_pantheon"
+	culture="tgetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

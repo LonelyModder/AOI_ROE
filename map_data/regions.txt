@@ -11,6 +11,91 @@ modded_tmp_region = {
 	}
 }
 
+modded_moesia_region = {
+	areas = {
+		istrus_area
+		tomis_area
+		marcianopolis_area
+		durostorum_area
+		nicoplolis_area
+		novae_area
+	}
+}
+
+modded_thraciae_region = {
+	areas = {
+		byzantium_area
+		aenos_area
+		maronea_area
+		arcadiopolis_area
+		debeltum_area
+		nicopolis_area
+		hebros_area
+		beroea_area
+		hadrianopolis_area
+	}
+}
+
+modded_dardania_region = {
+	areas = {
+		lissus_area
+		scitaria_area
+		meteonia_area
+		autariatia_area
+		taurisium_area
+		scupi_area
+		serdica_area
+	}
+}
+
+modded_ripensis_region = {
+	areas = {
+		melta_area
+		ulpia_area
+		drobeta_area
+		viminiacum_area
+		tricornensia_area
+	}
+}
+
+modded_epirus_region = {
+	areas = {
+		actium_area
+		vetus_area
+		byllis_area
+		brygia_area
+		dyrrhachium_area
+	}
+}
+
+modded_macedonia_region = {
+	areas = {
+		lamia_area
+		larissa_area
+		tricca_area
+		macedon_area
+		stobi_area
+		thessalonica_area
+		philippi_area
+		serrae_area
+		sintike_area
+	}
+}
+
+modded_achea_region = {
+	areas = {
+		wcrete_area
+		ecrete_area
+		laconiaetmessenia_area
+		cyclades_area
+		attykaeteuboea_area
+		arcadiaetelis_area
+		acheaetargolis_area
+		beotiaetphocis_area
+		aetolia_area
+	}
+}
+
 modded_savia_region = {
 	areas = {
 		poetovio_area

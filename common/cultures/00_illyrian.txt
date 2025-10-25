@@ -36,8 +36,11 @@
 	culture = {
 		imessapi = {}
 		idelmatian = {}
+		idardanian = {}
+		itaulantian = {}
 		ideurian = {}
 		isicelian = {}
+		isesarethian = {}
 	}
 
 	barbarian_names = {

@@ -16,7 +16,7 @@
 	}
 	
 	unit = {
-		lv_lightcavalry_discipline = 0.05
+		ia_heavyinfantry_discipline = 0.05
 	}
 	
 }
@@ -39,7 +39,53 @@ tarquinius = {
 	}
 	
 	unit = {
-		lv_hoplites_discipline = 0.05
+		ia_lightcavalry_discipline = 0.05
+	}
+	
+}
+
+heraclid = {
+	type = status
+	
+	prominence = 20
+	martial = 1
+	
+	support_for_character_as_heir = 10
+
+	country = {
+		land_morale_modifier = 0.03
+		global_monthly_state_loyalty = 0.05
+	}
+	
+	province = {
+		local_unrest = -0.1
+	}
+	
+	unit = {
+		ia_hoplites_discipline = 0.05
+	}
+	
+}
+
+aeacid = {
+	type = status
+	
+	prominence = 20
+	martial = 1
+	
+	support_for_character_as_heir = 10
+
+	country = {
+		assault_ability = 0.1
+		global_cohort_start_experience = 0.05
+	}
+	
+	province = {
+		local_manpower_modifier = 0.1
+	}
+	
+	unit = {
+		ia_hoplites_offensive = 0.1
 	}
 	
 }

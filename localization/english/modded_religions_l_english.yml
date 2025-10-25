@@ -2,7 +2,7 @@
  #Modded Religions
  elven_pantheon:0 "Anuic"
  desc_elven_pantheon:0 "The early faith of the elves was centered on the worship of ancestors, which over time turned into the cult of the most powerful of them, such as Trinimac, Syrabane, and Phynaster. The cult of Magnus, the creator of the plans of the mortal world, was also strong. However, nothing compares to the worship of Auri-El, the sun god victor over the fraud god Lorkhan and the creator of the first elven kingdom."
- grecoid_pantheon:0 "Olympian"
+ grecoid_pantheon:0 "Hellenic"
  desc_grecoid_pantheon:0 "The Hellenistic Pantheon is perhaps the most famous ancient religion for being the foundation of Western civilization. Like most indo-european religions it consists of sky god Zeus and his extended family like mother godess Hera and others."
  villanic_pantheon:0 "Etruscan"
  desc_villanic_pantheon:0 "Polyteistic religion comprised of many dieties like Tinia, Laran or Apulu. Divination played an important role in Etruscan beliefs. Many elements known from Roman culture also had Etruscan roots, such as gladiatorial fights during funeral ceremonies. The Etruscans shared many Egyptian beliefs about life after death, and their tombs resembled houses with furnitures, spacious chambers and statues of the dead in their best years."
@@ -18,6 +18,6 @@
  desc_liguric_pantheon:0 "Generally it is believed that the religion of ligurian tribes was rather primitive, addressed to supernatural tutelary gods, representing the great forces of nature from which you could get help and protection through their divination."
  canaanitic_pantheon:0 "Canaanite"
  desc_canaanitic_pantheon:0 "A polytheistic faith whose followers believe in a pantheon consisting of many deities, including El, Dagan, Reshef and Ishtar. Due to the political situation the official church structures never developed and each polity had a bit different beliefs. Yet there also existed many international cults like Ishtar and many god were exported into other lands. For example after canaanite hyxos invaded egypt they introduced the cult of Reshef in kemet."
- bosutan_pantheon:0 "Bindonic"
- desc_bosutan_pantheon:0 "A polytheistic religion focused on maritime and commercial aspects. Legends about some gods survived thanks to their adoption by Romans like Senton. For some gods, we only have names."
+ thracic_pantheon:0 "Thracian"
+ desc_thracic_pantheon:0 "We know little about thracian mythology, but some of their gods are depicted on statues or described in Greek sources. One of more notable cults, attested from Thrace to Anatolia, is that of the thracian horseman, known as the thracian heros a god of the underworld usually depicted on funeral statues as a horseman slaying a beast with a spear identified with Sabazios."
  slavic_pantheon:0 "Heresy"

@@ -49,6 +49,9 @@
 	}
 	culture = {
 		punici = {levy_template = levy_cpunic}
+		grecopunic = {}
+		corepunic = {}
+		canaanite = {}
 	}
 	
 	barbarian_names = { 

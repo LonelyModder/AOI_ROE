@@ -1,0 +1,561 @@
+﻿macedon_01_macedonia = { # Macedonian Greece
+	icon = macedon_01_macedonia
+	header = mission_image_rome #mission_image_phrygia
+	
+	repeatable = no
+
+    chance = {
+		factor = 10
+	}
+	
+	ai_chance = { factor = 10 }
+
+	potential = { 
+		NOT = { has_variable = macedon_01_macedonia }
+		primary_culture = gmacedonian
+		region:modded_macedonia_region = {
+            any_region_province = {
+                owned_or_subject_owned = root
+            }
+        }
+		tag=BAA
+		is_monarchy = yes
+		is_subject = no
+		has_civil_war = no
+		NOT = { has_global_variable = macedonia_fail }
+	}
+	
+	abort = {	
+		OR = {
+			NOT = { primary_culture = gmacedonian }
+			custom_tooltip = {
+				text = macedon_01_macedonia_abort_tt
+				has_global_variable = macedonia_fail
+			}
+			ai_mission_back_out_trigger = yes
+		}
+	}
+	
+	on_start = {
+    	start_mission_ai_effect = yes
+    	save_scope_as = me_macedonia_scope
+		add_country_modifier = {
+	        name = macedon_1_starts
+	        duration = 3650 # 10 years
+	    }
+    }
+	
+	on_abort = {
+    	custom_tooltip = ant_1_mission_cooldown_tt
+    	if = {
+	    	limit = { has_country_modifier = macedon_1_starts }
+    		remove_country_modifier = macedon_1_starts
+	    }
+		set_variable = {
+			name = macedon_01_macedonia
+			days = 7300
+		}
+    }
+	
+	on_completion = {
+		add_country_modifier = {
+    		name = macedon_1_victory
+    		duration = 7300 # 20 years
+    	}
+    	complete_mission_effect = yes 
+    }
+	
+	
+	macedon_01_macedonia_1 = { # Macedonian Origins
+		requires = {  }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			treasury > 50
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -50
+			}
+			hidden_effect = { 
+				add_treasury = -50
+			}
+			trigger_event = { id = macedon_01_macedonia_1.1 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.2 } 
+		}
+	}
+	
+	macedon_01_macedonia_1a = { # New Capital
+		requires = { macedon_01_macedonia_1 }
+		icon = task_conquest
+		duration = 90
+		
+		allow = {
+			treasury > 100
+			owns = 1295
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 1295
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = macedon_01_macedonia_1.3 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.4 } 
+		}
+	}
+	
+	macedon_01_macedonia_2a = { # Upper Macedonia
+		requires = { macedon_01_macedonia_2b }
+		icon = task_conquest
+		duration = 90
+		
+		allow = {
+			treasury > 100
+			owns = 1295 #
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 1295
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = macedon_01_macedonia_1.5 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.6 } 
+		}
+	}
+	
+	macedon_01_macedonia_3a = { # Alliance with Molossis
+		requires = { macedon_01_macedonia_4b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.22 } 
+		}
+	}
+	
+	macedon_01_macedonia_4a = { # Mining Operations
+		requires = { macedon_01_macedonia_3b }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			treasury > 100
+			owns=1315
+			owns=1323
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 1315
+					province_id = 1323
+				}
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = macedon_01_macedonia_1.26 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.27 } 
+		}
+	}
+	
+	macedon_01_macedonia_5a = { #thracian coast
+		requires = { macedon_01_macedonia_5b }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			treasury > 100
+			owns=1581
+			owns=1593
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 1581
+					province_id = 1593
+				}
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = macedon_01_macedonia_1.28 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.29 } 
+		}
+	}
+	
+	macedon_01_macedonia_6a = { #New Army Doctrine
+		requires = { macedon_01_macedonia_1a }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			treasury > 100
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = macedon_01_macedonia_1.30 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.31 } 
+		}
+	}
+	
+	macedon_01_macedonia_7a = { #League of Corinth
+		requires = { macedon_01_macedonia_6b }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			political_influence > 50
+			owns = 1171
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 1171
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -50
+			}
+			hidden_effect = { 
+				add_political_influence = -50
+			}
+			trigger_event = { id = macedon_01_macedonia_1.32 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.33 } 
+		}
+	}
+	
+	macedon_01_macedonia_8a = { #Royal Palace
+		requires = { macedon_01_macedonia_2a }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			treasury > 100
+			owns = 1295
+		}
+		
+		highlight = {
+			scope:province = {
+					province_id = 1295
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = macedon_01_macedonia_1.34 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.35 } 
+		}
+	}
+	
+	macedon_01_macedonia_1b = { # Peonia
+		requires = { macedon_01_macedonia_1 }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.7 } 
+		}
+	}
+	
+	macedon_01_macedonia_2b = { # Enchelei
+		requires = { macedon_01_macedonia_1b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			owns_or_subject_owns = 1337
+		}
+		
+		highlight = {
+			scope:province = {
+					province_id = 1337
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.11 } 
+		}
+	}
+	
+	macedon_01_macedonia_3b = { # Gold in Amfipolis
+		requires = { macedon_01_macedonia_2b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			owns_or_subject_owns = 1345
+			owns_or_subject_owns = 1353
+			owns_or_subject_owns = 1354
+			owns_or_subject_owns = 1344
+			owns_or_subject_owns = 1352
+			owns_or_subject_owns = 1351
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 1345
+					province_id = 1344
+					province_id = 1354
+					province_id = 1353
+					province_id = 1352
+					province_id = 1351
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.15 } 
+		}
+	}
+	
+	macedon_01_macedonia_4b = { # Thessalian Archon
+		requires = { macedon_01_macedonia_3b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			owns_or_subject_owns = 1315
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 1315
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.19 } 
+		}
+	}
+	
+	macedon_01_macedonia_5b = { # Thracian Frontier
+		requires = { macedon_01_macedonia_4b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			owns_or_subject_owns = 1315
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 1315
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.20 } 
+		}
+	}
+	
+	macedon_01_macedonia_6b = { # Sacred War
+		requires = { macedon_01_macedonia_5b }
+		icon = task_conquest
+		#duration = 90
+		
+		allow = {
+			owns_or_subject_owns = 1238
+			owns_or_subject_owns = 1247
+			owns_or_subject_owns = 1244
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 1238
+				province_id = 1247
+				province_id = 1244
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = macedon_01_macedonia_1.21 } 
+		}
+	}
+	
+	macedon_01_macedonia_99 = { # Macedon Conquered
+		requires = { macedon_01_macedonia_6b } 
+		icon = task_conquest
+		#duration = 30
+		
+		allow = { #Change to Important Capitals!
+			owns_or_subject_owns = 1171 # Korynthos
+			owns_or_subject_owns = 1170 # Argos
+			owns_or_subject_owns = 1154 # Messene
+			owns_or_subject_owns = 1178 # Tegea
+			owns_or_subject_owns = 1159 # Elis
+			owns_or_subject_owns = 1164 # Patras
+			owns_or_subject_owns = 1247 # Larissa
+			owns_or_subject_owns = 1185 # Thebes
+			owns_or_subject_owns = 1181 # Athenae
+			owns_or_subject_owns = 1190 # Chalcis
+			owns_or_subject_owns = 1191 # Eretria
+			owns_or_subject_owns = 1202 # Delphi
+			owns_or_subject_owns = 1257 # Anactorium
+			owns_or_subject_owns = 1207 # Themum
+			owns_or_subject_owns = 1315 # Amphipolis
+			owns_or_subject_owns = 1307 # Mende
+			owns_or_subject_owns = 1337 # Stobi
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 1171 # Korynthos
+					province_id  = 1170 # Argos
+					province_id  = 1154 # Messene
+					province_id  = 1178 # Tegea
+					province_id  = 1159 # Elis
+					province_id  = 1164 # Patras
+					province_id  = 1247 # Larissa
+					province_id  = 1185 # Thebes
+					province_id  = 1181 # Athenae
+					province_id  = 1190 # Chalcis
+					province_id  = 1191 # Eretria
+					province_id  = 1202 # Delphi
+					province_id  = 1257 # Anactorium
+					province_id  = 1207 # Themum
+					province_id  = 1315 # Amphipolis
+					province_id  = 1307 # Mende
+					province_id  = 1337 # Stobi
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = macedon_01_macedonia_beaten
+			}
+		}
+		final = yes 
+	}
+	
+}
+	

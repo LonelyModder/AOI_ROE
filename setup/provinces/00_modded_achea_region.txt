@@ -1,0 +1,1776 @@
+﻿1131={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1132={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	holy_site = "omen_mkarmanor"
+}
+
+1133={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1134={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=5
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+1135={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1136={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+1137={ 
+	terrain="hills"
+	trade_goods="glass"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	holy_site = "omen_mariadne"
+}
+
+1138={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1139={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=5
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+1140={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1141={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=5
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+1142={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1143={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+}
+
+1144={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1145={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1146={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1147={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1148={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+		culture="lemnian"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1149={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1150={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
+	}
+	holy_site = "omen_mdioscuri"
+}
+
+1151={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1152={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1153={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1154={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1155={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1156={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+1157={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1158={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="grecoid_pantheon"
+	culture="gachean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1159={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1160={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1161={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	holy_site = "omen_mzeus"
+}
+
+1162={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+		culture="lemnian"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1163={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=6
+	}
+}
+
+1164={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gachean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1165={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="grecoid_pantheon"
+	culture="gachean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1166={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="grecoid_pantheon"
+	culture="gachean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1167={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="grecoid_pantheon"
+	culture="gachean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1168={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="grecoid_pantheon"
+	culture="gachean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1169={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+	holy_site = "omen_masclepius"
+}
+
+1170={ 
+	terrain="plains"
+	trade_goods="iron"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=6
+	}
+	holy_site = "omen_mhera"
+}
+
+1171={ 
+	terrain="hills"
+	trade_goods="earthware"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=6
+	}
+}
+
+1172={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1173={ 
+	terrain="farmland"
+	trade_goods="cattle"
+	religion="grecoid_pantheon"
+	culture="garcadian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1174={ 
+	terrain="mountain"
+	trade_goods="cattle"
+	religion="grecoid_pantheon"
+	culture="garcadian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1175={ 
+	terrain="mountain"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="garcadian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1176={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="grecoid_pantheon"
+	culture="garcadian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1177={ 
+	terrain="farmland"
+	trade_goods="earthware"
+	religion="grecoid_pantheon"
+	culture="garcadian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1178={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="grecoid_pantheon"
+	culture="garcadian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1179={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1180={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gattic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	holy_site = "omen_mdemeter"
+}
+
+1181={ 
+	terrain="farmland"
+	trade_goods="precious_metals"
+	religion="grecoid_pantheon"
+	culture="gattic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=13
+	}	
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=8
+	}
+	holy_site = "omen_mathena"
+}
+
+1182={ 
+	terrain="plains"
+	trade_goods="base_metals"
+	religion="grecoid_pantheon"
+	culture="gattic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	holy_site = "omen_mposeidon"
+}
+
+1183={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="grecoid_pantheon"
+	culture="gattic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1184={ 
+	terrain="marsh"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gattic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1185={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gbeotian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
+	}
+	holy_site = "omen_mdionysus"
+}
+
+1186={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gbeotian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+}
+
+1187={ 
+	terrain="mountain"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gbeotian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1188={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="grecoid_pantheon"
+	culture="gbeotian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1189={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="grecoid_pantheon"
+	culture="gbeotian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+}
+
+1190={ 
+	terrain="plains"
+	trade_goods="wood"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=13
+	}	
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1191={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+}
+
+1192={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+}
+
+1193={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1194={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1195={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1196={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="grecoid_pantheon"
+	culture="gbeotian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1197={ 
+	terrain="mountain"
+	trade_goods="wood"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1198={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1199={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1200={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1201={ 
+	terrain="mountain"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1202={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+	holy_site = "omen_mapollo"
+}
+
+1203={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1204={ 
+	terrain="hills"
+	trade_goods="earthware"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1205={ 
+	terrain="hills"
+	trade_goods="earthware"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1206={ 
+	terrain="mountain"
+	trade_goods="marble"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1207={ 
+	terrain="mountain"
+	trade_goods="marble"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1208={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1209={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1210={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+1211={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	holy_site = "omen_martemis"
+}
+
+1212={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1213={ 
+	terrain="hills"
+	trade_goods="precious_metals"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+1214={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1215={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+1216={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1217={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

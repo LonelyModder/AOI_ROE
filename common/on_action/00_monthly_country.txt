@@ -19,11 +19,26 @@
 		latium_01_italy_1.16
 		latium_01_italy_1.18
 		latium_01_italy_1.19
+		latium_01_italy_1.22
 		latium_01_italy_1.23
 		latium_01_italy_1.38
 		latium_01_italy_1.39
 		latium_01_italy_1.40
 		latium_01_italy_1.41
+		latium_01_italy_1.42
+		#Macedon mission Macedonia
+		macedon_01_macedonia_1.8
+		macedon_01_macedonia_1.9
+		macedon_01_macedonia_1.10
+		macedon_01_macedonia_1.12
+		macedon_01_macedonia_1.13
+		macedon_01_macedonia_1.14
+		macedon_01_macedonia_1.16
+		macedon_01_macedonia_1.17
+		macedon_01_macedonia_1.18
+		macedon_01_macedonia_1.23
+		macedon_01_macedonia_1.24
+		macedon_01_macedonia_1.25
 		#Units
 		units_allowance_events.1
 		#Modded events 

@@ -73,7 +73,7 @@
 		duration = 30
 		
 		allow = {
-			political_influence > 20
+			political_influence > 10
 			treasury > 100
 		}
 		
@@ -269,7 +269,10 @@
 		}
 		
 		on_completion = {
-			trigger_event = { id = latium_01_italy_1.22 } # Pyrrus Event?
+			set_global_variable = {
+				name = epirus_dilema
+			}
+			#trigger_event = { id = latium_01_italy_1.42 } # Pyrrus Event?
 		}
 		
 		bypass = {

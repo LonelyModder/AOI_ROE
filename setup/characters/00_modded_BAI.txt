@@ -1,0 +1,24 @@
+﻿"BAI"={
+	country="BAI"
+	
+	12={
+		first_name="Alexander"
+		family = c:BAI.fam:Aeacid
+		birth_date=410.1.1
+		culture="gepirote"
+		religion="grecoid_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=5
+		add_finesse=3
+		add_zeal=6
+		no_traits=yes
+		add_trait="aeacid"
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:BAI={
+			set_as_ruler=char:12
+		}
+	}
+}

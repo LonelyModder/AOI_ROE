@@ -296,6 +296,7 @@
 	
 	culture = {
 		etrusci = {}
+		lemnian = {}
 		raetic = {levy_template = levy_raetic}
 		camunnic = {levy_template = levy_raetic}
 		rutulic = {levy_template = levy_raetic}

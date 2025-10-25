@@ -1,0 +1,24 @@
+﻿"BAF"={
+	country="BAF"
+	
+	10={
+		first_name="Euphaes"
+		family = c:BAF.fam:Heraclid
+		birth_date=410.1.1
+		culture="gdorian"
+		religion="grecoid_pantheon"
+		no_stats=yes
+		add_martial=8
+		add_charisma=5
+		add_finesse=3
+		add_zeal=5
+		no_traits=yes
+		add_trait="heraclid"
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:BAF={
+			set_as_ruler=char:10
+		}
+	}
+}

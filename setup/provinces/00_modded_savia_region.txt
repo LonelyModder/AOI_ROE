@@ -1075,7 +1075,7 @@
 }
 
 883={ 
-	terrain="fruits"
+	terrain="plains"
 	trade_goods="olive"
 	religion="illyric_pantheon"
 	culture="ideurian"

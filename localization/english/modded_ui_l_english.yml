@@ -5,26 +5,23 @@
  CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\n Date in the mod is counted since the fall of the City of Ugarit and the Bronze Age Collapse.\n\n#TF The degraded one trembles, and the low one is torn to pieces. Our food in the threshing floors is sacked and the vineyards are also destroyed. Our city is sacked, and may you know it! - Report to ruler of Carchemish about fall of Ugarit#!"
  DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since Bronze Age Collapse."
  THE_WORLD:1 "[GetDateString]#T  BAC"
- THE_WORLD_TOOLTIP:1 "#T Current Date#!\n BAC stands for Bronze Age Collapse. The year 437 BAC was chosen as the starting date because this year the city of Ugarit fell to the Luccan invaders marking the beginning of the great offensive of the Sea Peoples against Egypt."
+ THE_WORLD_TOOLTIP:1 "#T Current Date#!\n BAC stands for Bronze Age Collapse. The year 437 BAC (1185 BC) was chosen as the starting date because 437 years before the city of Ugarit fell to the Luccan invaders marking the beginning of the famous great offensive of the Sea Peoples against Egypt."
  
  
  AlinorINTRO:0 "#T Latium#!\nDifficulty: #Y HARD#!\n\n During the Middle Iron Age Latium starts under the influence of Etruscan League. The research done shows that the region was densly populated hich can explain the increasing rise in importance over time. The original story about the founding of Rome claims that the city was founded by the Arcadian merchant called Romos."
  Alinor:0 "Latium"
  Alinor2:0 "Latium"
- EtruscanLeagueINTRO:0 "#T Etruscan League#!\nDifficulty: #Y EASY#!\n\n In this period the Etruscan League is the unquestioned hegemon of the italian peninsula. The Etruscan Leagues (acording to romans there were originally three of them Po league, Campanian and the main in Tuscany) control the area from Po valley to the Campania. League itself consist of 12 city-states that loosely cooperate with eachother."
- EtruscanLeague:0 "Etruscan League"
- EtruscanLeague2:0 "Etruscan League"
- LeponticConfederationINTRO:0 "#T Lepontic Confederation#!\nDifficulty: #Y Medium#!\n\n The Celts were penetrating the Alps since the Bronze Age Collapse. The new waves of invaders managed to take control over the area around modern Milan. During Middle Iron Age under the legendary Brennus (it can be a title since many celtic leaders use it we are not sure) a new wave of migrants arrived the Lepontie tribes."
- LeponticConfederation:0 "Lepontic Confederation"
- LeponticConfederation2:0 "Lepontic Confederation"
+ MacedonINTRO:0 "#T Macedon#!\nDifficulty: #Y MEDIUM#!\n\n Acording to legend Macedon was founded by the Caranos of the Argead dynasty. Argeads erive their lineage from the legendary hero Heracles and claim to be one of the branches of the Heraclidae dynasty who's members escaped the dynastic strife in Argos and decided to found their own realm. Macedon is surrounded by hostile tribes of Illyrian and Thracian origin. Their greek neighbours view them more as barbarians than fellow greeks. Yet it's a sizable kingdom with capable leaders that one day may compete for hegemony in hellas."
+ Macedon:0 "Macedon"
+ Macedon2:0 "Macedon"
  
  owns_any_neighboring_province:0 "Owns any neighbour province"
  owns_any_neighboring_province_culture:0 "Any owned #Y neighbour#! province must fulfill one of the following: \n  Dominant province culture is an #Y integrated#! culture \n  Dominant province culture is #Y [THIS.GetProvince.GetCulture.GetName]#!"
  no_neighbor_has_colonization_progress:0 "No neighbour has #Y Colonization Progress#!"
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
- patch_notes:0 "Part I: Iron Age in Italy"
- patch_notes_text:0 "What's new:\n- Iron Age Italy, Illyria and Raetia to explore. \n- 753 land provinces to conquer (pure coincidence). \n- New units. \n- Mission tree for Latins."
+ patch_notes:0 "Part II: Hegemony"
+ patch_notes_text:0 "What's new:\n- Iron Age Balkans to explore. \n- 532 new land provinces to conquer (1285 land provinces, 1755 in total). \n- New Macedonian mission tree. \n- New/Old Daco-Thracian culture group. \n- A number of fixes to the map from previous update (wrong trade goods etc). \n- Now epirote intervention is set to Epirote port so as long as epirus is held by the greeks, any ruler owning land there may intervene."
  
  #Modifier text
  osasis:0 "Oasis"
@@ -35,5 +32,18 @@
  desc_latium_1_starts:0 "Latin tribes are capable of mobilising large amount of warriors in a short amount of time thanks to the system of obligations. Each clan and city is obliged to send agreed amount of warriors."
  latium_1_victory:0 "Italy Conquered!"
  desc_latium_1_victory:0 "Rome just became the hegemon of Italian peninsula. Roman armies march unoposed from Arritim to Rhegion. Their superiority is undisputed."
+ macedon_1_starts:0 "Age of Reforms"
+ desc_macedon_1_starts:0 "Macedon was onthe outskirts of a greek world and because of this got influenced also by their thracian neighbours and thats why southern greeks believed macedonians to be thracians. To comete for the hegemony over the greeks macedon will have to modernise and than maybe one day king of macedon will be ruling over Greece."
+ macedon_1_victory:0 "New Hegemon"
+ desc_macedon_1_victory:0 "From Byzantion to Sparta all Greeks bow down before the new king of the Greeks. Once called barbarians, macedonians proven their Heraclidae heritage by conquering all of Hellas."
  roman_colony:0 "Roman Colony"
  desc_roman_colony:0 "Roman veterans were entitled to a land grant after discharge. The roman colonies were created to not only serve as settlements for retiring soldiers but also as a source of expirienced veterans in case of revolt. They were practically strongholds filled with war veterans. System was supposingly existing since the year after the very founding of Rome."
+ roman_draft_active:0 "Roman Draft"
+ desc_roman_draft_active:0 "Romans had unique ability to mobilize their entire society in times of war. This sometimes gave their enemies impression that roman state never run out of soldiers."
+ draft_ordered:0 "Recent Draft"
+ desc_draft_ordered:0 "The mobilization was recently announced and another one should not be announced so soon otherwise it may have negative consequences for the economy."
+ 
+ #Special Decisions
+ order_draft:0 "Order Draft"
+ order_draft_desc:0 "In times of need Rome is able to mobilise large amounts of soldiers surprising it's oponents. Thats why it never runs out of soldiers. Taking eternal city is the only way to prevent it but to get there enemy must defeat army after army."
+ 

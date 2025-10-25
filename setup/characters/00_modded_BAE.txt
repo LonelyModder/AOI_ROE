@@ -1,0 +1,45 @@
+﻿"BAE"={
+	country="BAE"
+	
+	8={
+		first_name="Teleclus"
+		family = c:BAE.fam:Agiad
+		birth_date=410.1.1
+		culture="gdorian"
+		religion="grecoid_pantheon"
+		no_stats=yes
+		add_martial=8
+		add_charisma=5
+		add_finesse=3
+		add_zeal=5
+		no_traits=yes
+		add_trait="heraclid"
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:BAE={
+			set_as_ruler=char:8
+		}
+	}
+	
+	9={
+		first_name="Charilaus"
+		family = c:BAE.fam:Eurypontid
+		birth_date=410.1.1
+		culture="gdorian"
+		religion="grecoid_pantheon"
+		no_stats=yes
+		add_martial=8
+		add_charisma=6
+		add_finesse=7
+		add_zeal=5
+		no_traits=yes
+		add_trait="heraclid"
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:BAE={
+			set_as_coruler=char:9
+		}
+	}
+}

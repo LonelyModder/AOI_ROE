@@ -1,0 +1,895 @@
+﻿1254={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1255={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gachean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1256={ 
+	terrain="hills"
+	trade_goods="earthware"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1257={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gnorthwest"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+}
+
+1258={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gthessalian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1259={ 
+	terrain="hills"
+	trade_goods="precious_metals"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1261={ 
+	terrain="hills"
+	trade_goods="earthware"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1262={ 
+	terrain="mountain"
+	trade_goods="precious_metals"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1264={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1265={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1267={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1270={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=4
+	}
+}
+
+1263={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="lliburni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1266={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=4
+	}	
+	tribesmen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+}
+
+1268={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1269={ 
+	terrain="mountain"
+	trade_goods="cattle"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=4
+	}
+}
+
+1274={ 
+	terrain="mountain"
+	trade_goods="fur"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1275={ 
+	terrain="mountain"
+	trade_goods="leather"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1276={ 
+	terrain="mountain"
+	trade_goods="leather"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1358={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		religion="grecoid_pantheon"
+		culture="gepirote"
+	}
+	slaves={
+		amount=1
+		religion="grecoid_pantheon"
+		culture="gepirote"
+	}
+}
+
+1359={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1271={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1272={ 
+	terrain="mountain"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1277={ 
+	terrain="mountain"
+	trade_goods="honey"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1278={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1360={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1361={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1362={ 
+	terrain="farmland"
+	trade_goods="earthware"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1344={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+		religion="grecoid_pantheon"
+		culture="gepirote"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1345={ 
+	terrain="mountain"
+	trade_goods="vegetables"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1352={ 
+	terrain="mountain"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="brygian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1353={ 
+	terrain="mountain"
+	trade_goods="vegetables"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1354={ 
+	terrain="mountain"
+	trade_goods="leather"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1290={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1279={ 
+	terrain="mountain"
+	trade_goods="fur"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1280={ 
+	terrain="mountain"
+	trade_goods="fur"
+	religion="grecoid_pantheon"
+	culture="gepirote"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1351={ 
+	terrain="mountain"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="brygian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1363={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1364={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1365={ 
+	terrain="farmland"
+	trade_goods="earthware"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1366={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		religion="thracic_pantheon"
+		culture="brygian"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1367={ 
+	terrain="farmland"
+	trade_goods="salt"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1355={ 
+	terrain="mountain"
+	trade_goods="fur"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1356={ 
+	terrain="mountain"
+	trade_goods="vegetables"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1357={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="illyric_pantheon"
+	culture="isesarethian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

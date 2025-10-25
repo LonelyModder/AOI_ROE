@@ -107,6 +107,16 @@
 		gsicilian = {}
 		gitaliote = {}
 		gepirote = {}
+		gmacedonian = {}
+		guppermacedonian = {}
+		gdorian = {}
+		gthessalian = {}
+		gnorthwest = {}
+		gachean = {}
+		gattic = {}
+		gbeotian = {}
+		garcadian = {}
+		gionian = {}
 	}
 	
 	barbarian_names = { 
