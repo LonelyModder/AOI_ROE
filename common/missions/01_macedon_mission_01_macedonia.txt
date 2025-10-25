@@ -502,16 +502,46 @@
 		#duration = 30
 		
 		allow = { #Change to Important Capitals!
-			owns_region = modded_macedonia_region
-			owns_region = modded_achea_region
-			owns_region = modded_epirus_region
+			owns_or_subject_owns = 1171 # Korynthos
+			owns_or_subject_owns = 1170 # Argos
+			owns_or_subject_owns = 1154 # Messene
+			owns_or_subject_owns = 1178 # Tegea
+			owns_or_subject_owns = 1159 # Elis
+			owns_or_subject_owns = 1164 # Patras
+			owns_or_subject_owns = 1247 # Larissa
+			owns_or_subject_owns = 1185 # Thebes
+			owns_or_subject_owns = 1181 # Athenae
+			owns_or_subject_owns = 1190 # Chalcis
+			owns_or_subject_owns = 1191 # Eretria
+			owns_or_subject_owns = 1202 # Delphi
+			owns_or_subject_owns = 1257 # Anactorium
+			owns_or_subject_owns = 1207 # Themum
+			owns_or_subject_owns = 1315 # Amphipolis
+			owns_or_subject_owns = 1307 # Mende
+			owns_or_subject_owns = 1337 # Stobi
 		}
 		
 		highlight = {
 			scope:province = {
-				is_in_region = modded_macedonia_region
-				is_in_region = modded_achea_region
-				is_in_region = modded_epirus_region
+				OR = {
+					province_id  = 1171 # Korynthos
+					province_id  = 1170 # Argos
+					province_id  = 1154 # Messene
+					province_id  = 1178 # Tegea
+					province_id  = 1159 # Elis
+					province_id  = 1164 # Patras
+					province_id  = 1247 # Larissa
+					province_id  = 1185 # Thebes
+					province_id  = 1181 # Athenae
+					province_id  = 1190 # Chalcis
+					province_id  = 1191 # Eretria
+					province_id  = 1202 # Delphi
+					province_id  = 1257 # Anactorium
+					province_id  = 1207 # Themum
+					province_id  = 1315 # Amphipolis
+					province_id  = 1307 # Mende
+					province_id  = 1337 # Stobi
+				}
 			}
 		}
 		
