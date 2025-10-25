@@ -765,7 +765,15 @@ macedon_01_macedonia_1.24 = {
 	
 	option = { 
 		name = "macedon_01_macedonia_1.24.a"
-		current_ruler = {
+		hidden_effect = {
+			root.consort = {
+				death = {
+					killer = root.current_ruler
+					death_reason = death_execution
+				}
+			}
+		}
+		root.current_ruler = {
 			marry_character=scope:olimpias_gov
 		}
 		c:BAA = {
@@ -1059,7 +1067,6 @@ macedon_01_macedonia_1.33 = {
 					dominant_province_culture = gbeotian
 					dominant_province_culture = garcadian
 					dominant_province_culture = gbeotian
-					dominant_province_culture = gthessalian
 				}
 			}
 			set_conquered_by = p:1171.owner
