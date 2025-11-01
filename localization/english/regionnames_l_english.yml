@@ -20,7 +20,13 @@
  modded_thraciae_region:0 "Thrace"
  modded_moesia_region:0 "Moesia"
  modded_libya_region:0 "Libya"
+ modded_loweregypt_region:0 "Lower Kemet"
  #Areas
+ pelusium_area:0 "Pelusium"
+ tanis_area:0 "Tanis"
+ memphis_area:0 "Memphis"
+ sais_area:0 "Sais"
+ alexandria_area:0 "Alexandria"
  ammonium_area:0 "Ammonium"
  napva_area:0 "Napva"
  leukapsis_area:0 "Leukapsis"

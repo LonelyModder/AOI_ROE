@@ -11,6 +11,16 @@ modded_tmp_region = {
 	}
 }
 
+modded_loweregypt_region = {
+	areas = {
+		alexandria_area
+		sais_area
+		memphis_area
+		pelusium_area
+		tanis_area
+	}
+}
+
 modded_libya_region = {
 	areas = {
 		boreum_area
