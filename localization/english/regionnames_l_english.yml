@@ -21,6 +21,8 @@
  modded_moesia_region:0 "Moesia"
  modded_libya_region:0 "Libya"
  modded_loweregypt_region:0 "Lower Kemet"
+ modded_middleegypt_region:0 "Middle Kemet"
+ modded_upperegypt_region:0 "Upper Kemet"
  #Areas
  pelusium_area:0 "Pelusium"
  tanis_area:0 "Tanis"

@@ -11,6 +11,18 @@ modded_tmp_region = {
 	}
 }
 
+modded_middleegypt_region = {
+	areas = {
+		
+	}
+}
+
+modded_upperegypt_region = {
+	areas = {
+		
+	}
+}
+
 modded_loweregypt_region = {
 	areas = {
 		alexandria_area
