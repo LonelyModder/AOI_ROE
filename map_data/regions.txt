@@ -13,13 +13,23 @@ modded_tmp_region = {
 
 modded_middleegypt_region = {
 	areas = {
-		
+		heracleopolis_area
+		hermapolis_area
+		redcoast_area
+		bahariya_area
+		dakhla_area
 	}
 }
 
 modded_upperegypt_region = {
 	areas = {
-		
+		kharga_area
+		thebes_area
+		hierakonpolis_area
+		aswan_area
+		hammamat_area
+		hormos_area
+		berenice_area
 	}
 }
 
