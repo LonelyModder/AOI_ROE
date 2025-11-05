@@ -1,4 +1,4 @@
-﻿l_english:
+﻿thracianic:
  ARMY_NAME_latinic:0 "$NUM$$ORDER$ Army"
  NAVY_NAME_latinic:0 "$NUM$$ORDER$ Navy"
  COHORT_NAME_latinic:0 "$HOME$'s $NUM$$ORDER$ Cohort"
@@ -23,3 +23,6 @@
  ARMY_NAME_thyrrenic:0 "$NUM$$ORDER$ Army"
  NAVY_NAME_thyrrenic:0 "$NUM$$ORDER$ Navy"
  COHORT_NAME_thyrrenic:0 "$HOME$'s $NUM$$ORDER$ Cohort"
+ ARMY_NAME_thracianic:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_thracianic:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_thracianic:0 "$HOME$'s $NUM$$ORDER$ Cohort"

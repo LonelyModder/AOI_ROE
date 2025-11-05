@@ -26,3 +26,6 @@
  GOVERNORSHIP_LEGION_NAME_thyrrenic:0 "$GOVERNORSHIP_LEGION_NAME_rroman$"
  LEGION_NAME_thyrrenic:0 "Cohors $ROMAN$ $BASE$"
  LEVY_NAME_thyrrenic:0 "Conscripti $ROMAN$ $GOVERNORSHIP$"
+ GOVERNORSHIP_LEGION_NAME_thracianic:0 "$GOVERNORSHIP_LEGION_NAME_rroman$"
+ LEGION_NAME_thracianic:0 "Cohors $ROMAN$ $BASE$"
+ LEVY_NAME_thracianic:0 "Conscripti $ROMAN$ $GOVERNORSHIP$"
