@@ -2689,6 +2689,24 @@ country = {
 				1473 1474 1475 1476 1477 1478 1479 1480 1490 1492 1495 1472
 			}
 		}
+		
+		EAA = {          
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 1981
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1981
+			}
+		}
 	}
 }
 

@@ -1,5 +1,5 @@
 ﻿1873={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -18,7 +18,7 @@
 }
 
 1874={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -37,7 +37,7 @@
 }
 
 1875={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -56,7 +56,7 @@
 }
 
 1876={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -75,7 +75,7 @@
 }
 
 1877={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -341,7 +341,7 @@
 }
 
 1891={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -360,7 +360,7 @@
 }
 
 1892={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -379,7 +379,7 @@
 }
 
 1893={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -398,7 +398,7 @@
 }
 
 1894={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -417,7 +417,7 @@
 }
 
 1895={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -436,7 +436,7 @@
 }
 
 1896={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -455,7 +455,7 @@
 }
 
 1897={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -474,7 +474,7 @@
 }
 
 1898={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -493,7 +493,7 @@
 }
 
 1899={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -512,7 +512,7 @@
 }
 
 1900={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -531,7 +531,7 @@
 }
 
 1901={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -550,7 +550,7 @@
 }
 
 1902={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -569,7 +569,7 @@
 }
 
 1903={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -588,7 +588,7 @@
 }
 
 1904={ 
-	terrain="plains"
+	terrain="oasis"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -607,7 +607,7 @@
 }
 
 1905={ 
-	terrain="plains"
+	terrain="oasis"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -626,7 +626,7 @@
 }
 
 1906={ 
-	terrain="plains"
+	terrain="oasis"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -645,7 +645,7 @@
 }
 
 1907={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -664,7 +664,7 @@
 }
 
 1908={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -683,7 +683,7 @@
 }
 
 1909={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -702,7 +702,7 @@
 }
 
 1910={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -721,7 +721,7 @@
 }
 
 1911={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -740,7 +740,7 @@
 }
 
 1912={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -759,7 +759,7 @@
 }
 
 1913={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -778,7 +778,7 @@
 }
 
 1914={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -797,7 +797,7 @@
 }
 
 1915={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -816,7 +816,7 @@
 }
 
 1916={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -835,7 +835,7 @@
 }
 
 1917={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -854,7 +854,7 @@
 }
 
 1918={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -873,7 +873,7 @@
 }
 
 1920={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -892,7 +892,7 @@
 }
 
 1921={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -911,7 +911,7 @@
 }
 
 1922={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -930,7 +930,7 @@
 }
 
 1923={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -949,7 +949,7 @@
 }
 
 1924={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -968,7 +968,7 @@
 }
 
 1925={ 
-	terrain="plains"
+	terrain="oasis"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -987,7 +987,7 @@
 }
 
 1926={ 
-	terrain="plains"
+	terrain="oasis"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1006,7 +1006,7 @@
 }
 
 1927={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1025,7 +1025,7 @@
 }
 
 1928={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1044,7 +1044,7 @@
 }
 
 1929={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1063,7 +1063,7 @@
 }
 
 1930={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1082,7 +1082,7 @@
 }
 
 1933={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1101,7 +1101,7 @@
 }
 
 1934={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1120,7 +1120,7 @@
 }
 
 1935={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1139,7 +1139,7 @@
 }
 
 1936={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1158,7 +1158,7 @@
 }
 
 1937={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1177,7 +1177,7 @@
 }
 
 1938={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1196,7 +1196,7 @@
 }
 
 1939={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1215,7 +1215,7 @@
 }
 
 1940={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1234,7 +1234,7 @@
 }
 
 1941={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1253,7 +1253,7 @@
 }
 
 1942={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1272,7 +1272,7 @@
 }
 
 1943={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1291,7 +1291,7 @@
 }
 
 1944={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1310,7 +1310,7 @@
 }
 
 1945={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1329,7 +1329,7 @@
 }
 
 1946={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1348,7 +1348,7 @@
 }
 
 1947={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1367,7 +1367,7 @@
 }
 
 1948={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1386,7 +1386,7 @@
 }
 
 1949={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1405,7 +1405,7 @@
 }
 
 1950={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1424,7 +1424,7 @@
 }
 
 1951={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"

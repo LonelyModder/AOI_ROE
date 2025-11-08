@@ -98,6 +98,19 @@
  peonic:0 "Peonian"
  thracianic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  thracianic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Kemetic
+ kemetic:2 "Kemetic"
+ upper_kemetic:0 "Bohairic"
+ middle_kemetic:0 "Faiyumic"
+ lower_kemetic:0 "Sahidic"
+ kemetic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ kemetic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Libyan
+ libyan:2 "Libyan"
+ libi:0 "Libu"
+ ma:0 "Meshwesh"
+ libyan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ libyan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  venedi:2 "Aedric"
  wvenedi:0 "Heresy"
