@@ -10,36 +10,66 @@
 			}
 			country_culture_group = nubian
 		}
-		trigger_if = {
+		trigger_else_if = {
 			limit = {
-				any_country_culture = {
-					is_integrated = yes
+				AND = {
 					OR = {
+						has_military_bonus = nuragian_path_end_bonus
+						has_military_bonus = westsemite_path_end_bonus
+						has_military_bonus = illyrian_path_end_bonus
+						has_military_bonus = grekoid_path_end_bonus
+						has_military_bonus = italian_path_end_bonus
+						has_military_bonus = keltoi_path_end_bonus
+						has_military_bonus = libyan_path_end_bonus
+						has_military_bonus = thracian_path_end_bonus
+						has_military_bonus = egyptian_path_end_bonus
+					}
+					any_country_culture = {
+						is_integrated = yes
 						this.culture.culture_group = culture_group:nubian
-						this.culture.culture_group = culture_group:axumitic
 					}
 				}
 			}
-			any_country_culture = {
-				custom_tooltip = {
-					text = tradition_unlock_requirement_short
-					is_integrated = yes
-					OR = {
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = keltoi_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = egyptian_path_end_bonus
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
 						this.culture.culture_group = culture_group:nubian
-						this.culture.culture_group = culture_group:axumitic
 					}
 				}
 			}
 		}
 		trigger_else = {
-			custom_tooltip = {
-				text = "tradition_unlock_requirement_nubian"
-				any_country_culture = {
-					is_integrated = yes
-					OR = {
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = keltoi_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = egyptian_path_end_bonus
+				}
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_nubian"
+					any_country_culture = {
+						is_integrated = yes
 						this.culture.culture_group = culture_group:nubian
-						this.culture.culture_group = culture_group:axumitic
-					}	
+					}
 				}
 			}
 		}
@@ -47,8 +77,8 @@
 	
 	nubian_path_1 = { ###nubian path
 		modifier = {
-			missile_archers_morale = 0.1
-			missile_archers_offensive = 0.1
+			ia_archers_morale = 0.1
+			ia_archers_offensive = 0.1
 		}
 		icon = levantine_egyptian_path_end_bonus
 		requires = {}
@@ -56,8 +86,8 @@
 	
 	nubian_path_2a = { ###nubian path
 		modifier = {		
-			missile_archers_offensive = 0.1
-			missile_archers_defensive = 0.15
+			ia_archers_offensive = 0.1
+			ia_archers_defensive = 0.15
 		}
 		icon = levantine_egyptian_path_end_bonus
 		requires = {nubian_path_1}
@@ -65,8 +95,8 @@
 	
 	nubian_path_3a = { ###nubian path
 		modifier = {		
-			light_spearmen_offensive = 0.1
-			light_spearmen_defensive = 0.05
+			ia_lightinfantry_offensive = 0.1
+			ia_lightinfantry_defensive = 0.05
 		}
 		icon = levantine_egyptian_path_end_bonus
 		requires = {nubian_path_2a}
@@ -99,8 +129,8 @@
 	
 	nubian_path_2b = { ###nubian path
 		modifier = {		
-			chariot_light_offensive = 0.1
-			chariot_light_defensive = 0.05
+			ia_chariots_offensive = 0.1
+			ia_chariots_defensive = 0.05
 		}
 		icon = levantine_egyptian_path_end_bonus
 		requires = {nubian_path_1}
@@ -108,8 +138,8 @@
 	
 	nubian_path_3b = { ###nubian path
 		modifier = {		
-			elephant_forest_offensive = 0.15
-			elephant_forest_defensive = 0.1
+			ia_elephants_offensive = 0.15
+			ia_elephants_defensive = 0.1
 		}
 		icon = levantine_egyptian_path_end_bonus
 		requires = {nubian_path_2b}
@@ -126,8 +156,8 @@
 	
 	nubian_path_5b = { ###nubian path
 		modifier = {		
-			missile_spearthrowers_offensive = 0.15
-			missile_spearthrowers_defensive = 0.15
+			ia_scirmishers_offensive = 0.15
+			ia_scirmishers_defensive = 0.15
 		}
 		icon = levantine_egyptian_path_end_bonus
 		requires = {nubian_path_4b}
@@ -144,7 +174,7 @@
 	
 	nubian_path_end_bonus = { ###nubian path
 		modifier = {		
-			missile_archers_offensive = 0.15
+			ia_archers_offensive = 0.15
 		}
 		icon = levantine_egyptian_path_end_bonus
 		requires = {nubian_path_6a nubian_path_6b}

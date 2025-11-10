@@ -2691,10 +2691,17 @@ country = {
 		}
 		
 		EAA = {          
-			government = despotic_monarchy
+			government = theocratic_monarchy
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 1981
+			
+			poptype_rights = {
+				{
+					culture = lower_kemetic 
+					type = citizen
+				}
+			}
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -2704,7 +2711,129 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				1981
+				1981 
+			}
+		}
+		
+		EAB = {          
+			government = theocratic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 1977
+			
+			poptype_rights = {
+				{
+					culture = lower_kemetic 
+					type = citizen
+				}
+			}
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1977
+			}
+		}
+		
+		EAC = {          
+			government = despotic_monarchy
+			primary_culture = lower_kemetic
+			religion = kemetic_pantheon
+			capital = 1968
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				1968
+			}
+		}
+		
+		EAD = {          
+			government = despotic_monarchy
+			primary_culture = upper_nubian
+			religion = kemetic_pantheon
+			capital = 2055
+			
+			poptype_rights = {
+				{
+					culture = lower_nubian 
+					type = citizen
+				}
+			}
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2055
+			}
+		}
+		
+		EAE = {          
+			government = despotic_monarchy
+			primary_culture = upper_kemetic
+			religion = kemetic_pantheon
+			capital = 2043
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2043
+			}
+		}
+		
+		EAG = {          
+			government = despotic_monarchy
+			primary_culture = upper_kemetic
+			religion = kemetic_pantheon
+			capital = 2024
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2024
+			}
+		}
+		
+		EAH = {          
+			government = despotic_monarchy
+			primary_culture = middle_kemetic
+			religion = kemetic_pantheon
+			capital = 2014
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2014
 			}
 		}
 	}

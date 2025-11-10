@@ -10,27 +10,66 @@
 			}
 			country_culture_group = kemetic
 		}
-		trigger_if = {
+		trigger_else_if = {
 			limit = {
-				any_country_culture = {
-					is_integrated = yes
-					this.culture.culture_group = culture_group:kemetic
+				AND = {
+					OR = {
+						has_military_bonus = nuragian_path_end_bonus
+						has_military_bonus = westsemite_path_end_bonus
+						has_military_bonus = illyrian_path_end_bonus
+						has_military_bonus = grekoid_path_end_bonus
+						has_military_bonus = italian_path_end_bonus
+						has_military_bonus = keltoi_path_end_bonus
+						has_military_bonus = libyan_path_end_bonus
+						has_military_bonus = nubian_path_end_bonus
+						has_military_bonus = thracian_path_end_bonus
+					}
+					any_country_culture = {
+						is_integrated = yes
+						this.culture.culture_group = culture_group:kemetic
+					}
 				}
 			}
-			any_country_culture = {
-				custom_tooltip = {
-					text = tradition_unlock_requirement_short
-					is_integrated = yes
-					this.culture.culture_group = culture_group:kemetic
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = keltoi_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = nubian_path_end_bonus
+					has_military_bonus = thracian_path_end_bonus
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
+						this.culture.culture_group = culture_group:kemetic
+					}
 				}
 			}
 		}
 		trigger_else = {
-			custom_tooltip = {
-				text = "tradition_unlock_requirement_kemetic"
-				any_country_culture = {
-					is_integrated = yes
-					this.culture.culture_group = culture_group:kemetic	
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = keltoi_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = nubian_path_end_bonus
+					has_military_bonus = thracian_path_end_bonus
+				}
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_egyptian"
+					any_country_culture = {
+						is_integrated = yes
+						this.culture.culture_group = culture_group:kemetic
+					}
 				}
 			}
 		}
@@ -38,8 +77,8 @@
 	
 	egyptian_path_1 = { ###egyptian path
 		modifier = { 
-			chariot_light_offensive = 0.15
-			chariot_light_defensive = 0.1
+			ia_chariots_offensive = 0.15
+			ia_chariots_defensive = 0.1
 		}
 		icon = levantine_greco_path_1
 		requires = {}
@@ -47,8 +86,8 @@
 	
 	egyptian_path_2 = { ###egyptian path
 		modifier = { 
-			missile_spearthrowers_offensive = 0.1
-			missile_spearthrowers_defensive = 0.05
+			ia_scirmishers_offensive = 0.1
+			ia_scirmishers_defensive = 0.05
 		}
 		icon = levantine_greco_path_1
 		requires = {egyptian_path_1}
@@ -56,8 +95,8 @@
 	
 	egyptian_path_3 = { ###egyptian path
 		modifier = { 
-			missile_archers_offensive = 0.1
-			missile_archers_defensive = 0.05
+			ia_archers_offensive = 0.1
+			ia_archers_defensive = 0.05
 		}
 		icon = levantine_greco_path_1
 		requires = {egyptian_path_2}
@@ -65,8 +104,8 @@
 	
 	egyptian_path_2a = { ###egyptian path
 		modifier = { 
-			light_spearmen_offensive = 0.1
-			light_spearmen_defensive = 0.05
+			ia_lightinfantry_offensive = 0.1
+			ia_lightinfantry_defensive = 0.05
 		}
 		icon = levantine_greco_path_1
 		requires = {egyptian_path_3}
@@ -83,8 +122,8 @@
 	
 	egyptian_path_4a = { ###egyptian path
 		modifier = { 
-			light_swordsmen_offensive = 0.15
-			light_swordsmen_defensive = 0.1
+			ia_lightinfantry_discipline = 0.15
+			ia_lightinfantry_morale = 0.1
 		}
 		icon = levantine_greco_path_1
 		requires = {egyptian_path_3a}
@@ -92,8 +131,8 @@
 	
 	egyptian_path_5a = { ###egyptian path
 		modifier = { 
-			light_spearmen_offensive = 0.05
-			light_spearmen_defensive = 0.1
+			ia_hoplites_offensive = 0.05
+			ia_hoplites_defensive = 0.1
 		}
 		icon = levantine_greco_path_1
 		requires = {egyptian_path_4a}

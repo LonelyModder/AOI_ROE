@@ -51,9 +51,7 @@
 		lower_nubian = {}
 		upper_nubian = {}
 		meroitic_nubian = {}
-		south_nubian = {}
-		south_west_nubian = {}
-		medjay = {}
+		medjay = { levy_template = levy_meded }
 	}
 	
 	barbarian_names = { GARAMANTES NASSAMONES ASBYSTAE ADYRMACHIDAE GILLIGAMAE AUSCHISAE TROGLODYTAE PSYLLI LAGUATANI MESHWESH }

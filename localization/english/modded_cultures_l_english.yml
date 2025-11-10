@@ -100,9 +100,9 @@
  thracianic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Kemetic
  kemetic:2 "Kemetic"
- upper_kemetic:0 "Bohairic"
+ upper_kemetic:0 "Sahidic"
  middle_kemetic:0 "Faiyumic"
- lower_kemetic:0 "Sahidic"
+ lower_kemetic:0 "Bohairic"
  kemetic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kemetic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Libyan
@@ -111,6 +111,13 @@
  ma:0 "Meshwesh"
  libyan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  libyan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Nubian
+ nubian:2 "Nubian"
+ lower_nubian:0 "Kerman"
+ upper_nubian:0 "Napatan"
+ auroran:0 "Aedric"
+ nubian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ nubian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  venedi:2 "Aedric"
  wvenedi:0 "Heresy"
