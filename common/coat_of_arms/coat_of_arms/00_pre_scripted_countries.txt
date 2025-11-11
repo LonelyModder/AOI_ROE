@@ -189,6 +189,17 @@ BAK = {
 	}
 }
 
+EAD = {
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "pitch_black"
+
+	colored_emblem = {
+		texture = "ce_horus.dds"
+		color1 = "roman_gold"
+	}
+}
+
 #Modded Emblems for starting countries
 
 THRACE_FLAG = {
