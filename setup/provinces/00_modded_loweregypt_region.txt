@@ -1,8 +1,8 @@
 ﻿1957={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -20,8 +20,8 @@
 1958={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -39,16 +39,21 @@
 1959={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
+	freemen={
+		amount=1
+		culture="libi"
+	}
 	tribesmen={
-		amount=4
+		amount=3
+		culture="libi"
 	}
 	slaves={
 		amount=1
@@ -58,15 +63,15 @@
 1960={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -77,34 +82,42 @@
 1961={ 
 	terrain="marsh"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1962={ 
 	terrain="marsh"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -115,15 +128,15 @@
 1963={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -134,15 +147,15 @@
 1964={ 
 	terrain="marsh"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -153,15 +166,15 @@
 1965={ 
 	terrain="marsh"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -172,72 +185,96 @@
 1966={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="libi"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="libi"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1967={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1968={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="libi"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="libi"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1969={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -248,34 +285,42 @@
 1970={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1971={ 
 	terrain="marsh"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -286,15 +331,15 @@
 1972={ 
 	terrain="marsh"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -305,15 +350,15 @@
 1973={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -324,34 +369,42 @@
 1974={ 
 	terrain="marsh"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1975={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -362,15 +415,15 @@
 1976={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -381,34 +434,42 @@
 1977={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1978={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -419,15 +480,15 @@
 1979={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -438,53 +499,77 @@
 1980={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1981={ 
 	terrain="marsh"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}	
-	tribesmen={
+	province_rank="city_metropolis"
+	nobles={
 		amount=4
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	citizen={
+		amount=6
+		culture="ma"
+	}
+	freemen={
+		amount=8
+	}	
+	freemen={
+		amount=4
+		culture="ma"
+	}
+	tribesmen={
+		amount=6
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1982={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -495,34 +580,42 @@
 1983={ 
 	terrain="marsh"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1984={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -533,15 +626,15 @@
 1985={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -552,15 +645,15 @@
 1986={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -571,15 +664,15 @@
 1987={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -590,53 +683,72 @@
 1988={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="libi"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="libi"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1989={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city_metropolis"
+	nobles={
+		amount=3
+	}
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=18
+	}
+	freemen={
+		amount=12
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1990={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -647,15 +759,15 @@
 1991={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -666,53 +778,69 @@
 1992={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1993={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=6
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 1995={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -723,34 +851,42 @@
 1996={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 1997={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -761,15 +897,15 @@
 1998={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -780,15 +916,15 @@
 1999={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -799,15 +935,15 @@
 2000={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -818,15 +954,15 @@
 2001={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -837,8 +973,8 @@
 2002={ 
 	terrain="oasis"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -856,8 +992,8 @@
 2003={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -875,8 +1011,8 @@
 2004={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -894,15 +1030,15 @@
 2005={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -913,15 +1049,15 @@
 2006={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -932,15 +1068,15 @@
 2007={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={

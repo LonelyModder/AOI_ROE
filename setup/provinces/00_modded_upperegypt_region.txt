@@ -1,72 +1,108 @@
 ﻿2033={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 2034={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 2035={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 2036={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -77,15 +113,15 @@
 2037={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -96,15 +132,15 @@
 2038={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -115,34 +151,46 @@
 2039={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 2040={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -153,8 +201,8 @@
 2041={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -172,72 +220,111 @@
 2042={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 2043={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city_metropolis"
+	nobles={
+		amount=5
+	}
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=22
+	}
+	freemen={
+		amount=15
 	}	
 	tribesmen={
-		amount=4
+		amount=6
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=5
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=12
 	}
 }
 
 2044={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 2045={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -248,15 +335,15 @@
 2046={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -267,34 +354,46 @@
 2047={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 2048={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -305,15 +404,15 @@
 2049={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -324,34 +423,46 @@
 2050={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 2051={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -362,15 +473,15 @@
 2052={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -381,15 +492,15 @@
 2053={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -400,15 +511,15 @@
 2054={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -419,46 +530,62 @@
 2055={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="upper_nubian"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}	
 	tribesmen={
 		amount=4
+		culture="upper_nubian"
 	}
 	slaves={
-		amount=1
+		amount=8
 	}
 }
 
 2056={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+		culture="upper_nubian"
+	}
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
 	}	
 	tribesmen={
-		amount=4
+		amount=8
+		culture="lower_nubian"
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 2057={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -476,8 +603,8 @@
 2058={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_nubian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -495,8 +622,8 @@
 2059={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_nubian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -514,8 +641,8 @@
 2060={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_nubian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -533,27 +660,31 @@
 2071={ 
 	terrain="oasis"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=4
+	}
 	freemen={
-		amount=1
+		amount=3
 	}	
 	tribesmen={
 		amount=4
+		culture="libi"
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2072={ 
 	terrain="oasis"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -571,8 +702,8 @@
 2073={ 
 	terrain="oasis"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -590,8 +721,8 @@
 1994={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="lower_nubian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -609,8 +740,8 @@
 2074={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -628,8 +759,8 @@
 2075={ 
 	terrain="oasis"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -647,8 +778,8 @@
 2076={ 
 	terrain="oasis"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -666,8 +797,8 @@
 2088={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -685,8 +816,8 @@
 2089={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,8 +835,8 @@
 2090={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -723,8 +854,8 @@
 2091={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -742,8 +873,8 @@
 2092={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -761,8 +892,8 @@
 2093={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -780,8 +911,8 @@
 2094={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -799,8 +930,8 @@
 2095={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -818,8 +949,8 @@
 2096={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -837,8 +968,8 @@
 2097={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -856,8 +987,8 @@
 2098={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -875,8 +1006,8 @@
 2099={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -894,8 +1025,8 @@
 2100={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -913,16 +1044,17 @@
 2103={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="libi"
 	}
 	slaves={
 		amount=1
@@ -932,16 +1064,17 @@
 2104={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="libi"
 	}
 	slaves={
 		amount=1
@@ -951,16 +1084,17 @@
 2109={ 
 	terrain="oasis"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="lower_nubian"
 	}
 	slaves={
 		amount=1
@@ -970,8 +1104,8 @@
 2110={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -989,16 +1123,17 @@
 2111={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="libi"
 	}
 	slaves={
 		amount=1
@@ -1008,16 +1143,17 @@
 2112={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}	
 	tribesmen={
-		amount=4
+		amount=2
+		culture="libi"
 	}
 	slaves={
 		amount=1
@@ -1027,8 +1163,8 @@
 2113={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1046,8 +1182,8 @@
 2114={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1065,8 +1201,8 @@
 2115={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1084,8 +1220,8 @@
 2119={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1103,8 +1239,8 @@
 2120={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1122,8 +1258,8 @@
 2121={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1141,8 +1277,8 @@
 2122={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1160,8 +1296,8 @@
 2123={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1179,8 +1315,8 @@
 2124={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1198,8 +1334,8 @@
 2125={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1217,8 +1353,8 @@
 2126={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1236,8 +1372,8 @@
 2127={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1255,8 +1391,8 @@
 2128={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1274,8 +1410,8 @@
 2129={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1293,8 +1429,8 @@
 2130={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1312,8 +1448,8 @@
 2131={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1331,8 +1467,8 @@
 2132={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1350,8 +1486,8 @@
 2133={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1369,8 +1505,8 @@
 2134={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1388,8 +1524,8 @@
 2135={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1407,8 +1543,8 @@
 2136={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1426,8 +1562,8 @@
 2137={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

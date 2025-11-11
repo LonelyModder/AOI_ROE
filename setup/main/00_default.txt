@@ -264,6 +264,12 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	1898 = { port_building = 2 }
+	2014 = { port_building = 2 }
+	2024 = { port_building = 2 }
+	2034 = { port_building = 2 }
+	2043 = { port_building = 2 }
+	2055 = { port_building = 2 }
 	1307 = { port_building = 2 }
 	1163 = { port_building = 2 }
 	1194 = { port_building = 2 }
@@ -382,6 +388,9 @@ provinces = { #Any entry must contain a comment with city name.
 	########################################
 	# Barbarian Spawn Spots
 	########################################
+	1952 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	2152 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	2145 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	1574 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	1406 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	1624 = { modifier = { modifier = generic_barbarian_spawn_place } }
@@ -2799,13 +2808,13 @@ country = {
 			own_control_core = 	{ 
 				2043 2042 2041 2038 2036 2033 2034 2035 2037 2040 2039 
 				2032 2030 2028 2026 2031 2029 2027 2071 2072 2073 2074 2075 2076
-				2047 2046 2045 2044 2048 2049 2051 2050 2103 2104
+				2047 2046 2045 2044 2048 2049 2051 2050 2103 2104 2111 2112
 			}
 		}
 		
 		EAF = {          
 			government = despotic_monarchy
-			primary_culture = upper_kemetic
+			primary_culture = middle_kemetic
 			religion = kemetic_pantheon
 			capital = 2024
 			
@@ -2836,6 +2845,39 @@ country = {
 			
 			own_control_core = 	{ 
 				2014 2018 2017 2013 2012 2011 2016
+			}
+		}
+		
+		EAH = {          
+			government = tribal_federation
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 1970
+			
+			own_control_core = 	{ 
+				1970 1976 1975 1974 1979 1972 1971 1973 1993 2005
+			}
+		}
+		
+		EAI = {          
+			government = tribal_chiefdom
+			primary_culture = ammonii
+			religion = libyan_pantheon
+			capital = 1904
+			
+			own_control_core = 	{ 
+				1904 1906 1917 1918
+			}
+		}
+		
+		EAJ = {          
+			government = tribal_chiefdom
+			primary_culture = marmaridaian
+			religion = libyan_pantheon
+			capital = 1889
+			
+			own_control_core = 	{ 
+				1889 1890 1888 1891
 			}
 		}
 	}

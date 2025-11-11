@@ -5882,8 +5882,8 @@
 
 1952={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6032,8 +6032,8 @@
 
 2145={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="libyan_pantheon"
+	culture="libi"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6102,8 +6102,8 @@
 
 2152={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="libyan_pantheon"
+	culture="ammonii"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
