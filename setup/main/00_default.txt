@@ -2755,6 +2755,13 @@ country = {
 			religion = kemetic_pantheon
 			capital = 1968
 			
+			poptype_rights = {
+				{
+					culture = libi 
+					type = citizen
+				}
+			}
+			
 			technology={
 				military_tech={ level=2 progress=0 }
 				civic_tech={ level=2 progress=0 }
