@@ -117,6 +117,104 @@ treasure_manager = {
 				local_population_capacity_modifier = 0.075
 			}
 		}
+		17 = { #Leontopolis
+			key = "treasure_obeliskofseti" 
+			icon = "treasure_architecture_hoa"
+			state_modifier = {
+				local_happiness_for_same_religion_modifier = 0.1
+			}
+		}
+		18 = { #Leontopolis
+			key = "treasure_bookofthedead" 
+			icon = "treasure_urn_3"
+			state_modifier = {
+				local_population_capacity_modifier = 0.075
+			}
+		}
+		19 = { #Heliopolis
+			key = "treasure_ramses2obelisk" 
+			icon = "treasure_architecture"
+            state_modifier = {
+				local_freemen_output = 0.15
+			}
+		}
+		20 = { #Heliopolis
+			key = "treasure_benbenstone" 
+			icon = "treasure_chest"
+            state_modifier = {
+				local_population_capacity = 6
+			}
+		}
+		21 = { #Memphis
+			key = "treasure_hemhem_crown" 
+			icon = "treasure_chest"
+            state_modifier = {
+				local_monthly_food_modifier = 0.1
+			}
+		}
+		22 = { #Faiyum
+			key = "treasure_holycrocodile"
+			icon = "treasure_sarcophagus_hoa"
+			state_modifier = {
+				local_building_slot = 2
+			}
+		}
+		23 = { #Thinis
+			key = "treasure_headofamenhotep"
+			icon = "treasure_architecture_hoa"
+			state_modifier = {
+				local_nobles_happyness = 0.1
+			}
+		}
+		24 = { #Abydos
+            key = "treasure_thutmose3obelisk"
+            icon = "treasure_architecture"
+            state_modifier = {
+                local_nobles_output = 0.1
+			}
+		}
+        25 = { #Dendera
+            key = "treasure_sistrumofhathor"
+            icon = "treasure_chest"
+            state_modifier = {
+                local_citizen_happyness = 0.1
+            }
+        } 
+		26 = { #Dendera
+			key = "treasure_sarcophagusseti" 
+			icon = "treasure_sarcophagus_hoa"
+			state_modifier = {
+				local_happiness_for_same_religion_modifier = 0.1
+			}
+		}
+		27 = { #Waset
+			key = "treasure_colossipharaohs"
+			icon = "treasure_architecture_hoa"
+			state_modifier = {
+				local_population_capacity = 4
+			}
+		}
+		28 = { #Waset
+			key = "treasure_thutmose4obelisk"
+			icon = "treasure_architecture"
+            state_modifier = {
+				local_freemen_output = 0.15
+			}
+		}
+		29 = { # Edfu
+            key = "treasure_stellaofhorus"
+            icon = "treasure_chest"
+            state_modifier = {
+                local_nobles_output = 0.1
+            }
+        }
+		30 = { # Tanis
+            key = "treasure_arkofcovenant"
+            icon = "treasure_chest"
+            state_modifier = {
+                local_cohort_start_experience = 20
+            }
+        }
     }
 }
 family={
@@ -211,6 +309,36 @@ diplomacy = {
 
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
+	1981 = { # Tanis
+		treasure_slots = { 	treasures = { 30 } }
+	}
+	2050 = { # Edfu
+		treasure_slots = { 	treasures = { 29 } }
+	}
+	2043 = { # Waset
+		treasure_slots = { 	treasures = { 27 28 } }
+	}
+	2039 = { # Dendera
+		treasure_slots = { 	treasures = { 25 26 } }
+	}
+	2035 = { # Abydos
+		treasure_slots = { 	treasures = { 24 } }
+	}
+	2034 = { # Thinis
+		treasure_slots = { 	treasures = { 23 } }
+	}
+	2013 = { # Faiyum
+		treasure_slots = { 	treasures = { 22 } }
+	}
+	1989 = { # Memphis
+		treasure_slots = { 	treasures = { 21 } }
+	}
+	1996 = { # Heliopolis
+		treasure_slots = { 	treasures = { 19 20 } }
+	}
+	1977 = { # Leontopolis
+		treasure_slots = { 	treasures = { 17 18 } }
+	}
 	313 = { # Rome
 		treasure_slots = { 	treasures = { 1 16 } }
 	}

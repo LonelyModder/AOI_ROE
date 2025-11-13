@@ -72,6 +72,35 @@ deity_mosiris = { # CULTURE
 	}
 }
 
+deity_mmut = { # FERTILITY
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = { RELIGION = kemetic_pantheon }
+			common_deity_trigger = { RELIGION = libyan_pantheon }
+			religion_pops_in_country = {
+				target = kemetic_pantheon
+				value >= very_common_deity_svalue
+			}
+			deity:omen_mmut = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_love
+	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
+	omen = { global_population_growth = omen_global_population_growth } #Bonus from Omen
+	on_activate = {
+		fertility_apotheosis_food_effect = yes
+	}
+	religion = kemetic_pantheon
+	deity_category = fertility #This Deity uses a Fertility Slot
+
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
 deity_misis = { # FERTILITY
 	trigger = {
 		polytheistic_check_religion_trigger = yes

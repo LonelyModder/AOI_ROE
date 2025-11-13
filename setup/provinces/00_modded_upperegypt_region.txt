@@ -58,6 +58,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_manhur"
 }
 
 2035={ 
@@ -89,6 +90,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_mosiris"
 }
 
 2036={ 
@@ -177,6 +179,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_mhathor"
 }
 
 2040={ 
@@ -280,6 +283,7 @@
 	slaves={
 		amount=12
 	}
+	holy_site="omen_mamun"
 }
 
 2044={ 
@@ -449,6 +453,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_mhorus"
 }
 
 2051={ 
@@ -552,6 +557,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_misis"
 }
 
 2056={ 

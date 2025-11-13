@@ -261,6 +261,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_mneith"
 }
 
 1969={ 
@@ -456,6 +457,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_msekhmet"
 }
 
 1978={ 
@@ -556,6 +558,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_mmut"
 }
 
 1982={ 
@@ -735,6 +738,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_mptah"
 }
 
 1990={ 
@@ -873,6 +877,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_mra"
 }
 
 1997={ 

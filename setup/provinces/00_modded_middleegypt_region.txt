@@ -69,6 +69,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_msobek"
 }
 
 2014={ 
@@ -448,6 +449,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_manubis"
 }
 
 2031={ 

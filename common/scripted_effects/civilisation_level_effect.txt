@@ -17,6 +17,8 @@
 							OR = {
 								country_culture_group = grekoid
 								country_culture_group = levantine
+								country_culture_group = egyptian
+								primary_culture = ma
 							}
 						} 
 					}
