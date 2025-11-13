@@ -1188,6 +1188,10 @@
  CRETE_ADJECTIVE:0 "Cretan"
  ACHEA_NAME:0 "Greece"
  ACHEA_ADJECTIVE:0 "Greek"
+ EGYPT_NAME:0 "Kemet"
+ EGYPT_ADJECTIVE:0 "Egyptian"
+ KUSHITEEMPIRE_NAME:0 "Kushite Empire"
+ KUSHITEEMPIRE_ADJECTIVE:0 "Kushite"
  #Event Names
  AlbaLonga_NAME:0 "Alba Longa"
  AlbaLonga_ADJECTIVE:0 "Alban"

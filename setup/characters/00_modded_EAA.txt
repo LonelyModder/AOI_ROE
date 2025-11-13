@@ -1,0 +1,24 @@
+﻿"EAA"={
+	country="EAA"
+	
+	13={
+		first_name="Shoshenq"
+		family = c:EAA.fam:Shoshenqid
+		birth_date=410.1.1
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=5
+		add_finesse=3
+		add_zeal=6
+		no_traits=yes
+		add_trait="shoshenqid"
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:EAA={
+			set_as_ruler=char:13
+		}
+	}
+}

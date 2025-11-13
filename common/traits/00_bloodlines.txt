@@ -89,3 +89,26 @@ aeacid = {
 	}
 	
 }
+
+shoshenqid = {
+	type = status
+	
+	prominence = 20
+	martial = 1
+	
+	support_for_character_as_heir = 10
+
+	country = {
+		manpower_recovery_speed = 0.08
+		discipline = 0.05
+	}
+	
+	province = {
+		local_manpower_modifier = 0.1
+	}
+	
+	unit = {
+		ia_chariots_offensive = 0.1
+	}
+	
+}

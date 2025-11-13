@@ -694,7 +694,7 @@
 
 2061={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -865,7 +865,7 @@
 
 1932={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -884,7 +884,7 @@
 
 1931={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -903,7 +903,7 @@
 
 2070={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -998,7 +998,7 @@
 
 2077={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0

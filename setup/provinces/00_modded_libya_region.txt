@@ -592,7 +592,7 @@
 
 1904={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -614,7 +614,7 @@
 
 1905={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -633,7 +633,7 @@
 
 1906={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -975,7 +975,7 @@
 
 1925={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -994,7 +994,7 @@
 
 1926={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0

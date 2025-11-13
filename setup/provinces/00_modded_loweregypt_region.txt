@@ -977,7 +977,7 @@
 
 2002={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0

@@ -130,8 +130,8 @@ BAE = {
 
 BAI = {
 	pattern = "pattern_solid.tga"
-	color1 = "epirus_light_yellow"
-	color2 = "pitch_black"
+	color1 = "ck2_yellow"
+	color2 = "ck2_yellow"
 
 	colored_emblem = {
 		texture = "ce_epirus.dds"
@@ -201,6 +201,17 @@ EAD = {
 }
 
 #Modded Emblems for starting countries
+
+EGYPT_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_horus.dds"
+		color1 = "pitch_black"
+	}
+}
 
 THRACE_FLAG = {
 	pattern = "pattern_solid.tga"

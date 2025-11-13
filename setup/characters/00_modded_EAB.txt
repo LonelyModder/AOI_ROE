@@ -1,0 +1,24 @@
+﻿"EAB"={
+	country="EAB"
+	
+	14={
+		first_name="Shoshenq"
+		family = c:EAB.fam:Shoshenqid
+		birth_date=402.1.1
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=4
+		add_charisma=4
+		add_finesse=8
+		add_zeal=5
+		no_traits=yes
+		add_trait="shoshenqid"
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:EAB={
+			set_as_ruler=char:14
+		}
+	}
+}

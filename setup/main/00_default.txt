@@ -300,6 +300,18 @@ family={
 			culture = gepirote
 			prestige=300
 		}
+		14={
+			key="shoshenqid"
+			owner=EAA
+			culture = ma
+			prestige=300
+		}
+		15={
+			key="shoshenqid"
+			owner=EAB
+			culture = ma
+			prestige=300
+		}
 		
 		}
 }
@@ -2827,7 +2839,8 @@ country = {
 			}
 		}
 		
-		EAA = {          
+		EAA = {
+			family = 14
 			government = theocratic_monarchy
 			primary_culture = ma
 			religion = kemetic_pantheon
@@ -2838,6 +2851,10 @@ country = {
 					culture = lower_kemetic 
 					type = citizen
 				}
+			}
+			
+			historical_regnal_numbers = {
+				Shoshenq = 4
 			}
 			
 			technology={
@@ -2852,7 +2869,8 @@ country = {
 			}
 		}
 		
-		EAB = {          
+		EAB = {
+			family = 15
 			government = theocratic_monarchy
 			primary_culture = ma
 			religion = kemetic_pantheon
@@ -2863,6 +2881,10 @@ country = {
 					culture = lower_kemetic 
 					type = citizen
 				}
+			}
+			
+			historical_regnal_numbers = {
+				Shoshenq = 6
 			}
 			
 			technology={
