@@ -301,13 +301,13 @@ family={
 			prestige=300
 		}
 		14={
-			key="shoshenqid"
+			key="Shoshenqid"
 			owner=EAA
 			culture = ma
 			prestige=300
 		}
 		15={
-			key="shoshenqid"
+			key="Shoshenqid"
 			owner=EAB
 			culture = ma
 			prestige=300
