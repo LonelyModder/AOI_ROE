@@ -665,7 +665,7 @@
 
 2071={ 
 	terrain="oasis"
-	trade_goods="dates"
+	trade_goods="cloth"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
 	civilization_value=0
@@ -745,7 +745,7 @@
 
 2074={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camels"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -764,7 +764,7 @@
 
 2075={ 
 	terrain="oasis"
-	trade_goods="dates"
+	trade_goods="precious_metals"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0

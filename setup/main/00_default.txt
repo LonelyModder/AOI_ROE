@@ -312,8 +312,37 @@ family={
 			culture = ma
 			prestige=300
 		}
-		
+		16={
+			key="Neferkare"
+			owner=EAG
+			culture = middle_kemetic
+			prestige=300
 		}
+		17={
+			key="Shoshenqid"
+			owner=EAF
+			culture = ma
+			prestige=300
+		}
+		18={
+			key="Napatid"
+			owner=EAD
+			culture = upper_nubian
+			prestige=300
+		}
+		19={
+			key="Menkheperre"
+			owner=EAE
+			culture = upper_kemetic
+			prestige=300
+		}
+		20={
+			key="Horakhty"
+			owner=EAC
+			culture = ma
+			prestige=300
+		}
+	}
 }
 diplomacy = {
 	
@@ -2855,6 +2884,8 @@ country = {
 			
 			historical_regnal_numbers = {
 				Shoshenq = 4
+				Osorkon = 3
+				Pedubast = 1
 			}
 			
 			technology={
@@ -2899,15 +2930,20 @@ country = {
 			}
 		}
 		
-		EAC = {          
+		EAC = { 
+			family = 20
 			government = despotic_monarchy
-			primary_culture = lower_kemetic
+			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 1968
 			
 			poptype_rights = {
 				{
 					culture = libi 
+					type = citizen
+				}
+				{
+					culture = lower_egyptian 
 					type = citizen
 				}
 			}
@@ -2924,7 +2960,8 @@ country = {
 			}
 		}
 		
-		EAD = {          
+		EAD = { 
+			family = 18
 			government = despotic_monarchy
 			primary_culture = upper_nubian
 			religion = kemetic_pantheon
@@ -2949,7 +2986,8 @@ country = {
 			}
 		}
 		
-		EAE = {          
+		EAE = {   
+			family = 19
 			government = despotic_monarchy
 			primary_culture = upper_kemetic
 			religion = kemetic_pantheon
@@ -2969,11 +3007,19 @@ country = {
 			}
 		}
 		
-		EAF = {          
+		EAF = { 
+			family = 17
 			government = despotic_monarchy
-			primary_culture = middle_kemetic
+			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 2024
+			
+			poptype_rights = {
+				{
+					culture = middle_kemetic 
+					type = citizen
+				}
+			}
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -2987,7 +3033,8 @@ country = {
 			}
 		}
 		
-		EAG = {          
+		EAG = {  
+			family = 16
 			government = despotic_monarchy
 			primary_culture = middle_kemetic
 			religion = kemetic_pantheon

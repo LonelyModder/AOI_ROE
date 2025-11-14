@@ -2,8 +2,27 @@
 	country="EAB"
 	
 	14={
+		first_name="Osorkon"
+		family = c:EAA.fam:Shoshenqid
+		birth_date=380.1.1
+		death_date=435.1.1
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=5
+		add_finesse=3
+		add_zeal=6
+		no_traits=yes
+		add_trait="shoshenqid"
+		add_gold=100
+		add_popularity=100
+	}
+	
+	18={
 		first_name="Shoshenq"
 		family = c:EAB.fam:Shoshenqid
+		father="char:14"
 		birth_date=402.1.1
 		culture="ma"
 		religion="kemetic_pantheon"
@@ -18,7 +37,7 @@
 		add_popularity=100
 		#dna=""
 		c:EAB={
-			set_as_ruler=char:14
+			set_as_ruler=char:18
 		}
 	}
 }

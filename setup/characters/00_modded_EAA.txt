@@ -21,4 +21,61 @@
 			set_as_ruler=char:13
 		}
 	}
+	
+	15={
+		first_name="Tadibast"
+		family = c:EAA.fam:Shoshenqid
+		birth_date=410.1.1
+		female = yes
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=2
+		add_charisma=5
+		add_finesse=3
+		add_zeal=6
+		no_traits=yes
+		add_trait="shoshenqid"
+		add_gold=100
+		add_popularity=100
+		marry_character=char:13
+	}
+	
+	16={
+		first_name="Osorkon"
+		family = c:EAA.fam:Shoshenqid
+		birth_date=428.1.1
+		father="char:13"
+		mother="char:15"
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=5
+		add_finesse=3
+		add_zeal=6
+		no_traits=yes
+		add_trait="shoshenqid"
+		add_gold=100
+		add_popularity=100
+	}
+	
+	17={
+		first_name="Pedubast"
+		family = c:EAA.fam:Shoshenqid
+		birth_date=429.1.1
+		father="char:13"
+		mother="char:15"
+		culture="ma"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=5
+		add_finesse=3
+		add_zeal=6
+		no_traits=yes
+		add_trait="shoshenqid"
+		add_gold=100
+		add_popularity=100
+	}
 }

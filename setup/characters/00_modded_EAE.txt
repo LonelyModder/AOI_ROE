@@ -1,0 +1,23 @@
+﻿"EAE"={
+	country="EAE"
+	
+	34={
+		first_name="Ini"
+		family = c:EAE.fam:Menkheperre
+		birth_date=410.1.1
+		culture="upper_kemetic"
+		religion="kemetic_pantheon"
+		no_stats=yes
+		add_martial=2
+		add_charisma=5
+		add_finesse=3
+		add_zeal=6
+		no_traits=yes
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:EAE={
+			set_as_ruler=char:34
+		}
+	}
+}

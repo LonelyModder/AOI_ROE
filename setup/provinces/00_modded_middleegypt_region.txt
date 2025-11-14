@@ -1,6 +1,6 @@
 ﻿2011={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -46,7 +46,7 @@
 
 2013={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -74,7 +74,7 @@
 
 2014={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -120,7 +120,7 @@
 
 2016={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="papyrus"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -146,8 +146,8 @@
 }
 
 2017={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0

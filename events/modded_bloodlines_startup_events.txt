@@ -131,7 +131,11 @@ bloodlines_startup.5 = { #Shoshenqid
 	immediate = {
 		every_character = {
 			limit = {
+				OR = {
 					has_same_family = char:13
+					has_same_family = char:14
+					has_same_family = char:23
+				}
 			}
 			add_trait = shoshenqid
 		
@@ -143,3 +147,29 @@ bloodlines_startup.5 = { #Shoshenqid
 	}
 
 }
+
+bloodlines_startup.6 = { #Napatan
+
+	type = country_event
+	hidden = yes
+	
+	trigger = {
+		tag = EAD
+	}
+	
+	immediate = {
+		every_character = {
+			limit = {
+				has_same_family = char:25
+			}
+			add_trait = napatan
+		
+		}
+		hidden_effect = {
+			trigger_event = { id = bloodlines_setup_completion.1 }
+		}
+	
+	}
+
+}
+
