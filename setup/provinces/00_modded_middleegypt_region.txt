@@ -19,7 +19,7 @@
 
 2012={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="papyrus"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -147,7 +147,7 @@
 
 2017={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -315,7 +315,7 @@
 
 2025={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -353,7 +353,7 @@
 
 2027={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="gems"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
 	civilization_value=0
@@ -391,7 +391,7 @@
 
 2029={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
 	civilization_value=0
@@ -675,7 +675,7 @@
 
 2087={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -770,7 +770,7 @@
 
 2065={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -789,7 +789,7 @@
 
 2066={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -808,7 +808,7 @@
 
 2067={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -960,7 +960,7 @@
 
 2101={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -979,7 +979,7 @@
 
 2102={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -1036,7 +1036,7 @@
 
 2106={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -1055,7 +1055,7 @@
 
 2107={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
