@@ -101,7 +101,7 @@
 
 2015={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -166,7 +166,7 @@
 
 2018={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -185,7 +185,7 @@
 
 2019={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -204,7 +204,7 @@
 
 2020={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -223,7 +223,7 @@
 
 2021={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -242,7 +242,7 @@
 
 2022={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -261,7 +261,7 @@
 
 2023={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -288,7 +288,7 @@
 
 2024={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -334,7 +334,7 @@
 
 2026={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
 	civilization_value=0
@@ -372,7 +372,7 @@
 
 2028={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
 	civilization_value=0
@@ -422,7 +422,7 @@
 
 2030={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
 	civilization_value=0
@@ -454,7 +454,7 @@
 
 2031={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
 	civilization_value=0
@@ -485,7 +485,7 @@
 
 2032={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
 	civilization_value=0
@@ -504,7 +504,7 @@
 
 2116={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -523,7 +523,7 @@
 
 2117={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -542,7 +542,7 @@
 
 2118={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -561,7 +561,7 @@
 
 2081={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -580,7 +580,7 @@
 
 2082={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -599,7 +599,7 @@
 
 2083={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -618,7 +618,7 @@
 
 2084={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -637,7 +637,7 @@
 
 2085={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -656,7 +656,7 @@
 
 2086={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="kemetic_pantheon"
 	culture="middle_kemetic"
 	civilization_value=0
@@ -713,7 +713,7 @@
 
 2062={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -732,7 +732,7 @@
 
 2063={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -751,7 +751,7 @@
 
 2064={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -827,7 +827,7 @@
 
 2068={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -846,7 +846,7 @@
 
 2069={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -922,7 +922,7 @@
 
 2078={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -941,7 +941,7 @@
 
 2079={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -1017,7 +1017,7 @@
 
 2105={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -1074,7 +1074,7 @@
 
 2108={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -1093,7 +1093,7 @@
 
 2080={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0

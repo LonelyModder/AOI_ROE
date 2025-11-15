@@ -38,7 +38,7 @@
 
 1959={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="glass"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -108,7 +108,7 @@
 
 1962={ 
 	terrain="marsh"
-	trade_goods="spices"
+	trade_goods="papyrus"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -434,7 +434,7 @@
 
 1977={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="cloth"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -500,7 +500,7 @@
 
 1980={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="papyrus"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -582,7 +582,7 @@
 
 1983={ 
 	terrain="marsh"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -609,7 +609,7 @@
 
 1984={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -628,7 +628,7 @@
 
 1985={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -646,8 +646,8 @@
 }
 
 1986={ 
-	terrain="desert"
-	trade_goods="spices"
+	terrain="salt"
+	trade_goods="salt"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -685,7 +685,7 @@
 
 1988={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="cloth"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -743,7 +743,7 @@
 
 1990={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -762,7 +762,7 @@
 
 1991={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -781,7 +781,7 @@
 
 1992={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="cattle"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -808,7 +808,7 @@
 
 1993={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -901,7 +901,7 @@
 
 1998={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -939,7 +939,7 @@
 
 2000={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -996,7 +996,7 @@
 
 2003={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -1015,7 +1015,7 @@
 
 2004={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0
@@ -1034,7 +1034,7 @@
 
 2005={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -1053,7 +1053,7 @@
 
 2006={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0
@@ -1072,7 +1072,7 @@
 
 2007={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"
 	civilization_value=0

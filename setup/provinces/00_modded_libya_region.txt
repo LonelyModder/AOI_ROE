@@ -1,6 +1,6 @@
 ﻿1873={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 1874={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 1875={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 1876={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 1877={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -95,7 +95,7 @@
 
 1878={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="silphium"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -114,7 +114,7 @@
 
 1879={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="silphium"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -133,7 +133,7 @@
 
 1880={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -152,7 +152,7 @@
 
 1881={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -171,7 +171,7 @@
 
 1882={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -190,7 +190,7 @@
 
 1883={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="silphium"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -209,7 +209,7 @@
 
 1884={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="silphium"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -228,7 +228,7 @@
 
 1885={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -247,7 +247,7 @@
 
 1886={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -266,7 +266,7 @@
 
 1887={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -285,7 +285,7 @@
 
 1888={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="silphium"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -304,7 +304,7 @@
 
 1889={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="silphium"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -326,7 +326,7 @@
 
 1890={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="silphium"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -345,7 +345,7 @@
 
 1891={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -364,7 +364,7 @@
 
 1892={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -383,7 +383,7 @@
 
 1893={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -402,7 +402,7 @@
 
 1894={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -421,7 +421,7 @@
 
 1895={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -440,7 +440,7 @@
 
 1896={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -459,7 +459,7 @@
 
 1897={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -478,7 +478,7 @@
 
 1898={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -497,7 +497,7 @@
 
 1899={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -516,7 +516,7 @@
 
 1900={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -535,7 +535,7 @@
 
 1901={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -554,7 +554,7 @@
 
 1902={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -573,7 +573,7 @@
 
 1903={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -592,7 +592,7 @@
 
 1904={ 
 	terrain="oasis"
-	trade_goods="dates"
+	trade_goods="horses"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -652,7 +652,7 @@
 
 1907={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -671,7 +671,7 @@
 
 1908={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -690,7 +690,7 @@
 
 1909={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -709,7 +709,7 @@
 
 1910={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -728,7 +728,7 @@
 
 1911={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -747,7 +747,7 @@
 
 1912={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -766,7 +766,7 @@
 
 1913={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -785,7 +785,7 @@
 
 1914={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -804,7 +804,7 @@
 
 1915={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -823,7 +823,7 @@
 
 1916={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -842,7 +842,7 @@
 
 1917={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -861,7 +861,7 @@
 
 1918={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -880,7 +880,7 @@
 
 1920={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -899,7 +899,7 @@
 
 1921={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -918,7 +918,7 @@
 
 1922={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -937,7 +937,7 @@
 
 1923={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -956,7 +956,7 @@
 
 1924={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -994,7 +994,7 @@
 
 1926={ 
 	terrain="oasis"
-	trade_goods="dates"
+	trade_goods="horses"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1013,7 +1013,7 @@
 
 1927={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1032,7 +1032,7 @@
 
 1928={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1051,7 +1051,7 @@
 
 1929={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1070,7 +1070,7 @@
 
 1930={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1089,7 +1089,7 @@
 
 1933={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1108,7 +1108,7 @@
 
 1934={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1127,7 +1127,7 @@
 
 1935={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1146,7 +1146,7 @@
 
 1936={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1165,7 +1165,7 @@
 
 1937={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1184,7 +1184,7 @@
 
 1938={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1203,7 +1203,7 @@
 
 1939={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="ammonii"
 	civilization_value=0
@@ -1222,7 +1222,7 @@
 
 1940={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1241,7 +1241,7 @@
 
 1941={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1260,7 +1260,7 @@
 
 1942={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1279,7 +1279,7 @@
 
 1943={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1298,7 +1298,7 @@
 
 1944={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1317,7 +1317,7 @@
 
 1945={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1336,7 +1336,7 @@
 
 1946={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1355,7 +1355,7 @@
 
 1947={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1374,7 +1374,7 @@
 
 1948={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1393,7 +1393,7 @@
 
 1949={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1412,7 +1412,7 @@
 
 1950={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0
@@ -1431,7 +1431,7 @@
 
 1951={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="marmaridaian"
 	civilization_value=0

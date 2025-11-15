@@ -110,7 +110,7 @@
  libi:0 "Libu"
  ma:0 "Meshwesh"
  marmaridaian:0 "Marmaridaian"
- ammonii:0 "Ammonii"
+ ammonii:0 "Ammonian"
  libyan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  libyan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nubian

@@ -2874,6 +2874,10 @@ country = {
 			religion = kemetic_pantheon
 			capital = 1981
 			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
+			
 			poptype_rights = {
 				{
 					culture = lower_kemetic 
@@ -2906,6 +2910,10 @@ country = {
 			religion = kemetic_pantheon
 			capital = 1977
 			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
+			
 			poptype_rights = {
 				{
 					culture = lower_kemetic 
@@ -2935,6 +2943,10 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 1968
+			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
 			
 			poptype_rights = {
 				{
@@ -2966,6 +2978,10 @@ country = {
 			religion = kemetic_pantheon
 			capital = 2055
 			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
+			
 			poptype_rights = {
 				{
 					culture = lower_nubian 
@@ -2992,6 +3008,10 @@ country = {
 			religion = kemetic_pantheon
 			capital = 2043
 			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
+			
 			technology={
 				military_tech={ level=2 progress=0 }
 				civic_tech={ level=2 progress=0 }
@@ -3012,6 +3032,10 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 2024
+			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
 			
 			poptype_rights = {
 				{
@@ -3039,6 +3063,10 @@ country = {
 			religion = kemetic_pantheon
 			capital = 2014
 			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
+			
 			technology={
 				military_tech={ level=2 progress=0 }
 				civic_tech={ level=2 progress=0 }
@@ -3056,6 +3084,9 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 1970
+			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
 			
 			own_control_core = 	{ 
 				1970 1976 1975 1974 1979 1972 1971 1973 1993 2005
