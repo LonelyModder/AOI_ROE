@@ -4,7 +4,7 @@
 	25={
 		first_name="Kashta"
 		family = c:EAD.fam:Napatid
-		birth_date=410.1.1
+		birth_date=405.1.1
 		culture="upper_nubian"
 		religion="kemetic_pantheon"
 		no_stats=yes
@@ -25,7 +25,7 @@
 	26={
 		first_name="Pebatjema"
 		family = c:EAD.fam:Napatid
-		birth_date=410.1.1
+		birth_date=405.1.1
 		female = yes
 		culture="upper_nubian"
 		religion="kemetic_pantheon"
@@ -44,7 +44,7 @@
 	28={
 		first_name="Piye"
 		family = c:EAD.fam:Napatid
-		birth_date=427.1.1
+		birth_date=425.1.1
 		father="char:25"
 		mother="char:26"
 		culture="upper_nubian"
@@ -122,7 +122,7 @@
 	32={
 		first_name="Amenirdis"
 		family = c:EAD.fam:Napatid
-		birth_date=431.1.1
+		birth_date=425.1.1
 		female=yes
 		father="char:25"
 		mother="char:26"

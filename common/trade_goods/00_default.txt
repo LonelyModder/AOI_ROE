@@ -50,6 +50,7 @@ horses = { #276 territories
 	category = 0
 	allow_unit_type = ia_heavycavalry
 	allow_unit_type = ia_lightcavalry
+	allow_unit_type = ia_chariots
 	
 	gold = 0.25
 	

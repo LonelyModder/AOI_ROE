@@ -89,7 +89,7 @@
 		}
 	}
 	
-	kush_01_egypt_99 = { # Macedon Conquered
+	kush_01_egypt_99 = { # Kushite Empire
 		requires = { kush_01_egypt_6b } 
 		icon = task_conquest
 		#duration = 30
