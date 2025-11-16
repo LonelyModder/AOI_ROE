@@ -564,7 +564,7 @@
 	terrain="plains"
 	trade_goods="cattle"
 	religion="kemetic_pantheon"
-	culture="upper_kemetic"
+	culture="lower_nubian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -574,13 +574,13 @@
 	}
 	citizen={
 		amount=7
+		culture="upper_kemetic"
 	}
 	freemen={
 		amount=5
 	}	
 	tribesmen={
 		amount=8
-		culture="lower_nubian"
 	}
 	slaves={
 		amount=6
@@ -1091,16 +1091,15 @@
 	terrain="oasis"
 	trade_goods="dates"
 	religion="kemetic_pantheon"
-	culture="upper_kemetic"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount=1
 	}	
 	tribesmen={
-		amount=2
-		culture="lower_nubian"
+		amount=4
 	}
 	slaves={
 		amount=1
@@ -1130,16 +1129,15 @@
 	terrain="desert"
 	trade_goods="wild_game"
 	religion="kemetic_pantheon"
-	culture="upper_kemetic"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount=1
 	}	
 	tribesmen={
-		amount=2
-		culture="libi"
+		amount=4
 	}
 	slaves={
 		amount=1
@@ -1150,16 +1148,15 @@
 	terrain="desert"
 	trade_goods="wild_game"
 	religion="kemetic_pantheon"
-	culture="upper_kemetic"
+	culture="libi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount=1
 	}	
 	tribesmen={
-		amount=2
-		culture="libi"
+		amount=4
 	}
 	slaves={
 		amount=1

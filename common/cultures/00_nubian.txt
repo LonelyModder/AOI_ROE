@@ -56,7 +56,7 @@
 	
 	barbarian_names = { GARAMANTES NASSAMONES ASBYSTAE ADYRMACHIDAE GILLIGAMAE AUSCHISAE TROGLODYTAE PSYLLI LAGUATANI MESHWESH }
 	
-	graphical_culture = egyptian_gfx
+	graphical_culture = nubian_gfx
 	
 	ethnicities = {
 		10 = meroitic
