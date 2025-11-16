@@ -13,7 +13,7 @@
 	potential = { 
 		NOT = { has_variable = kush_01_egypt }
 		primary_culture = upper_nubian
-		tag=EAE
+		tag=EAD
 		is_monarchy = yes
 		is_subject = no
 		has_civil_war = no

@@ -2954,7 +2954,7 @@ country = {
 					type = citizen
 				}
 				{
-					culture = lower_egyptian 
+					culture = lower_kemetic 
 					type = citizen
 				}
 			}
@@ -2985,6 +2985,10 @@ country = {
 			poptype_rights = {
 				{
 					culture = lower_nubian 
+					type = citizen
+				}
+				{
+					culture = upper_kemetic 
 					type = citizen
 				}
 			}
@@ -3021,8 +3025,8 @@ country = {
 			
 			own_control_core = 	{ 
 				2043 2042 2041 2038 2036 2033 2034 2035 2037 2040 2039 
-				2032 2030 2028 2026 2031 2029 2027 2071 2072 2073 2074 2075 2076
-				2047 2046 2045 2044 2048 2049 2051 2050 2103 2104 2111 2112
+				2032 2030 2028 2026 2031 2029 2027 2071
+				2047 2046 2045 2044 2048 2049 2051 2050 2111 2112
 			}
 		}
 		
