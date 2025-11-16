@@ -79,3 +79,12 @@
  macedon_01_macedonia_6b_DESC:2 "Aparently the Temple of Delphi was sacked and their treasures stolen. This sacrelige caused the series of holy wars in central Hellas. We could use this and take up a mantle of the one who will restore peace and order to Greece. If by chance we will become the next Hegemon than who will blame us?"
  macedon_01_macedonia_99:0 "New Hegemon"
  macedon_01_macedonia_99_DESC:2 "Finally after all those years Greece has new master. Now the centuries of chaos are over. Merchants can travel from Pella to Athens withous fear. Farmers can plow their fields and be sure they will live to see them harvested. All that thanks to their new Macedonian overlords. Now there is the time to unite with the greeks overseas who suffer from opression of foreign kings."
+ #Macedonia
+ #Starter
+ kush_01_egypt:0 "Kushite Invasion"
+ kush_01_egypt_DESCRIPTION:0 "Kushites lived for hundreds of years under the shadow of their northern neighbours. Egyptian reign began with military outposts and expeditions but soon they started to colonize the area and they even created a series of fortresses to maintain control over it. But now egypt is in a state of civil war and Kush have a new rulers. Leaders of Napata looked at the pharohs with envy. They started to reform Nubia into a proper centralised state and now seeing the oportunity that may not repeat itself kushites started war preparations. But one do not always need to fight with a sword."
+ kush_01_egypt_CRITERIA_DESCRIPTION:0 "Follow the path of legendary Nubian kings like Kashta and Piye. Invade Egypt and become the first nubian on the throne of pharohs."
+ kush_01_egypt_BUTTON_TOOLTIP:0 "Follow the path of legendary Nubian kings like Kashta and Piye. Invade Egypt and become the first nubian on the throne of pharohs."
+ #Missions
+ kush_01_egypt_1:0 "Wife for the God"
+ kush_01_egypt_1_DESC:2 "The post of a Wife of Amun at Thebes is a very important position. It allows to control the second most important institution in the country, the theban temple. Now the position is empty and we have a potential candidate in mind. Because who will be more loyal wife of a god than the future pharohs daughter?"

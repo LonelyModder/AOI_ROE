@@ -1,0 +1,122 @@
+﻿kush_01_egypt = { # Kushite Invasion
+	icon = kush_01_egypt
+	header = mission_image_rome #mission_image_phrygia
+	
+	repeatable = no
+
+    chance = {
+		factor = 10
+	}
+	
+	ai_chance = { factor = 10 }
+
+	potential = { 
+		NOT = { has_variable = kush_01_egypt }
+		primary_culture = upper_nubian
+		tag=EAE
+		is_monarchy = yes
+		is_subject = no
+		has_civil_war = no
+		NOT = { has_global_variable = kush_fail }
+	}
+	
+	abort = {	
+		OR = {
+			NOT = { primary_culture = upper_nubian }
+			custom_tooltip = {
+				text = kush_01_egypt_abort_tt
+				has_global_variable = kush_fail
+			}
+			ai_mission_back_out_trigger = yes
+		}
+	}
+	
+	on_start = {
+    	start_mission_ai_effect = yes
+    	save_scope_as = me_kush_scope
+		add_country_modifier = {
+	        name = kush_1_starts
+	        duration = 3650 # 10 years
+	    }
+    }
+	
+	on_abort = {
+    	custom_tooltip = ant_1_mission_cooldown_tt
+    	if = {
+	    	limit = { has_country_modifier = kush_1_starts }
+    		remove_country_modifier = kush_1_starts
+	    }
+		set_variable = {
+			name =kush_01_egypt
+			days = 7300
+		}
+    }
+	
+	on_completion = {
+		add_country_modifier = {
+    		name = kush_1_victory
+    		duration = 7300 # 20 years
+    	}
+    	complete_mission_effect = yes 
+    }
+	
+	
+	kush_01_egypt_1 = { # Wife for the God
+		requires = {  }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			treasury > 50
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -50
+			}
+			hidden_effect = { 
+				add_treasury = -50
+			}
+			trigger_event = { id = kush_01_egypt_1.1 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = kush_01_egypt_1.2 } 
+		}
+	}
+	
+	kush_01_egypt_99 = { # Macedon Conquered
+		requires = { kush_01_egypt_6b } 
+		icon = task_conquest
+		#duration = 30
+		
+		allow = { #Change to Important Capitals!
+			owns_or_subject_owns = 1171 # Korynthos
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 1171 # Korynthos
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = kush_01_egypt_beaten
+			}
+		}
+		final = yes 
+	}
+	
+}
+	
