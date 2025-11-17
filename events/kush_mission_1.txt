@@ -65,9 +65,10 @@ kush_01_egypt_1.3 = {
 		add_legitimacy = legitimacy_medium
 		ordered_character = {
 			limit = {
-				father = current_ruler
+				exists = father
+				father = ROOT.current_ruler
 				is_female = yes
-				ia_adult = yes
+				is_adult = yes
 			}
 			add_trait = "wifeofamun"
 		}
@@ -128,9 +129,8 @@ kush_01_egypt_1.6 = {
 	
 	option = { 
 		name = "kush_01_egypt_1.6.a"
-		trigger_event = {
-			id = kush_01_egypt_1.7
-			days = 15
+		set_global_variable = {
+			name = kushite_vanguard_marches
 		}
 	}
 }
@@ -144,6 +144,7 @@ kush_01_egypt_1.7 = {
 	
 	trigger = {
 		tag=EAE
+		has_global_variable = kushite_vanguard_marches
 	}
 	
 	option = { 
@@ -154,11 +155,8 @@ kush_01_egypt_1.7 = {
 			}
 			set_conquered_by = c:EAD
 		}
-		trigger_event = {
-			id = kush_01_egypt_1.8
-		}
-		trigger_event = {
-			id = kush_01_egypt_1.10
+		set_global_variable = {
+			name = vanguard_succeded
 		}
 		ai_chance = { base = 80 }
 	}
@@ -166,8 +164,8 @@ kush_01_egypt_1.7 = {
 	option = { 
 		name = "kush_01_egypt_1.7.b"
 		add_manpower = -5
-		trigger_event = {
-			id = kush_01_egypt_1.9
+		set_global_variable = {
+			name = vanguard_failed
 		}
 		ai_chance = { base = 20 }
 	}
@@ -182,6 +180,7 @@ kush_01_egypt_1.8 = {
 	
 	trigger = {
 		tag=EAD
+		has_global_variable = vanguard_succeded
 	}
 	
 	option = { 
@@ -198,6 +197,7 @@ kush_01_egypt_1.9 = {
 	
 	trigger = {
 		tag=EAD
+		has_global_variable = vanguard_failed
 	}
 	
 	option = { 
@@ -214,6 +214,7 @@ kush_01_egypt_1.10 = {
 	
 	trigger = {
 		tag=EAE
+		has_global_variable = vanguard_succeded
 	}
 	
 	option = { 
@@ -249,8 +250,8 @@ kush_01_egypt_1.11 = {
 				add_claim = c:EAD
 			}
 		}
-		trigger_event = {
-			id = kush_01_egypt_1.12
+		set_global_variable = {
+			name = kushite_claim
 		}
 	}
 }
@@ -265,6 +266,7 @@ kush_01_egypt_1.12 = {
 	trigger = {
 		NOT = { tag=EAD }
 		religion = kemetic_pantheon
+		has_global_variable = kushite_claim
 	}
 	
 	option = { 

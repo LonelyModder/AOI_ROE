@@ -180,7 +180,7 @@
 	}
 	
 	kush_01_egypt_99 = { # Kushite Empire
-		requires = { kush_01_egypt_6b } 
+		requires = { kush_01_egypt_4 } 
 		icon = task_conquest
 		#duration = 30
 		
