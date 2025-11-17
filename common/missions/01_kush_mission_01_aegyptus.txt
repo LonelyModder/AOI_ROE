@@ -85,7 +85,35 @@
 		}
 		
 		on_completion = {
-			trigger_event = { id = kush_01_egypt_1.2 } 
+			
+		}
+	}
+	
+	kush_01_egypt_2 = { # Without a Fight
+		requires = { kush_01_egypt_1 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			treasury > 50
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -50
+			}
+			hidden_effect = { 
+				add_treasury = -50
+			}
+			trigger_event = { id = kush_01_egypt_1.6 }
+		}
+		
+		on_completion = {
+			
 		}
 	}
 	

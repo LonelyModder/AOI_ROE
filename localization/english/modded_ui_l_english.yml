@@ -51,3 +51,6 @@
  order_draft:0 "Order Draft"
  order_draft_desc:0 "In times of need Rome is able to mobilise large amounts of soldiers surprising it's oponents. Thats why it never runs out of soldiers. Taking eternal city is the only way to prevent it but to get there enemy must defeat army after army."
  
+ #Special Traits
+ wifeofamun:0 "Wife of Amun"
+ wifeofamun_desc:1 "This female character holds important position in kemetic church. Her official task is to watchover the holy statue of Amun, but unofficially she is often a spy of a crown as title was usually reserved for women connected to royal dynasty."

@@ -59,6 +59,6 @@
 	graphical_culture = nubian_gfx
 	
 	ethnicities = {
-		10 = meroitic
+		10 = nubian
 	}
 }

@@ -5,7 +5,7 @@ kush_01_egypt_1.1 = {
 	title = "kush_01_egypt_1.1.t"
 	desc = "kush_01_egypt_1.1.desc"
 	fire_only_once = yes
-	picture = macedon_pic_1
+	picture = kush_pic_1
 	
 	trigger = {
 		tag=EAD
@@ -13,6 +13,104 @@ kush_01_egypt_1.1 = {
 	
 	option = { 
 		name = "kush_01_egypt_1.1.a"
-		
+		set_global_variable = {
+			name = amenirdis_amuns_wife
+		}
+	}
+}
+
+kush_01_egypt_1.2 = {  
+	type = country_event
+	title = "kush_01_egypt_1.2.t"
+	desc = "kush_01_egypt_1.2.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag=EAE
+		has_global_variable = amenirdis_amuns_wife
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.2.a"
+		set_global_variable = {
+			name = amenirdis_accepted
+		}
+		ai_chance = { base = 80 }
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.2.b"
+		set_global_variable = {
+			name = amenirdis_rejected
+		}
+		ai_chance = { base = 20 }
+	}
+}
+
+kush_01_egypt_1.3 = {  
+	type = country_event
+	title = "kush_01_egypt_1.3.t"
+	desc = "kush_01_egypt_1.3.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag=EAD
+		has_global_variable = amenirdis_accepted
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.3.a"
+		add_legitimacy = legitimacy_medium
+		ordered_character = {
+			limit = {
+				father = current_ruler
+				is_female = yes
+				ia_adult = yes
+			}
+			add_trait = "wifeofamun"
+		}
+	}
+}
+
+kush_01_egypt_1.4 = {  
+	type = country_event
+	title = "kush_01_egypt_1.4.t"
+	desc = "kush_01_egypt_1.4.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag=EAD
+		has_global_variable = amenirdis_rejected
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.4.a"
+		add_legitimacy = subtract_legitimacy_medium
+		c:EAE = {
+			every_owned_province = {
+				set_conquered_by = c:EAD
+			}
+		}
+	}
+}
+
+kush_01_egypt_1.5 = {  
+	type = country_event
+	title = "kush_01_egypt_1.5.t"
+	desc = "kush_01_egypt_1.5.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag=EAE
+		has_global_variable = amenirdis_accepted
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.5.a"
+		add_legitimacy = subtract_legitimacy_medium
 	}
 }
