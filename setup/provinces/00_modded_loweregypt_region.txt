@@ -646,7 +646,7 @@
 }
 
 1986={ 
-	terrain="salt"
+	terrain="desert"
 	trade_goods="salt"
 	religion="kemetic_pantheon"
 	culture="lower_kemetic"

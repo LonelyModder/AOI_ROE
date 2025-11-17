@@ -91,7 +91,7 @@ kush_01_egypt_1.4 = {
 		add_legitimacy = subtract_legitimacy_medium
 		c:EAE = {
 			every_owned_province = {
-				set_conquered_by = c:EAD
+				add_claim = c:EAD
 			}
 		}
 	}
@@ -112,5 +112,178 @@ kush_01_egypt_1.5 = {
 	option = { 
 		name = "kush_01_egypt_1.5.a"
 		add_legitimacy = subtract_legitimacy_medium
+	}
+}
+
+kush_01_egypt_1.6 = {  
+	type = country_event
+	title = "kush_01_egypt_1.6.t"
+	desc = "kush_01_egypt_1.6.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag=EAD
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.6.a"
+		trigger_event = {
+			id = kush_01_egypt_1.7
+			days = 15
+		}
+	}
+}
+
+kush_01_egypt_1.7 = {  
+	type = country_event
+	title = "kush_01_egypt_1.7.t"
+	desc = "kush_01_egypt_1.7.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag=EAE
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.7.a"
+		every_owned_province = {
+			limit = {
+				NOT = { is_in_area = kharga_area }
+			}
+			set_conquered_by = c:EAD
+		}
+		trigger_event = {
+			id = kush_01_egypt_1.8
+		}
+		trigger_event = {
+			id = kush_01_egypt_1.10
+		}
+		ai_chance = { base = 80 }
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.7.b"
+		add_manpower = -5
+		trigger_event = {
+			id = kush_01_egypt_1.9
+		}
+		ai_chance = { base = 20 }
+	}
+}
+
+kush_01_egypt_1.8 = {  
+	type = country_event
+	title = "kush_01_egypt_1.8.t"
+	desc = "kush_01_egypt_1.8.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag=EAD
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.8.a"
+	}
+}
+
+kush_01_egypt_1.9 = {  
+	type = country_event
+	title = "kush_01_egypt_1.9.t"
+	desc = "kush_01_egypt_1.9.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag=EAD
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.9.a"
+	}
+}
+
+kush_01_egypt_1.10 = {  
+	type = country_event
+	title = "kush_01_egypt_1.10.t"
+	desc = "kush_01_egypt_1.10.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag=EAE
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.10.a"
+	}
+}
+
+kush_01_egypt_1.11 = {  
+	type = country_event
+	title = "kush_01_egypt_1.11.t"
+	desc = "kush_01_egypt_1.11.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag=EAD
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.11.a"
+		c:EAE = {
+			every_owned_province = {
+				add_claim = c:EAD
+			}
+		}
+		c:EAF = {
+			every_owned_province = {
+				add_claim = c:EAD
+			}
+		}
+		c:EAG = {
+			every_owned_province = {
+				add_claim = c:EAD
+			}
+		}
+		trigger_event = {
+			id = kush_01_egypt_1.12
+		}
+	}
+}
+
+kush_01_egypt_1.12 = {  
+	type = country_event
+	title = "kush_01_egypt_1.12.t"
+	desc = "kush_01_egypt_1.12.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		NOT = { tag=EAD }
+		religion = kemetic_pantheon
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.12.a"
+	}
+}
+
+kush_01_egypt_1.13 = {  
+	type = country_event
+	title = "kush_01_egypt_1.13.t"
+	desc = "kush_01_egypt_1.13.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag = EAD
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.13.a"
 	}
 }
