@@ -305,7 +305,7 @@ kush_01_egypt_1.14 = {
 	
 	option = { 
 		name = "kush_01_egypt_1.14.a"
-		any_neighbor_province = {
+		random_ownable_province = {
 			limit = {
 				has_owner = no
 				OR = {
@@ -314,11 +314,20 @@ kush_01_egypt_1.14 = {
 					is_in_area = hormos_area
 					is_in_area = redcoast_area
 				}
+				any_neighbor_province = {
+                    count >= 2
+                    has_owner = yes
+                    owner = c:EAD
+				}
 			}
 			set_conquered_by = c:EAD
+			add_province_modifier = {
+                name = colonization_progress
+                duration = 365
+            }
 		}
-		add_manpower = -1
-		add_treasury = -20
+		add_manpower = -0.25
+		add_treasury = -5
 		ai_chancee = { base = 80 }
 	}
 	
@@ -350,7 +359,7 @@ kush_01_egypt_1.15 = {
                 count = 2
                 define_pop = {
 					type = citizen
-					culture = upper_kemetic
+					culture = upper_nubian
 					religion = kemetic_pantheon
                 }
             }
@@ -358,13 +367,19 @@ kush_01_egypt_1.15 = {
                 count = 2
                 define_pop = {
 					type = freemen
-					culture = upper_kemetic
+					culture = upper_nubian
 					religion = kemetic_pantheon
                 }
             }
+			if = {
+				limit = {
+					num_of_port_building < 1
+				}
+				add_building_level = port_building
+			}
 		}
-		add_manpower = -4
-		add_treasury = -50
+		add_manpower = -1
+		add_treasury = -25
 		ai_chancee = { base = 80 }
 	}
 	
@@ -396,7 +411,7 @@ kush_01_egypt_1.16 = {
                 count = 2
                 define_pop = {
 					type = citizen
-					culture = upper_kemetic
+					culture = upper_nubian
 					religion = kemetic_pantheon
                 }
             }
@@ -404,13 +419,19 @@ kush_01_egypt_1.16 = {
                 count = 2
                 define_pop = {
 					type = freemen
-					culture = upper_kemetic
+					culture = upper_nubian
 					religion = kemetic_pantheon
                 }
             }
+			if = {
+				limit = {
+					num_of_port_building < 1
+				}
+				add_building_level = port_building
+			}
 		}
-		add_manpower = -4
-		add_treasury = -50
+		add_manpower = -1
+		add_treasury = -25
 		ai_chancee = { base = 80 }
 	}
 	
@@ -434,7 +455,313 @@ kush_01_egypt_1.17 = {
 	option = { 
 		name = "kush_01_egypt_1.17.a"
 		set_global_variable = {
-			name = demands_for_middle_egypts
+			name = demands_for_middle_egyptians
+		}
+	}
+}
+
+kush_01_egypt_1.18 = {  
+	type = country_event
+	title = "kush_01_egypt_1.18.t"
+	desc = "kush_01_egypt_1.18.desc"
+	fire_only_once = yes
+	picture = tefnakht_egypt_pic
+	hidden = yes
+	
+	trigger = {
+		tag = EAD
+		owns = 2043
+	}
+	
+	immediate = {
+		
+		create_character = {
+			first_name = "Tefnakht"
+			family_name = "Merriamun"
+			no_stats = yes
+			culture = lower_kemetic
+			religion = kemetic_pantheon
+			age = 23
+			good_martial_effect = yes
+			good_charisma_effect = yes
+			average_finesse_effect = yes
+			good_zeal_effect = yes
+			add_gold=500
+			save_scope_as = tefnakht_gov
+		}
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.18.a"
+		#Tefnakhts Uprising
+		p:1968 = { #24th Dynasty
+			create_country = {
+				change_government = theocratic_monarchy
+				set_primary_culture = lower_kemetic
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Tefnakhts_NAME"
+				change_country_adjective = "Tefnakhts_ADJECTIVE"
+				set_as_ruler=scope:tefnakht_gov
+			}
+		}
+		p:1968.owner = {
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 730
+			}	
+		}
+		p:1966.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:1968
+				target = p:1968.owner
+			}
+		}
+		set_global_variable = {
+			name = tefnakhts_rebelion
+		}
+	}
+}
+
+kush_01_egypt_1.19 = {  
+	type = country_event
+	title = "kush_01_egypt_1.19.t"
+	desc = "kush_01_egypt_1.19.desc"
+	fire_only_once = yes
+	picture = tefnakht_egypt_pic
+	
+	right_portrait = scope:tefnakht_gov
+	
+	trigger = {
+		religion = kemetic_pantheon
+		has_global_variable = tefnakhts_rebelion
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.19.a"
+	}
+}
+
+kush_01_egypt_1.20 = {  
+	type = country_event
+	title = "kush_01_egypt_1.20.t"
+	desc = "kush_01_egypt_1.20.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag = EAF
+		has_global_variable = demands_for_middle_egyptians
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.20.a"
+		c:EAD = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+		set_global_variable = {
+			name = kushite_hermapolis
+		}
+		ai_chance = { base = 20 }
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.20.b"
+		p:1968.owner = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+		set_global_variable = {
+			name = saitan_hermapolis
+		}
+		ai_chance = { base = 50 }
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.20.c"
+		set_global_variable = {
+			name = neutral_hermapolis
+		}
+		ai_chance = { base = 30 }
+	}
+}
+
+kush_01_egypt_1.21 = {  
+	type = country_event
+	title = "kush_01_egypt_1.21.t"
+	desc = "kush_01_egypt_1.21.desc"
+	fire_only_once = yes
+	picture = kush_pic_1
+	
+	trigger = {
+		tag = EAG
+		has_global_variable = demands_for_middle_egyptians
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.21.a"
+		c:EAD = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+		set_global_variable = {
+			name = kushite_heracleopolis
+		}
+		ai_chance = { base = 20 }
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.21.b"
+		p:1968.owner = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+		set_global_variable = {
+			name = saitan_heracleopolis
+		}
+		ai_chance = { base = 50 }
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.21.c"
+		set_global_variable = {
+			name = neutral_heracleopolis
+		}
+		ai_chance = { base = 30 }
+	}
+}
+
+kush_01_egypt_1.22 = {  
+	type = country_event
+	title = "kush_01_egypt_1.22.t"
+	desc = "kush_01_egypt_1.22.desc"
+	fire_only_once = yes
+	picture = tefnakht_egypt_pic
+	
+	trigger = {
+		religion = kemetic_pantheon
+		has_global_variable = kushite_hermapolis
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.22.a"
+	}
+}
+
+kush_01_egypt_1.23 = {  
+	type = country_event
+	title = "kush_01_egypt_1.23.t"
+	desc = "kush_01_egypt_1.23.desc"
+	fire_only_once = yes
+	picture = tefnakht_egypt_pic
+	
+	trigger = {
+		religion = kemetic_pantheon
+		has_global_variable = saitan_hermapolis
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.23.a"
+	}
+}
+
+kush_01_egypt_1.24 = {  
+	type = country_event
+	title = "kush_01_egypt_1.24.t"
+	desc = "kush_01_egypt_1.24.desc"
+	fire_only_once = yes
+	picture = tefnakht_egypt_pic
+	
+	trigger = {
+		religion = kemetic_pantheon
+		has_global_variable = neutral_hermapolis
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.24.a"
+	}
+}
+
+kush_01_egypt_1.25 = {  
+	type = country_event
+	title = "kush_01_egypt_1.25.t"
+	desc = "kush_01_egypt_1.25.desc"
+	fire_only_once = yes
+	picture = tefnakht_egypt_pic
+	
+	trigger = {
+		religion = kemetic_pantheon
+		has_global_variable = kushite_heracleopolis
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.25.a"
+	}
+}
+
+kush_01_egypt_1.26 = {  
+	type = country_event
+	title = "kush_01_egypt_1.26.t"
+	desc = "kush_01_egypt_1.26.desc"
+	fire_only_once = yes
+	picture = tefnakht_egypt_pic
+	
+	trigger = {
+		religion = kemetic_pantheon
+		has_global_variable = saitan_heracleopolis
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.26.a"
+	}
+}
+
+kush_01_egypt_1.27 = {  
+	type = country_event
+	title = "kush_01_egypt_1.27.t"
+	desc = "kush_01_egypt_1.27.desc"
+	fire_only_once = yes
+	picture = tefnakht_egypt_pic
+	
+	trigger = {
+		religion = kemetic_pantheon
+		has_global_variable = neutral_heracleopolis
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.27.a"
+	}
+}
+
+kush_01_egypt_1.28 = {  
+	type = country_event
+	title = "kush_01_egypt_1.28.t"
+	desc = "kush_01_egypt_1.28.desc"
+	fire_only_once = yes
+	picture = tefnakht_egypt_pic
+	
+	trigger = {
+		tag = EAD
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.28.a"
+		region:modded_loweregypt_region = {
+            every_region_province = {
+				limit = {
+					has_owner = yes
+				}
+				add_claim = c:EAD
+			}
 		}
 	}
 }

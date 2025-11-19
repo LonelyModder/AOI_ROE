@@ -13,6 +13,11 @@ kush_pic_1 = {
 	picture = "gfx/interface/event_window/kush_pic_1.dds"
 }
 
+tefnakht_egypt_pic = {
+	theme = Honor
+	picture = "gfx/interface/event_window/tefnakht_egypt_pic.dds"
+}
+
 macedon_pic_1 = {
 	theme = Honor
 	picture = "gfx/interface/event_window/macedon_pic_1.dds"

@@ -96,5 +96,10 @@
  kush_01_egypt_4_DESC:2 "Wadi Hammamat or Wadi in general are rivers that flow only periodically during the rains. Hammamat was an important trade network connecting our country with the land of Melluha (India) during the times before civil war and with a bit of effort it can be opened again."
  kush_01_egypt_5:0 "Nominal Vassals"
  kush_01_egypt_5_DESC:2 "There are three major political centers in Upper Egypt: Thebes which by now are under control, Hermapolis and Heracleopolis. The nomarchs of the two remaining cities pledged their allegience but we did not recieve any tribute or hostages so their loyalty is basically nonexistant. We may be forced to directly take control over this region."
- kush_01_egypt_99:0 "Kushite Empire"
- kush_01_egypt_99_DESC:2 ""
+ kush_01_egypt_6:0 "Lord of Two Lands"
+ kush_01_egypt_6_DESC:2 "It's almost poetic that this time things end as they started, with the war between the Northern and Southern Egypt. The Delta will be filled with fortresses and marshlands, we will have to fight for every crossing but we haven't come this far to give up now."
+ kush_01_egypt_7:0 "Egyptian Oases"
+ kush_01_egypt_7_DESC:2 "There are four main egyptian oases: Kharga, Dakhleh, Baharia and Farafra. Togather they serve both as important stops on the caravan trail and a natural shield protecting Kemet from the libyan raids and as libyans become a serious issue these days it is imperative for us to restore those outposts. "
+ 
+ kush_01_egypt_99:0 "The New Pharoh"
+ kush_01_egypt_99_DESC:2 "Finally for the first time in history kushite sits on the egyptian throne. The last attempt at conquest of Egypt was made seven centuries ago. Throu all this time Kush was a patchwork of different tribes that were busy fighting each other instead of their real enemies. No more! From now on All will fear the us for we are sons of Ra!"

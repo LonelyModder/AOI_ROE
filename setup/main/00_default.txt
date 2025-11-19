@@ -3084,13 +3084,20 @@ country = {
 		}
 		
 		EAH = {          
-			government = tribal_federation
+			government = aristocratic_republic
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 1970
 			
 			succession_law=egyption_succession_law
 			succession=old_egyptian_succession
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
 			
 			own_control_core = 	{ 
 				1970 1976 1975 1974 1979 1972 1971 1973 1993 2005

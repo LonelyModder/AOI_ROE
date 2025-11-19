@@ -52,6 +52,16 @@
 		kush_01_egypt_1.14
 		kush_01_egypt_1.15
 		kush_01_egypt_1.16
+		kush_01_egypt_1.18 #Tefnakht
+		kush_01_egypt_1.19 #Tefnakht
+		kush_01_egypt_1.20
+		kush_01_egypt_1.21
+		kush_01_egypt_1.22
+		kush_01_egypt_1.23
+		kush_01_egypt_1.24
+		kush_01_egypt_1.25
+		kush_01_egypt_1.26
+		kush_01_egypt_1.27
 		#Units
 		units_allowance_events.1
 		#Modded events 
