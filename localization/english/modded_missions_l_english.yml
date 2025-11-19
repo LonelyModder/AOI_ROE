@@ -94,6 +94,7 @@
  kush_01_egypt_3_DESC:2 "Nubia was last time a part of the Egyptian Empire more than two centuries ago. Thou we belong to old nobility and surely we can track our heritage to the Ramasside dynasty I'm afraid that no one will care about it. Still if we want to be one of the claimants we need to make it known that kushites will march north to bring order and not as raiding party."
  kush_01_egypt_4:0 "Wadi Hammamat"
  kush_01_egypt_4_DESC:2 "Wadi Hammamat or Wadi in general are rivers that flow only periodically during the rains. Hammamat was an important trade network connecting our country with the land of Melluha (India) during the times before civil war and with a bit of effort it can be opened again."
- 
+ kush_01_egypt_5:0 "Nominal Vassals"
+ kush_01_egypt_5_DESC:2 "There are three major political centers in Upper Egypt: Thebes which by now are under control, Hermapolis and Heracleopolis. The nomarchs of the two remaining cities pledged their allegience but we did not recieve any tribute or hostages so their loyalty is basically nonexistant. We may be forced to directly take control over this region."
  kush_01_egypt_99:0 "Kushite Empire"
  kush_01_egypt_99_DESC:2 ""

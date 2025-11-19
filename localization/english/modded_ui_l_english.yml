@@ -14,6 +14,9 @@
  MacedonINTRO:0 "#T Macedon#!\nDifficulty: #Y MEDIUM#!\n\n Acording to legend Macedon was founded by the Caranos of the Argead dynasty. Argeads erive their lineage from the legendary hero Heracles and claim to be one of the branches of the Heraclidae dynasty who's members escaped the dynastic strife in Argos and decided to found their own realm. Macedon is surrounded by hostile tribes of Illyrian and Thracian origin. Their greek neighbours view them more as barbarians than fellow greeks. Yet it's a sizable kingdom with capable leaders that one day may compete for hegemony in hellas."
  Macedon:0 "Macedon"
  Macedon2:0 "Macedon"
+ KushINTRO:0 "#T Kush#!\nDifficulty: #Y MEDIUM#!\n\n Kush after the centuries of Egyptian ocupation is finally united under king Kashta. In comparison their great nemesis is in the middle of a civil war between the two branches of the family of migrants who managed to take the throne of egypt from locals under the threat of arms. This gives the Kushites the opportunity that may never repeat itself. Will nubian sit one day on the throne of Rameses the Great? "
+ Kush:0 "Kush"
+ Kush2:0 "Kush"
  
  owns_any_neighboring_province:0 "Owns any neighbour province"
  owns_any_neighboring_province_culture:0 "Any owned #Y neighbour#! province must fulfill one of the following: \n  Dominant province culture is an #Y integrated#! culture \n  Dominant province culture is #Y [THIS.GetProvince.GetCulture.GetName]#!"
