@@ -216,8 +216,35 @@
 		}
 	}
 	
-	kush_01_egypt_7 = { # Egyptian Oases
+	kush_01_egypt_7 = { # Western Desert
 		requires = { kush_01_egypt_5 }
+		icon = task_conquest
+		duration = 730
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			trigger_event = { id = kush_01_egypt_1.29 }
+			set_global_variable = {
+				name = edesert_colonization
+			}
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = edesert_colonized
+			}
+		}
+	}
+	
+	kush_01_egypt_8 = { # Kushite Empire
+		requires = { kush_01_egypt_6 }
 		icon = task_conquest
 		#duration = 730
 		
@@ -230,27 +257,65 @@
 		}
 		
 		on_start = {
-			trigger_event = { id = kush_01_egypt_1.29 }
+			
 		}
 		
 		on_completion = {
-			
+			trigger_event = { id = kush_01_egypt_1.31 }
 		}
 	}
 	
-	kush_01_egypt_99 = { # Kushite Empire
-		requires = { kush_01_egypt_5 } 
+	kush_01_egypt_9 = { # Great Bitter Lake
+		requires = { kush_01_egypt_6 }
 		icon = task_conquest
-		#duration = 30
+		#duration = 730
 		
-		allow = { #Change to Important Capitals!
-			owns_or_subject_owns = 1171 # Korynthos
+		allow = {
+			owns = 1999 # Clysma
 		}
 		
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id  = 1171 # Korynthos
+					province_id  = 1999 # Clysma
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = kush_01_egypt_1.32 }
+		}
+	}
+	
+	kush_01_egypt_99 = { # Kushite Empire
+		requires = { kush_01_egypt_8 } 
+		icon = task_conquest
+		#duration = 30
+		
+		allow = { #Change to Important Capitals!
+			owns_or_subject_owns = 2043 # Thebes
+			owns_or_subject_owns = 1981 # Tanis
+			owns_or_subject_owns = 1989 # Mamphis
+			owns_or_subject_owns = 1968 # Sais
+			owns_or_subject_owns = 1977 # Leontopolis
+			owns_or_subject_owns = 2024 # Hermapolis
+			owns_or_subject_owns = 2014 # Heracleopolis
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 2043 # Thebes
+					province_id  = 1981 # Tanis
+					province_id  = 1989 # Mamphis
+					province_id  = 1968 # Sais
+					province_id  = 1977 # Leontopolis
+					province_id  = 2024 # Hermapolis
+					province_id  = 2014 # Heracleopolis
 				}
 			}
 		}

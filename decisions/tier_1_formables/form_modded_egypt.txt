@@ -7,6 +7,7 @@
 			num_of_cities >= 1
 			NOT = {
 				tag = XEG
+				tag = EAD
 			}
 			NOT = {
 				is_tier_1_formable_trigger = yes
@@ -43,24 +44,12 @@
 		
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
-			if = {
-				limit = {
-					country_culture_group = nubian
-				}
-				change_country_name = "KUSHITEEMPIRE_NAME"
-				hidden_effect = {
-					change_country_adjective = "KUSHITEEMPIRE_ADJECTIVE"
-					change_country_tag = XEG
-				}
-			}
-			else_if = {
-				change_country_name = "EGYPT_NAME"
-				hidden_effect = {
-					change_country_adjective = "EGYPT_ADJECTIVE"
-					change_country_color = "EGYPT_COLOR"
-					change_country_tag = XEG
-					change_country_flag = EGYPT_FLAG
-				}
+			change_country_name = "EGYPT_NAME"
+			hidden_effect = {
+				change_country_adjective = "EGYPT_ADJECTIVE"
+				change_country_color = "EGYPT_COLOR"
+				change_country_tag = XEG
+				change_country_flag = EGYPT_FLAG
 			}
 			capital_scope = {
 				capital_formable_small_effect = yes

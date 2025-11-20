@@ -62,6 +62,7 @@
 		kush_01_egypt_1.25
 		kush_01_egypt_1.26
 		kush_01_egypt_1.27
+		kush_01_egypt_1.30
 		#Units
 		units_allowance_events.1
 		#Modded events 
