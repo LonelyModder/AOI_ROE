@@ -132,9 +132,7 @@
 		#duration = 30
 		
 		allow = {
-			c:AAG = {
-				owns = 340
-			}
+			
 		}
 		
 		highlight = {
@@ -150,7 +148,14 @@
 		}
 		
 		on_completion = {
-			trigger_event = { id = latium_01_italy_1.4 } #Etruscan League abandons Veii
+			if = {
+				limit = {exists=c:AAG}
+				trigger_event = { id = latium_01_italy_1.4 } #Etruscan League abandons Veii
+			}
+		}
+		
+		bypass = {
+			NOT = {exists=c:AAG}
 		}
 	}
 	
