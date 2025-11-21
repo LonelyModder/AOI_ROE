@@ -80,3 +80,8 @@ draft_ordered = {
 	
 }
 
+#Local Provincial
+egyptian_fields = {
+	local_goods_from_slaves = -5
+}
+

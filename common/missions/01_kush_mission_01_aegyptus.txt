@@ -291,6 +291,79 @@
 		}
 	}
 	
+	kush_01_egypt_10 = { # Breadbasket of Mediterrainean
+		requires = { kush_01_egypt_6 }
+		icon = task_conquest
+		duration = 730
+		
+		allow = {
+			treasury > 100
+			NOT = {exist = c:EAA}
+			NOT = {exist = c:EAB}
+			NOT = {exist = c:EAC}
+			NOT = {exist = c:EAF}
+			NOT = {exist = c:EAG}
+			NOT = {exist = c:EAH}
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			set_global_variable = {
+				name = egypt_grain_start
+			}
+			trigger_event = { id = kush_01_egypt_1.33 }
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = egypt_grain_end
+			}
+			trigger_event = { id = kush_01_egypt_1.35 }
+		}
+	}
+	
+	kush_01_egypt_11 = { # Naukratis
+		requires = { kush_01_egypt_10 }
+		icon = task_conquest
+		#duration = 730
+		
+		allow = {
+			treasury > 100
+			own = 1987
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 1987 # Naucratis
+				}
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = kush_01_egypt_1.36 }
+		}
+		
+		on_completion = {
+			
+		}
+	}
+	
 	kush_01_egypt_99 = { # Kushite Empire
 		requires = { kush_01_egypt_8 } 
 		icon = task_conquest

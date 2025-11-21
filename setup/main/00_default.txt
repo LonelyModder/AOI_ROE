@@ -433,6 +433,9 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	1968 = { port_building = 2 }
+	1981 = { port_building = 2 }
+	1989 = { port_building = 2 }
 	2014 = { port_building = 2 }
 	2024 = { port_building = 2 }
 	2034 = { port_building = 2 }

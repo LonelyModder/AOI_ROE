@@ -18,6 +18,11 @@ kush_pic_builders = {
 	picture = "gfx/interface/event_window/kush_pic_builders.dds"
 }
 
+kush_pic_grain = {
+	theme = Honor
+	picture = "gfx/interface/event_window/kush_pic_grain.dds"
+}
+
 tefnakht_egypt_pic = {
 	theme = Honor
 	picture = "gfx/interface/event_window/tefnakht_egypt_pic.dds"
