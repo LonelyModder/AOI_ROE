@@ -803,7 +803,7 @@ kush_01_egypt_1.30 = {
 				OR = {
 					is_in_area = kharga_area
 					is_in_area = dakhla_area
-					bahariya_area = hormos_area
+					is_in_area = bahariya_area
 				}
 				any_neighbor_province = {
                     has_owner = yes
@@ -967,6 +967,9 @@ kush_01_egypt_1.32 = {
 				add_building_level = fortress_building
 			}
 		}
+		p:1983 = {
+			add_building_level = fortress_building
+		}
 		add_manpower = -1
 		add_treasury = -100
 	}
@@ -996,7 +999,7 @@ kush_01_egypt_1.34 = {
 	type = country_event
 	title = "kush_01_egypt_1.34.t"
 	desc = "kush_01_egypt_1.34.desc"
-	fire_only_once = yes
+	#fire_only_once = yes
 	picture = kush_pic_grain
 	
 	trigger = {
@@ -1007,10 +1010,11 @@ kush_01_egypt_1.34 = {
 	
 	option = { 
 		name = "kush_01_egypt_1.34.a"
-		random_ownable_province = {
+		random_owned_province = {
 			limit = {
 				has_owner = yes
 				owner = c:EAD
+				NOT = { has_province_modifier = egyptian_fields }
 				OR = {
 					terrain = farmland
 					trade_goods = grain

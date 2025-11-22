@@ -5,13 +5,10 @@
 		
 		potential = {
 			num_of_cities >= 1
-			num_of_cities <= 13
-			capital_scope = {
-				OR = {
-					is_in_area = wcrete_area
-					is_in_area = ecrete_area
-				}
-				NOT = {capital_scope = {province_id = 1144}}
+			NOT = {
+				is_tier_1_formable_trigger = yes
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
 			}
 			NOT = {
 				tag = XCR

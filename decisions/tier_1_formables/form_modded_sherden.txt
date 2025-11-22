@@ -5,14 +5,10 @@
 		
 		potential = {
 			num_of_cities >= 1
-			capital_scope = {
-				OR = {
-					is_in_area = caralis_area
-					is_in_area = sulci_area
-					is_in_area = turris_area
-					is_in_area = olbia_area
-					is_in_area = corsica_area
-				}
+			NOT = {
+				is_tier_1_formable_trigger = yes
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
 			}
 			NOT = {
 				tag = XSH
