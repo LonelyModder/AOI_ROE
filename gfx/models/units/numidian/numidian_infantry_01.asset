@@ -833,12 +833,12 @@ entity = {
 # Do one for each unit type
 
 entity = {
-	name = "numidian_gfx__levy"
+	name = "numidian_gfx_levy"
 	clone = "numidian_gfx_light_infantry"
 }
 
 entity = {
-	name = "numidian_gfx__legion"
+	name = "numidian_gfx_legion"
 	clone = "numidian_gfx_heavy_infantry"
 }
 
