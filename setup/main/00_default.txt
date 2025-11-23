@@ -356,7 +356,7 @@ provinces = { #Any entry must contain a comment with city name.
 	2050 = { # Edfu
 		treasure_slots = { 	treasures = { 29 } }
 	}
-	2043 = { # Waset
+	2043 = { # Egyptian Thebes
 		treasure_slots = { 	treasures = { 27 28 } }
 	}
 	2039 = { # Dendera
@@ -2881,13 +2881,6 @@ country = {
 			succession=old_egyptian_succession
 			monarchy_citizen_law = foreign_law_for_minorities
 			
-			poptype_rights = {
-				{
-					culture = lower_kemetic 
-					type = citizen
-				}
-			}
-			
 			historical_regnal_numbers = {
 				Shoshenq = 4
 				Osorkon = 3
@@ -2917,13 +2910,6 @@ country = {
 			succession=old_egyptian_succession
 			monarchy_citizen_law = foreign_law_for_minorities
 			
-			poptype_rights = {
-				{
-					culture = lower_kemetic 
-					type = citizen
-				}
-			}
-			
 			historical_regnal_numbers = {
 				Shoshenq = 6
 			}
@@ -2950,17 +2936,6 @@ country = {
 			succession_law=egyption_succession_law
 			succession=old_egyptian_succession
 			monarchy_citizen_law = foreign_law_for_minorities
-			
-			poptype_rights = {
-				{
-					culture = libi 
-					type = citizen
-				}
-				{
-					culture = lower_kemetic 
-					type = citizen
-				}
-			}
 			
 			technology={
 				military_tech={ level=2 progress=0 }

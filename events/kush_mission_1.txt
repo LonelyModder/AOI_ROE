@@ -469,7 +469,7 @@ kush_01_egypt_1.18 = {
 	
 	trigger = {
 		tag = EAD
-		owns = 2043
+		owns_or_subject_owns = 2043
 	}
 	
 	immediate = {
@@ -502,6 +502,12 @@ kush_01_egypt_1.18 = {
 				change_country_adjective = "Tefnakhts_ADJECTIVE"
 				set_as_ruler=scope:tefnakht_gov
 			}
+		}
+		p:1966 = {
+			set_conquered_by = p:1968.owner
+		}
+		p:1967 = {
+			set_conquered_by = p:1968.owner
 		}
 		p:1968.owner = {
 			add_country_modifier = {
