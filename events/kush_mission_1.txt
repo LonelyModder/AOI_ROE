@@ -1135,13 +1135,18 @@ kush_01_egypt_1.37 = {
 				change_country_adjective = "Leontopolis_ADJECTIVE"
 			}
 		}
-		p:1981 = { #Tanis
-			create_country = {
-				change_government = despotic_monarchy
-				set_primary_culture = lower_kemetic
-				set_country_religion = kemetic_pantheon
-				change_country_name = "Tanis_NAME"
-				change_country_adjective = "Sais_ADJECTIVE"
+		if = {
+			limit = {
+				NOT = {capital_scope = { province_id = 1981 }}
+			}
+			p:1981 = { #Tanis
+				create_country = {
+					change_government = despotic_monarchy
+					set_primary_culture = lower_kemetic
+					set_country_religion = kemetic_pantheon
+					change_country_name = "Tanis_NAME"
+					change_country_adjective = "Tanis_ADJECTIVE"
+				}
 			}
 		}
 		c:EAD = {
@@ -1157,10 +1162,15 @@ kush_01_egypt_1.37 = {
                 type = feudatory
                 target = p:1977.owner
             }
-			make_subject = {
-                type = feudatory
-                target = p:1981.owner
-            }
+			if = {
+				limit = {
+					NOT = {capital_scope = { province_id = 1981 }}
+				}
+				make_subject = {
+					type = feudatory
+					target = p:1981.owner
+				}
+			}
         }
 		add_political_influence = -20
 	}
