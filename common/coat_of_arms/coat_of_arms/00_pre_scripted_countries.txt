@@ -85,17 +85,6 @@ AAM = {
 	}
 }
 
-AAG = {
-	pattern = "pattern_solid.tga"
-	color1 = "etruscan_blue"
-	color2 = "bone_white"
-
-	colored_emblem = {
-		texture = "ce_chimera.dds"
-		color1 = "bone_white"
-	}
-}
-
 AAA = {
 	pattern = "pattern_solid.tga"
 	color1 = "roman_red"
@@ -309,5 +298,16 @@ SHERDEN_FLAG = {
 	colored_emblem = {
 		texture = "ce_nuragian.dds"
 		color1 = "roman_red"
+	}
+}
+
+TRUSCAN_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "etruscan_blue"
+	color2 = "bone_white"
+
+	colored_emblem = {
+		texture = "ce_chimera.dds"
+		color1 = "bone_white"
 	}
 }

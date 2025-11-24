@@ -9,6 +9,7 @@
 		tag = XEI #Epirus
 		tag = XTH #Thrace
 		tag = XEG #Egypt
+		tag = XET #Etruria
 	}
 }
 
