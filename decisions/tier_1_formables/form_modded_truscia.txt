@@ -8,6 +8,7 @@
 			NOT = {
 				tag = XET
 			}
+			country_culture_group = thyrrenic
 			NOT = {
 				is_tier_1_formable_trigger = yes
 				is_tier_2_formable_trigger = yes

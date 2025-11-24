@@ -180,7 +180,7 @@ tuscani_heritage = {
 		civic_tech_investment = 0.2
 		
 		#bad
-		levy_size_multiplier = -0.025
+		navy_maintenance_cost = 0.1
 	}
 	
 	trigger = {

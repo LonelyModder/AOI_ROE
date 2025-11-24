@@ -126,41 +126,41 @@
 		}
 	}
 	
-	latium_01_italy_3a = { # First conflict with Etruscans
-		requires = { latium_01_italy_2 }
-		icon = task_conquest
-		#duration = 30
-		
-		allow = {
-			
-		}
-		
-		highlight = {
-			scope:province = {
-				is_in_area = perusia_area
-				is_in_area = setruria_area
-				is_in_area = netruria_area
-			}
-		}
-		
-		on_start = {
-			
-		}
-		
-		on_completion = {
-			if = {
-				limit = {exists=c:AAG}
-				trigger_event = { id = latium_01_italy_1.4 } #Etruscan League abandons Veii
-			}
-		}
-		
-		bypass = {
-			NOT = {exists=c:AAG}
-		}
-	}
+	#latium_01_italy_3a = { # First conflict with Etruscans
+	#	requires = { latium_01_italy_2 }
+	#	icon = task_conquest
+	#	#duration = 30
+	#	
+	#	allow = {
+	#		
+	#	}
+	#	
+	#	highlight = {
+	#		scope:province = {
+	#			is_in_area = perusia_area
+	#			is_in_area = setruria_area
+	#			is_in_area = netruria_area
+	#		}
+	#	}
+	#	
+	#	on_start = {
+	#		
+	#	}
+	#	
+	#	on_completion = {
+	#		if = {
+	#			limit = {exists=c:AAG}
+	#			trigger_event = { id = latium_01_italy_1.4 } #Etruscan League abandons Veii
+	#		}
+	#	}
+	#	
+	#	bypass = {
+	#		NOT = {exists=c:AAG}
+	#	}
+	#}
 	
 	latium_01_italy_4a = { # Fall of Veii
-		requires = { latium_01_italy_3a }
+		requires = { latium_01_italy_2 } #latium_01_italy_3a
 		icon = task_conquest
 		#duration = 30
 		

@@ -1094,3 +1094,78 @@ kush_01_egypt_1.36 = {
 		}
 	}
 }
+
+kush_01_egypt_1.37 = {  
+	type = country_event
+	title = "kush_01_egypt_1.37.t"
+	desc = "kush_01_egypt_1.37.desc"
+	fire_only_once = yes
+	picture = kush_pic_grain
+	
+	trigger = {
+		tag = EAD
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.37.a"
+		p:1968 = { #Sais
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = lower_kemetic
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Sais_NAME"
+				change_country_adjective = "Sais_ADJECTIVE"
+			}
+		}
+		p:1970 = { #Busiris
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = lower_kemetic
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Busiris_NAME"
+				change_country_adjective = "Busiris_ADJECTIVE"
+			}
+		}
+		p:1977 = { #Leontopolis
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = lower_kemetic
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Leontopolis_NAME"
+				change_country_adjective = "Leontopolis_ADJECTIVE"
+			}
+		}
+		p:1981 = { #Tanis
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = lower_kemetic
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Tanis_NAME"
+				change_country_adjective = "Sais_ADJECTIVE"
+			}
+		}
+		c:EAD = {
+            make_subject = {
+                type = feudatory
+                target = p:1968.owner
+            }
+			make_subject = {
+                type = feudatory
+                target = p:1970.owner
+            }
+			make_subject = {
+                type = feudatory
+                target = p:1977.owner
+            }
+			make_subject = {
+                type = feudatory
+                target = p:1981.owner
+            }
+        }
+		add_political_influence = -20
+	}
+	
+	option = { 
+		name = "kush_01_egypt_1.37.b"
+	}
+}

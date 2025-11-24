@@ -680,7 +680,7 @@ country = {
 		
 		AAG = {     
 			family=5
-			government = aristocratic_republic
+			government = despotic_monarchy
 			primary_culture = etrusci
 			religion = villanic_pantheon
 			capital = 345
@@ -693,7 +693,223 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				345
+				345 342
+			}
+		}
+		
+		CAA = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 340
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				340 343
+			}
+		}
+		
+		CAB = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 494
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				494 493 492
+			}
+		}
+		
+		CAC = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 421
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				421 423 422 424 397 395 388 
+			}
+		}
+		
+		CAD = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 396
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				396 427 426 425 430 429 393 392 391 394 390 389 386 387
+			}
+		}
+		
+		CAE = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 367
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				367 364 369 368 365 366
+			}
+		}
+		
+		CAF = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 349
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				349 348 344 
+			}
+		}
+		
+		CAG = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 347
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				347 346
+			}
+		}
+		
+		CAH = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 360
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				360 361
+			}
+		}
+		
+		CAI = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 351
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				351 352 354 353 357
+			}
+		}
+		
+		CAJ = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 356
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				356 355
+			}
+		}
+		
+		CAK = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 359
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				359 358 362 350 363
+			}
+		}
+		
+		CAL = {
+			government = despotic_monarchy
+			primary_culture = etrusci
+			religion = villanic_pantheon
+			capital = 341
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				341
 			}
 		}
 		
@@ -976,7 +1192,7 @@ country = {
 		}
 		
 		ABE = {     
-			government = aristocratic_republic
+			government = despotic_monarchy
 			primary_culture = etrusci
 			religion = villanic_pantheon
 			capital = 273
@@ -1279,10 +1495,10 @@ country = {
 		}
 		
 		ACK = {          
-			government = aristocratic_republic
+			government = despotic_monarchy
 			primary_culture = etrusci
 			religion = villanic_pantheon
-			capital = 396
+			capital = 483
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -1292,8 +1508,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				494 423 421 422 493 492 490 483 482 424 429 425 393 394 391 392
-				428 431 434 433 430 426 427 396 397 395 484 491 390 389 386 387 388
+				483 482 484 490 491 434 433 431 428 
 			}
 		}
 		
