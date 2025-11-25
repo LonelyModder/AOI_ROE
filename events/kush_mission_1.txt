@@ -1065,7 +1065,7 @@ kush_01_egypt_1.36 = {
 	title = "kush_01_egypt_1.36.t"
 	desc = "kush_01_egypt_1.36.desc"
 	fire_only_once = yes
-	picture = kush_pic_grain
+	picture = kush_pic_1
 	
 	trigger = {
 		tag = EAD
@@ -1100,7 +1100,7 @@ kush_01_egypt_1.37 = {
 	title = "kush_01_egypt_1.37.t"
 	desc = "kush_01_egypt_1.37.desc"
 	fire_only_once = yes
-	picture = kush_pic_grain
+	picture = kush_pic_1
 	
 	trigger = {
 		tag = EAD
