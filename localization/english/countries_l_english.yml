@@ -1162,6 +1162,8 @@
  KUSHITEEMPIRE_ADJECTIVE:0 "Kushite"
  TRUSCIA_NAME:0 "Etruria"
  TRUSCIA_ADJECTIVE:0 "Etruscan"
+ EPIRUS_NAME:0 "Epirus"
+ EPIRUS_ADJECTIVE:0 "Epirote"
  #Event Names
  AlbaLonga_NAME:0 "Alba Longa"
  AlbaLonga_ADJECTIVE:0 "Alban"
