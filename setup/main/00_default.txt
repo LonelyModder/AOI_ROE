@@ -1579,7 +1579,7 @@ country = {
 		}
 		
 		ADF = {          
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = cpannonian
 			religion = celtic_pantheon
 			capital = 896
@@ -1590,7 +1590,7 @@ country = {
 		}
 		
 		ADI = {          
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = cpannonian
 			religion = celtic_pantheon
 			capital = 976
