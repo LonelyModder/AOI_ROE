@@ -132,7 +132,7 @@ esfa_startup.7 = { #Canaanites
     }
 }
 
-esfa_startup.8 = { #Nuragian
+esfa_startup.8 = { #Thracian
     type = country_event
     title = esfa_startup.8.t
     desc = esfa_startup.8.desc
@@ -144,5 +144,50 @@ esfa_startup.8 = { #Nuragian
 
     option = {    
         name = esfa_startup.8.a
+    }
+}
+
+esfa_startup.9 = { #Egyptian
+    type = country_event
+    title = esfa_startup.9.t
+    desc = esfa_startup.9.desc
+    picture = welcoming_window_1
+	
+    trigger = {
+		country_culture_group = kemetic
+    }
+
+    option = {    
+        name = esfa_startup.9.a
+    }
+}
+
+esfa_startup.10 = { #Libyan
+    type = country_event
+    title = esfa_startup.10.t
+    desc = esfa_startup.10.desc
+    picture = welcoming_window_1
+	
+    trigger = {
+		country_culture_group = libyan
+    }
+
+    option = {    
+        name = esfa_startup.10.a
+    }
+}
+
+esfa_startup.11 = { #Nubian
+    type = country_event
+    title = esfa_startup.11.t
+    desc = esfa_startup.11.desc
+    picture = welcoming_window_1
+	
+    trigger = {
+		country_culture_group = nubian
+    }
+
+    option = {    
+        name = esfa_startup.11.a
     }
 }

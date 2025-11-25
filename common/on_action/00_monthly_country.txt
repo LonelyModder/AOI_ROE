@@ -10,7 +10,7 @@
 		family_events.7 #Tribal family fall
 		family_events.9 #Rise of Family in Republics
 		#Modded events
-		#Latium Mission Italy
+		#Latium mission Italy
 		latium_01_italy_1.5
 		latium_01_italy_1.6
 		latium_01_italy_1.7
@@ -39,6 +39,31 @@
 		macedon_01_macedonia_1.23
 		macedon_01_macedonia_1.24
 		macedon_01_macedonia_1.25
+		#Kush mission Egypt
+		kush_01_egypt_1.2
+		kush_01_egypt_1.3
+		kush_01_egypt_1.4
+		kush_01_egypt_1.5
+		kush_01_egypt_1.7
+		kush_01_egypt_1.8
+		kush_01_egypt_1.9
+		kush_01_egypt_1.10
+		kush_01_egypt_1.12
+		kush_01_egypt_1.14
+		kush_01_egypt_1.15
+		kush_01_egypt_1.16
+		kush_01_egypt_1.18 #Tefnakht
+		kush_01_egypt_1.19 #Tefnakht
+		kush_01_egypt_1.20
+		kush_01_egypt_1.21
+		kush_01_egypt_1.22
+		kush_01_egypt_1.23
+		kush_01_egypt_1.24
+		kush_01_egypt_1.25
+		kush_01_egypt_1.26
+		kush_01_egypt_1.27
+		kush_01_egypt_1.30
+		kush_01_egypt_1.34
 		#Units
 		units_allowance_events.1
 		#Modded events 

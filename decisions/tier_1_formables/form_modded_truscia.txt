@@ -1,0 +1,84 @@
+﻿country_decisions = {
+	
+	# Form Etruria
+	form_truscia = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XET
+			}
+			country_culture_group = thyrrenic
+			NOT = {
+				is_tier_1_formable_trigger = yes
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 345 # Tarchna
+					province_id = 340 # Veii
+					province_id = 341 # Caisra
+					province_id = 347 # Velch
+					province_id = 359 # Vetluna
+					province_id = 360 # Fafluna
+					province_id = 365 # Falathri
+					province_id = 349 # Velzna
+					province_id = 352 # Clevsin
+					province_id = 351 # Perusia
+					province_id = 354 # Curtun
+					province_id = 356 # Arretium
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = truscia_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XET
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 345 # Tarchna
+			owns = 340 # Veii
+			owns = 341 # Caisra
+			owns = 347 # Velch
+			owns = 359 # Vetluna
+			owns = 360 # Fafluna
+			owns = 365 # Falathri
+			owns = 349 # Velzna
+			owns = 352 # Clevsin
+			owns = 351 # Perusia
+			owns = 354 # Curtun
+			owns = 356 # Arretium
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "TRUSCIA_NAME"
+			hidden_effect = {
+				change_country_adjective = "TRUSCIA_ADJECTIVE"
+				change_country_color = "TRUSCIA_COLOR"
+				change_country_tag = XET
+				change_country_flag = TRUSCAN_FLAG
+			}
+			capital_scope = {
+				capital_formable_small_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

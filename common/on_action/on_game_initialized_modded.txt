@@ -59,11 +59,16 @@ on_game_initialized = {
 		esfa_startup.6
 		esfa_startup.7
 		esfa_startup.8
+		esfa_startup.9
+		esfa_startup.10
+		esfa_startup.11
 		#Bloodlines
 		bloodlines_startup.1  #Nobiles
 		bloodlines_startup.2  #Tarquinius
 		bloodlines_startup.3  #Heraclidae
 		bloodlines_startup.4  #Aeacid
+		bloodlines_startup.5  #Shishenqid
+		bloodlines_startup.6  #Napatan
 	}
 }
 

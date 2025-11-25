@@ -180,7 +180,7 @@ tuscani_heritage = {
 		civic_tech_investment = 0.2
 		
 		#bad
-		levy_size_multiplier = -0.025
+		navy_maintenance_cost = 0.1
 	}
 	
 	trigger = {
@@ -215,5 +215,50 @@ thracianic_heritage = {
 	
 	trigger = {
 		country_culture_group = thracianic
+	}
+}
+
+egiptic_heritage = { 
+	modifier = {
+		#good
+		global_building_slot = 1
+		global_population_capacity_modifier = 0.2
+		
+		#bad
+		navy_maintenance_cost = 0.2	
+	}
+	
+	trigger = {
+		country_culture_group = kemetic
+	}
+}
+
+nubic_heritage = { 
+	modifier = {
+		#good
+		missile_archers_offensive = 0.1
+		global_tax_modifier = 0.1
+		
+		#bad
+		loyalty_gain_chance_modifier = 0.2	
+	}
+	
+	trigger = {
+		country_culture_group = nubian
+	}
+}
+
+libyan_heritage = { 
+	modifier = {
+		#good
+		land_morale_modifier = 0.1
+		happiness_for_wrong_culture_modifier = wrong_culture_large
+		
+		#bad
+		loyalty_gain_chance_modifier = 0.2	
+	}
+	
+	trigger = {
+		country_culture_group = libyan
 	}
 }

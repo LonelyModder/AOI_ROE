@@ -167,6 +167,8 @@ colors = {
 	ACHEA_COLOR = rgb { 90 137 237 }
 	EPIRUS_COLOR = rgb { 135 136 138 }
 	THRACE_COLOR = rgb { 16 125 36 }
+	EGYPT_COLOR = rgb { 230 178 9 }
+	TRUSCIA_COLOR = rgb { 34 26 184 }
 	#Event Colors
 	KAlessian_color = rgb { 186 19 13 }
 	

@@ -1,0 +1,1449 @@
+﻿1873={ 
+	terrain="desert"
+	trade_goods="salt"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1874={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1875={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1876={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1877={ 
+	terrain="desert"
+	trade_goods="salt"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1878={ 
+	terrain="plains"
+	trade_goods="silphium"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1879={ 
+	terrain="plains"
+	trade_goods="silphium"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1880={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1881={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1882={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1883={ 
+	terrain="plains"
+	trade_goods="silphium"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1884={ 
+	terrain="plains"
+	trade_goods="silphium"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1885={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1886={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1887={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1888={ 
+	terrain="plains"
+	trade_goods="silphium"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1889={ 
+	terrain="plains"
+	trade_goods="silphium"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1890={ 
+	terrain="plains"
+	trade_goods="silphium"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1891={ 
+	terrain="desert"
+	trade_goods="salt"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1892={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1893={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1894={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1895={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1896={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1897={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1898={ 
+	terrain="desert"
+	trade_goods="salt"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1899={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1900={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1901={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1902={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1903={ 
+	terrain="desert"
+	trade_goods="salt"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1904={ 
+	terrain="oasis"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1905={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1906={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1907={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1908={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1909={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1910={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1911={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1912={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1913={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1914={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1915={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1916={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1917={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1918={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1920={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1921={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1922={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1923={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1924={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1925={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1926={ 
+	terrain="oasis"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1927={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1928={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1929={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1930={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1933={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1934={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1935={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1936={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1937={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1938={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1939={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="ammonii"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1940={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1941={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1942={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1943={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1944={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1945={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1946={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1947={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1948={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1949={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1950={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1951={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="marmaridaian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

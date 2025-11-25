@@ -17,3 +17,17 @@
  aristocratic_republic_coruler_female_latinic:0 "Co-Consul"
  despotic_monarchy_ruler_latinic:0 "Rex"
  despotic_monarchy_ruler_female_latinic:0 "Rex"
+ #Kemetic
+ despotic_monarchy_ruler_kemetic:0 "Nomarch"
+ despotic_monarchy_ruler_female_kemetic:0 "Nomarch"
+ theocratic_monarchy_ruler_libyan:0 "Pharoh"
+ theocratic_monarchy_ruler_female_libyan:0 "Pharoh"
+ theocratic_republic_ruler_kemetic:0 "High Priest"
+ theocratic_republic_ruler_female_kemetic:0 "High Priestes"
+ #Libyan
+ despotic_monarchy_ruler_libyan:0 "Nomarch"
+ despotic_monarchy_ruler_female_libyan:0 "Nomarch"
+ theocratic_monarchy_ruler_libyan:0 "Pharoh"
+ theocratic_monarchy_ruler_female_libyan:0 "Pharoh"
+ theocratic_republic_ruler_libyan:0 "High Priest"
+ theocratic_republic_ruler_female_libyan:0 "High Priestes"

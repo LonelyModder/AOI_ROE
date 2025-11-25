@@ -1,5 +1,5 @@
 ﻿thracianic = {
-	color = hsv { 0.0 0.5 1.0 }
+	color = hsv { 0.01 0.97 0.45 }
 	
 	primary = ia_archers
 	second = ia_warriors

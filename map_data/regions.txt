@@ -11,6 +11,50 @@ modded_tmp_region = {
 	}
 }
 
+modded_middleegypt_region = {
+	areas = {
+		heracleopolis_area
+		hermapolis_area
+		redcoast_area
+		bahariya_area
+		dakhla_area
+	}
+}
+
+modded_upperegypt_region = {
+	areas = {
+		kharga_area
+		thebes_area
+		hierakonpolis_area
+		aswan_area
+		hammamat_area
+		hormos_area
+		berenice_area
+	}
+}
+
+modded_loweregypt_region = {
+	areas = {
+		alexandria_area
+		sais_area
+		memphis_area
+		pelusium_area
+		tanis_area
+	}
+}
+
+modded_libya_region = {
+	areas = {
+		boreum_area
+		taucheira_area
+		darnis_area
+		katabathmos_area
+		leukapsis_area
+		napva_area
+		ammonium_area
+	}
+}
+
 modded_moesia_region = {
 	areas = {
 		istrus_area

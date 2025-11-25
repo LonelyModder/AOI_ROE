@@ -142,3 +142,45 @@ levy_dacotan = { #celtic militia
 	ia_scirmishers = 0.2
 	ia_warriors = 0.5
 }
+
+#Nubian
+
+levy_kashtan = { #kushite militia
+	default = no
+
+	ia_archers = 0.4
+	ia_chariots = 0.1
+	ia_warriors = 0.4
+	ia_elephants = 0.1
+}
+
+levy_meded = { #medjay militia
+	default = no
+
+	ia_archers = 0.2
+	ia_scirmishers = 0.2
+	ia_warriors = 0.4
+	ia_chariots = 0.1
+}
+
+#Kemetic
+
+levy_amun = { #kemetic militia
+	default = no
+
+	ia_archers = 0.2
+	ia_chariots = 0.2
+	ia_lightcavalry = 0.1
+	ia_lightinfantry = 0.5
+}
+
+#Libyan
+
+levy_tahenu = { #libyan militia
+	default = no
+
+	ia_archers = 0.2
+	ia_chariots = 0.2
+	ia_camels = 0.1
+	ia_warriors = 0.5
+}

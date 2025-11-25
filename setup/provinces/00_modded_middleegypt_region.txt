@@ -1,0 +1,1111 @@
+﻿2011={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2012={ 
+	terrain="plains"
+	trade_goods="papyrus"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
+	}	
+	tribesmen={
+		amount=4
+		culture="ma"
+	}
+	slaves={
+		amount=8
+	}
+}
+
+2013={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
+	}	
+	tribesmen={
+		amount=4
+		culture="ma"
+	}
+	slaves={
+		amount=8
+	}
+	holy_site="omen_msobek"
+}
+
+2014={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
+	}	
+	tribesmen={
+		amount=4
+		culture="ma"
+	}
+	slaves={
+		amount=8
+	}
+}
+
+2015={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2016={ 
+	terrain="farmland"
+	trade_goods="papyrus"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
+	}	
+	tribesmen={
+		amount=4
+		culture="ma"
+	}
+	slaves={
+		amount=8
+	}
+}
+
+2017={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2018={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2019={ 
+	terrain="plains"
+	trade_goods="stone"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2020={ 
+	terrain="plains"
+	trade_goods="grain"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2021={ 
+	terrain="plains"
+	trade_goods="stone"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2022={ 
+	terrain="plains"
+	trade_goods="grain"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2023={ 
+	terrain="plains"
+	trade_goods="precious_metals"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
+	}	
+	tribesmen={
+		amount=4
+		culture="ma"
+	}
+	slaves={
+		amount=8
+	}
+}
+
+2024={ 
+	terrain="plains"
+	trade_goods="grain"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
+	}	
+	tribesmen={
+		amount=4
+		culture="ma"
+	}
+	slaves={
+		amount=8
+	}
+}
+
+2025={ 
+	terrain="plains"
+	trade_goods="precious_metals"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2026={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2027={ 
+	terrain="plains"
+	trade_goods="gems"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2028={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2029={ 
+	terrain="plains"
+	trade_goods="precious_metals"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
+	}	
+	tribesmen={
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
+	}
+	slaves={
+		amount=8
+	}
+}
+
+2030={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
+	}	
+	tribesmen={
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
+	}
+	slaves={
+		amount=8
+	}
+	holy_site="omen_manubis"
+}
+
+2031={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture="ma"
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
+	}	
+	tribesmen={
+		amount=2
+		culture="lower_nubian"
+	}
+	tribesmen={
+		amount=2
+		culture="ma"
+	}
+	slaves={
+		amount=8
+	}
+}
+
+2032={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="kemetic_pantheon"
+	culture="upper_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2116={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2117={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2118={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2081={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2082={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2083={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2084={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2085={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2086={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2087={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="kemetic_pantheon"
+	culture="middle_kemetic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2061={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2062={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2063={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2064={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2065={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2066={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2067={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2068={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2069={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1932={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1931={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2070={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2078={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2079={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2101={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2102={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2077={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2105={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2106={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2107={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2108={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2080={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="kemetic_pantheon"
+	culture="libi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

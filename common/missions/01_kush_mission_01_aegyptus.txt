@@ -1,0 +1,479 @@
+﻿kush_01_egypt = { # Kushite Invasion
+	icon = kush_01_egypt
+	header = mission_image_rome #mission_image_phrygia
+	
+	repeatable = no
+
+    chance = {
+		factor = 10
+	}
+	
+	ai_chance = { factor = 10 }
+
+	potential = { 
+		NOT = { has_variable = kush_01_egypt }
+		primary_culture = upper_nubian
+		tag=EAD
+		is_monarchy = yes
+		is_subject = no
+		has_civil_war = no
+		NOT = { has_global_variable = kush_fail }
+	}
+	
+	abort = {	
+		OR = {
+			NOT = { primary_culture = upper_nubian }
+			custom_tooltip = {
+				text = kush_01_egypt_abort_tt
+				has_global_variable = kush_fail
+			}
+			ai_mission_back_out_trigger = yes
+		}
+	}
+	
+	on_start = {
+    	start_mission_ai_effect = yes
+    	save_scope_as = me_kush_scope
+		add_country_modifier = {
+	        name = kush_1_starts
+	        duration = 3650 # 10 years
+	    }
+    }
+	
+	on_abort = {
+    	custom_tooltip = ant_1_mission_cooldown_tt
+    	if = {
+	    	limit = { has_country_modifier = kush_1_starts }
+    		remove_country_modifier = kush_1_starts
+	    }
+		set_variable = {
+			name =kush_01_egypt
+			days = 7300
+		}
+    }
+	
+	on_completion = {
+		add_country_modifier = {
+    		name = kush_1_victory
+    		duration = 7300 # 20 years
+    	}
+    	complete_mission_effect = yes 
+    }
+	
+	
+	kush_01_egypt_1 = { # Wife for the God
+		requires = {  }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			treasury > 50
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -50
+			}
+			hidden_effect = { 
+				add_treasury = -50
+			}
+			trigger_event = { id = kush_01_egypt_1.1 }
+		}
+		
+		on_completion = {
+			
+		}
+	}
+	
+	kush_01_egypt_2 = { # Without a Fight
+		requires = { kush_01_egypt_1 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			treasury > 50
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -50
+			}
+			hidden_effect = { 
+				add_treasury = -50
+			}
+			trigger_event = { id = kush_01_egypt_1.6 }
+		}
+		
+		on_completion = {
+			
+		}
+	}
+	
+	kush_01_egypt_3 = { # Claiming the Throne
+		requires = { kush_01_egypt_1 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 20
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -20
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+		}
+		
+		on_completion = {
+			trigger_event = { id = kush_01_egypt_1.11 }
+		}
+	}
+	
+	kush_01_egypt_4 = { # Wadi Hammamat
+		requires = { kush_01_egypt_3 }
+		icon = task_conquest
+		duration = 365
+		
+		allow = {
+			owns = 2043
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			set_global_variable = {
+				name = wadi_hammamat_colonization
+			}
+			trigger_event = { id = kush_01_egypt_1.13 }
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = wadi_hammamat_colonized
+			}
+		}
+	}
+	
+	kush_01_egypt_5 = { # Nominal Vassals
+		requires = { kush_01_egypt_3 }
+		icon = task_conquest
+		#duration = 730
+		
+		allow = {
+			owns = 2043
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = kush_01_egypt_1.17 }
+		}
+	}
+	
+	kush_01_egypt_6 = { # Lord of Two Lands
+		requires = { kush_01_egypt_3 }
+		icon = task_conquest
+		#duration = 730
+		
+		allow = {
+			owns = 2024
+			owns = 2014
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = kush_01_egypt_1.28 }
+		}
+	}
+	
+	kush_01_egypt_7 = { # Western Desert
+		requires = { kush_01_egypt_5 }
+		icon = task_conquest
+		duration = 730
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			trigger_event = { id = kush_01_egypt_1.29 }
+			set_global_variable = {
+				name = edesert_colonization
+			}
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = edesert_colonized
+			}
+		}
+	}
+	
+	kush_01_egypt_8 = { # Kushite Empire
+		requires = { kush_01_egypt_6 }
+		icon = task_conquest
+		#duration = 730
+		
+		allow = { #Change to Important Capitals!
+			owns_or_subject_owns = 2043 # Thebes
+			owns_or_subject_owns = 1981 # Tanis
+			owns_or_subject_owns = 1989 # Mamphis
+			owns_or_subject_owns = 1968 # Sais
+			owns_or_subject_owns = 1977 # Leontopolis
+			owns_or_subject_owns = 2024 # Hermapolis
+			owns_or_subject_owns = 2014 # Heracleopolis
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 2043 # Thebes
+					province_id  = 1981 # Tanis
+					province_id  = 1989 # Mamphis
+					province_id  = 1968 # Sais
+					province_id  = 1977 # Leontopolis
+					province_id  = 2024 # Hermapolis
+					province_id  = 2014 # Heracleopolis
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = kush_01_egypt_1.31 }
+		}
+	}
+	
+	kush_01_egypt_9 = { # Defending the Delta
+		requires = { kush_01_egypt_6 }
+		icon = task_conquest
+		#duration = 730
+		
+		allow = {
+			owns = 1999 # Clysma
+			owns = 1983 # Pelusium
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 1999 # Clysma
+					province_id = 1983 # Pelusium
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = kush_01_egypt_1.32 }
+		}
+	}
+	
+	kush_01_egypt_10 = { # Breadbasket of Mediterrainean
+		requires = { kush_01_egypt_6 }
+		icon = task_conquest
+		duration = 730
+		
+		allow = {
+			treasury > 100
+			owns_or_subject_owns = 1981 # Tanis
+			owns_or_subject_owns = 1989 # Mamphis
+			owns_or_subject_owns = 1968 # Sais
+			owns_or_subject_owns = 1977 # Leontopolis
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 1981 # Tanis
+					province_id  = 1989 # Mamphis
+					province_id  = 1968 # Sais
+					province_id  = 1977 # Leontopolis
+				}
+			}
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			set_global_variable = {
+				name = egypt_grain_start
+			}
+			trigger_event = { id = kush_01_egypt_1.33 }
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = egypt_grain_end
+			}
+			trigger_event = { id = kush_01_egypt_1.35 }
+		}
+	}
+	
+	kush_01_egypt_11 = { # Naukratis
+		requires = { kush_01_egypt_10 }
+		icon = task_conquest
+		#duration = 730
+		
+		allow = {
+			treasury > 100
+			own = 1987
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 1987 # Naucratis
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_treasury = -100
+			}
+			hidden_effect = { 
+				add_treasury = -100
+			}
+			trigger_event = { id = kush_01_egypt_1.36 }
+		}
+	}
+	
+	kush_01_egypt_12 = { # Vassal State
+		requires = { kush_01_egypt_8 }
+		icon = task_conquest
+		#duration = 730
+		
+		allow = {
+			political_influence > 20
+			owns_or_subject_owns = 1981 # Tanis
+			owns_or_subject_owns = 1989 # Mamphis
+			owns_or_subject_owns = 1968 # Sais
+			owns_or_subject_owns = 1977 # Leontopolis
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 1981 # Tanis
+					province_id  = 1989 # Mamphis
+					province_id  = 1968 # Sais
+					province_id  = 1977 # Leontopolis
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = kush_01_egypt_1.37 }
+		}
+	}
+	
+	kush_01_egypt_99 = { # Kushite Empire
+		requires = { kush_01_egypt_12 } 
+		icon = task_conquest
+		#duration = 30
+		
+		allow = { #Change to Important Capitals!
+			owns_or_subject_owns = 2043 # Thebes
+			owns_or_subject_owns = 1981 # Tanis
+			owns_or_subject_owns = 1989 # Mamphis
+			owns_or_subject_owns = 1968 # Sais
+			owns_or_subject_owns = 1977 # Leontopolis
+			owns_or_subject_owns = 2024 # Hermapolis
+			owns_or_subject_owns = 2014 # Heracleopolis
+			owns_or_subject_owns = 2071 # Western Oases
+			owns_or_subject_owns = 2077 # Western Oases
+			owns_or_subject_owns = 1931 # Western Oases
+			owns_or_subject_owns = 1932 # Western Oases
+			owns_or_subject_owns = 2092 # Quseir
+			owns_or_subject_owns = 2099 # Berenice
+			owns_or_subject_owns = 1999 # Clysma
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 2043 # Thebes
+					province_id  = 1981 # Tanis
+					province_id  = 1989 # Mamphis
+					province_id  = 1968 # Sais
+					province_id  = 1977 # Leontopolis
+					province_id  = 2024 # Hermapolis
+					province_id  = 2014 # Heracleopolis
+					province_id = 2071 # Western Oases
+					province_id = 2077 # Western Oases
+					province_id = 1931 # Western Oases
+					province_id = 1932 # Western Oases
+					province_id = 2092 # Quseir
+					province_id = 2099 # Berenice
+					province_id = 1999 # Clysma
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = kush_01_egypt_beaten
+			}
+		}
+		final = yes 
+	}
+	
+}
+	

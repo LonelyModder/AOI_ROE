@@ -409,12 +409,12 @@ latium_01_italy_1.9 = {
 			change_country_name = "Insubri_NAME"
 			change_country_adjective = "Insubri_ADJECTIVE"	
 		}
-		p:330.owner = {
-			add_alliance = p:484.owner
-			add_alliance = p:423.owner
-			add_alliance = p:394.owner
-			add_alliance = p:476.owner
-		}
+		#p:330.owner = {
+		#	add_alliance = p:484.owner
+		#	add_alliance = p:423.owner
+		#	add_alliance = p:394.owner
+		#	add_alliance = p:476.owner
+		#}
 		set_global_variable = {
 			name = lepontic_invasion_v
 		}		

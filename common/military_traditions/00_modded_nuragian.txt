@@ -20,6 +20,9 @@
 						has_military_bonus = grekoid_path_end_bonus
 						has_military_bonus = keltoi_path_end_bonus
 						has_military_bonus = thracian_path_end_bonus
+						has_military_bonus = libyan_path_end_bonus
+						has_military_bonus = nubian_path_end_bonus
+						has_military_bonus = egyptian_path_end_bonus
 					}
 					any_country_culture = {
 						is_integrated = yes
@@ -35,6 +38,9 @@
 					has_military_bonus = grekoid_path_end_bonus
 					has_military_bonus = keltoi_path_end_bonus
 					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = nubian_path_end_bonus
+					has_military_bonus = egyptian_path_end_bonus
 				}
 				any_country_culture = {
 					custom_tooltip = {
@@ -54,6 +60,9 @@
 					has_military_bonus = grekoid_path_end_bonus
 					has_military_bonus = keltoi_path_end_bonus
 					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = nubian_path_end_bonus
+					has_military_bonus = egyptian_path_end_bonus
 				}
 				custom_tooltip = {
 					text = "tradition_unlock_requirement_occidental"
