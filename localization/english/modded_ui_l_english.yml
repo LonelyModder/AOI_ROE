@@ -23,8 +23,8 @@
  no_neighbor_has_colonization_progress:0 "No neighbour has #Y Colonization Progress#!"
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
- patch_notes:0 "Part III: Gift of the Nile"
- patch_notes_text:0 "What's new:\n- III Intermediate Period in Egypt to explore. \n- 256 new land provinces to conquer (1541 land provinces, 2162 in total). \n- Fixed bug making a couple of formables invisible to ai. \n- New Mission tree for the kingdom of Kush (with potential for new missions when nubian expansion will come out). \n- New unit models for Egyptians, Nubians and Greeks \n- Three remastered cultures and two new faiths. \n- Small redesign in the european part of the map."
+ patch_notes:0 "Part IV: Rebel Allience"
+ patch_notes_text:0 "What's new:\n- Iron Age in the Middle East with the ascending Assyrians and all those attempting to stop them."
  
  #Modifier text
  osasis:0 "Oasis"

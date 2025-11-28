@@ -11,6 +11,12 @@ modded_tmp_region = {
 	}
 }
 
+modded_cilicia_region = {
+	areas = {
+		
+	}
+}
+
 modded_middleegypt_region = {
 	areas = {
 		heracleopolis_area
