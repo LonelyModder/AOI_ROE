@@ -1,0 +1,493 @@
+﻿2255={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2256={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2257={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2258={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2259={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2260={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2261={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2262={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2263={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2264={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2265={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2266={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2267={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2268={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2269={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2270={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2271={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2272={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2273={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2274={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2275={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2276={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2277={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2278={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2279={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2280={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

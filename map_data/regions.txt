@@ -11,9 +11,19 @@ modded_tmp_region = {
 	}
 }
 
-modded_cilicia_region = {
+modded_syria_region = {
 	areas = {
 		
+	}
+}
+
+modded_cilicia_region = {
+	areas = {
+		wcyprus_area
+		ecyprus_area
+		anemurion_area
+		tarsus_area
+		issus_area
 	}
 }
 
