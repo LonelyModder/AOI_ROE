@@ -11,9 +11,30 @@ modded_tmp_region = {
 	}
 }
 
-modded_syria_region = {
+modded_ebernari_region = {
 	areas = {
 		
+	}
+}
+
+modded_canaan_region = {
+	areas = {
+		
+	}
+}
+
+modded_syria_region = {
+	areas = {
+		damascus_area
+		phoenicia_area
+		hamath_area
+		anatha_area
+		samosata_area
+		palmyra_area
+		seriane_area
+		karkemish_area
+		beroia_area
+		antiochia_area
 	}
 }
 
