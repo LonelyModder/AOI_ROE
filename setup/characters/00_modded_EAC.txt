@@ -1,7 +1,7 @@
 ﻿"EAC"={
 	country="EAC"
 	
-	35={
+	27={ # from 35
 		first_name="Osorkon"
 		family = c:EAC.fam:Horakhty
 		birth_date=410.1.1
@@ -17,7 +17,7 @@
 		add_popularity=100
 		#dna=""
 		c:EAC={
-			set_as_ruler=char:35
+			set_as_ruler=char:27
 		}
 	}
 }

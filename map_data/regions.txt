@@ -13,13 +13,27 @@ modded_tmp_region = {
 
 modded_ebernari_region = {
 	areas = {
-		
+		anatha_area
+		singara_area
+		nicephorium_area
+		karkemish_area
+		edessa_area
+		amida_area
+		nisibis_area
+		mifta_area
 	}
 }
 
 modded_canaan_region = {
 	areas = {
-		
+		synai_area
+		negev_area
+		leucos_area
+		edom_area
+		judah_area
+		samaria_area
+		jordan_area
+		hauran_area
 	}
 }
 
@@ -28,11 +42,11 @@ modded_syria_region = {
 		damascus_area
 		phoenicia_area
 		hamath_area
-		anatha_area
+		dura_area
 		samosata_area
 		palmyra_area
 		seriane_area
-		karkemish_area
+		tilbarsip_area
 		beroia_area
 		antiochia_area
 	}
