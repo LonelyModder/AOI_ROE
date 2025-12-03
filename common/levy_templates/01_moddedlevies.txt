@@ -184,3 +184,56 @@ levy_tahenu = { #libyan militia
 	ia_camels = 0.1
 	ia_warriors = 0.5
 }
+
+Akkadian
+
+levy_sonsofAshur = { #assyrian militia
+	default = no
+
+	ia_archers = 0.2
+	ia_heavyinfantry = 0.2
+	ia_horsearchers = 0.1
+	ia_lightinfantry = 0.5
+}
+
+levy_sonsofMarduk = { #babylonian militia
+	default = no
+
+	ia_archers = 0.2
+	ia_lightinfantry = 0.5
+	ia_lightcavalry = 0.1
+	ia_warriors = 0.2
+}
+
+#Aramean
+
+levy_ahlamu = { #aramean militia
+	default = no
+
+	ia_archers = 0.1
+	ia_lightinfantry = 0.1
+	ia_lightcavalry = 0.2
+	ia_warriors = 0.6
+}
+
+#Jewish
+
+levy_jewishic = { #aramean militia
+	default = no
+
+	ia_archers = 0.2
+	ia_lightinfantry = 0.4
+	ia_chariots = 0.2
+	ia_lightcavalry = 0.2
+}
+
+#Hattian
+
+levy_hattian = { #hittite militia
+	default = no
+
+	ia_archers = 0.2
+	ia_lightinfantry = 0.5
+	ia_chariots = 0.2
+	ia_lightcavalry = 0.1
+}
