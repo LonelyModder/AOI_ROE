@@ -262,3 +262,18 @@ libyan_heritage = {
 		country_culture_group = libyan
 	}
 }
+
+ashurite_heritage = { #Heritages for Levant ToDo
+	modifier = {
+		#good
+		manpower_recovery_speed = 0.2
+		land_morale_modifier = 0.1
+		
+		#bad
+		subject_opinions = -10
+	}
+	
+	trigger = {
+		primary_culture = ashurite
+	}
+}
