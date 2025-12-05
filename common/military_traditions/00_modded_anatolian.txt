@@ -38,7 +38,7 @@
 	
 	anatolian_path_1 = { ###anatolian path
 		modifier = { 
-			light_swordsmen_offensive = 0.1
+			ia_lightinfantry_offensive = 0.1
 		}
 		icon = levantine_egyptian_path_4
 		requires = {}
@@ -46,8 +46,8 @@
 	
 	anatolian_path_2 = { ###anatolian path
 		modifier = { 
-			chariot_light_offensive = 0.1
-			chariot_light_defensive = 0.05
+			ia_chariots_offensive = 0.1
+			ia_chariots_defensive = 0.05
 		}
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_1}
@@ -55,8 +55,8 @@
 	
 	anatolian_path_2a = { ###anatolian path
 		modifier = { 
-			missile_archers_offensive = 0.1
-			missile_archers_defensive = 0.05
+			ia_archers_offensive = 0.1
+			ia_archers_defensive = 0.05
 		}
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_2}
@@ -64,7 +64,7 @@
 	
 	anatolian_path_3a = { ###anatolian path
 		modifier = { 
-			light_swordsmen_defensive = 0.1
+			ia_lightinfantry_defensive = 0.1
 		}
 		enable_tactic = greek_phalanx
 		icon = levantine_egyptian_path_4
@@ -106,8 +106,8 @@
 	
 	anatolian_path_2b = { ###anatolian path
 		modifier = { 
-			missile_spearthrowers_offensive = 0.1
-			missile_spearthrowers_defensive = 0.05
+			ia_scirmishers_offensive = 0.1
+			ia_scirmishers_defensive = 0.05
 		}
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_2}
@@ -115,8 +115,8 @@
 	
 	anatolian_path_3b = { ###anatolian path
 		modifier = { 
-			axemen_heavy_offensive = 0.1
-			axemen_heavy_defensive = 0.05
+			ia_warriors_offensive = 0.1
+			ia_warriors_defensive = 0.05
 		}
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_2b}

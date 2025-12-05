@@ -38,8 +38,7 @@
 	
 	assyrian_path_1 = { ###akkadian path
 		modifier = { 
-			chariot_light_offensive = 0.1
-			chariot_light_offensive = 0.1
+			ia_chariots_offensive = 0.1
 		}
 		icon = mauryan_mauryas_path_3
 		requires = {}
@@ -56,8 +55,7 @@
 	
 	assyrian_path_2a = { ###akkadian path
 		modifier = { 
-			chariot_light_defensive = 0.1
-			chariot_light_defensive = 0.1
+			ia_chariots_defensive = 0.1
 		}
 		icon = mauryan_mauryas_path_3
 		requires = {assyrian_path_1}
@@ -65,8 +63,8 @@
 	
 	assyrian_path_3a = { ###akkadian path
 		modifier = { 
-			light_spearmen_cost=-0.1
-			light_spearmen_defensive = 0.1
+			ia_hoplites_cost=-0.1
+			ia_hoplites_defensive = 0.1
 		}
 		enable_tactic = greek_phalanx
 		icon = mauryan_mauryas_path_3
@@ -75,9 +73,9 @@
 	
 	assyrian_path_4a = { ###akkadian path
 		modifier = { 
-			light_spearmen_morale = 0.1
-			missile_archers_morale = 0.1
-			missile_archers_offensive = 0.1
+			ia_hoplites_morale = 0.1
+			ia_archers_morale = 0.1
+			ia_archers_offensive = 0.1
 		}
 		icon = mauryan_mauryas_path_3
 		requires = {assyrian_path_3a}
@@ -85,9 +83,9 @@
 	
 	assyrian_path_5a = { ###akkadian path
 		modifier = { 
-			cavalry_horse_archers_morale = 0.1
-			cavalry_horse_archers_offensive = 0.1
-			cavalry_horse_archers_defensive = 0.1
+			ia_horsearchers_morale = 0.1
+			ia_horsearchers_offensive = 0.1
+			ia_horsearchers_defensive = 0.1
 		}
 		icon = mauryan_mauryas_path_3
 		requires = {assyrian_path_4a}
@@ -152,8 +150,8 @@
 	
 	assyrian_path_4c = { ###akkadian path
 		modifier = { 
-			light_spearmen_morale = 0.1
-			missile_spearthrowers_morale = 0.1
+			ia_hoplites_morale = 0.1
+			ia_scirmishers_morale = 0.1
 		}
 		icon = mauryan_mauryas_path_3
 		requires = {assyrian_path_3c}
@@ -161,9 +159,9 @@
 	
 	assyrian_path_5c = { ###akkadian path
 		modifier = { 
-			cavalry_camels_morale = 0.1
-			cavalry_camels_offensive = 0.05
-			cavalry_camels_defensive = 0.05
+			ia_camels_morale = 0.1
+			ia_camels_offensive = 0.05
+			ia_camels_defensive = 0.05
 		}
 		icon = mauryan_mauryas_path_3
 		requires = {assyrian_path_4c}

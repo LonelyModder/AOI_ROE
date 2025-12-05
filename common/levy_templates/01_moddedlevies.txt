@@ -191,9 +191,9 @@ levy_sonsofAshur = { #assyrian militia
 	default = no
 
 	ia_archers = 0.2
-	ia_heavyinfantry = 0.2
-	ia_horsearchers = 0.1
-	ia_lightinfantry = 0.5
+	ia_hoplites = 0.5
+	ia_horsearchers = 0.2
+	ia_chariots = 0.1
 }
 
 levy_sonsofMarduk = { #babylonian militia
@@ -202,7 +202,7 @@ levy_sonsofMarduk = { #babylonian militia
 	ia_archers = 0.2
 	ia_lightinfantry = 0.5
 	ia_lightcavalry = 0.1
-	ia_warriors = 0.2
+	ia_chariots = 0.2
 }
 
 #Aramean
@@ -211,7 +211,7 @@ levy_ahlamu = { #aramean militia
 	default = no
 
 	ia_archers = 0.1
-	ia_lightinfantry = 0.1
+	ia_chariots = 0.1
 	ia_lightcavalry = 0.2
 	ia_warriors = 0.6
 }
@@ -236,4 +236,15 @@ levy_hattian = { #hittite militia
 	ia_lightinfantry = 0.5
 	ia_chariots = 0.2
 	ia_lightcavalry = 0.1
+}
+
+#Arab
+
+levy_kebabiya = { #arab militia
+	default = no
+
+	ia_archers = 0.2
+	ia_warriors = 0.4
+	ia_chariots = 0.2
+	ia_camels = 0.2
 }
