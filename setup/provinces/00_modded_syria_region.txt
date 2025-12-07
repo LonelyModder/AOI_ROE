@@ -324,19 +324,22 @@
 2272={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="canaanitic_pantheon"
+	culture="corepunic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 

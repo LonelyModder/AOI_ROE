@@ -3,7 +3,7 @@ PIR = "setup/countries/pirates.txt"
 BAR = "setup/countries/barbarians.txt"
 MER = "setup/countries/mercenaries.txt"
 
-#Used A,B,C,E,T
+#Used A,B,C,E,M,T
 #New:
 #Italy and Illyria
 AAA = "setup/countries/modded/mAAA.txt"
@@ -168,3 +168,14 @@ EAG = "setup/countries/modded/mEAG.txt"
 EAH = "setup/countries/modded/mEAH.txt"
 EAI = "setup/countries/modded/mEAI.txt"
 EAJ = "setup/countries/modded/mEAJ.txt"
+#Levant and Syria
+MAA = "setup/countries/modded/mMAA.txt"
+MAB = "setup/countries/modded/mMAB.txt"
+MAC = "setup/countries/modded/mMAC.txt"
+MAD = "setup/countries/modded/mMAD.txt"
+MAE = "setup/countries/modded/mMAE.txt"
+MAF = "setup/countries/modded/mMAF.txt"
+MAG = "setup/countries/modded/mMAG.txt"
+MAH = "setup/countries/modded/mMAH.txt"
+MAI = "setup/countries/modded/mMAI.txt"
+MAJ = "setup/countries/modded/mMAJ.txt"

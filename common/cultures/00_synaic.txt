@@ -29,6 +29,10 @@
 	culture = {
 		judahite = {}
 		samaric = {}
+		shasan = {}
+		moabite = {}
+		ammonite = {}
+		edomite = {}
 	}
 	
 	barbarian_names = { 
