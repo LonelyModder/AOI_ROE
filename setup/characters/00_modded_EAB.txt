@@ -15,8 +15,6 @@
 		add_zeal=6
 		no_traits=yes
 		add_trait="shoshenqid"
-		add_gold=100
-		add_popularity=100
 	}
 	
 	18={

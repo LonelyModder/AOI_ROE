@@ -136,6 +136,7 @@
  #Aramean
  aramaic:2 "Aramean"
  adamascan:0 "Damascan"
+ abahiani:0 "Bahiani"
  aramaic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  aramaic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Hattian

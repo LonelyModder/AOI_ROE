@@ -218,7 +218,7 @@ levy_ahlamu = { #aramean militia
 
 #Jewish
 
-levy_jewishic = { #aramean militia
+levy_jewishic = { #habiru militia
 	default = no
 
 	ia_archers = 0.2

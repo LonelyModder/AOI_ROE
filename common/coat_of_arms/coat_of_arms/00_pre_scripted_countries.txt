@@ -189,6 +189,17 @@ EAD = {
 	}
 }
 
+MAC = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "roman_gold"
+
+	colored_emblem = {
+		texture = "ce_ashur.dds"
+		color1 = "roman_red"
+	}
+}
+
 #Modded Emblems for starting countries
 
 EGYPT_FLAG = {

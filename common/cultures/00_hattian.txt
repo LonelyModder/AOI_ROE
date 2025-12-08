@@ -32,6 +32,6 @@
 	
 	graphical_culture = luwian_gfx
 	ethnicities = {
-		10 = hurrian
+		10 = anatolian
 	}
 }

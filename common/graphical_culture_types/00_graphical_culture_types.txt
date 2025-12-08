@@ -18,3 +18,6 @@ anatolian_gfx = {}
 
 #Modded Below
 occidental_gfx = {}
+levantine_gfx = {}
+mesopotamian_gfx = {}
+luwian_gfx = {}
