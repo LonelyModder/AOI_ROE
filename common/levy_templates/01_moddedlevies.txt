@@ -185,7 +185,7 @@ levy_tahenu = { #libyan militia
 	ia_warriors = 0.5
 }
 
-Akkadian
+#Akkadian
 
 levy_sonsofAshur = { #assyrian militia
 	default = no

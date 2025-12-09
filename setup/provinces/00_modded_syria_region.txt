@@ -1087,27 +1087,37 @@
 2317={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="anunnaki_pantheon"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
+		culture="ashurite"
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 2318={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="anunnaki_pantheon"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1125,8 +1135,8 @@
 2319={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="anunnaki_pantheon"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

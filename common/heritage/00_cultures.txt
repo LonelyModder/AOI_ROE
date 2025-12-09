@@ -277,3 +277,18 @@ ashurite_heritage = { #Heritages for Levant ToDo
 		primary_culture = ashurite
 	}
 }
+
+ahlamu_heritage = {
+	modifier = {
+		#good
+		land_morale_modifier = 0.1
+		commerce_value  = 0.2
+		
+		#bad
+		stability_cost_modifier = 0.1
+	}
+	
+	trigger = {
+		country_culture_group = aramaic
+	}
+}

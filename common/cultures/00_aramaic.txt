@@ -58,6 +58,7 @@
 	culture = {
 		adamascan = {}
 		abahiani = {}
+		sutean = {}
 	}
 	
 	barbarian_names = { 

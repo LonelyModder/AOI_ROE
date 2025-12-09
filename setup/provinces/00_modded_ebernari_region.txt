@@ -2,7 +2,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -21,18 +21,28 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
+		culture="ashurite"
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -40,7 +50,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
