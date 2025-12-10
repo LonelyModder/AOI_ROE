@@ -3146,7 +3146,7 @@ country = {
 			
 			own_control_core = 	{ 
 				2359 2360 2365 2374 2312 2277 2276 2275 2274 2273 2366 
-				2368 2367 2487 2477 2475 2474 2475 2490 2489 2488 2476
+				2368 2367 2487 2477 2475 2474 2490 2489 2488 2476
 			}
 		}
 		
@@ -3261,8 +3261,69 @@ country = {
 			religion = luwic_pantheon
 			capital = 2234
 			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
 			own_control_core = 	{ 
 				2234 2236 2237
+			}
+		}
+		
+		MAS = {          
+			government = despotic_monarchy
+			primary_culture = hatti
+			religion = luwic_pantheon
+			capital = 2245
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2245 2246 2247 2249 2250 2251 2248
+			}
+		}
+		
+		MAT = {          
+			government = despotic_monarchy
+			primary_culture = hatti
+			religion = luwic_pantheon
+			capital = 2296
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2296
+			}
+		}
+		
+		MAU = {          
+			government = despotic_monarchy
+			primary_culture = hatti
+			religion = luwic_pantheon
+			capital = 2321
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2321 2256 2255 2263 2262 2322 2257 2244 2243
 			}
 		}
 	}
