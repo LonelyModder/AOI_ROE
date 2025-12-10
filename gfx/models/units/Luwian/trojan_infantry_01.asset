@@ -666,6 +666,7 @@ entity = {
 entity = {
 	name = "luwian_gfx_ia_archers"
 	clone = "trojan_heavy_infantry"
+	version = 10
 }
 
 entity = {
@@ -681,11 +682,13 @@ entity = {
 entity = {
 	name = "luwian_gfx_ia_heavyinfantry"
 	clone = "trojan_heavy_infantry"
+	version = 10
 }
 
 entity = {
 	name = "luwian_gfx_ia_hoplites"
 	clone = "trojan_heavy_infantry"
+	version = 10
 }
 
 entity = {

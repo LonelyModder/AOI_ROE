@@ -59,6 +59,11 @@
 		adamascan = {}
 		abahiani = {}
 		sutean = {}
+		ahatallan = {}
+		aadinic = {}
+		ahaurani = {}
+		ahamathite = {}
+		agusiani = {}
 	}
 	
 	barbarian_names = { 

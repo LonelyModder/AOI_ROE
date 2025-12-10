@@ -1,19 +1,22 @@
 ﻿2203={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -153,19 +156,22 @@
 2211={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="canaanitic_pantheon"
+	culture="corepunic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	freemen={
+		amount=8
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 

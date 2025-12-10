@@ -433,6 +433,10 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	2430 = { port_building = 1 }
+	2211 = { port_building = 2 }
+	2420 = { port_building = 2 }
+	2203 = { port_building = 2 }
 	2272 = { port_building = 2 }
 	2232 = { port_building = 2 }
 	1968 = { port_building = 2 }
@@ -3041,7 +3045,7 @@ country = {
 		MAB = {          
 			government = tribal_chiefdom
 			primary_culture = shasan
-			religion = canaanitic_pantheon
+			religion = judahic
 			capital = 2390
 			
 			own_control_core = 	{ 
@@ -3102,13 +3106,163 @@ country = {
 		}
 		
 		MAF = {          
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = edomite
 			religion = judahic
 			capital = 2467
 			
 			own_control_core = 	{ 
 				2467 2406 2407 2405 2408 2413 2411 2404 2403 2402 2466 2465 2464 2444 2441
+			}
+		}
+		
+		MAG = {          
+			government = aristocratic_republic
+			primary_culture = gcypriot
+			religion = grecoid_pantheon
+			capital = 2203
+			
+			own_control_core = 	{ 
+				2203
+			}
+		}
+		
+		MAH = {          
+			government = tribal_kingdom
+			primary_culture = ahatallan
+			religion = canaanitic_pantheon
+			capital = 2300
+			
+			own_control_core = 	{ 
+				2300 2299 2305 2306
+			}
+		}
+		
+		MAI = {          
+			government = despotic_monarchy
+			primary_culture = adamascan
+			religion = canaanitic_pantheon
+			capital = 2359
+			
+			own_control_core = 	{ 
+				2359 2360 2365 2374 2312 2277 2276 2275 2274 2273 2366 
+				2368 2367 2487 2477 2475 2474 2475 2490 2489 2488 2476
+			}
+		}
+		
+		MAJ = {          
+			government = tribal_kingdom
+			primary_culture = moabite
+			religion = judahic
+			capital = 2462
+			
+			own_control_core = 	{ 
+				2462 2470 2461 2469 2468
+			}
+		}
+		
+		MAK = {          
+			government = tribal_kingdom
+			primary_culture = corepunic
+			religion = canaanitic_pantheon
+			capital = 2211
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2211
+			}
+		}
+		
+		MAL = {          
+			government = tribal_kingdom
+			primary_culture = ammonite
+			religion = judahic
+			capital = 2463
+			
+			own_control_core = 	{ 
+				2463 2471 2472 2473
+			}
+		}
+		
+		MAM = {          
+			government = despotic_monarchy
+			primary_culture = judahite
+			religion = judahic
+			capital = 2414
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2414 2416 2415 2417 2418 2419
+			}
+		}
+		
+		MAN = {          
+			government = despotic_monarchy
+			primary_culture = samaric
+			religion = judahic
+			capital = 2432
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2432 2428 2429 2430 2427 2433 2440 2439 2434 2431 2435 2436 2437 2438 2364
+			}
+		}
+		
+		MAO = {          
+			government = despotic_monarchy
+			primary_culture = pphilistine
+			religion = canaanitic_pantheon
+			capital = 2420
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2420 2425 2426
+			}
+		}
+		
+		MAP = {          
+			government = despotic_monarchy
+			primary_culture = ahamathite
+			religion = canaanitic_pantheon
+			capital = 2340
+			
+			own_control_core = 	{ 
+				2340 2341 2313 2311 2279 2280 2301 2302 2320 2346 2303 2304 2339
+			}
+		}
+		
+		MAR = {          
+			government = despotic_monarchy
+			primary_culture = hatti
+			religion = luwic_pantheon
+			capital = 2234
+			
+			own_control_core = 	{ 
+				2234 2236 2237
 			}
 		}
 	}

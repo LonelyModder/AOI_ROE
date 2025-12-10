@@ -292,3 +292,18 @@ ahlamu_heritage = {
 		country_culture_group = aramaic
 	}
 }
+
+synaic_heritage = {
+	modifier = {
+		#good
+		price_state_investment_civic_cost_modifier = -0.1
+		commerce_value  = 0.2
+		
+		#bad
+		stability_cost_modifier = 0.1
+	}
+	
+	trigger = {
+		country_culture_group = synaic
+	}
+}

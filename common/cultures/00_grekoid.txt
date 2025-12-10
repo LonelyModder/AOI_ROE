@@ -117,6 +117,7 @@
 		gbeotian = {}
 		garcadian = {}
 		gionian = {}
+		gcypriot = {}
 	}
 	
 	barbarian_names = { 
