@@ -345,7 +345,20 @@ family={
 	}
 }
 diplomacy = {
-	
+	#Assyrian Subjects
+	dependency = { first = MAC second = MAT subject_type = feudatory }
+	dependency = { first = MAC second = MBA subject_type = feudatory }
+	#Arpad owns Hamath
+	dependency = { first = MBG second = MAP subject_type = feudatory }
+	#Phoenician League
+	defensive_league = {
+		member = MAA
+		member = MBC
+		member = MBD
+		member = MBE
+		member = MBF
+		member = MBB
+	}
 }
 
 provinces = { #Any entry must contain a comment with city name.
@@ -434,7 +447,13 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	2430 = { port_building = 1 }
-	2211 = { port_building = 2 }
+	2206 = { port_building = 2 }
+	2268 = { port_building = 2 }
+	2207 = { port_building = 2 }
+	2270 = { port_building = 2 }
+	2266 = { port_building = 2 }
+	2215 = { port_building = 2 }
+	2255 = { port_building = 2 }
 	2420 = { port_building = 2 }
 	2203 = { port_building = 2 }
 	2272 = { port_building = 2 }
@@ -501,6 +520,10 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { port_building = 2 }
 	
 	#Passes
+	2464 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2467 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2441 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2462 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2258 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2259 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2460 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -3038,7 +3061,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2272
+				2272 2278
 			}
 		}
 		
@@ -3117,13 +3140,13 @@ country = {
 		}
 		
 		MAG = {          
-			government = aristocratic_republic
+			government = despotic_monarchy
 			primary_culture = gcypriot
 			religion = grecoid_pantheon
 			capital = 2203
 			
 			own_control_core = 	{ 
-				2203
+				2203 2204 2205 
 			}
 		}
 		
@@ -3146,7 +3169,7 @@ country = {
 			
 			own_control_core = 	{ 
 				2359 2360 2365 2374 2312 2277 2276 2275 2274 2273 2366 
-				2368 2367 2487 2477 2475 2474 2490 2489 2488 2476
+				2368 2367 2487 2477 2475 2474 2490 2489 2488 2476 2437 2438
 			}
 		}
 		
@@ -3162,7 +3185,7 @@ country = {
 		}
 		
 		MAK = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = corepunic
 			religion = canaanitic_pantheon
 			capital = 2211
@@ -3222,7 +3245,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2432 2428 2429 2430 2427 2433 2440 2439 2434 2431 2435 2436 2437 2438 2364
+				2432 2428 2429 2430 2427 2433 2440 2439 2434 2431 2435 2436 2364
 			}
 		}
 		
@@ -3251,7 +3274,7 @@ country = {
 			capital = 2340
 			
 			own_control_core = 	{ 
-				2340 2341 2313 2311 2279 2280 2301 2302 2320 2346 2303 2304 2339
+				2340 2341 2313 2311 2279 2280 2301 2302 2320 2346
 			}
 		}
 		
@@ -3323,7 +3346,270 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2321 2256 2255 2263 2262 2322 2257 2244 2243
+				2321 2256 2255 2263 2262 2322 2257 2244 2243 2323 2330 2324 2264
+			}
+		}
+		
+		MAW = {          
+			government = despotic_monarchy
+			primary_culture = hatti
+			religion = luwic_pantheon
+			capital = 2260
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2260 2258 2259 2261
+			}
+		}
+		
+		MAY = {          
+			government = tribal_kingdom
+			primary_culture = amusri
+			religion = canaanitic_pantheon
+			capital = 2281
+			
+			own_control_core = 	{ 
+				2281 2288
+			}
+		}
+		
+		MAZ = {          
+			government = despotic_monarchy
+			primary_culture = gcypriot
+			religion = grecoid_pantheon
+			capital = 2215
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2215 2214
+			}
+		}
+		
+		MBA = {          
+			government = despotic_monarchy
+			primary_culture = hatti
+			religion = luwic_pantheon
+			capital = 2284
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2284 2283 2282 2285 2286 2287
+			}
+		}
+		
+		MBB = {          
+			government = despotic_monarchy
+			primary_culture = corepunic
+			religion = canaanitic_pantheon
+			capital = 2266
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2266 2265
+			}
+		}
+		
+		MBC = {          
+			government = despotic_monarchy
+			primary_culture = corepunic
+			religion = canaanitic_pantheon
+			capital = 2268
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2268 2267
+			}
+		}
+		
+		MBD = {          
+			government = despotic_monarchy
+			primary_culture = corepunic
+			religion = canaanitic_pantheon
+			capital = 2269
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2269
+			}
+		}
+		
+		MBE = {          
+			government = despotic_monarchy
+			primary_culture = corepunic
+			religion = canaanitic_pantheon
+			capital = 2270
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2270
+			}
+		}
+		
+		MBF = {          
+			government = despotic_monarchy
+			primary_culture = corepunic
+			religion = canaanitic_pantheon
+			capital = 2271
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2271
+			}
+		}
+		
+		MBG = {          
+			government = despotic_monarchy
+			primary_culture = agusiani
+			religion = canaanitic_pantheon
+			capital = 2333
+			
+			poptype_rights = {
+				{
+					culture = aluashi 
+					type = citizen
+				}
+			}
+			
+			own_control_core = 	{ 
+				2333 2331 2334 2329 2335 2336 2332 2342 2343 2347 2348 2345 2344 2304 2303 2339 
+			}
+		}
+		
+		MBH = {          
+			government = despotic_monarchy
+			primary_culture = gcypriot
+			religion = grecoid_pantheon
+			capital = 2206
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2206 2209
+			}
+		}
+		
+		MBI = {          
+			government = despotic_monarchy
+			primary_culture = gecypriot
+			religion = grecoid_pantheon
+			capital = 2207
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2207
+			}
+		}
+		
+		MBJ = {          
+			government = despotic_monarchy
+			primary_culture = gcypriot
+			religion = grecoid_pantheon
+			capital = 2208
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2208 2210
+			}
+		}
+		
+		MBK = {          
+			government = despotic_monarchy
+			primary_culture = gcypriot
+			religion = grecoid_pantheon
+			capital = 2212
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2212 2213
+			}
+		}
+		
+		MBL = {          
+			government = tribal_federation
+			primary_culture = tarhatti
+			religion = luwic_pantheon
+			capital = 2221
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2227 2229 2218 2219 2220 2221 2222 2223 2224 2225 2226 2228
 			}
 		}
 	}

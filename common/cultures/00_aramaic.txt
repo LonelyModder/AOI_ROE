@@ -63,7 +63,12 @@
 		aadinic = {}
 		ahaurani = {}
 		ahamathite = {}
+		alaquan = {}
+		asirquan = {}
 		agusiani = {}
+		aluashi = {}
+		amusri = {}
+		ashugabi = {}
 	}
 	
 	barbarian_names = { 

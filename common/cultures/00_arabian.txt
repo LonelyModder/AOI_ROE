@@ -1,7 +1,7 @@
 ﻿arabian = {
 	color = hsv { 0.3 0.7 0.6 }
 	
-	primary = sia_archers
+	primary = ia_archers
 	second = ia_warrior
 	flank = ia_camels
 
@@ -78,6 +78,7 @@
 	
 	culture = {
 		qedarite = {}
+		dadanite = {}
 	}
 	
 	barbarian_names = { 

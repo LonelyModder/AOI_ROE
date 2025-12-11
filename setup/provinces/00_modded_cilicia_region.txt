@@ -23,133 +23,142 @@
 2204={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		amount=1
+	citizen={
+		amount=3
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2205={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		amount=1
+	citizen={
+		amount=3
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2206={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2207={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gecypriot"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2208={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2209={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		amount=1
+	citizen={
+		amount=3
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2210={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		amount=1
+	citizen={
+		amount=3
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -178,84 +187,90 @@
 2212={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2213={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		amount=1
+	citizen={
+		amount=3
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2214={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		amount=1
+	citizen={
+		amount=3
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2215={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2218={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -273,8 +288,8 @@
 2219={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -292,8 +307,8 @@
 2220={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -311,11 +326,14 @@
 2221={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -330,8 +348,8 @@
 2222={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -349,8 +367,8 @@
 2223={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -368,8 +386,8 @@
 2224={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -387,8 +405,8 @@
 2225={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -406,8 +424,8 @@
 2226={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -425,8 +443,8 @@
 2227={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,8 +462,8 @@
 2228={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -463,8 +481,8 @@
 2229={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
