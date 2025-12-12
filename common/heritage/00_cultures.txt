@@ -307,3 +307,18 @@ synaic_heritage = {
 		country_culture_group = synaic
 	}
 }
+
+luwian_heritage = {
+	modifier = {
+		#good
+		global_pop_assimilation_speed_modifier = 0.1
+		land_morale_modifier = 0.1
+		
+		#bad
+		global_pop_conversion_speed_modifier = -0.1
+	}
+	
+	trigger = {
+		country_culture_group = hattian
+	}
+}

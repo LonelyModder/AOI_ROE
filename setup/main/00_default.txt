@@ -444,8 +444,11 @@ provinces = { #Any entry must contain a comment with city name.
 	765 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	247 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	26 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	2221 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	2215 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	2221 = { port_building = 1 }
 	2430 = { port_building = 1 }
 	2206 = { port_building = 2 }
 	2268 = { port_building = 2 }
@@ -3095,7 +3098,7 @@ country = {
 				2567 2566 2575 2586 2568 2584 2569 2570 2585 2571 2551 2552 2519 2518 2506 2507 2508
 				2555 2524 2525 2559 2561 2560 2526 2527 2562 2563 2564 2565 2509 2511 2512 2515 2514 2510 2308 2307
 				2541 2553 2540 2537 2536 2535 2538 2539 2554 2557 2558 2556 2316 2315 2314 2310 2309 
-				2298 2297 2290 2289 2325 2326 2327 2328 
+				2298 2297 2296 2289 2325 2326 2327 2328 
 			}
 		}
 		
@@ -3318,7 +3321,7 @@ country = {
 			government = despotic_monarchy
 			primary_culture = hatti
 			religion = luwic_pantheon
-			capital = 2296
+			capital = 2290
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3328,7 +3331,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2296
+				2290
 			}
 		}
 		

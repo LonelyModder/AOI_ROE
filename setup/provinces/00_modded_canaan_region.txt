@@ -347,7 +347,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="judahic"
-	culture="edomite"
+	culture="shasan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1081,7 +1081,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="judahic"
-	culture="edomite"
+	culture="shasan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1099,8 +1099,8 @@
 2442={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="arabian_pantheon"
-	culture="dadanite"
+	religion="judahic"
+	culture="shasan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1138,7 +1138,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="judahic"
-	culture="edomite"
+	culture="shasan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1156,8 +1156,8 @@
 2445={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="arabian_pantheon"
-	culture="dadanite"
+	religion="judahic"
+	culture="shasan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1194,8 +1194,8 @@
 2447={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="arabian_pantheon"
-	culture="dadanite"
+	religion="judahic"
+	culture="shasan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

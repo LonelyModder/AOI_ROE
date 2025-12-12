@@ -57,18 +57,16 @@
 	
 	culture = {
 		adamascan = {}
-		abahiani = {}
+		anahrinite = {}
 		sutean = {}
 		ahatallan = {}
 		aadinic = {}
 		ahaurani = {}
 		ahamathite = {}
-		alaquan = {}
-		asirquan = {}
 		agusiani = {}
 		aluashi = {}
 		amusri = {}
-		ashugabi = {}
+		anahrinite = {}
 	}
 	
 	barbarian_names = { 

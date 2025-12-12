@@ -678,7 +678,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="ashugabi"
+	culture="anahrinite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -694,25 +694,6 @@
 }
 
 2290={ 
-	terrain="plains"
-	trade_goods="spices"
-	religion="canaanitic_pantheon"
-	culture="aadinic"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}	
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-2296={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
@@ -731,6 +712,41 @@
 	}
 	slaves={
 		amount=5
+	}
+}
+
+2296={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+		culture="aadinic"
+	}
+	citizen={
+		amount=5
+		culture="aadinic"
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=1
+	}
+	freemen={
+		amount=5
+		culture="aadinic"
+	}
+	tribesmen={
+		amount=6
+		culture="aadinic"
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -943,7 +959,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="alaquan"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -962,7 +978,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="alaquan"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -981,7 +997,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="alaquan"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1000,7 +1016,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="asirquan"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1083,18 +1099,22 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="asirquan"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
+		amount=6
+	}
 	tribesmen={
-		amount=4
+		amount=6
+		culture="sutean"
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -1102,7 +1122,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="asirquan"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1121,7 +1141,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="asirquan"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

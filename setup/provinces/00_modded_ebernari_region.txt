@@ -69,7 +69,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -88,7 +88,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -107,7 +107,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -126,7 +126,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -145,7 +145,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -164,14 +164,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -183,7 +183,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -202,7 +202,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -221,7 +221,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -240,18 +240,18 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
-	tribesmen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -259,7 +259,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -277,8 +277,8 @@
 2517={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	religion="canaanitic_pantheon"
+	culture="aadinic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -297,18 +297,18 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
-	tribesmen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -316,7 +316,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -335,26 +335,30 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
+		amount=6
+	}
 	tribesmen={
-		amount=4
+		amount=6
+		culture="anahrinite"
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
 2521={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	religion="canaanitic_pantheon"
+	culture="aadinic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -373,7 +377,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +396,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -411,7 +415,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -430,7 +434,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -449,7 +453,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -468,7 +472,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -487,7 +491,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -506,7 +510,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="anahrinite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -525,7 +529,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="anahrinite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -543,8 +547,8 @@
 2535={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	religion="canaanitic_pantheon"
+	culture="aadinic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -563,7 +567,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="anahrinite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -582,7 +586,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="anahrinite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -601,7 +605,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="anahrinite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -620,7 +624,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="anahrinite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +643,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="anahrinite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -658,7 +662,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="anahrinite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -677,18 +681,22 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
+		amount=6
+	}
 	tribesmen={
-		amount=4
+		amount=3
+		culture="anahrinite"
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -696,7 +704,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -715,7 +723,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -734,7 +742,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -753,18 +761,18 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
-	tribesmen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -772,7 +780,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -791,7 +799,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -810,7 +818,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -829,7 +837,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -848,18 +856,18 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
-	tribesmen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -867,7 +875,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="anahrinite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -886,18 +894,22 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
+		amount=6
+	}
 	tribesmen={
-		amount=4
+		amount=6
+		culture="anahrinite"
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -905,18 +917,22 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
+		amount=6
+	}
 	tribesmen={
-		amount=4
+		amount=6
+		culture="anahrinite"
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -924,7 +940,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -943,18 +959,22 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
+		amount=6
+	}
 	tribesmen={
-		amount=4
+		amount=6
+		culture="anahrinite"
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -962,18 +982,22 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
+		amount=6
+	}
 	tribesmen={
-		amount=4
+		amount=6
+		culture="anahrinite"
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -981,18 +1005,22 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
+		amount=6
+	}
 	tribesmen={
-		amount=4
+		amount=6
+		culture="anahrinite"
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -1000,7 +1028,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1019,7 +1047,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1038,7 +1066,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1057,7 +1085,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1076,7 +1104,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1095,7 +1123,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1114,7 +1142,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1133,18 +1161,25 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=7
+	}
 	tribesmen={
-		amount=4
+		amount=6
+		culture="anahrinite"
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -1152,7 +1187,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1171,7 +1206,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1190,7 +1225,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1209,7 +1244,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1228,7 +1263,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1247,7 +1282,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1266,7 +1301,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1285,18 +1320,18 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
-	tribesmen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -1304,18 +1339,18 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=1
-	}	
-	tribesmen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -1323,7 +1358,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1342,7 +1377,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1361,7 +1396,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1380,7 +1415,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1399,7 +1434,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1418,14 +1453,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1437,14 +1472,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1456,7 +1491,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1475,7 +1510,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1494,7 +1529,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1513,7 +1548,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1532,7 +1567,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1551,7 +1586,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1570,7 +1605,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1589,7 +1624,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1608,7 +1643,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1642,7 +1677,7 @@
 	}
 	tribesmen={
 		amount=2
-		culture="abahiani"
+		culture="anahrinite"
 	}
 	slaves={
 		amount=7
@@ -1653,7 +1688,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1672,7 +1707,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1691,7 +1726,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1710,7 +1745,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="wvenedi"
+	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
