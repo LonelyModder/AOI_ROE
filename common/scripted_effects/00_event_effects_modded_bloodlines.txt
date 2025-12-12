@@ -8,6 +8,10 @@ pass_down_traits_effect = {
 					OR = {
 						has_trait = nobilitas
 						has_trait = tarquinius
+						has_trait = heraclid
+						has_trait = aeacid
+						has_trait = shoshenqid
+						has_trait = napatan
 					}
 				}
 						
@@ -34,6 +38,50 @@ pass_down_traits_effect = {
 				}
 				add_trait = tarquinius
 			}
+			if = {
+				limit = {
+					father = {
+						has_trait = heraclid
+					}
+					NOT = {
+						has_trait = heraclid
+					}
+				}
+				add_trait = heraclid
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = aeacid
+					}
+					NOT = {
+						has_trait = aeacid
+					}
+				}
+				add_trait = aeacid
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = shoshenqid
+					}
+					NOT = {
+						has_trait = shoshenqid
+					}
+				}
+				add_trait = shoshenqid
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = napatan
+					}
+					NOT = {
+						has_trait = napatan
+					}
+				}
+				add_trait = napatan
+			}
 		}
 		if = {
 			limit = {
@@ -59,6 +107,54 @@ pass_down_traits_effect = {
 			}
 			add_trait = tarquinius
 		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = heraclid
+				}
+				NOT = {
+					has_trait = heraclid
+				}
+			}
+			add_trait = heraclid
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = aeacid
+				}
+				NOT = {
+					has_trait = aeacid
+				}
+			}
+			add_trait = aeacid
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = shoshenqid
+				}
+				NOT = {
+					has_trait = shoshenqid
+				}
+			}
+			add_trait = shoshenqid
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = napatan
+				}
+				NOT = {
+					has_trait = napatan
+				}
+			}
+			add_trait = napatan
+		}
 	}
 }
 
@@ -78,5 +174,37 @@ bastard_major_bloodline_effect = {
 			}
 		}
 		add_trait = tarquinius
+	}
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = heraclid
+			}
+		}
+		add_trait = heraclid
+	}
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = aeacid
+			}
+		}
+		add_trait = aeacid
+	}
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = shoshenqid
+			}
+		}
+		add_trait = shoshenqid
+	}
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = napatan
+			}
+		}
+		add_trait = napatan
 	}
 }
