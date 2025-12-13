@@ -218,7 +218,7 @@
 }
 
 2514={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -237,7 +237,7 @@
 }
 
 2515={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -256,7 +256,7 @@
 }
 
 2516={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="sutean"
@@ -275,7 +275,7 @@
 }
 
 2517={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="aadinic"
@@ -294,7 +294,7 @@
 }
 
 2518={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -313,7 +313,7 @@
 }
 
 2519={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -355,7 +355,7 @@
 }
 
 2521={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="aadinic"
@@ -469,7 +469,7 @@
 }
 
 2527={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -507,7 +507,7 @@
 }
 
 2529={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="anahrinite"
@@ -678,7 +678,7 @@
 }
 
 2542={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -701,7 +701,7 @@
 }
 
 2543={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -720,7 +720,7 @@
 }
 
 2544={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -739,7 +739,7 @@
 }
 
 2545={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -758,7 +758,7 @@
 }
 
 2546={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -853,7 +853,7 @@
 }
 
 2552={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1063,7 +1063,7 @@
 }
 
 2562={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1082,7 +1082,7 @@
 }
 
 2563={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1120,7 +1120,7 @@
 }
 
 2565={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1139,7 +1139,7 @@
 }
 
 2566={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1158,7 +1158,7 @@
 }
 
 2567={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1184,7 +1184,7 @@
 }
 
 2568={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1260,7 +1260,7 @@
 }
 
 2572={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1279,7 +1279,7 @@
 }
 
 2573={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1317,7 +1317,7 @@
 }
 
 2575={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1336,7 +1336,7 @@
 }
 
 2576={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1355,7 +1355,7 @@
 }
 
 2577={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1374,7 +1374,7 @@
 }
 
 2578={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1488,7 +1488,7 @@
 }
 
 2584={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1526,7 +1526,7 @@
 }
 
 2586={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1602,7 +1602,7 @@
 }
 
 2590={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1621,7 +1621,7 @@
 }
 
 2591={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -1685,7 +1685,7 @@
 }
 
 2594={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"

@@ -1,5 +1,5 @@
 ﻿2203={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
@@ -21,7 +21,7 @@
 }
 
 2204={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
@@ -81,7 +81,7 @@
 }
 
 2207={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gecypriot"

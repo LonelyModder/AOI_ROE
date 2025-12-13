@@ -116,7 +116,7 @@
 }
 
 2261={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -340,7 +340,7 @@
 }
 
 2272={ 
-	terrain="forest"
+	terrain="plains"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="corepunic"
@@ -599,7 +599,7 @@
 }
 
 2285={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -618,7 +618,7 @@
 }
 
 2286={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -637,7 +637,7 @@
 }
 
 2287={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -1058,7 +1058,7 @@
 }
 
 2312={ 
-	terrain="desert"
+	terrain="hills"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
@@ -1455,7 +1455,7 @@
 }
 
 2332={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
@@ -1503,7 +1503,7 @@
 }
 
 2334={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
@@ -1558,7 +1558,7 @@
 }
 
 2336={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="aluashi"
@@ -1644,7 +1644,7 @@
 }
 
 2342={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
@@ -1670,7 +1670,7 @@
 }
 
 2343={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="aluashi"
@@ -1696,7 +1696,7 @@
 }
 
 2344={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
@@ -1715,7 +1715,7 @@
 }
 
 2345={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
@@ -1791,7 +1791,7 @@
 }
 
 2349={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
@@ -1810,7 +1810,7 @@
 }
 
 2350={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
@@ -1829,7 +1829,7 @@
 }
 
 2351={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
@@ -1848,7 +1848,7 @@
 }
 
 2352={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
@@ -1867,7 +1867,7 @@
 }
 
 2353={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
@@ -1886,7 +1886,7 @@
 }
 
 2354={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
@@ -1905,7 +1905,7 @@
 }
 
 2355={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
@@ -1924,7 +1924,7 @@
 }
 
 2356={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
@@ -1962,7 +1962,7 @@
 }
 
 2358={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
@@ -2025,7 +2025,7 @@
 }
 
 2364={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="samaric"

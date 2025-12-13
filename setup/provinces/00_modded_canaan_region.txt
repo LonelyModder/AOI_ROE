@@ -382,7 +382,7 @@
 }
 
 2404={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="edomite"
@@ -965,7 +965,7 @@
 }
 
 2436={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="samaric"
