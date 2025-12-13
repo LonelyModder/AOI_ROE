@@ -3080,7 +3080,7 @@ country = {
 		}
 		
 		MAC = {          
-			government = despotic_monarchy
+			government = aristocratic_monarchy
 			primary_culture = ashurite
 			religion = anunnaki_pantheon
 			capital = 2593

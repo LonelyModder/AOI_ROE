@@ -40,7 +40,7 @@
 }
 
 2205={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
@@ -59,7 +59,7 @@
 }
 
 2206={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
@@ -103,7 +103,7 @@
 }
 
 2208={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
@@ -125,7 +125,7 @@
 }
 
 2209={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
@@ -163,7 +163,7 @@
 }
 
 2211={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="corepunic"
@@ -185,7 +185,7 @@
 }
 
 2212={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
@@ -207,7 +207,7 @@
 }
 
 2213={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
@@ -226,7 +226,7 @@
 }
 
 2214={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
@@ -267,7 +267,7 @@
 }
 
 2218={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -286,7 +286,7 @@
 }
 
 2219={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -305,7 +305,7 @@
 }
 
 2220={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -324,7 +324,7 @@
 }
 
 2221={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -346,7 +346,7 @@
 }
 
 2222={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -365,7 +365,7 @@
 }
 
 2223={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -384,7 +384,7 @@
 }
 
 2224={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -403,7 +403,7 @@
 }
 
 2225={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -422,7 +422,7 @@
 }
 
 2226={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -441,7 +441,7 @@
 }
 
 2227={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -460,7 +460,7 @@
 }
 
 2228={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -479,7 +479,7 @@
 }
 
 2229={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="tarhatti"
@@ -498,7 +498,7 @@
 }
 
 2230={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -577,7 +577,7 @@
 }
 
 2234={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -621,7 +621,7 @@
 }
 
 2236={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -640,7 +640,7 @@
 }
 
 2237={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -659,7 +659,7 @@
 }
 
 2238={ 
-	terrain="plains"
+	terrain="marsh"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -678,7 +678,7 @@
 }
 
 2239={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -716,7 +716,7 @@
 }
 
 2241={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -735,7 +735,7 @@
 }
 
 2242={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -754,7 +754,7 @@
 }
 
 2243={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -773,7 +773,7 @@
 }
 
 2244={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -792,7 +792,7 @@
 }
 
 2245={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -814,7 +814,7 @@
 }
 
 2246={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -852,7 +852,7 @@
 }
 
 2248={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"

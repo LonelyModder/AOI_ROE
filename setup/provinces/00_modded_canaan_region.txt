@@ -1,5 +1,5 @@
 ﻿2384={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -18,7 +18,7 @@
 }
 
 2385={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -37,7 +37,7 @@
 }
 
 2386={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -56,7 +56,7 @@
 }
 
 2387={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -75,7 +75,7 @@
 }
 
 2388={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -94,7 +94,7 @@
 }
 
 2389={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -113,7 +113,7 @@
 }
 
 2390={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -135,7 +135,7 @@
 }
 
 2391={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -154,7 +154,7 @@
 }
 
 2392={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -173,7 +173,7 @@
 }
 
 2393={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -192,7 +192,7 @@
 }
 
 2394={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -211,7 +211,7 @@
 }
 
 2395={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -230,7 +230,7 @@
 }
 
 2396={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -249,7 +249,7 @@
 }
 
 2397={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -268,7 +268,7 @@
 }
 
 2398={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -287,7 +287,7 @@
 }
 
 2399={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -306,7 +306,7 @@
 }
 
 2400={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -325,7 +325,7 @@
 }
 
 2401={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -363,7 +363,7 @@
 }
 
 2403={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="edomite"
@@ -401,7 +401,7 @@
 }
 
 2405={ 
-	terrain="plains"
+	terrain="oasis"
 	trade_goods="spices"
 	religion="judahic"
 	culture="edomite"
@@ -439,7 +439,7 @@
 }
 
 2407={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="edomite"
@@ -458,7 +458,7 @@
 }
 
 2408={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="edomite"
@@ -496,7 +496,7 @@
 }
 
 2410={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="canaanite"
@@ -515,7 +515,7 @@
 }
 
 2411={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="edomite"
@@ -534,7 +534,7 @@
 }
 
 2412={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="canaanite"
@@ -553,7 +553,7 @@
 }
 
 2413={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="edomite"
@@ -572,7 +572,7 @@
 }
 
 2414={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="judahite"
@@ -616,7 +616,7 @@
 }
 
 2416={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="judahite"
@@ -786,7 +786,7 @@
 }
 
 2428={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="samaric"
@@ -1034,7 +1034,7 @@
 }
 
 2439={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="samaric"
@@ -1056,7 +1056,7 @@
 }
 
 2440={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="samaric"
@@ -1078,7 +1078,7 @@
 }
 
 2441={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -1097,7 +1097,7 @@
 }
 
 2442={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -1116,7 +1116,7 @@
 }
 
 2443={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1135,7 +1135,7 @@
 }
 
 2444={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -1154,7 +1154,7 @@
 }
 
 2445={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -1173,7 +1173,7 @@
 }
 
 2446={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1192,7 +1192,7 @@
 }
 
 2447={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="shasan"
@@ -1211,7 +1211,7 @@
 }
 
 2448={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1230,7 +1230,7 @@
 }
 
 2449={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1249,7 +1249,7 @@
 }
 
 2450={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1268,7 +1268,7 @@
 }
 
 2459={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1287,7 +1287,7 @@
 }
 
 2460={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1306,7 +1306,7 @@
 }
 
 2461={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="moabite"
@@ -1325,7 +1325,7 @@
 }
 
 2462={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="moabite"
@@ -1350,7 +1350,7 @@
 }
 
 2463={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="ammonite"
@@ -1375,10 +1375,9 @@
 }
 
 2464={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
-	culture="edomite"
 	culture="edomite"
 	civilization_value=0
 	barbarian_power=0
@@ -1395,7 +1394,7 @@
 }
 
 2465={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="edomite"
@@ -1414,7 +1413,7 @@
 }
 
 2466={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="edomite"
@@ -1433,7 +1432,7 @@
 }
 
 2467={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="edomite"
@@ -1455,7 +1454,7 @@
 }
 
 2468={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="moabite"
@@ -1474,7 +1473,7 @@
 }
 
 2469={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="moabite"
@@ -1493,7 +1492,7 @@
 }
 
 2470={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="moabite"
@@ -1512,7 +1511,7 @@
 }
 
 2471={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="ammonite"
@@ -1531,7 +1530,7 @@
 }
 
 2472={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="judahic"
 	culture="ammonite"
@@ -1550,7 +1549,7 @@
 }
 
 2473={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="judahic"
 	culture="ammonite"
@@ -1569,7 +1568,7 @@
 }
 
 2474={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
@@ -1648,7 +1647,7 @@
 }
 
 2487={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
@@ -1667,7 +1666,7 @@
 }
 
 2488={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
@@ -1724,7 +1723,7 @@
 }
 
 2491={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahaurani"
@@ -1743,7 +1742,7 @@
 }
 
 2492={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahaurani"
@@ -1762,7 +1761,7 @@
 }
 
 2493={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1781,7 +1780,7 @@
 }
 
 2494={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1800,7 +1799,7 @@
 }
 
 2495={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1819,7 +1818,7 @@
 }
 
 2496={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1838,7 +1837,7 @@
 }
 
 2497={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1857,7 +1856,7 @@
 }
 
 2498={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="arabian_pantheon"
 	culture="dadanite"
@@ -1876,7 +1875,7 @@
 }
 
 2499={ 
-	terrain="plains"
+	terrain="oasis"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
 	culture="ahaurani"

@@ -1,5 +1,5 @@
 ﻿2503={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="sutean"
@@ -18,7 +18,7 @@
 }
 
 2504={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="sutean"
@@ -47,7 +47,7 @@
 }
 
 2505={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="sutean"
@@ -66,7 +66,7 @@
 }
 
 2506={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="sutean"
@@ -85,7 +85,7 @@
 }
 
 2507={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="sutean"
@@ -104,7 +104,7 @@
 }
 
 2508={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="sutean"
@@ -123,7 +123,7 @@
 }
 
 2509={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="sutean"
@@ -142,7 +142,7 @@
 }
 
 2510={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="sutean"
@@ -161,7 +161,7 @@
 }
 
 2511={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -180,7 +180,7 @@
 }
 
 2512={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
@@ -199,7 +199,7 @@
 }
 
 2513={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
 	culture="sutean"
