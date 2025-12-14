@@ -6632,8 +6632,8 @@
 
 2252={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="tarhatti"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6752,8 +6752,8 @@
 
 2363={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="judahic"
+	culture="shasan"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6772,8 +6772,8 @@
 
 2382={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="canaanitic_pantheon"
+	culture="ahatallan"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7002,8 +7002,8 @@
 
 2500={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="judahic"
+	culture="shasan"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

@@ -13,7 +13,8 @@ entity = {
 		chance = 5
 		next_state = "idle"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "iberian_levies_spear_01_entity" }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_small_shield_01_entity" }
+		#start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_small_shield_01_entity" }
+		start_event = { node = THE_RIG:world_node_1 entity = "troy_shield_01_entity" }
     	propagate_state = { helmet = "idle_base" }
     }
 	state = {
@@ -23,7 +24,8 @@ entity = {
 		chance = 1
 		next_state = "idle"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "iberian_levies_spear_01_entity" }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_small_shield_01_entity" }
+		#start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_small_shield_01_entity" }
+		start_event = { node = THE_RIG:world_node_1 entity = "troy_shield_01_entity" }
     	propagate_state = { helmet = "idle_var" }
     }
     state = {

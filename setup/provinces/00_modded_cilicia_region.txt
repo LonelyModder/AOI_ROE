@@ -1,6 +1,6 @@
 ﻿2203={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -22,7 +22,7 @@
 
 2204={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -41,7 +41,7 @@
 
 2205={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -60,7 +60,7 @@
 
 2206={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -82,7 +82,7 @@
 
 2207={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="grecoid_pantheon"
 	culture="gecypriot"
 	civilization_value=0
@@ -104,7 +104,7 @@
 
 2208={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -126,7 +126,7 @@
 
 2209={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -145,7 +145,7 @@
 
 2210={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -164,7 +164,7 @@
 
 2211={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="dye"
 	religion="canaanitic_pantheon"
 	culture="corepunic"
 	civilization_value=0
@@ -186,7 +186,7 @@
 
 2212={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -208,7 +208,7 @@
 
 2213={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -227,7 +227,7 @@
 
 2214={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -246,7 +246,7 @@
 
 2215={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="grecoid_pantheon"
 	culture="gcypriot"
 	civilization_value=0
@@ -306,7 +306,7 @@
 
 2220={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="luwic_pantheon"
 	culture="tarhatti"
 	civilization_value=0
@@ -325,7 +325,7 @@
 
 2221={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="luwic_pantheon"
 	culture="tarhatti"
 	civilization_value=0
@@ -480,7 +480,7 @@
 
 2229={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="luwic_pantheon"
 	culture="tarhatti"
 	civilization_value=0
@@ -499,7 +499,7 @@
 
 2230={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -660,7 +660,7 @@
 
 2238={ 
 	terrain="marsh"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -698,7 +698,7 @@
 
 2240={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0

@@ -333,7 +333,7 @@
 
 2520={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -375,7 +375,7 @@
 
 2522={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -394,7 +394,7 @@
 
 2523={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -603,7 +603,7 @@
 
 2538={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="anunnaki_pantheon"
 	culture="anahrinite"
 	civilization_value=0
@@ -957,7 +957,7 @@
 
 2557={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -980,7 +980,7 @@
 
 2558={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1003,7 +1003,7 @@
 
 2559={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1337,7 +1337,7 @@
 
 2576={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="gems"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1356,7 +1356,7 @@
 
 2577={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="gems"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1660,7 +1660,7 @@
 
 2593={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1705,7 +1705,7 @@
 
 2595={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0

@@ -38,7 +38,7 @@
 
 2386={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 2388={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="gems"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -95,7 +95,7 @@
 
 2389={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="gems"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -114,7 +114,7 @@
 
 2390={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="gems"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -155,7 +155,7 @@
 
 2392={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -174,7 +174,7 @@
 
 2393={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -212,7 +212,7 @@
 
 2395={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -345,7 +345,7 @@
 
 2402={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -573,7 +573,7 @@
 
 2414={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="judahic"
 	culture="judahite"
 	civilization_value=0
@@ -598,7 +598,7 @@
 
 2415={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="judahic"
 	culture="judahite"
 	civilization_value=0
@@ -617,7 +617,7 @@
 
 2416={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="judahic"
 	culture="judahite"
 	civilization_value=0
@@ -699,7 +699,7 @@
 
 2420={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="canaanitic_pantheon"
 	culture="pphilistine"
 	civilization_value=0
@@ -721,7 +721,7 @@
 
 2425={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="canaanitic_pantheon"
 	culture="pphilistine"
 	civilization_value=0
@@ -743,7 +743,7 @@
 
 2426={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="canaanitic_pantheon"
 	culture="pphilistine"
 	civilization_value=0
@@ -858,18 +858,18 @@
 	culture="samaric"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
-		amount=1
-	}
+		amount=10
+	}	
 	freemen={
-		amount=3
+		amount=6
 	}	
 	tribesmen={
-		amount=1
+		amount=2
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -944,7 +944,7 @@
 
 2435={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="canaanitic_pantheon"
 	culture="samaric"
 	civilization_value=0
@@ -966,7 +966,7 @@
 
 2436={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="canaanitic_pantheon"
 	culture="samaric"
 	civilization_value=0
@@ -1010,7 +1010,7 @@
 
 2438={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="papyrus"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
 	civilization_value=0
@@ -1231,7 +1231,7 @@
 
 2449={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="arabian_pantheon"
 	culture="dadanite"
 	civilization_value=0
@@ -1250,7 +1250,7 @@
 
 2450={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="arabian_pantheon"
 	culture="dadanite"
 	civilization_value=0
@@ -1326,7 +1326,7 @@
 
 2462={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="judahic"
 	culture="moabite"
 	civilization_value=0
@@ -1762,7 +1762,7 @@
 
 2493={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="arabian_pantheon"
 	culture="dadanite"
 	civilization_value=0
