@@ -16,6 +16,7 @@ character_events.35 = {
 						has_trait = aeacid
 						has_trait = shoshenqid
 						has_trait = napatan
+						has_trait = adaside
 					}
 				}
 			}
@@ -84,6 +85,17 @@ character_events.35 = {
 					}
 				}
 				add_trait = napatan
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = adaside
+					}
+					NOT = {
+						has_trait = adaside
+					}
+				}
+				add_trait = adaside
 			}
 		}
 		if = {
@@ -157,6 +169,18 @@ character_events.35 = {
 				}
 			}
 			add_trait = napatan	
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = adaside
+				}
+				NOT = {
+					has_trait = adaside
+				}
+			}
+			add_trait = adaside	
 		}
 	}
 }

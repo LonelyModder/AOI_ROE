@@ -19,7 +19,7 @@
 
 2256={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -136,7 +136,7 @@
 
 2262={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -155,7 +155,7 @@
 
 2263={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -193,7 +193,7 @@
 
 2265={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="canaanitic_pantheon"
 	culture="corepunic"
 	civilization_value=0
@@ -212,7 +212,7 @@
 
 2266={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="canaanitic_pantheon"
 	culture="corepunic"
 	civilization_value=0
@@ -234,7 +234,7 @@
 
 2267={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="canaanitic_pantheon"
 	culture="corepunic"
 	civilization_value=0
@@ -836,7 +836,7 @@
 
 2301={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="canaanitic_pantheon"
 	culture="ahamathite"
 	civilization_value=0
@@ -855,7 +855,7 @@
 
 2302={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="canaanitic_pantheon"
 	culture="ahamathite"
 	civilization_value=0
@@ -2026,7 +2026,7 @@
 
 2364={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="canaanitic_pantheon"
 	culture="samaric"
 	civilization_value=0

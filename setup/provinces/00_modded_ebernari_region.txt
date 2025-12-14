@@ -1064,7 +1064,7 @@
 
 2562={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1083,7 +1083,7 @@
 
 2563={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0

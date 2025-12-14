@@ -342,6 +342,12 @@ family={
 			culture = ma
 			prestige=300
 		}
+		21={
+			key="Adaside"
+			owner=MAC
+			culture = ashurite
+			prestige=300
+		}
 	}
 }
 diplomacy = {
@@ -3079,7 +3085,8 @@ country = {
 			}
 		}
 		
-		MAC = {          
+		MAC = { 
+			family = 21
 			government = aristocratic_monarchy
 			primary_culture = ashurite
 			religion = anunnaki_pantheon
@@ -3090,6 +3097,10 @@ country = {
 				civic_tech={ level=3 progress=0 }
 				oratory_tech={ level=3 progress=0 }
 				religious_tech= { level=3 progress=0  }
+			}
+			
+			historical_regnal_numbers = {
+				Ashur-nirari = 4
 			}
 			
 			own_control_core = 	{ 
