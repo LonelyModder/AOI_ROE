@@ -181,3 +181,26 @@ davidid = {
 	}
 	
 }
+
+kuzite = {
+	type = status
+	
+	prominence = 20
+	finesse = 1
+	
+	support_for_character_as_heir = 10
+
+	country = {
+		happiness_for_wrong_culture_modifier_svalue = 0.04
+		global_monthly_civilization = 0.05
+	}
+	
+	province = {
+		local_citizen_happyness = 0.1
+	}
+	
+	unit = {
+		ia_chartios_offensive = 0.1
+	}
+	
+}

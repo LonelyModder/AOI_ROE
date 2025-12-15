@@ -189,6 +189,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_mastarte"
 }
 
 2265={ 
@@ -293,6 +294,7 @@
 	slaves={
 		amount=5
 	}
+	holy_site="omen_mbaalat"
 }
 
 2270={ 
@@ -337,6 +339,7 @@
 	slaves={
 		amount=5
 	}
+	holy_site="omen_meshmun"
 }
 
 2272={ 
@@ -359,6 +362,7 @@
 	slaves={
 		amount=7
 	}
+	holy_site="omen_mmelqart"
 }
 
 2273={ 
@@ -435,6 +439,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_mbaal"
 }
 
 2277={ 
@@ -2003,6 +2008,7 @@
 	slaves={
 		amount=5
 	}
+	holy_site="omen_mel"
 }
 
 2360={ 

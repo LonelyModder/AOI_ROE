@@ -18,6 +18,7 @@
 	slaves={
 		amount=2
 	}
+	holy_site="omen_maphrodite"
 }
 
 2204={ 

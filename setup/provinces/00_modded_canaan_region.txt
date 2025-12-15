@@ -594,6 +594,7 @@
 	slaves={
 		amount=5
 	}
+	holy_site="omen_yhwh"
 }
 
 2415={ 

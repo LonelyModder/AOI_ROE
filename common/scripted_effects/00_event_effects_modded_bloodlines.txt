@@ -14,6 +14,7 @@ pass_down_traits_effect = {
 						has_trait = napatan
 						has_trait = adaside
 						has_trait = davidid
+						has_trait = kuzite
 					}
 				}
 						
@@ -105,6 +106,17 @@ pass_down_traits_effect = {
 					}
 				}
 				add_trait = davidid
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = kuzite
+					}
+					NOT = {
+						has_trait = kuzite
+					}
+				}
+				add_trait = kuzite
 			}
 		}
 		if = {
@@ -203,6 +215,18 @@ pass_down_traits_effect = {
 			}
 			add_trait = davidid
 		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = kuzite
+				}
+				NOT = {
+					has_trait = kuzite
+				}
+			}
+			add_trait = kuzite
+		}
 	}
 }
 
@@ -270,5 +294,13 @@ bastard_major_bloodline_effect = {
 			}
 		}
 		add_trait = davidid
+	}
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = kuzite
+			}
+		}
+		add_trait = kuzite
 	}
 }

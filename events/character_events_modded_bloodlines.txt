@@ -18,6 +18,7 @@ character_events.35 = {
 						has_trait = napatan
 						has_trait = adaside
 						has_trait = davidid
+						has_trait = kuzite
 					}
 				}
 			}
@@ -108,6 +109,17 @@ character_events.35 = {
 					}
 				}
 				add_trait = davidid
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = kuzite
+					}
+					NOT = {
+						has_trait = kuzite
+					}
+				}
+				add_trait = kuzite
 			}
 		}
 		if = {
@@ -205,6 +217,18 @@ character_events.35 = {
 				}
 			}
 			add_trait = davidid	
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = kuzite
+				}
+				NOT = {
+					has_trait = kuzite
+				}
+			}
+			add_trait = kuzite	
 		}
 	}
 }

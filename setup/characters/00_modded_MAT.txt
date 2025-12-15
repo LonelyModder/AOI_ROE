@@ -1,0 +1,24 @@
+﻿"MAT"={
+	country="MAT"
+	
+	43={
+		first_name="Kamani"
+		family = c:MAT.fam:Astiruwa
+		birth_date=410.1.1
+		culture="hatti"
+		religion="luwic_pantheon"
+		no_stats=yes
+		add_martial=4
+		add_charisma=6
+		add_finesse=7
+		add_zeal=5
+		no_traits=yes
+		add_trait = "kuzite"
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:MAT={
+			set_as_ruler=char:43
+		}
+	}
+}

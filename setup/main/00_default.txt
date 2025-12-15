@@ -378,6 +378,12 @@ family={
 			culture = agusiani
 			prestige=300
 		}
+		27={
+			key="Astiruwa"
+			owner=MAT
+			culture = hatti
+			prestige=300
+		}
 	}
 }
 diplomacy = {
@@ -3366,7 +3372,8 @@ country = {
 			}
 		}
 		
-		MAT = {          
+		MAT = {
+			family = 27
 			government = despotic_monarchy
 			primary_culture = hatti
 			religion = luwic_pantheon
