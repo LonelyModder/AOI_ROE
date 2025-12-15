@@ -402,7 +402,7 @@
 
 2405={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="judahic"
 	culture="edomite"
 	civilization_value=0
@@ -421,7 +421,7 @@
 
 2406={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="judahic"
 	culture="edomite"
 	civilization_value=0
@@ -1307,7 +1307,7 @@
 
 2461={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="judahic"
 	culture="moabite"
 	civilization_value=0
@@ -1626,7 +1626,7 @@
 
 2477={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
 	civilization_value=0
@@ -1686,7 +1686,7 @@
 
 2489={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="canaanitic_pantheon"
 	culture="ahaurani"
 	civilization_value=0

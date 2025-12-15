@@ -1,6 +1,6 @@
 ﻿2255={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -212,7 +212,7 @@
 
 2266={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="canaanitic_pantheon"
 	culture="corepunic"
 	civilization_value=0
@@ -874,7 +874,7 @@
 
 2303={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="canaanitic_pantheon"
 	culture="ahamathite"
 	civilization_value=0
@@ -893,7 +893,7 @@
 
 2304={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="canaanitic_pantheon"
 	culture="ahamathite"
 	civilization_value=0
@@ -1244,7 +1244,7 @@
 
 2321={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -1266,7 +1266,7 @@
 
 2322={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -1578,7 +1578,7 @@
 
 2339={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="canaanitic_pantheon"
 	culture="ahamathite"
 	civilization_value=0
@@ -1906,7 +1906,7 @@
 
 2355={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0

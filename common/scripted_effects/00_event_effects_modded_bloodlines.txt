@@ -13,6 +13,7 @@ pass_down_traits_effect = {
 						has_trait = shoshenqid
 						has_trait = napatan
 						has_trait = adaside
+						has_trait = davidid
 					}
 				}
 						
@@ -93,6 +94,17 @@ pass_down_traits_effect = {
 					}
 				}
 				add_trait = adaside
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = davidid
+					}
+					NOT = {
+						has_trait = davidid
+					}
+				}
+				add_trait = davidid
 			}
 		}
 		if = {
@@ -179,6 +191,18 @@ pass_down_traits_effect = {
 			}
 			add_trait = adaside
 		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = davidid
+				}
+				NOT = {
+					has_trait = davidid
+				}
+			}
+			add_trait = davidid
+		}
 	}
 }
 
@@ -238,5 +262,13 @@ bastard_major_bloodline_effect = {
 			}
 		}
 		add_trait = adaside
+	}
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = davidid
+			}
+		}
+		add_trait = davidid
 	}
 }

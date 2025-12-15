@@ -22,7 +22,7 @@
 		}
 	}
 	
-	20={
+	37={
 		first_name="Tiglath-Pilaser"
 		family = c:EAB.fam:Shoshenqid
 		father="char:36"

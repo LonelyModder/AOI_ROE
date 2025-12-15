@@ -348,6 +348,36 @@ family={
 			culture = ashurite
 			prestige=300
 		}
+		22={
+			key="Davidid"
+			owner=MAM
+			culture = judahic
+			prestige=300
+		}
+		23={
+			key="Jehuid"
+			owner=MAN
+			culture = samaric
+			prestige=300
+		}
+		24={
+			key="Damascite"
+			owner=MAI
+			culture = adamascan
+			prestige=300
+		}
+		25={
+			key="Tubail"
+			owner=MAA
+			culture = corepunic
+			prestige=300
+		}
+		26={
+			key="Gusite"
+			owner=MBG
+			culture = agusiani
+			prestige=300
+		}
 	}
 }
 diplomacy = {
@@ -3056,8 +3086,9 @@ country = {
 			}
 		}
 		
-		MAA = {          
-			government = aristocratic_republic
+		MAA = {    
+			family = 25
+			government = despotic_monarchy
 			primary_culture = corepunic
 			religion = canaanitic_pantheon
 			capital = 2272
@@ -3067,6 +3098,10 @@ country = {
 				civic_tech={ level=2 progress=0 }
 				oratory_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
+			}
+			
+			historical_regnal_numbers = {
+				Ithobaal = 1
 			}
 			
 			own_control_core = 	{ 
@@ -3175,7 +3210,8 @@ country = {
 			}
 		}
 		
-		MAI = {          
+		MAI = { 
+			family = 24
 			government = despotic_monarchy
 			primary_culture = adamascan
 			religion = canaanitic_pantheon
@@ -3227,7 +3263,8 @@ country = {
 			}
 		}
 		
-		MAM = {          
+		MAM = { 
+			family = 22
 			government = despotic_monarchy
 			primary_culture = judahite
 			religion = judahic
@@ -3245,7 +3282,8 @@ country = {
 			}
 		}
 		
-		MAN = {          
+		MAN = {
+			family = 23
 			government = despotic_monarchy
 			primary_culture = samaric
 			religion = judahic
@@ -3519,7 +3557,8 @@ country = {
 			}
 		}
 		
-		MBG = {          
+		MBG = {   
+			family = 26
 			government = despotic_monarchy
 			primary_culture = agusiani
 			religion = canaanitic_pantheon

@@ -641,7 +641,7 @@
 
 2540={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="anunnaki_pantheon"
 	culture="anahrinite"
 	civilization_value=0
@@ -873,7 +873,7 @@
 
 2553={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="anunnaki_pantheon"
 	culture="anahrinite"
 	civilization_value=0

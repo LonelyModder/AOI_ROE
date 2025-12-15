@@ -1,0 +1,24 @@
+﻿"MAM"={
+	country="MAM"
+	
+	38={
+		first_name="Uzziah"
+		family = c:MAM.fam:Davidid
+		birth_date=391.1.1
+		culture="judahite"
+		religion="judahic"
+		no_stats=yes
+		add_martial=3
+		add_charisma=5
+		add_finesse=8
+		add_zeal=6
+		no_traits=yes
+		add_trait="davidid"
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:MAM={
+			set_as_ruler=char:38
+		}
+	}
+}
