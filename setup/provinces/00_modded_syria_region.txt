@@ -155,7 +155,7 @@
 
 2263={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -699,8 +699,8 @@
 }
 
 2290={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -721,8 +721,8 @@
 }
 
 2296={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -775,8 +775,8 @@
 }
 
 2298={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="canaanitic_pantheon"
 	culture="aadinic"
 	civilization_value=0
@@ -1248,8 +1248,8 @@
 }
 
 2321={ 
-	terrain="hills"
-	trade_goods="olive"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -1290,7 +1290,7 @@
 
 2323={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -1347,7 +1347,7 @@
 
 2326={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="canaanitic_pantheon"
 	culture="aadinic"
 	civilization_value=0
@@ -1388,8 +1388,8 @@
 }
 
 2328={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="canaanitic_pantheon"
 	culture="aadinic"
 	civilization_value=0
@@ -1605,8 +1605,8 @@
 }
 
 2340={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="canaanitic_pantheon"
 	culture="ahamathite"
 	civilization_value=0
@@ -1634,8 +1634,8 @@
 }
 
 2341={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="canaanitic_pantheon"
 	culture="ahamathite"
 	civilization_value=0

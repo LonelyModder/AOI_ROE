@@ -413,7 +413,7 @@
 
 2524={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -432,7 +432,7 @@
 
 2525={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -489,7 +489,7 @@
 
 2528={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -526,8 +526,8 @@
 }
 
 2530={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="anunnaki_pantheon"
 	culture="anahrinite"
 	civilization_value=0
@@ -545,8 +545,8 @@
 }
 
 2535={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="canaanitic_pantheon"
 	culture="aadinic"
 	civilization_value=0
@@ -564,8 +564,8 @@
 }
 
 2536={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="anunnaki_pantheon"
 	culture="anahrinite"
 	civilization_value=0
@@ -891,8 +891,8 @@
 }
 
 2554={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -915,8 +915,8 @@
 }
 
 2555={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1185,8 +1185,8 @@
 }
 
 2568={ 
-	terrain="hills"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1204,8 +1204,8 @@
 }
 
 2569={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1489,8 +1489,8 @@
 }
 
 2584={ 
-	terrain="hills"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1724,8 +1724,8 @@
 }
 
 2596={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1743,8 +1743,8 @@
 }
 
 2597={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
