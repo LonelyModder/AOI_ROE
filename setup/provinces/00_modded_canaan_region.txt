@@ -136,7 +136,7 @@
 
 2391={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -192,8 +192,8 @@
 }
 
 2394={ 
-	terrain="desert"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="marble"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -250,7 +250,7 @@
 
 2397={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -662,7 +662,7 @@
 
 2418={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="judahic"
 	culture="judahite"
 	civilization_value=0
@@ -681,7 +681,7 @@
 
 2419={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="judahic"
 	culture="judahite"
 	civilization_value=0
@@ -766,7 +766,7 @@
 
 2427={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="judahic"
 	culture="samaric"
 	civilization_value=0
@@ -832,7 +832,7 @@
 
 2430={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="canaanitic_pantheon"
 	culture="samaric"
 	civilization_value=0
@@ -854,7 +854,7 @@
 
 2431={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="canaanitic_pantheon"
 	culture="samaric"
 	civilization_value=0
@@ -901,7 +901,7 @@
 
 2433={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="judahic"
 	culture="samaric"
 	civilization_value=0
@@ -923,7 +923,7 @@
 
 2434={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="judahic"
 	culture="samaric"
 	civilization_value=0
@@ -1036,7 +1036,7 @@
 
 2439={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="judahic"
 	culture="samaric"
 	civilization_value=0
@@ -1194,7 +1194,7 @@
 
 2447={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="judahic"
 	culture="shasan"
 	civilization_value=0
@@ -1456,7 +1456,7 @@
 
 2468={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="judahic"
 	culture="moabite"
 	civilization_value=0
@@ -1725,7 +1725,7 @@
 
 2491={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="canaanitic_pantheon"
 	culture="ahaurani"
 	civilization_value=0
@@ -1782,7 +1782,7 @@
 
 2494={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="arabian_pantheon"
 	culture="dadanite"
 	civilization_value=0
@@ -1801,7 +1801,7 @@
 
 2495={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="arabian_pantheon"
 	culture="dadanite"
 	civilization_value=0
@@ -1839,7 +1839,7 @@
 
 2497={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="arabian_pantheon"
 	culture="dadanite"
 	civilization_value=0
@@ -1858,7 +1858,7 @@
 
 2498={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="arabian_pantheon"
 	culture="dadanite"
 	civilization_value=0

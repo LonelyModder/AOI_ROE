@@ -215,6 +215,42 @@ treasure_manager = {
                 local_cohort_start_experience = 20
             }
         }
+		31 = { # Jerusalem
+			key = "treasure_stoneofjacob" 
+			icon = "treasure_chest"
+            state_modifier = {
+				local_tax_modifier = 0.2
+			}
+		}
+		32 = { # Byblos
+			key = "treasure_sarcophagusahiram"
+			icon = "treasure_sarcophagus"
+			state_modifier = {
+				local_building_slot = 2
+			}
+		}
+		33 = { # Baalbeck
+			key = "treasure_elagabalstone" 
+			icon = "treasure_chest"
+			state_modifier = {
+				local_freemen_output = 0.15
+			}
+		}
+		34 = { # Paphos
+            key = "treasure_tombofagapenor"
+            icon = "treasure_sarcophagus"
+			dlc = "Magna Graecia"
+            state_modifier = {
+                local_population_growth = 0.05
+            }
+        }
+		35 = { # Mabbog
+			key = "treasure_sacredfishatargatis"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_population_capacity = 4
+			}
+		}
     }
 }
 family={
@@ -471,8 +507,23 @@ provinces = { #Any entry must contain a comment with city name.
 	1181 = { # Athens
 		treasure_slots = { 	treasures = { 14 } }
 	}
-	11 = { # Syracuse
+	11 = {   # Syracuse
 		treasure_slots = { 	treasures = { 15 } }
+	}
+	2414 = { # Jerusalem
+		treasure_slots = { 	treasures = { 31 } }
+	}
+	2269 = { # Byblos
+		treasure_slots = { 	treasures = { 32 } }
+	}
+	2276 = { # Baalbeck
+		treasure_slots = { 	treasures = { 33 } }
+	}
+	2203 = { # Paphos
+		treasure_slots = { 	treasures = { 34 } }
+	}
+	2326 = { # Mabbog
+		treasure_slots = { 	treasures = { 35 } }
 	}
 	
 	#Pirates

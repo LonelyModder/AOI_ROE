@@ -162,7 +162,7 @@
 
 2511={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -181,7 +181,7 @@
 
 2512={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -238,7 +238,7 @@
 
 2515={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0

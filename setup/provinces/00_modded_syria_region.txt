@@ -57,7 +57,7 @@
 
 2258={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 2259={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -95,7 +95,7 @@
 
 2260={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -757,7 +757,7 @@
 
 2297={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="canaanitic_pantheon"
 	culture="aadinic"
 	civilization_value=0
@@ -1230,7 +1230,7 @@
 
 2320={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="canaanitic_pantheon"
 	culture="ahamathite"
 	civilization_value=0
@@ -1352,16 +1352,20 @@
 	culture="aadinic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=6
+	}
 	freemen={
-		amount=1
-	}	
+		amount=3
+	}
 	tribesmen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
+	holy_site="omen_matargatis"
 }
 
 2327={ 
@@ -1650,7 +1654,7 @@
 
 2342={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1759,7 +1763,7 @@
 
 2347={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="canaanitic_pantheon"
 	culture="aluashi"
 	civilization_value=0
@@ -1778,7 +1782,7 @@
 
 2348={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="canaanitic_pantheon"
 	culture="aluashi"
 	civilization_value=0
@@ -1911,7 +1915,7 @@
 
 2355={ 
 	terrain="desert"
-	trade_goods="vegetables"
+	trade_goods="leather"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2073,7 +2077,7 @@
 
 2366={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
 	civilization_value=0
@@ -2320,7 +2324,7 @@
 
 2379={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2339,7 +2343,7 @@
 
 2380={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
