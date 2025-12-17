@@ -103,12 +103,17 @@
 	province_rank="city"
 	nobles={
 		amount=1
+		culture="agusiani"
 	}
 	citizen={
-		amount=10
+		amount=6
 	}
 	freemen={
+		amount=4
+	}
+	tribesmen={
 		amount=6
+		culture="agusiani"
 	}
 	slaves={
 		amount=5
@@ -367,7 +372,7 @@
 
 2273={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
 	civilization_value=0
@@ -487,7 +492,7 @@
 	terrain="forest"
 	trade_goods="cedar"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -506,7 +511,7 @@
 	terrain="forest"
 	trade_goods="cedar"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -525,7 +530,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="amusri"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -664,7 +669,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="amusri"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -723,18 +728,18 @@
 2296={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
 		amount=1
-		culture="aadinic"
+		culture="agusiani"
 	}
 	citizen={
 		amount=5
-		culture="aadinic"
+		culture="agusiani"
 	}
 	citizen={
 		amount=5
@@ -744,11 +749,11 @@
 	}
 	freemen={
 		amount=5
-		culture="aadinic"
+		culture="agusiani"
 	}
 	tribesmen={
 		amount=6
-		culture="aadinic"
+		culture="agusiani"
 	}
 	slaves={
 		amount=4
@@ -759,7 +764,7 @@
 	terrain="plains"
 	trade_goods="vegetables"
 	religion="canaanitic_pantheon"
-	culture="aadinic"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -778,7 +783,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="canaanitic_pantheon"
-	culture="aadinic"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -825,11 +830,11 @@
 	}
 	citizen={
 		amount=6
-		culture="aadinic"
+		culture="agusiani"
 	}
 	freemen={
 		amount=3
-		culture="aadinic"
+		culture="agusiani"
 	}	
 	tribesmen={
 		amount=8
@@ -843,7 +848,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -862,7 +867,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -881,7 +886,7 @@
 	terrain="hills"
 	trade_goods="hemp"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -900,7 +905,7 @@
 	terrain="hills"
 	trade_goods="glass"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -1040,7 +1045,7 @@
 	terrain="plains"
 	trade_goods="wine"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -1064,7 +1069,7 @@
 
 2312={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
 	civilization_value=0
@@ -1085,7 +1090,7 @@
 	terrain="plains"
 	trade_goods="wine"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1232,7 +1237,7 @@
 	terrain="oasis"
 	trade_goods="dates"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1330,7 +1335,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="aadinic"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1349,7 +1354,7 @@
 	terrain="plains"
 	trade_goods="cedar"
 	religion="canaanitic_pantheon"
-	culture="aadinic"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -1372,7 +1377,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="aadinic"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1391,7 +1396,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="canaanitic_pantheon"
-	culture="aadinic"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1541,7 +1546,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="aluashi"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -1570,7 +1575,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="aluashi"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1589,7 +1594,7 @@
 	terrain="plains"
 	trade_goods="vegetables"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1608,7 +1613,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -1637,7 +1642,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1682,7 +1687,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="aluashi"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -1746,7 +1751,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="ahamathite"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1765,7 +1770,7 @@
 	terrain="desert"
 	trade_goods="horses"
 	religion="canaanitic_pantheon"
-	culture="aluashi"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1784,7 +1789,7 @@
 	terrain="desert"
 	trade_goods="horses"
 	religion="canaanitic_pantheon"
-	culture="aluashi"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1801,7 +1806,7 @@
 
 2349={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -1820,7 +1825,7 @@
 
 2350={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2017,7 +2022,7 @@
 
 2360={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
 	civilization_value=0
@@ -2058,7 +2063,7 @@
 
 2365={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
 	civilization_value=0
@@ -2096,7 +2101,7 @@
 
 2367={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
 	civilization_value=0
@@ -2115,7 +2120,7 @@
 
 2368={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
 	civilization_value=0
@@ -2134,7 +2139,7 @@
 
 2369={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2172,7 +2177,7 @@
 
 2371={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2229,7 +2234,7 @@
 
 2374={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="canaanitic_pantheon"
 	culture="adamascan"
 	civilization_value=0
@@ -2248,7 +2253,7 @@
 
 2375={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0

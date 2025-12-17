@@ -138,16 +138,11 @@
  synaic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aramean
  aramaic:2 "Aramean"
- adamascan:0 "Damascan"
+ adamascan:0 "Haurani"
  anahrinite:0 "Nahrinite"
  ahatallan:0 "Hatallan"
- aadinic:0 "Adinean"
+ agusiani:0 "Syriac"
  sutean:0 "Sutean"
- ahaurani:0 "Hauranian"
- ahamathite:0 "Hamathite"
- agusiani:0 "Gusian"
- aluashi:0 "Luashian"
- amusri:0 "Musrian"
  aramaic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  aramaic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Hattian

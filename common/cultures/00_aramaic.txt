@@ -60,12 +60,7 @@
 		anahrinite = {}
 		sutean = {}
 		ahatallan = {}
-		aadinic = {}
-		ahaurani = {}
-		ahamathite = {}
 		agusiani = {}
-		aluashi = {}
-		amusri = {}
 		anahrinite = {}
 	}
 	

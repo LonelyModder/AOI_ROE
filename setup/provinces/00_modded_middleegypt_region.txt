@@ -827,7 +827,7 @@
 
 2068={ 
 	terrain="desert"
-	trade_goods="fish"
+	trade_goods="wild_game"
 	religion="kemetic_pantheon"
 	culture="libi"
 	civilization_value=0

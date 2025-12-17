@@ -278,7 +278,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="aadinic"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -358,7 +358,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="canaanitic_pantheon"
-	culture="aadinic"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="canaanitic_pantheon"
-	culture="aadinic"
+	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -759,7 +759,7 @@
 
 2546={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1160,7 +1160,7 @@
 
 2567={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1319,7 +1319,7 @@
 
 2575={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0

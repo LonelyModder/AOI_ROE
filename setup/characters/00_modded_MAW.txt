@@ -1,0 +1,23 @@
+﻿"MAW"={
+	country="MAW"
+	
+	44={
+		first_name="Panamuwa"
+		family = c:MAW.fam:Gabbari
+		birth_date=410.1.1
+		culture="agusiani"
+		religion="luwic_pantheon"
+		no_stats=yes
+		add_martial=6
+		add_charisma=6
+		add_finesse=5
+		add_zeal=5
+		no_traits=yes
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:MAW={
+			set_as_ruler=char:44
+		}
+	}
+}

@@ -420,12 +420,25 @@ family={
 			culture = hatti
 			prestige=300
 		}
+		28={
+			key="Gabbari"
+			owner=MAW
+			culture = agusiani
+			prestige=300
+		}
+		29={
+			key="Eriba"
+			owner=MBD
+			culture = corepunic
+			prestige=300
+		}
 	}
 }
 diplomacy = {
 	#Assyrian Subjects
 	dependency = { first = MAC second = MAT subject_type = feudatory }
 	dependency = { first = MAC second = MBA subject_type = feudatory }
+	dependency = { first = MAC second = MAW subject_type = feudatory }
 	#Arpad owns Hamath
 	dependency = { first = MBG second = MAP subject_type = feudatory }
 	#Phoenician League
@@ -821,7 +834,7 @@ country = {
 		}
 		
 		AAG = {     
-			family=5
+			family = 5
 			government = despotic_monarchy
 			primary_culture = etrusci
 			religion = villanic_pantheon
@@ -3378,7 +3391,7 @@ country = {
 		
 		MAP = {          
 			government = despotic_monarchy
-			primary_culture = ahamathite
+			primary_culture = agusiani
 			religion = canaanitic_pantheon
 			capital = 2340
 			
@@ -3460,17 +3473,18 @@ country = {
 			}
 		}
 		
-		MAW = {          
+		MAW = {  
+			family = 28
 			government = despotic_monarchy
-			primary_culture = hatti
+			primary_culture = agusiani
 			religion = luwic_pantheon
 			capital = 2260
 			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+			poptype_rights = {
+				{
+					culture = hatti 
+					type = citizen
+				}
 			}
 			
 			own_control_core = 	{ 
@@ -3480,7 +3494,7 @@ country = {
 		
 		MAY = {          
 			government = tribal_kingdom
-			primary_culture = amusri
+			primary_culture = agusiani
 			religion = canaanitic_pantheon
 			capital = 2281
 			
@@ -3561,7 +3575,8 @@ country = {
 			}
 		}
 		
-		MBD = {          
+		MBD = {  
+			family = 29
 			government = despotic_monarchy
 			primary_culture = corepunic
 			religion = canaanitic_pantheon
@@ -3624,7 +3639,7 @@ country = {
 			
 			poptype_rights = {
 				{
-					culture = aluashi 
+					culture = agusiani 
 					type = citizen
 				}
 			}

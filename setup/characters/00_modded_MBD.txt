@@ -1,0 +1,23 @@
+﻿"MBD"={
+	country="MBD"
+	
+	45={
+		first_name="Safatba‘al"
+		family = c:MBD.fam:Eriba
+		birth_date=410.1.1
+		culture="corepunic"
+		religion="canaanitic_pantheon"
+		no_stats=yes
+		add_martial=5
+		add_charisma=6
+		add_finesse=7
+		add_zeal=5
+		no_traits=yes
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:MBD={
+			set_as_ruler=char:45
+		}
+	}
+}
