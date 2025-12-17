@@ -122,7 +122,7 @@
 
 2261={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -528,7 +528,7 @@
 
 2281={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -550,7 +550,7 @@
 
 2282={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -569,7 +569,7 @@
 
 2283={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -588,7 +588,7 @@
 
 2284={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -610,7 +610,7 @@
 
 2285={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -629,7 +629,7 @@
 
 2286={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -648,7 +648,7 @@
 
 2287={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -667,7 +667,7 @@
 
 2288={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -686,7 +686,7 @@
 
 2289={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="canaanitic_pantheon"
 	culture="anahrinite"
 	civilization_value=0
@@ -800,7 +800,7 @@
 
 2299={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -819,7 +819,7 @@
 
 2300={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -929,7 +929,7 @@
 
 2305={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -948,7 +948,7 @@
 
 2306={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -967,7 +967,7 @@
 
 2307={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="anunnaki_pantheon"
 	culture="sutean"
 	civilization_value=0
@@ -986,7 +986,7 @@
 
 2308={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="anunnaki_pantheon"
 	culture="sutean"
 	civilization_value=0
@@ -1005,7 +1005,7 @@
 
 2309={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="anunnaki_pantheon"
 	culture="sutean"
 	civilization_value=0
@@ -1024,7 +1024,7 @@
 
 2310={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="anunnaki_pantheon"
 	culture="sutean"
 	civilization_value=0
@@ -1107,7 +1107,7 @@
 
 2314={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0
@@ -1130,7 +1130,7 @@
 
 2315={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="anunnaki_pantheon"
 	culture="sutean"
 	civilization_value=0
@@ -1149,7 +1149,7 @@
 
 2316={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="anunnaki_pantheon"
 	culture="sutean"
 	civilization_value=0
@@ -1168,7 +1168,7 @@
 
 2317={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="anunnaki_pantheon"
 	culture="sutean"
 	civilization_value=0
@@ -1197,7 +1197,7 @@
 
 2318={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="anunnaki_pantheon"
 	culture="sutean"
 	civilization_value=0
@@ -1216,7 +1216,7 @@
 
 2319={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="anunnaki_pantheon"
 	culture="sutean"
 	civilization_value=0
@@ -1314,7 +1314,7 @@
 
 2324={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -1333,7 +1333,7 @@
 
 2325={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1375,7 +1375,7 @@
 
 2327={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1413,7 +1413,7 @@
 
 2329={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1432,7 +1432,7 @@
 
 2330={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -1451,7 +1451,7 @@
 
 2331={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1470,7 +1470,7 @@
 
 2332={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1489,7 +1489,7 @@
 
 2333={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1518,7 +1518,7 @@
 
 2334={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1544,7 +1544,7 @@
 
 2335={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1573,7 +1573,7 @@
 
 2336={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1685,7 +1685,7 @@
 
 2343={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1749,7 +1749,7 @@
 
 2346={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="canaanitic_pantheon"
 	culture="agusiani"
 	civilization_value=0
@@ -1844,7 +1844,7 @@
 
 2351={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -1863,7 +1863,7 @@
 
 2352={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -1882,7 +1882,7 @@
 
 2353={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -1901,7 +1901,7 @@
 
 2354={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -1939,7 +1939,7 @@
 
 2356={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -1977,7 +1977,7 @@
 
 2358={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2158,7 +2158,7 @@
 
 2370={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2196,7 +2196,7 @@
 
 2372={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2215,7 +2215,7 @@
 
 2373={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2272,7 +2272,7 @@
 
 2376={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2291,7 +2291,7 @@
 
 2377={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0
@@ -2310,7 +2310,7 @@
 
 2378={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
 	civilization_value=0

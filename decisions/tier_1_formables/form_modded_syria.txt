@@ -1,0 +1,80 @@
+﻿country_decisions = {
+	
+	# Form Syria
+	form_syria = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XSY
+			}
+			OR = {
+				country_culture_group = aramaic
+				country_culture_group = synaic
+				country_culture_group = levantine
+			}
+			NOT = {
+				is_tier_1_formable_trigger = yes
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2359 # Damascus
+					province_id = 2272 # Tyre
+					province_id = 2333 # Arpad
+					province_id = 2290 # Karkemish
+					province_id = 2321 # Kinalua
+					province_id = 2340 # Hamath
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = syria_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XSY
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 2359 # Damascus
+			owns = 2272 # Tyre
+			owns = 2333 # Arpad
+			owns = 2290 # Karkemish
+			owns = 2321 # Kinalua
+			owns = 2340 # Hamath
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "SYRIA_NAME"
+			hidden_effect = {
+				change_country_adjective = "SYRIA_ADJECTIVE"
+				change_country_color = "SYRIA_COLOR"
+				change_country_tag = XSY
+				#change_country_flag = SYRIA_FLAG
+			}
+			capital_scope = {
+				capital_formable_small_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+			hidden_effect = {
+				region:modded_syria_region = { formable_region_province_effect = yes }
+				region:modded_canaan_region = { formable_region_province_effect = yes }
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

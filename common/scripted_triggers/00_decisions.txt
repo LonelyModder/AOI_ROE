@@ -10,6 +10,7 @@
 		tag = XTH #Thrace
 		tag = XEG #Egypt
 		tag = XET #Etruria
+		tag = XSY #Syria
 	}
 }
 

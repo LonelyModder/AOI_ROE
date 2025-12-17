@@ -1212,6 +1212,8 @@
  MBL:0 "Nemaria"
  MBL_ADJ:0 "Nemarian"
  #Modded Formables
+ SYRIA_NAME:0 "Syria"
+ SYRIA_ADJECTIVE:0 "Syrian"
  ITALIA_NAME:0 "Italia"
  ITALIA_ADJECTIVE:0 "Italic"
  ROMANREPUBLIC_NAME:0 "Roman Republic"
