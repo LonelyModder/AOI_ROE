@@ -11,6 +11,8 @@
 		tag = XEG #Egypt
 		tag = XET #Etruria
 		tag = XSY #Syria
+		tag = XCY #Cyprus
+		tag = XIS #Israel
 	}
 }
 

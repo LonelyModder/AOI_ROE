@@ -1,7 +1,7 @@
 ﻿"EAC"={
 	country="EAC"
 	
-	27={ # from 35
+	27={
 		first_name="Osorkon"
 		family = c:EAC.fam:Horakhty
 		birth_date=410.1.1

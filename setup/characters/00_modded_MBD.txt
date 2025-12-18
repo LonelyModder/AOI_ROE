@@ -1,7 +1,7 @@
 ﻿"MBD"={
 	country="MBD"
 	
-	45={
+	35={
 		first_name="Safatba‘al"
 		family = c:MBD.fam:Eriba
 		birth_date=410.1.1
@@ -17,7 +17,7 @@
 		add_popularity=100
 		#dna=""
 		c:MBD={
-			set_as_ruler=char:45
+			set_as_ruler=char:35
 		}
 	}
 }

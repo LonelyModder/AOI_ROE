@@ -164,7 +164,7 @@
 	terrain="desert"
 	trade_goods="camel"
 	religion="anunnaki_pantheon"
-	culture="ashurite"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -281,15 +281,18 @@
 	culture="agusiani"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}	
-	tribesmen={
+	province_rank="city"
+	citizen={
 		amount=4
 	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=7
+	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 

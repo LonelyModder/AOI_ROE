@@ -796,6 +796,7 @@ entity = {
 entity = {
 	name = "levantine_gfx_ia_elephants"
 	clone = "levantine_gfx_heavy_infantry"
+}
 
 ##############
 #### Levy #### ----------------------------------------------------------------

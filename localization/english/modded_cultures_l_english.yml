@@ -134,6 +134,9 @@
  judahite:0 "Judahite"
  samaric:0 "Samarian"
  shasan:0 "Shasan"
+ moabite:0 "Moabite"
+ ammonite:0 "Ammonite"
+ edomite:0 "Edomite"
  synaic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  synaic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aramean
