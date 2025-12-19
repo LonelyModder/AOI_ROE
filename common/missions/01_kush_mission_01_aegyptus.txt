@@ -147,7 +147,7 @@
 	kush_01_egypt_4 = { # Wadi Hammamat
 		requires = { kush_01_egypt_3 }
 		icon = task_conquest
-		duration = 365
+		duration = 730
 		
 		allow = {
 			owns = 2043

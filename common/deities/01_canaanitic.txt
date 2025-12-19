@@ -489,7 +489,13 @@ deity_yhwh = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			common_deity_trigger = { RELIGION = canaanitic_pantheon }
+			#common_deity_trigger = { RELIGION = canaanitic_pantheon }
+			OR = {
+				primary_culture = judahite
+				primary_culture = samaric
+				primary_culture = shasan
+				primary_culture = edomite
+			}
 			deity:omen_yhwh = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -562,9 +568,7 @@ deity_chemosh = {
 			common_deity_trigger = {
 				RELIGION = canaanitic_pantheon
 			}
-			common_deity_trigger = {
-				RELIGION = kemetic_pantheon
-			}
+			# only moabite?
 			deity:omen_chemosh = {
 				holy_site_deity_check_trigger = yes
 			}
