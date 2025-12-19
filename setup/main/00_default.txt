@@ -432,6 +432,12 @@ family={
 			culture = corepunic
 			prestige=300
 		}
+		30={
+			key="Zakkurite"
+			owner=MAP
+			culture = corepunic
+			prestige=300
+		}
 	}
 }
 diplomacy = {
@@ -769,6 +775,8 @@ country = {
 			own_control_core = 	{ 
 				313 311 312 314 315 317 325 303
 			}
+			
+			is_antagonist = yes
 		}
 		
 		AAB = {          
@@ -1803,6 +1811,8 @@ country = {
 				1299 1300 1292 1293 1295 1297 1298 1296 1329 1330 1338 1343 1340 
 				1350 1349 1301 1302 1303 1305 1308
 			}
+			
+			#is_antagonist = yes
 		}
 		
 		BAB = {          
@@ -3216,6 +3226,8 @@ country = {
 				2541 2553 2540 2537 2536 2535 2538 2539 2554 2557 2558 2556 2316 2315 2314 2310 2309 
 				2298 2297 2296 2289 2325 2326 2327 2328 
 			}
+			
+			#is_antagonist = yes
 		}
 		
 		MAD = {          
@@ -3389,7 +3401,8 @@ country = {
 			}
 		}
 		
-		MAP = {          
+		MAP = { 
+			family = 30
 			government = despotic_monarchy
 			primary_culture = agusiani
 			religion = canaanitic_pantheon

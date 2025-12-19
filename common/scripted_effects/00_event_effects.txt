@@ -2600,7 +2600,7 @@ add_relevant_loyal_subunit_effect = {
 		limit = {
 			exists = commander
 			commander = {
-				has_culture_group = illyrian
+				has_culture_group = illyric
 			}
 		}
 		commander = {
@@ -2650,6 +2650,215 @@ add_relevant_loyal_subunit_effect = {
 			}
 			25 = {
 				add_loyal_subunit = ia_lightcavalry
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = liguric
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_lightcavalry
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = castelic
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_lightcavalry
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = thracianic
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_lightcavalry
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = kemetic
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_chariots
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = libyan
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_chariots
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = nubian
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_archers
+			}
+			25 = {
+				add_loyal_subunit = ia_chariots
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = akkadian
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_hoplites
+			}
+			25 = {
+				add_loyal_subunit = ia_horsearchers
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = synaic
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_chariots
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = aramaic
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_lightcavalry
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = hattian
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_lightcavalry
+			}
+		}
+	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = arabian
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = ia_lightinfantry
+			}
+			25 = {
+				add_loyal_subunit = ia_camels
 			}
 		}
 	}
