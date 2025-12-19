@@ -120,16 +120,16 @@ libyan_pantheon = { # Libu Faith
 	religion_category = pantheon
 }
 
-judahic = { # Yahwic
-	color = hsv { 0.86 0.16 0.96 }
-	modifier = { 
-		research_points_modifier = 0.05
-		omen_power = 0.25
-		global_pop_assimilation_speed_modifier = -0.2
-	}
-	religion_category = pantheon
-	can_deify_ruler = no
-}
+#judahic = { # Yahwic
+#	color = hsv { 0.86 0.16 0.96 }
+#	modifier = { 
+#		research_points_modifier = 0.05
+#		omen_power = 0.25
+#		global_pop_assimilation_speed_modifier = -0.2
+#	}
+#	religion_category = pantheon
+#	can_deify_ruler = no
+#}
 
 arabian_pantheon = { # Arabs
 	color = hsv { 0.28 0.95 1 }

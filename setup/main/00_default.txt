@@ -387,7 +387,7 @@ family={
 		22={
 			key="Davidid"
 			owner=MAM
-			culture = judahic
+			culture = judahite
 			prestige=300
 		}
 		23={
@@ -3182,7 +3182,7 @@ country = {
 		MAB = {          
 			government = tribal_chiefdom
 			primary_culture = shasan
-			religion = judahic
+			religion = canaanitic_pantheon
 			capital = 2390
 			
 			own_control_core = 	{ 
@@ -3250,7 +3250,7 @@ country = {
 		MAF = {          
 			government = tribal_kingdom
 			primary_culture = edomite
-			religion = judahic
+			religion = canaanitic_pantheon
 			capital = 2467
 			
 			own_control_core = 	{ 
@@ -3296,7 +3296,7 @@ country = {
 		MAJ = {          
 			government = tribal_kingdom
 			primary_culture = moabite
-			religion = judahic
+			religion = canaanitic_pantheon
 			capital = 2462
 			
 			own_control_core = 	{ 
@@ -3325,7 +3325,7 @@ country = {
 		MAL = {          
 			government = tribal_kingdom
 			primary_culture = ammonite
-			religion = judahic
+			religion = canaanitic_pantheon
 			capital = 2463
 			
 			own_control_core = 	{ 
@@ -3337,7 +3337,7 @@ country = {
 			family = 22
 			government = despotic_monarchy
 			primary_culture = judahite
-			religion = judahic
+			religion = canaanitic_pantheon
 			capital = 2414
 			
 			technology={
@@ -3356,7 +3356,7 @@ country = {
 			family = 23
 			government = despotic_monarchy
 			primary_culture = samaric
-			religion = judahic
+			religion = canaanitic_pantheon
 			capital = 2432
 			
 			technology={

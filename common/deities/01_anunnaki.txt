@@ -35,9 +35,6 @@ deity_mshamash = {
 			common_deity_trigger = {
 				RELIGION = anunnaki_pantheon
 			}
-			common_deity_trigger = {
-				RELIGION = judahic
-			}
 			deity:omen_mshamash = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -121,9 +118,6 @@ deity_mishtar = {
 		OR = {
 			common_deity_trigger = {
 				RELIGION = anunnaki_pantheon
-			}
-			common_deity_trigger = {
-				RELIGION = judahic
 			}
 			deity:omen_mishtar = {
 				holy_site_deity_check_trigger = yes

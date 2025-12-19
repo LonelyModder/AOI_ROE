@@ -6,7 +6,7 @@
 		family = c:MAN.fam:Jehuid
 		birth_date=410.1.1
 		culture="samaric"
-		religion="judahic"
+		religion="canaanitic_pantheon"
 		no_stats=yes
 		add_martial=3
 		add_charisma=5

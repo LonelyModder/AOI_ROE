@@ -40,6 +40,10 @@
 			can_form_nation_trigger = yes
 			owns = 2414
 			owns = 2432
+			OR = {
+				NOT = {exists = c:MAM}
+				NOT = {exists = c:MAN}
+			}
 		}
 		
 		effect = {
@@ -57,7 +61,7 @@
 			}
 			hidden_effect = {
 				change_country_adjective = "Unisrael_ADJ"
-				change_country_color = "unisrael_color"
+				change_country_color = "ISRAEL_COLOR"
 				change_country_tag = XIS
 			}
 			if = {

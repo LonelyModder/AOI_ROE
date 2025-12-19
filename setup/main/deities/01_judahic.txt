@@ -8,11 +8,11 @@ deity_manager = {
 			key = omen_ashera
 			deity = deity_ashera
 		}
-		10002 = {
+		10002 = { #Deleted
 			key = omen_malakim
 			deity = deity_malakim
 		}
-		10003 = {
+		10003 = { #Deleted
 			key = omen_cherubs
 			deity = deity_cherubs
 		}

@@ -64,3 +64,7 @@
  omen_mhadad:0 "Hadad"
  omen_mhadad_desc:0 "Hadad is a storm deity who originally hails from northern Syria and lower Armenia, where he was often worshipped in unison with the syncretic deity Atargatis. Despite his origins, one of his greatest temples was raised in Askalon, a city where he was considered the most important deity out of all."
 
+ #Chemosh
+ deity_chemosh:0 "$omen_chemosh$"
+ omen_chemosh:0 "Chemosh"
+ omen_chemosh_desc:1 "Moabite diety of war and protective god of the moabite nation. Chemosh is in this regard similar to Yahweh. In times of need Moabites are known from making human sacrifices to Chemosh to gain his favor in the coming conflict."

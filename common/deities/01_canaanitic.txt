@@ -9,9 +9,6 @@ deity_manat1 = {
 			common_deity_trigger = {
 				RELIGION = kemetic_pantheon
 			}
-			common_deity_trigger = {
-				RELIGION = judahic
-			}
 			deity:omen_manat1 = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -24,22 +21,7 @@ deity_manat1 = {
 	deity_category = war #This Deity uses a War slot.
 	deification_trigger = {
 		#can_deify_trigger = yes
-		NOT = { 
-			OR = {
-				primary_culture = judahite
-				primary_culture = simeonid
-				primary_culture = benjamin
-				primary_culture = ephraim
-				primary_culture = danite
-				primary_culture = gad
-				primary_culture = ruben
-				primary_culture = menasseh
-				primary_culture = issachar
-				primary_culture = zebulun
-				primary_culture = naphtali
-				primary_culture = asher
-			}
-		}
+		NOT = { primary_culture = judahite }
 	}
 	
 	on_activate = {
@@ -184,9 +166,6 @@ deity_mbaal = {
 			common_deity_trigger = {
 				RELIGION = canaanitic_pantheon
 			}
-			common_deity_trigger = {
-				RELIGION = judahic
-			}
 			deity:omen_mbaal = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -199,22 +178,7 @@ deity_mbaal = {
 	deity_category = culture #This Deity uses a Culture Slot
 	deification_trigger = {
 		#can_deify_trigger = yes
-		NOT = { 
-			OR = {
-				primary_culture = judahite
-				primary_culture = simeonid
-				primary_culture = benjamin
-				primary_culture = ephraim
-				primary_culture = danite
-				primary_culture = gad
-				primary_culture = ruben
-				primary_culture = menasseh
-				primary_culture = issachar
-				primary_culture = zebulun
-				primary_culture = naphtali
-				primary_culture = asher
-			}
-		}
+		NOT = { primary_culture = judahite }
 	}
 	
 	on_activate = {
@@ -518,5 +482,105 @@ deity_mhadad = {
 	
 	on_activate = {
 		fertility_apotheosis_capital_slaves_effect = yes
+	}
+}
+
+deity_yhwh = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = { RELIGION = canaanitic_pantheon }
+			deity:omen_yhwh = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { monthly_tyranny = omen_monthly_tyranny_svalue } #Bonus from Omen
+	religion = canaanitic_pantheon
+	deity_category = economy #This Deity uses an Economy Slot
+	
+	on_activate = {
+		add_research = {
+			technology = religious_tech
+			value = 10
+		}
+	}
+
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+}
+
+deity_ashera = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = { RELIGION = canaanitic_pantheon }
+			deity:omen_ashera = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { agressive_expansion_monthly_change = deity_agressive_expansion_monthly_change_svalue }
+	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue } #Bonus from Omen
+	religion = canaanitic_pantheon
+	deity_category = culture #This Deity uses a Culture Slot'
+
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+}
+
+deity_nehushtan = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = { RELIGION = canaanitic_pantheon }
+			deity:omen_nehushtan = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+	omen = { global_population_growth = 0.06 } #Bonus from Omen
+	religion = canaanitic_pantheon
+	deity_category = fertility #This Deity uses a Fertility Slot'
+
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+}
+
+deity_chemosh = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = canaanitic_pantheon
+			}
+			common_deity_trigger = {
+				RELIGION = kemetic_pantheon
+			}
+			deity:omen_chemosh = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_cohort_start_experience = deity_global_cohort_start_experience_svalue }
+	omen = { global_defensive = omen_global_defensive_svalue } #Bonus from Omen
+	religion = canaanitic_pantheon
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		#can_deify_trigger = yes
+		NOT = { primary_culture = judahite }
+	}
+	
+	on_activate = {
+		military_apotheosis_military_experience_effect = yes
 	}
 }

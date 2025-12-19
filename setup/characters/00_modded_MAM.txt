@@ -6,7 +6,7 @@
 		family = c:MAM.fam:Davidid
 		birth_date=391.1.1
 		culture="judahite"
-		religion="judahic"
+		religion="canaanitic_pantheon"
 		no_stats=yes
 		add_martial=3
 		add_charisma=5
