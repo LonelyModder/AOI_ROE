@@ -8,8 +8,12 @@
 			NOT = {
 				tag = XIT
 			}
+			OR = {
+				country_culture_group = thyrrenic
+				country_culture_group = italic
+				primary_culture = gitaliote
+			}
 			NOT = {
-				is_tier_1_formable_trigger = yes
 				is_tier_2_formable_trigger = yes
 				is_endgame_tag_trigger = yes
 			}
@@ -60,27 +64,9 @@
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
 			#tribal_formable_government_change_effect = yes
-			if = {
-				limit = {
-					country_culture_group = latinic
-					NOT = { is_monarchy = yes }
-				}
-				change_country_name = "ROMANREPUBLIC_NAME"
-			}
-			else = {
-				change_country_name = "ITALIA_NAME"
-			}
+			change_country_name = "ITALIA_NAME"
 			hidden_effect = {
-				if = {
-					limit = {
-						country_culture_group = latinic
-						NOT = { is_monarchy = yes }
-					}
-					change_country_adjective = "ROMANREPUBLIC_ADJECTIVE"
-				}
-				else = {
-					change_country_adjective = "ITALIA_ADJECTIVE"
-				}
+				change_country_adjective = "ITALIA_ADJECTIVE"
 				change_country_color = "ROMANREPUBLIC_COLOR"
 				change_country_tag = XIT
 				change_country_flag = ITALIA_FLAG

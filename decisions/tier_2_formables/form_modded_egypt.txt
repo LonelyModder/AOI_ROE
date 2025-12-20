@@ -1,0 +1,69 @@
+﻿country_decisions = {
+	
+	# Form Egypt
+	form_egypt = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XEG
+				tag = EAD
+			}
+			OR = {
+				country_culture_group = kemetic
+				country_culture_group = libyan
+			}
+			NOT = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2043 # Waset
+					province_id = 1981 # Tanis
+					province_id = 1989 # Mamphis
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = egypt_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XEG
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 2043 # Waset
+			owns = 1981 # Tanis
+			owns = 1989 # Mamphis
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "EGYPT_NAME"
+			hidden_effect = {
+				change_country_adjective = "EGYPT_ADJECTIVE"
+				change_country_color = "EGYPT_COLOR"
+				change_country_tag = XEG
+				change_country_flag = EGYPT_FLAG
+			}
+			capital_scope = {
+				capital_formable_small_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

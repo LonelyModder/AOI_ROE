@@ -5,6 +5,11 @@
 		
 		potential = {
 			num_of_cities >= 1
+			OR = {
+				country_culture_group = grekoid
+				country_culture_group = illyric
+				country_culture_group = italic
+			}
 			NOT = {
 				is_tier_1_formable_trigger = yes
 				is_tier_2_formable_trigger = yes

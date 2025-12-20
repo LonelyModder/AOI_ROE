@@ -1212,6 +1212,8 @@
  MBL:0 "Nemaria"
  MBL_ADJ:0 "Nemarian"
  #Modded Formables
+ CYLICIA_NAME:0 "Cylicia"
+ CYLICIA_ADJECTIVE:0 "Cylician"
  Unisrael_Name:0 "Israel"
  Unisrael_ADJ:0 "Jewish"
  CYPRUS_NAME:0 "Cyprus"

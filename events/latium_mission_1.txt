@@ -535,7 +535,7 @@ latium_01_italy_1.13 = {
 	
 	option = { 
 		name = "latium_01_italy_1.13.a"
-		p:312 = { #Roman Republic
+		p:325 = { #Roman Republic
 			create_country = {
 				change_government = aristocratic_republic
 				set_primary_culture = rroman
@@ -547,8 +547,8 @@ latium_01_italy_1.13 = {
 		p:313.owner = {
 			declare_war_with_wargoal = {
 				war_goal = conquer_wargoal
-				province = p:312
-				target = p:312.owner
+				province = p:325
+				target = p:325.owner
 			}
 		}
 		ai_chance = { base = 20 }
@@ -558,7 +558,7 @@ latium_01_italy_1.13 = {
 		name = "latium_01_italy_1.13.b"
 		change_government = aristocratic_republic
 		switch_government_type_event_clearup_effect = yes
-		p:315 = { #Roman Monarchy
+		p:325 = { #Roman Monarchy
 			create_country = {
 				change_government = despotic_monarchy
 				set_primary_culture = rroman
@@ -567,7 +567,7 @@ latium_01_italy_1.13 = {
 				change_country_adjective = "RM_ADJECTIVE"
 			}
 		}
-		p:315.owner = {
+		p:325.owner = {
 			create_character = {
 				#first_name = "Lucius"
 				family_name = "Tarquinius"
@@ -588,8 +588,8 @@ latium_01_italy_1.13 = {
 		p:313.owner = {
 			declare_war_with_wargoal = {
 				war_goal = conquer_wargoal
-				province = p:315
-				target = p:315.owner
+				province = p:325
+				target = p:325.owner
 			}
 		}
 		ai_chance = { base = 80 }

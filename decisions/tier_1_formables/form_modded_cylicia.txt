@@ -1,55 +1,52 @@
 ﻿country_decisions = {
 	
-	# Form Egypt
-	form_egypt = {
+	#form Cylicia
+	form_cylicia = {
 		
 		potential = {
 			num_of_cities >= 1
-			NOT = {
-				tag = XEG
-				tag = EAD
-			}
+			country_culture_group = hattian
 			NOT = {
 				is_tier_1_formable_trigger = yes
 				is_tier_2_formable_trigger = yes
 				is_endgame_tag_trigger = yes
+			}
+			NOT = {
+				tag = XCI
 			}
 		}
 		
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 2043 # Waset
-					province_id = 1981 # Tanis
-					province_id = 1989 # Mamphis
+					is_in_area = tarsus_area
+					is_in_area = issus_area
 				}
 			}
 		}
 		
 		allow = {
 			custom_tooltip = {
-				text = egypt_must_not_exist
+				text = "cylicia_must_not_exist"
 				NOT = {
 					any_country = {
-						tag = XEG
+						tag = XCI
 					}
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 2043 # Waset
-			owns = 1981 # Tanis
-			owns = 1989 # Mamphis
+			owns_area = tarsus_area 
+			owns_area = issus_area 
 		}
 		
-		
 		effect = {
-			custom_tooltip = "tier_2_formable_tooltip"
-			change_country_name = "EGYPT_NAME"
+			custom_tooltip = "tier_1_formable_tooltip"
+			change_country_name = "CYLICIA_NAME"
 			hidden_effect = {
-				change_country_adjective = "EGYPT_ADJECTIVE"
-				change_country_color = "EGYPT_COLOR"
-				change_country_tag = XEG
-				change_country_flag = EGYPT_FLAG
+				change_country_adjective = "CYLICIA_ADJECTIVE"
+				change_country_tag = "XCI"
+				#change_country_color =  "cretan_blue"
+				#change_country_flag = CYLICIA_FLAG
 			}
 			capital_scope = {
 				capital_formable_small_effect = yes
@@ -59,8 +56,9 @@
 		}
 		
 		ai_will_do = {
-			base = 1
+			factor = 1
 		}
+		
 	}
 	
 }

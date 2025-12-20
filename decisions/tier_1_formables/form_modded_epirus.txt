@@ -8,6 +8,7 @@
 			NOT = {
 				tag = XEI
 			}
+			primary_culture = gepirote
 			NOT = {
 				is_tier_1_formable_trigger = yes
 				is_tier_2_formable_trigger = yes
