@@ -3384,7 +3384,7 @@ country = {
 		}
 		
 		MAO = {          
-			government = despotic_monarchy
+			government = aristocratic_republic
 			primary_culture = pphilistine
 			religion = canaanitic_pantheon
 			capital = 2420

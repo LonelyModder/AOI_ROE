@@ -1227,11 +1227,6 @@ entity = {
 ##############
 
 entity = {
-	name = "carthaginian_gfx_archers"
-	clone = "carthaginian_gfx_light_infantry"
-}
-
-entity = {
 	name = "carthaginian_gfx_ia_scirmishers"
 	clone = "carthaginian_gfx_light_infantry"
 }
@@ -1314,7 +1309,7 @@ entity ={
 
 ### Archers ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_archers"
+	name = "carthaginian_gfx_levy_ia_archers"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1324,7 +1319,7 @@ entity ={
 
 ### Warriors ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_warriors"
+	name = "carthaginian_gfx_levy_ia_warriors"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1334,7 +1329,7 @@ entity ={
 
 ### Light Infantry ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_lightinfantry"
+	name = "carthaginian_gfx_levy_ia_lightinfantry"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1344,7 +1339,7 @@ entity ={
 
 ### Heavy Infantry ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_heavyinfantry"
+	name = "carthaginian_gfx_levy_ia_heavyinfantry"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1354,7 +1349,7 @@ entity ={
 
 ### Hoplites ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_hoplites"
+	name = "carthaginian_gfx_levy_ia_hoplites"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1364,7 +1359,7 @@ entity ={
 
 ### Light Cavalry ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_lightcavalry"
+	name = "carthaginian_gfx_levy_ia_lightcavalry"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1374,7 +1369,7 @@ entity ={
 
 ### Heavy Cavalry ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_heavycavalry"
+	name = "carthaginian_gfx_levy_ia_heavycavalry"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1384,7 +1379,7 @@ entity ={
 
 ### Lancers ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_lancers"
+	name = "carthaginian_gfx_levy_ia_lancers"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1394,7 +1389,7 @@ entity ={
 
 ### Horse Archers ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_horsearchers"
+	name = "carthaginian_gfx_levy_ia_horsearchers"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1404,7 +1399,7 @@ entity ={
 
 ### Chariots ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_chariots"
+	name = "carthaginian_gfx_levy_ia_chariots"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1414,7 +1409,7 @@ entity ={
 
 ### Camels ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_camels"
+	name = "carthaginian_gfx_levy_ia_camels"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={
@@ -1424,7 +1419,7 @@ entity ={
 
 ### Elephants ----------------------------------------------------------------
 entity ={
-	name = "carthaginian_levies_infantry_ia_elephants"
+	name = "carthaginian_gfx_levy_ia_elephants"
 	clone = "carthaginian_levies_infantry"
 }
 entity ={

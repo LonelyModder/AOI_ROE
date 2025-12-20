@@ -40,10 +40,6 @@
 			can_form_nation_trigger = yes
 			owns = 2414
 			owns = 2432
-			OR = {
-				NOT = {exists = c:MAM}
-				NOT = {exists = c:MAN}
-			}
 		}
 		
 		effect = {
