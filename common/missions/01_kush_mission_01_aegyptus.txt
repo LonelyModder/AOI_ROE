@@ -438,8 +438,6 @@
 			owns_or_subject_owns = 1931 # Western Oases
 			owns_or_subject_owns = 1932 # Western Oases
 			owns_or_subject_owns = 2092 # Quseir
-			owns_or_subject_owns = 2099 # Berenice
-			owns_or_subject_owns = 1999 # Clysma
 		}
 		
 		highlight = {
@@ -457,8 +455,6 @@
 					province_id = 1931 # Western Oases
 					province_id = 1932 # Western Oases
 					province_id = 2092 # Quseir
-					province_id = 2099 # Berenice
-					province_id = 1999 # Clysma
 				}
 			}
 		}

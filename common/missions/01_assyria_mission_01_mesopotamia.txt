@@ -1,0 +1,144 @@
+﻿assyria_01_mesopotamia = { # Between Rivers
+	icon = assyria_01_mesopotamia
+	header = mission_image_rome #mission_image_phrygia
+	
+	repeatable = no
+
+    chance = {
+		factor = 10
+	}
+	
+	ai_chance = { factor = 10 }
+
+	potential = { 
+		NOT = { has_variable = assyria_01_mesopotamia }
+		primary_culture = ashurite
+		tag=MAC
+		is_monarchy = yes
+		is_subject = no
+		has_civil_war = no
+		NOT = { has_global_variable = assyria_fail }
+	}
+	
+	abort = {	
+		OR = {
+			NOT = { primary_culture = ashurite }
+			custom_tooltip = {
+				text = assyria_01_mesopotamia_abort_tt
+				has_global_variable = assyria_fail
+			}
+			ai_mission_back_out_trigger = yes
+		}
+	}
+	
+	on_start = {
+    	start_mission_ai_effect = yes
+    	save_scope_as = me_assyria_scope
+		add_country_modifier = {
+	        name = assyria_1_starts
+	        duration = 3650 # 10 years
+	    }
+    }
+	
+	on_abort = {
+    	custom_tooltip = ant_1_mission_cooldown_tt
+    	if = {
+	    	limit = { has_country_modifier = assyria_1_starts }
+    		remove_country_modifier = assyria_1_starts
+	    }
+		set_variable = {
+			name =assyria_01_mesopotamia
+			days = 7300
+		}
+    }
+	
+	on_completion = {
+		add_country_modifier = {
+    		name = assyria_1_victory
+    		duration = 7300 # 20 years
+    	}
+    	complete_mission_effect = yes 
+    }
+	
+	
+	assyria_01_mesopotamia_1 = { # Wife for the God
+		requires = {  }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			treasury > 50
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_treasury = -50
+			}
+			hidden_effect = { 
+				add_treasury = -50
+			}
+			trigger_event = { id = assyria_01_mesopotamia_1.1 }
+		}
+		
+		on_completion = {
+			
+		}
+	}
+	
+	assyria_01_mesopotamia_99 = { # Kushite Empire
+		requires = { assyria_01_mesopotamia_12 } 
+		icon = task_conquest
+		#duration = 30
+		
+		allow = { #Change to Important Capitals!
+			owns_or_subject_owns = 2043 # Thebes
+			owns_or_subject_owns = 1981 # Tanis
+			owns_or_subject_owns = 1989 # Mamphis
+			owns_or_subject_owns = 1968 # Sais
+			owns_or_subject_owns = 1977 # Leontopolis
+			owns_or_subject_owns = 2024 # Hermapolis
+			owns_or_subject_owns = 2014 # Heracleopolis
+			owns_or_subject_owns = 2071 # Western Oases
+			owns_or_subject_owns = 2077 # Western Oases
+			owns_or_subject_owns = 1931 # Western Oases
+			owns_or_subject_owns = 1932 # Western Oases
+			owns_or_subject_owns = 2092 # Quseir
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id  = 2043 # Thebes
+					province_id  = 1981 # Tanis
+					province_id  = 1989 # Mamphis
+					province_id  = 1968 # Sais
+					province_id  = 1977 # Leontopolis
+					province_id  = 2024 # Hermapolis
+					province_id  = 2014 # Heracleopolis
+					province_id = 2071 # Western Oases
+					province_id = 2077 # Western Oases
+					province_id = 1931 # Western Oases
+					province_id = 1932 # Western Oases
+					province_id = 2092 # Quseir
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = assyria_01_mesopotamia_beaten
+			}
+		}
+		final = yes 
+	}
+	
+}
+	
