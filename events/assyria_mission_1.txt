@@ -1,0 +1,155 @@
+﻿namespace = assyria_01_mesopotamia_1
+
+assyria_01_mesopotamia_1.101 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.101.t"
+	desc = "assyria_01_mesopotamia_1.101.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAH
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.101.a"
+		c:MAH = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:2593
+				target = p:2593.owner
+			}
+		}
+		set_global_variable = {
+			name = hatallu_invade_assyria
+		}
+		ai_chance = { base = 90 }
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.101.b"
+		ai_chance = { base = 10 }
+	}
+}
+
+assyria_01_mesopotamia_1.102 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.102.t"
+	desc = "assyria_01_mesopotamia_1.102.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+		has_global_variable = hatallu_invade_assyria
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.102.a"
+	}
+}
+
+assyria_01_mesopotamia_1.1 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.1.t"
+	desc = "assyria_01_mesopotamia_1.1.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.1.a"
+		char:37 = {
+            death = { death_reason = death_assassinated }
+        }
+		set_as_ruler=char:46
+		#Revolt of Assyrian Loyalists
+		
+	}
+}
+
+assyria_01_mesopotamia_1.2 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.2.t"
+	desc = "assyria_01_mesopotamia_1.2.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.2.a"
+	}
+}
+
+assyria_01_mesopotamia_1.3 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.3.t"
+	desc = "assyria_01_mesopotamia_1.3.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	immediate = {
+		if = {
+			limit = {
+				NOT = {
+					any_army = {
+						has_legion_trigger = yes
+						legion = ROOT.capital_scope.governorship.legion
+					}
+				}
+			}
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = engineer_cohort
+						add_subunit = supply_train
+						add_subunit = supply_train
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+					}
+				}
+			}
+			#add_country_modifier = {
+			#	name = cymmerian_invasion_modifier
+			#	duration = 14600 # 10 years
+			#}
+			every_unit = {
+				add_food = 100
+			}
+			#add_treasury = 300
+		}
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.3.a"
+	}
+}
+

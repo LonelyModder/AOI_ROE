@@ -2,7 +2,24 @@
 	country="MAC"
 	
 	36={
-		first_name="Ashur-nirari"
+		first_name="Adad-Nirari"
+		family = c:MAC.fam:Adaside
+		birth_date=365.1.1
+		death_date=440.1.1
+		culture="ashurite"
+		religion="anunnaki_pantheon"
+		no_stats=yes
+		add_martial=4
+		add_charisma=5
+		add_finesse=6
+		add_zeal=6
+		no_traits=yes
+		add_trait="adaside"
+		#dna=""
+	}
+	
+	37={
+		first_name="Ashur-Nirari"
 		family = c:MAC.fam:Adaside
 		birth_date=390.1.1
 		culture="ashurite"
@@ -18,11 +35,11 @@
 		add_popularity=100
 		#dna=""
 		c:MAC={
-			set_as_ruler=char:36
+			set_as_ruler=char:37
 		}
 	}
 	
-	37={
+	46={
 		first_name="Tiglath-Pilaser"
 		family = c:MAC.fam:Adaside
 		father="char:36"

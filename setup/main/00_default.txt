@@ -3215,7 +3215,9 @@ country = {
 			}
 			
 			historical_regnal_numbers = {
-				Ashur-nirari = 4
+				Ashur-Nirari = 4
+				Adad-Nirari = 2
+				Tiglath-Pilaser = 2
 			}
 			
 			own_control_core = 	{ 
@@ -3288,7 +3290,7 @@ country = {
 			capital = 2300
 			
 			own_control_core = 	{ 
-				2300 2299 2305 2306
+				2300 2299 2305 2306 2349 2350 2353 2355
 			}
 		}
 		

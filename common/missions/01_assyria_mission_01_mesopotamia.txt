@@ -61,13 +61,13 @@
     }
 	
 	
-	assyria_01_mesopotamia_1 = { # Wife for the God
+	assyria_01_mesopotamia_1 = { # Desert Raiders
 		requires = {  }
 		icon = task_conquest
-		duration = 30
+		#duration = 30
 		
 		allow = {
-			treasury > 50
+			owns = 2300
 		}
 		
 		highlight = {
@@ -75,12 +75,6 @@
 		}
 		
 		on_start = {
-			show_as_tooltip = { 
-				add_treasury = -50
-			}
-			hidden_effect = { 
-				add_treasury = -50
-			}
 			trigger_event = { id = assyria_01_mesopotamia_1.1 }
 		}
 		
@@ -89,41 +83,41 @@
 		}
 	}
 	
-	assyria_01_mesopotamia_99 = { # Kushite Empire
-		requires = { assyria_01_mesopotamia_12 } 
+	assyria_01_mesopotamia_2 = { # National Standing Army
+		requires = { assyria_01_mesopotamia_1 }
+		icon = task_conquest
+		duration = 90
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.2 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.3 }
+		}
+	}
+	
+	assyria_01_mesopotamia_99 = { # King of Kings
+		requires = { assyria_01_mesopotamia_2 } 
 		icon = task_conquest
 		#duration = 30
 		
 		allow = { #Change to Important Capitals!
 			owns_or_subject_owns = 2043 # Thebes
-			owns_or_subject_owns = 1981 # Tanis
-			owns_or_subject_owns = 1989 # Mamphis
-			owns_or_subject_owns = 1968 # Sais
-			owns_or_subject_owns = 1977 # Leontopolis
-			owns_or_subject_owns = 2024 # Hermapolis
-			owns_or_subject_owns = 2014 # Heracleopolis
-			owns_or_subject_owns = 2071 # Western Oases
-			owns_or_subject_owns = 2077 # Western Oases
-			owns_or_subject_owns = 1931 # Western Oases
-			owns_or_subject_owns = 1932 # Western Oases
-			owns_or_subject_owns = 2092 # Quseir
 		}
 		
 		highlight = {
 			scope:province = {
 				OR = {
 					province_id  = 2043 # Thebes
-					province_id  = 1981 # Tanis
-					province_id  = 1989 # Mamphis
-					province_id  = 1968 # Sais
-					province_id  = 1977 # Leontopolis
-					province_id  = 2024 # Hermapolis
-					province_id  = 2014 # Heracleopolis
-					province_id = 2071 # Western Oases
-					province_id = 2077 # Western Oases
-					province_id = 1931 # Western Oases
-					province_id = 1932 # Western Oases
-					province_id = 2092 # Quseir
 				}
 			}
 		}

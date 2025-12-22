@@ -116,6 +116,12 @@
  #Starter
  assyria_01_mesopotamia:0 "The Land of Ashur"
  assyria_01_mesopotamia_DESCRIPTION:0 "Assyria have no serious natural borders, except the Euphrates river which is long and not really easily defendable. After the events of Bronze Age Collapse the followers of Ashur found themselves under siege conducted by the Aramean tribes that until this point lived on the edges of civilisation. Yet thanks to the capable leadership they managed to push invaders back and now they are the only real regional power."
- assyria_01_mesopotamia_CRITERIA_DESCRIPTION:0 "Follow the path of Assyrian kings like Tiglath-Pilaser and conquer the Mesopotamia. End the crisis that started with the Bronze age Collapse by any means necessary."
- assyria_01_mesopotamia_BUTTON_TOOLTIP:0 "Follow the path of Assyrian kings like Tiglath-Pilaser and conquer the Mesopotamia. End the crisis that started with the Bronze Age Collapse by any means necessary."
+ assyria_01_mesopotamia_CRITERIA_DESCRIPTION:0 "Follow the path of Assyrian kings like Tiglath-Pilaser III and conquer the Mesopotamia. End the crisis that started with the Bronze age Collapse by any means necessary."
+ assyria_01_mesopotamia_BUTTON_TOOLTIP:0 "Follow the path of Assyrian kings like Tiglath-Pilaser III and conquer the Mesopotamia. End the crisis that started with the Bronze Age Collapse by any means necessary."
  #Missions
+ assyria_01_mesopotamia_1:0 "Desert Raiders"
+ assyria_01_mesopotamia_1_DESC:2 "The Bit Hatallu tribe dared by the supposed political weakness decided to raid western provinces of Assyria. Which is a very big mistake. Assyrian monarch need to punish them for their insolence."
+ assyria_01_mesopotamia_2:0 "National Standing Army"
+ assyria_01_mesopotamia_2_DESC:2 "The Assyrian religion required from it's followers to wage yearly campaigns against the enemies of the state and thanks to the Assyrias location there always were enemies to fight. Pilaser knowing that king cannot be at all places at once and most of the attacks army had to face was in form of raids decided that a new solution was needed."
+ assyria_01_mesopotamia_99:0 "King of Kings"
+ assyria_01_mesopotamia_99_DESC:2 "After a lot of effort and countless horrors necessary to bring back obedience Assyria managed to bring Middle East under control. The citizens of the empire can once again feel safe from raids and opression of various warlords that plagued region in the past. Glory to Ashur and his viceking."
