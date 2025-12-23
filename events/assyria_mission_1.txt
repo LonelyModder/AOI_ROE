@@ -153,3 +153,137 @@ assyria_01_mesopotamia_1.3 = {
 	}
 }
 
+assyria_01_mesopotamia_1.4 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.4.t"
+	desc = "assyria_01_mesopotamia_1.4.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.4.a"
+	}
+}
+
+assyria_01_mesopotamia_1.5 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.5.t"
+	desc = "assyria_01_mesopotamia_1.5.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.5.a"
+		poptype_rights = {
+			{
+				culture = anahrinite 
+				type = citizen
+			}
+			{
+				culture = agusiani 
+				type = citizen
+			}
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.6= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.6.t"
+	desc = "assyria_01_mesopotamia_1.6.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.6.a"
+		set_global_variable = {
+			name = assyrian_demands
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.7= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.7.t"
+	desc = "assyria_01_mesopotamia_1.7.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		primary_culture = corepunic
+		NOT = { capital_scope = {is_in_area = ecyprus_area} }
+		has_global_variable = assyrian_demands
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.7.a"
+		c:MAC = {
+             make_subject = {
+                type = tributary
+                target = root
+            }
+        }
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.7.b"
+	}
+}
+
+assyria_01_mesopotamia_1.8= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.8.t"
+	desc = "assyria_01_mesopotamia_1.8.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.8.a"
+		c:MBG = {
+			every_owned_province = {
+				add_claim = c:MAC
+			}
+		}
+		c:MAP = {
+			every_owned_province = {
+				add_claim = c:MAC
+			}
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.9= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.9.t"
+	desc = "assyria_01_mesopotamia_1.9.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.9.a"
+		set_global_variable = {
+			name = assyria_and_the_jews
+		}
+	}
+}
+

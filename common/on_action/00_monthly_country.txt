@@ -65,6 +65,7 @@
 		kush_01_egypt_1.30
 		kush_01_egypt_1.34
 		#Assyria mission Mesopotamia
+		assyria_01_mesopotamia_1.7
 		assyria_01_mesopotamia_1.102
 		#Units
 		units_allowance_events.1

@@ -89,11 +89,16 @@
 		duration = 90
 		
 		allow = {
-			
+			treasury > 100
 		}
 		
 		highlight = {
-			
+			show_as_tooltip = {  
+				add_treasury = -100 
+			}
+			hidden_effect = { 
+				add_treasury = -100 
+			}
 		}
 		
 		on_start = {
@@ -105,8 +110,100 @@
 		}
 	}
 	
+	assyria_01_mesopotamia_3 = { # Aramean Influence
+		requires = { assyria_01_mesopotamia_1 }
+		icon = task_conquest
+		duration = 90
+		
+		allow = {
+			political_influence > 20
+		}
+		
+		highlight = {
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.4 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.5 }
+		}
+	}
+	
+	assyria_01_mesopotamia_4 = { # The Upper Sea
+		requires = { assyria_01_mesopotamia_1 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 10
+			treasury > 100 
+		}
+		
+		highlight = {
+			show_as_tooltip = { 
+				add_political_influence = -10 
+				add_treasury = -100 
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+				add_treasury = -100 
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.6 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.8 }
+		}
+	}
+	
+	assyria_01_mesopotamia_5 = { # Damascus
+		requires = { assyria_01_mesopotamia_4 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			owns = 2333 
+			owns = 2340 
+			political_influence > 20
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2333
+					province_id = 2340
+				}
+			}
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.9 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.10 }
+		}
+	}
+	
 	assyria_01_mesopotamia_99 = { # King of Kings
-		requires = { assyria_01_mesopotamia_2 } 
+		requires = { assyria_01_mesopotamia_5 } 
 		icon = task_conquest
 		#duration = 30
 		

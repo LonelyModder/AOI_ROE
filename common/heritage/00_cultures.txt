@@ -263,11 +263,11 @@ libyan_heritage = {
 	}
 }
 
-ashurite_heritage = { #Heritages for Levant ToDo
+ashurite_heritage = { 
 	modifier = {
 		#good
 		levy_size_multiplier = 0.1
-		land_morale_modifier = 0.1
+		land_morale_modifier = 0.05
 		
 		#bad
 		subject_opinions = -10
