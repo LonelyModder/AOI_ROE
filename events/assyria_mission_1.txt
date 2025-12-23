@@ -287,3 +287,124 @@ assyria_01_mesopotamia_1.9= {
 	}
 }
 
+assyria_01_mesopotamia_1.10 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.10.t"
+	desc = "assyria_01_mesopotamia_1.10.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAN
+		has_global_variable = assyria_and_the_jews
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.10.a"
+		c:MAC = {
+             make_subject = {
+                type = tributary
+                target = root
+            }
+        }
+		set_global_variable = {
+			name = samaria_submition
+		}
+		ai_chance = { base = 10 }
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.10.a"
+		set_global_variable = {
+			name = samaria_rejection
+		}
+		ai_chance = { base = 90 }
+	}
+}
+
+assyria_01_mesopotamia_1.11= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.11.t"
+	desc = "assyria_01_mesopotamia_1.11.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+		has_global_variable = samaria_submition
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.11.a"
+	}
+}
+
+assyria_01_mesopotamia_1.12 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.12.t"
+	desc = "assyria_01_mesopotamia_1.12.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAM
+		has_global_variable = assyria_and_the_jews
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.12.a"
+		c:MAC = {
+             make_subject = {
+                type = tributary
+                target = root
+            }
+        }
+		set_global_variable = {
+			name = judahite_submition
+		}
+		ai_chance = { base = 80 }
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.12.a"
+		set_global_variable = {
+			name = judahite_rejection
+		}
+		ai_chance = { base = 20 }
+	}
+}
+
+assyria_01_mesopotamia_1.13= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.13.t"
+	desc = "assyria_01_mesopotamia_1.13.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+		has_global_variable = judahite_submition
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.13.a"
+	}
+}
+
+assyria_01_mesopotamia_1.14= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.14.t"
+	desc = "assyria_01_mesopotamia_1.14.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+		has_global_variable = judahite_rejection
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.14.a"
+	}
+}
+
