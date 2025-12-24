@@ -20,6 +20,16 @@ texticon = {
     }
 }
 
+texticon = {
+    icon = cedar
+    iconsize = {
+        texture = "gfx/interface/icons/tradegoods/cedar.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
+
 #Units
 
 texticon = {
