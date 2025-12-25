@@ -6752,7 +6752,7 @@
 
 2363={ #Mountains 
 	terrain="impassable_terrain"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	culture="shasan"
 	trade_goods=""
 	civilization_value=0
@@ -7002,7 +7002,7 @@
 
 2500={ #Mountains 
 	terrain="impassable_terrain"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	culture="shasan"
 	trade_goods=""
 	civilization_value=0
