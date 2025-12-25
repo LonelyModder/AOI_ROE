@@ -408,3 +408,56 @@ assyria_01_mesopotamia_1.14= {
 	}
 }
 
+assyria_01_mesopotamia_1.15= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.15.t"
+	desc = "assyria_01_mesopotamia_1.15.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.15.a"
+		set_global_variable = {
+			name = assyria_in_canaan
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.16= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.16.t"
+	desc = "assyria_01_mesopotamia_1.16.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		capital_scope = {is_in_region = canaan_region}
+		has_global_variable = assyria_in_canaan
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.16.a"
+		c:MAC = {
+             make_subject = {
+                type = tributary
+                target = root
+            }
+        }
+		ai_chance = { base = 60 }
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.16.b"
+		root = {
+			every_owned_province = {
+				add_claim = c:MAC
+			}
+		}
+		ai_chance = { base = 40 }
+	}
+}
+
