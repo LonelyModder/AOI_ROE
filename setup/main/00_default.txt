@@ -634,6 +634,9 @@ provinces = { #Any entry must contain a comment with city name.
 	44 = { port_building = 2 }
 	26 = { port_building = 2 }
 	
+	#Modifiers
+	2272 = {modifier = { modifier = ic_defences always = yes }}
+	
 	#Passes
 	2464 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2467 = { modifier = { modifier = lesser_pass_modifier always = yes } }

@@ -97,3 +97,9 @@ egyptian_fields = {
 	local_goods_from_slaves = -5
 }
 
+tyre_island = {
+	local_defensive = 0.4
+	local_population_happiness = 0.1
+	local_tax_modifier = 0.1
+}
+
