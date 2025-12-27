@@ -65,7 +65,7 @@ assyria_01_mesopotamia_1.1 = {
 		char:37 = {
             death = { death_reason = death_assassinated }
         }
-		set_as_ruler=char:46
+		c:MAC={set_as_ruler=char:46}
 		#Revolt of Assyrian Loyalists
 		
 	}
@@ -182,15 +182,13 @@ assyria_01_mesopotamia_1.5 = {
 	
 	option = { 
 		name = "assyria_01_mesopotamia_1.5.a"
-		poptype_rights = {
-			{
-				culture = anahrinite 
-				type = citizen
-			}
-			{
-				culture = agusiani 
-				type = citizen
-			}
+		random_country_culture = {
+            limit = { is_culture = anahrinite }
+			ROOT = { integrate_country_culture = PREV }
+		}
+		random_country_culture = {
+            limit = { is_culture = agusiani }
+			ROOT = { integrate_country_culture = PREV }
 		}
 	}
 }
@@ -222,8 +220,8 @@ assyria_01_mesopotamia_1.7= {
 	picture = assyria_pic_1
 	
 	trigger = {
-		primary_culture = corepunic
-		NOT = { capital_scope = {is_in_area = ecyprus_area} }
+		is_subject=no
+		capital_scope = {is_in_region = syria_region} 
 		has_global_variable = assyrian_demands
 	}
 	

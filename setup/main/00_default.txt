@@ -456,6 +456,10 @@ diplomacy = {
 		member = MBF
 		member = MBB
 	}
+	#Rebel Allience
+	alliance = { first = MAI second = MBG } #Aram-Arpad
+	alliance = { first = MAI second = MAN } #Aram-Samaria ?Questionable Allies
+	alliance = { first = EAA second = MAO } #22nd Dynasty-Philistia
 }
 
 provinces = { #Any entry must contain a comment with city name.
@@ -3295,6 +3299,7 @@ country = {
 			
 			own_control_core = 	{ 
 				2300 2299 2305 2306 2349 2350 2353 2355 2356 2370 2371 2369
+				2357 2358 2354 2351 2352 2379 2378 2376
 			}
 		}
 		

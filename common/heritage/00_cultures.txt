@@ -37,7 +37,7 @@ grekoid_heritage = {
 lycurgus_heritage = {
 	modifier = {
 		#good
-		levy_size_multiplier = 0.1
+		levy_size_multiplier = 0.05
 		diplomatic_relations = 3
 		
 		#bad
@@ -131,7 +131,7 @@ rroman_heritage = {
 	modifier = {
 		#good
 		omen_power = 0.2
-		levy_size_multiplier = 0.05 
+		levy_size_multiplier = 0.025 
 		
 		#bad
 		naval_morale_modifier = -0.1
@@ -266,8 +266,8 @@ libyan_heritage = {
 ashurite_heritage = { 
 	modifier = {
 		#good
-		levy_size_multiplier = 0.1
-		land_morale_modifier = 0.05
+		levy_size_multiplier = 0.025
+		land_morale_modifier = 0.1
 		
 		#bad
 		subject_opinions = -10

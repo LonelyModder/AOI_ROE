@@ -75,11 +75,11 @@
 		}
 		
 		on_start = {
-			trigger_event = { id = assyria_01_mesopotamia_1.1 }
+			
 		}
 		
 		on_completion = {
-			
+			trigger_event = { id = assyria_01_mesopotamia_1.1 }
 		}
 	}
 	
