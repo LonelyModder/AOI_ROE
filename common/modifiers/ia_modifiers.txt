@@ -103,3 +103,7 @@ tyre_island = {
 	local_tax_modifier = 0.1
 }
 
+walls_of_jerusalem = {
+	local_defensive = 0.2
+}
+

@@ -60,7 +60,8 @@
  desc_egyptian_fields:0 "Nile is a very predictable river with regular floods that when used effectively provide large harvests. Thats why Egypt is sometimes called the Vread Basket. Egyptian Harvests could feed the entire Meditrrainean."
  tyre_island:0 "Old Tyre"
  desc_tyre_island:0 "Tyre consists of two parts: the New Tyre, mainland settlement and the Old Tyre, heavily fortified island just of the phoenician coast. The tyrians thanks to that isle could easily face much bigger army and defend the isle for years. To capture the city one would have to bring bigger navy and all the biggest navies belonged to phoenicians."
- 
+ walls_of_jerusalem:0 "Walls of Jerusalem"
+ desc_walls_of_jerusalem:0 "Jerusalem is not only a city but also a natural fortress built on a hill with little vegetation around it that can be cut down in need be depriving the enemy of building material for siege engines."
  
  #Special Decisions
  order_draft:0 "Order Draft"

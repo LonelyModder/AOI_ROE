@@ -635,7 +635,8 @@ provinces = { #Any entry must contain a comment with city name.
 	26 = { port_building = 2 }
 	
 	#Modifiers
-	2272 = {modifier = { modifier = ic_defences always = yes }}
+	2272 = {modifier = { modifier = tyre_island always = yes }}
+	2414 = {modifier = { modifier = walls_of_jerusalem always = yes }}
 	
 	#Passes
 	2464 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -3293,7 +3294,7 @@ country = {
 			capital = 2300
 			
 			own_control_core = 	{ 
-				2300 2299 2305 2306 2349 2350 2353 2355
+				2300 2299 2305 2306 2349 2350 2353 2355 2356 2370 2371 2369
 			}
 		}
 		

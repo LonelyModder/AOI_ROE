@@ -995,6 +995,10 @@
 	citizen={
 		amount=4
 	}
+	citizen={
+		amount=3
+		culture="ashurite"
+	}
 	freemen={
 		amount=3
 	}
@@ -1118,6 +1122,10 @@
 	province_rank="city"
 	citizen={
 		amount=4
+	}
+	citizen={
+		amount=3
+		culture="ashurite"
 	}
 	freemen={
 		amount=3
@@ -1361,7 +1369,11 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=6
+		amount=3
+		culture="ashurite"
+	}
+	citizen={
+		amount=3
 	}
 	freemen={
 		amount=3

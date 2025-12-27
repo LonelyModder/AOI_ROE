@@ -21,6 +21,7 @@
 	37={
 		first_name="Ashur-Nirari"
 		family = c:MAC.fam:Adaside
+		father="char:36"
 		birth_date=390.1.1
 		culture="ashurite"
 		religion="anunnaki_pantheon"
