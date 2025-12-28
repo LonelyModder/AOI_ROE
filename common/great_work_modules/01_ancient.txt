@@ -186,6 +186,12 @@ wonder_arcaneuniversity={
 	great_work_category_slot=0
 }
 
+wonder_firsttemple={
+	entity_name={"building_special_first_temple_entity"}
+	great_work_category="gw_category_ancient"
+	great_work_category_slot=0
+}
+
 wonder_templegarrison={
 	entity_name={"building_special_imperial_fort_entity"}
 	great_work_category="gw_category_ancient"

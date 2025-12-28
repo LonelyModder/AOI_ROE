@@ -434,15 +434,18 @@
 	culture="adamascan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=10
+	}
 	freemen={
-		amount=1
+		amount=7
 	}	
 	tribesmen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 	holy_site="omen_mbaal"
 }
@@ -1914,7 +1917,7 @@
 }
 
 2354={ 
-	terrain="desert"
+	terrain="hills"
 	trade_goods="wool"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
@@ -1993,7 +1996,7 @@
 }
 
 2358={ 
-	terrain="desert"
+	terrain="hills"
 	trade_goods="leather"
 	religion="canaanitic_pantheon"
 	culture="ahatallan"
