@@ -1,5 +1,6 @@
 ﻿l_english:
 
- gw_effect_crystal_tower:0 "Crystal Tower"
- gw_effect_crystal_tower_DESC:0 "The Crystal Tower, also known as the Crystal-Like-Law or Lawful Crystal, referring to its housing of the Transparent Law crystal which rests atop the tower, is an ancient tower located on the mountains of Eton Nir, in the province of the Summerset Isles. It was built by the Aldmer as a monument to the spirit of the elves, living and dead. Tower serves also as school of magic."
- 
+ gw_effect_first_temple:0 "Salomons Temple"
+ gw_effect_first_temple_DESC:0 "Built by king Salomon the temple was the holiest place for the jewish people. Acording to the descriptions temple was built same as egyptian ones with the windowless inner sanctum  called Holy of Holies where the Ark of Covenant was kept (or as in smaller temples in Judah from the period a statue of Yahweh)."
+ gw_effect_great_pyramid:0 "Giza Pyramid Complex"
+ gw_effect_great_pyramid_DESC:0 "Giza Pyramid Complex was built during the Old Kingdom period two millenia ago. Egyptians believe that as long as a person is remembered, spirit can live in the afterlife and that was the purpose of building pyramids. They served not only as tombs but also as temples where people could pray and make offerings to the deceased pharoh."
