@@ -14,7 +14,7 @@
  punici:0 "Punic"
  grecopunic:0 "Greco-Punic"
  corepunic:0 "Phoenician"
- canaanite:0 "Canaanite"
+ canaanite:0 "Avite"
  pphilistine:0 "Philistine"
  levantine_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  levantine_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
