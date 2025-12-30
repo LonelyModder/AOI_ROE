@@ -229,7 +229,7 @@ assyria_01_mesopotamia_1.7= {
 		name = "assyria_01_mesopotamia_1.7.a"
 		c:MAC = {
              make_subject = {
-                type = tributary
+                type = feudatory
                 target = root
             }
         }
@@ -306,7 +306,7 @@ assyria_01_mesopotamia_1.10 = {
 		name = "assyria_01_mesopotamia_1.10.a"
 		c:MAC = {
              make_subject = {
-                type = tributary
+                type = feudatory
                 target = root
             }
         }
@@ -358,7 +358,7 @@ assyria_01_mesopotamia_1.12 = {
 		name = "assyria_01_mesopotamia_1.12.a"
 		c:MAC = {
              make_subject = {
-                type = tributary
+                type = feudatory
                 target = root
             }
         }
@@ -438,6 +438,7 @@ assyria_01_mesopotamia_1.16= {
 	picture = assyria_pic_1
 	
 	trigger = {
+		is_subject=no
 		capital_scope = {is_in_region = canaan_region}
 		has_global_variable = assyria_in_canaan
 	}
@@ -446,7 +447,7 @@ assyria_01_mesopotamia_1.16= {
 		name = "assyria_01_mesopotamia_1.16.a"
 		c:MAC = {
              make_subject = {
-                type = tributary
+                type = feudatory
                 target = root
             }
         }
