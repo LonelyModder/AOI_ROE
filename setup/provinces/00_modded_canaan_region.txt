@@ -686,15 +686,18 @@
 	culture="judahite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
 	freemen={
-		amount=1
+		amount=3
 	}	
 	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
