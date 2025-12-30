@@ -1701,7 +1701,7 @@
 
 2593={ 
 	terrain="plains"
-	trade_goods="horses"
+	trade_goods="steppe_horses"
 	religion="anunnaki_pantheon"
 	culture="ashurite"
 	civilization_value=0

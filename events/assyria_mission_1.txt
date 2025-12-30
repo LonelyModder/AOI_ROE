@@ -282,6 +282,11 @@ assyria_01_mesopotamia_1.9= {
 		set_global_variable = {
 			name = assyria_and_the_jews
 		}
+		c:MAI = {
+			every_owned_province = {
+				add_claim = c:MAC
+			}
+		}
 	}
 }
 
