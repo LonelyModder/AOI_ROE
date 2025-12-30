@@ -37,7 +37,7 @@ grekoid_heritage = {
 lycurgus_heritage = {
 	modifier = {
 		#good
-		levy_size_multiplier = 0.1
+		levy_size_multiplier = 0.05
 		diplomatic_relations = 3
 		
 		#bad
@@ -131,7 +131,7 @@ rroman_heritage = {
 	modifier = {
 		#good
 		omen_power = 0.2
-		levy_size_multiplier = 0.05 
+		levy_size_multiplier = 0.025 
 		
 		#bad
 		naval_morale_modifier = -0.1
@@ -260,5 +260,65 @@ libyan_heritage = {
 	
 	trigger = {
 		country_culture_group = libyan
+	}
+}
+
+ashurite_heritage = { 
+	modifier = {
+		#good
+		levy_size_multiplier = 0.025
+		land_morale_modifier = 0.1
+		
+		#bad
+		subject_opinions = -10
+	}
+	
+	trigger = {
+		primary_culture = ashurite
+	}
+}
+
+ahlamu_heritage = {
+	modifier = {
+		#good
+		land_morale_modifier = 0.1
+		commerce_value  = 0.2
+		
+		#bad
+		stability_cost_modifier = 0.1
+	}
+	
+	trigger = {
+		country_culture_group = aramaic
+	}
+}
+
+synaic_heritage = {
+	modifier = {
+		#good
+		price_state_investment_civic_cost_modifier = -0.1
+		commerce_value  = 0.2
+		
+		#bad
+		stability_cost_modifier = 0.1
+	}
+	
+	trigger = {
+		country_culture_group = synaic
+	}
+}
+
+luwian_heritage = {
+	modifier = {
+		#good
+		global_pop_assimilation_speed_modifier = 0.1
+		land_morale_modifier = 0.1
+		
+		#bad
+		global_pop_conversion_speed_modifier = -0.1
+	}
+	
+	trigger = {
+		country_culture_group = hattian
 	}
 }

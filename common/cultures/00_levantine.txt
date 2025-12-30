@@ -52,6 +52,7 @@
 		grecopunic = {}
 		corepunic = {}
 		canaanite = {}
+		pphilistine = {}
 	}
 	
 	barbarian_names = { 

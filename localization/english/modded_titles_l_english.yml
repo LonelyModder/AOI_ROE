@@ -31,3 +31,9 @@
  theocratic_monarchy_ruler_female_libyan:0 "Pharoh"
  theocratic_republic_ruler_libyan:0 "High Priest"
  theocratic_republic_ruler_female_libyan:0 "High Priestes"
+ #Aramaic
+ tribal_kingdom_ruler_aramaic:0 "Sheikh"
+ tribal_kingdom_ruler_female_aramaic:0 "Sheikh"
+ #Arabian
+ tribal_kingdom_ruler_arabian:0 "Sheikh"
+ tribal_kingdom_ruler_female_arabian:0 "Sheikh"

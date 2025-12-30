@@ -43,6 +43,18 @@ kush_1_victory = {
 	happiness_for_same_religion_modifier = 0.12
 }
 
+assyria_1_starts = {
+	land_morale_modifier = 0.1
+	agressive_expansion_impact = -0.75
+	agressive_expansion_monthly_change = -0.05
+}
+
+assyria_1_victory = {
+	ruler_popularity_gain = 0.1
+	happiness_for_same_culture_modifier = 0.07
+	happiness_for_same_religion_modifier = 0.12
+}
+
 #invasions
 cymmerian_invasion_modifier = {
     global_tax_income = 16
@@ -83,5 +95,15 @@ draft_ordered = {
 #Local Provincial
 egyptian_fields = {
 	local_goods_from_slaves = -5
+}
+
+tyre_island = {
+	local_defensive = 0.4
+	local_population_happiness = 0.1
+	local_tax_modifier = 0.1
+}
+
+walls_of_jerusalem = {
+	local_defensive = 0.2
 }
 

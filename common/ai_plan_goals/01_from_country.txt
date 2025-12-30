@@ -5,6 +5,7 @@ is_agressive_culture_aimod = {
 		OR = {
 			tag = AAA
 			tag = BAA
+			tag = MAC
 		}
 		NOT = { is_tribal = yes }
 		manpower > 4
@@ -20,6 +21,7 @@ is_lacking_levies_pseudo_trigger = {
 		OR = {
 			tag = AAA
 			tag = BAA
+			tag = MAC
 		}
 		NOT = { is_tribal = yes }
 	}

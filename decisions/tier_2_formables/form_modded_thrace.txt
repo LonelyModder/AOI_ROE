@@ -1,0 +1,86 @@
+﻿country_decisions = {
+	
+	# Form Thrace
+	form_thrace = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XTH
+			}
+			country_culture_group = thracianic
+			NOT = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 1651 # Seuthopolis
+					province_id = 1666 # Hadrianopolis
+					province_id = 1593 # Sestus
+					province_id = 1581 # Abdera
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = thrace_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XTH
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 1651 # Seuthopolis
+			owns = 1666 # Hadrianopolis
+			owns = 1593 # Sestus
+			owns = 1581 # Abdera
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "THRACE_NAME"
+			hidden_effect = {
+				change_country_adjective = "THRACE_ADJECTIVE"
+				change_country_color = "THRACE_COLOR"
+				change_country_tag = XTH
+				change_country_flag = THRACE_FLAG
+			}
+			if = {
+				limit = {
+					p:1651 = { is_capital = no }
+				}
+				set_capital = 1651
+				hidden_effect = {
+					p:1651.state = {
+						set_state_capital = 1651
+					}
+				}
+				capital_scope = {
+					establish_city_effect = yes
+				}
+			}
+			p:1651 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = Epirus_claims_tooltip
+			hidden_effect = {
+				region:modded_thraciae_region = { formable_region_province_effect = yes }
+				region:modded_moesia_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

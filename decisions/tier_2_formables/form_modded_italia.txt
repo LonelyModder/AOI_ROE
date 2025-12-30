@@ -1,0 +1,104 @@
+﻿country_decisions = {
+	
+	# Form Italia
+	form_Italia = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XIT
+			}
+			OR = {
+				country_culture_group = thyrrenic
+				country_culture_group = italic
+				primary_culture = gitaliote
+			}
+			NOT = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 313 # Roma
+					province_id = 349 # Velzna
+					province_id = 345 
+					province_id = 359 
+					province_id = 283 
+					province_id = 289 
+					province_id = 243 
+					province_id = 323 
+					province_id = 331 
+					province_id = 214 
+					province_id = 272 
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = Italia_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XIT
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 313 # Roma
+			owns = 349 # Velzna
+			owns = 345 
+			owns = 359 
+			owns = 283 
+			owns = 289 
+			owns = 243 
+			owns = 323 
+			owns = 331 
+			owns = 214 
+			owns = 272 
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			#tribal_formable_government_change_effect = yes
+			change_country_name = "ITALIA_NAME"
+			hidden_effect = {
+				change_country_adjective = "ITALIA_ADJECTIVE"
+				change_country_color = "ROMANREPUBLIC_COLOR"
+				change_country_tag = XIT
+				change_country_flag = ITALIA_FLAG
+			}
+			if = {
+				limit = {
+					p:313 = { is_capital = no }
+				}
+				set_capital = 313
+				hidden_effect = {
+					p:313.state = {
+						set_state_capital = 313
+					}
+				}
+				capital_scope = {
+					establish_city_effect = yes
+				}
+			}
+			p:313 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = Italia_claims_tooltip
+			hidden_effect = {
+				region:modded_italia_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

@@ -1,0 +1,1900 @@
+﻿2384={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2385={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2386={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2387={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2388={ 
+	terrain="desert"
+	trade_goods="gems"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2389={ 
+	terrain="mountain"
+	trade_goods="gems"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2390={ 
+	terrain="desert"
+	trade_goods="gems"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2391={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2392={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2393={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2394={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2395={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2396={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2397={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2398={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2399={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2400={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2401={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2402={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2403={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2404={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2405={ 
+	terrain="oasis"
+	trade_goods="cloth"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2406={ 
+	terrain="plains"
+	trade_goods="base_metals"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2407={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2408={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2409={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="canaanitic_pantheon"
+	culture="canaanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2410={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="canaanitic_pantheon"
+	culture="canaanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2411={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2412={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="canaanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2413={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2414={ 
+	terrain="hills"
+	trade_goods="earthware"
+	religion="canaanitic_pantheon"
+	culture="judahite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=5
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=5
+	}
+	holy_site="omen_yhwh"
+}
+
+2415={ 
+	terrain="plains"
+	trade_goods="wool"
+	religion="canaanitic_pantheon"
+	culture="judahite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2416={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="canaanitic_pantheon"
+	culture="judahite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2417={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="canaanitic_pantheon"
+	culture="judahite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2418={ 
+	terrain="plains"
+	trade_goods="honey"
+	religion="canaanitic_pantheon"
+	culture="judahite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2419={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="canaanitic_pantheon"
+	culture="judahite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2420={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="canaanitic_pantheon"
+	culture="pphilistine"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=5
+	}
+}
+
+2425={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="canaanitic_pantheon"
+	culture="pphilistine"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2426={ 
+	terrain="plains"
+	trade_goods="hemp"
+	religion="canaanitic_pantheon"
+	culture="pphilistine"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2427={ 
+	terrain="plains"
+	trade_goods="honey"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=6
+	}	
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2428={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=6
+	}	
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2429={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2430={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=6
+	}	
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2431={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=6
+	}	
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2432={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=2
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=7
+	}	
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=5
+	}
+	holy_site="omen_ashera"
+}
+
+2433={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2434={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2435={ 
+	terrain="plains"
+	trade_goods="hemp"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2436={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=6
+	}	
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2437={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2438={ 
+	terrain="plains"
+	trade_goods="papyrus"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2439={ 
+	terrain="hills"
+	trade_goods="honey"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=6
+	}	
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2440={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="canaanitic_pantheon"
+	culture="samaric"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2441={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2442={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2443={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2444={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2445={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2446={ 
+	terrain="hills"
+	trade_goods="fur"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2447={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="canaanitic_pantheon"
+	culture="shasan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2448={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2449={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2450={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2459={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2460={ 
+	terrain="hills"
+	trade_goods="camel"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2461={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="canaanitic_pantheon"
+	culture="moabite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2462={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="canaanitic_pantheon"
+	culture="moabite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	holy_site="omen_chemosh"
+}
+
+2463={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="canaanitic_pantheon"
+	culture="ammonite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+}
+
+2464={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2465={ 
+	terrain="hills"
+	trade_goods="fur"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2466={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2467={ 
+	terrain="hills"
+	trade_goods="camel"
+	religion="canaanitic_pantheon"
+	culture="edomite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=8
+	}
+	slaves={
+		amount=3
+	}
+}
+
+2468={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="canaanitic_pantheon"
+	culture="moabite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2469={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="moabite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2470={ 
+	terrain="desert"
+	trade_goods="horses"
+	religion="canaanitic_pantheon"
+	culture="moabite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2471={ 
+	terrain="desert"
+	trade_goods="horses"
+	religion="canaanitic_pantheon"
+	culture="ammonite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2472={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="ammonite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2473={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="canaanitic_pantheon"
+	culture="ammonite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2474={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2475={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2476={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2477={ 
+	terrain="plains"
+	trade_goods="cloth"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=7
+	}	
+	tribesmen={
+		amount=5
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2487={ 
+	terrain="desert"
+	trade_goods="earthware"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2488={ 
+	terrain="desert"
+	trade_goods="earthware"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2489={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2490={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2491={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2492={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2493={ 
+	terrain="desert"
+	trade_goods="salt"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2494={ 
+	terrain="desert"
+	trade_goods="fish"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2495={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2496={ 
+	terrain="hills"
+	trade_goods="camel"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2497={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2498={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="arabian_pantheon"
+	culture="dadanite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2499={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="canaanitic_pantheon"
+	culture="adamascan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

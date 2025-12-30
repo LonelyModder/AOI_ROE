@@ -18,12 +18,27 @@
 								country_culture_group = grekoid
 								country_culture_group = levantine
 								country_culture_group = kemetic
+								country_culture_group = akkadian
+								country_culture_group = hattian
 								primary_culture = ma
 							}
+							NOT = {primary_culture = ashurite}
 						} 
 					}
 				}
 				add_civilization_value = 10
+			}
+			if = {
+				limit = { 
+					has_owner = yes
+					trigger_if = {
+						limit = { has_owner = yes }
+						owner = {
+							primary_culture = ashurite
+						} 
+					}
+				}
+				add_civilization_value = 20
 			}
 			if = {
 				limit = { 

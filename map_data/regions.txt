@@ -11,6 +11,57 @@ modded_tmp_region = {
 	}
 }
 
+modded_ebernari_region = {
+	areas = {
+		anatha_area
+		singara_area
+		nicephorium_area
+		karkemish_area
+		edessa_area
+		amida_area
+		nisibis_area
+		mifta_area
+	}
+}
+
+modded_canaan_region = {
+	areas = {
+		synai_area
+		negev_area
+		leucos_area
+		edom_area
+		judah_area
+		samaria_area
+		jordan_area
+		hauran_area
+	}
+}
+
+modded_syria_region = {
+	areas = {
+		damascus_area
+		phoenicia_area
+		hamath_area
+		dura_area
+		samosata_area
+		palmyra_area
+		seriane_area
+		tilbarsip_area
+		beroia_area
+		antiochia_area
+	}
+}
+
+modded_cilicia_region = {
+	areas = {
+		wcyprus_area
+		ecyprus_area
+		anemurion_area
+		tarsus_area
+		issus_area
+	}
+}
+
 modded_middleegypt_region = {
 	areas = {
 		heracleopolis_area

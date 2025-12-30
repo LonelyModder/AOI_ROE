@@ -64,6 +64,15 @@
 		kush_01_egypt_1.27
 		kush_01_egypt_1.30
 		kush_01_egypt_1.34
+		#Assyria mission Mesopotamia
+		assyria_01_mesopotamia_1.7
+		assyria_01_mesopotamia_1.10
+		assyria_01_mesopotamia_1.11
+		assyria_01_mesopotamia_1.12
+		assyria_01_mesopotamia_1.13
+		assyria_01_mesopotamia_1.14
+		assyria_01_mesopotamia_1.16
+		assyria_01_mesopotamia_1.102
 		#Units
 		units_allowance_events.1
 		#Modded events 

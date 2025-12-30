@@ -1,0 +1,276 @@
+﻿assyria_01_mesopotamia = { # Between Rivers
+	icon = assyria_01_mesopotamia
+	header = mission_image_rome #mission_image_phrygia
+	
+	repeatable = no
+
+    chance = {
+		factor = 10
+	}
+	
+	ai_chance = { factor = 10 }
+
+	potential = { 
+		NOT = { has_variable = assyria_01_mesopotamia }
+		primary_culture = ashurite
+		tag=MAC
+		is_monarchy = yes
+		is_subject = no
+		has_civil_war = no
+		NOT = { has_global_variable = assyria_fail }
+	}
+	
+	abort = {	
+		OR = {
+			NOT = { primary_culture = ashurite }
+			custom_tooltip = {
+				text = assyria_01_mesopotamia_abort_tt
+				has_global_variable = assyria_fail
+			}
+			ai_mission_back_out_trigger = yes
+		}
+	}
+	
+	on_start = {
+    	start_mission_ai_effect = yes
+    	save_scope_as = me_assyria_scope
+		add_country_modifier = {
+	        name = assyria_1_starts
+	        duration = 3650 # 10 years
+	    }
+    }
+	
+	on_abort = {
+    	custom_tooltip = ant_1_mission_cooldown_tt
+    	if = {
+	    	limit = { has_country_modifier = assyria_1_starts }
+    		remove_country_modifier = assyria_1_starts
+	    }
+		set_variable = {
+			name =assyria_01_mesopotamia
+			days = 7300
+		}
+    }
+	
+	on_completion = {
+		add_country_modifier = {
+    		name = assyria_1_victory
+    		duration = 7300 # 20 years
+    	}
+    	complete_mission_effect = yes 
+    }
+	
+	
+	assyria_01_mesopotamia_1 = { # Desert Raiders
+		requires = {  }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			owns = 2300
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.1 }
+		}
+	}
+	
+	assyria_01_mesopotamia_2 = { # National Standing Army
+		requires = { assyria_01_mesopotamia_1 }
+		icon = task_conquest
+		duration = 90
+		
+		allow = {
+			treasury > 100
+		}
+		
+		highlight = {
+			show_as_tooltip = {  
+				add_treasury = -100 
+			}
+			hidden_effect = { 
+				add_treasury = -100 
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.2 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.3 }
+		}
+	}
+	
+	assyria_01_mesopotamia_3 = { # Aramean Influence
+		requires = { assyria_01_mesopotamia_1 }
+		icon = task_conquest
+		duration = 90
+		
+		allow = {
+			political_influence > 20
+		}
+		
+		highlight = {
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.4 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.5 }
+		}
+	}
+	
+	assyria_01_mesopotamia_4 = { # The Upper Sea
+		requires = { assyria_01_mesopotamia_1 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 10
+			treasury > 100 
+		}
+		
+		highlight = {
+			show_as_tooltip = { 
+				add_political_influence = -10 
+				add_treasury = -100 
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+				add_treasury = -100 
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.6 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.8 }
+		}
+	}
+	
+	assyria_01_mesopotamia_5 = { # Enemy of My Enemy
+		requires = { assyria_01_mesopotamia_4 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			owns = 2333 
+			owns = 2340 
+			political_influence > 20
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2333
+					province_id = 2340
+				}
+			}
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.9 }
+		}
+		
+		on_completion = {
+			
+		}
+	}
+	
+	assyria_01_mesopotamia_6 = { # Reforming the Canaan
+		requires = { assyria_01_mesopotamia_5 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			owns = 2359 
+			political_influence > 20
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2359
+				}
+			}
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.15 }
+		}
+		
+		on_completion = {
+			
+		}
+	}
+	
+	assyria_01_mesopotamia_99 = { # King of Kings
+		requires = { assyria_01_mesopotamia_6 } 
+		icon = task_conquest
+		#duration = 30
+		
+		allow = { #Change to Important Capitals!
+			owns_or_subject_owns = 2414 # Jerusalem
+			owns_or_subject_owns = 2359 # Damascus
+			owns_or_subject_owns = 2333 # Arpad
+			owns_or_subject_owns = 2340 # Hamath
+			owns_or_subject_owns = 2432 # Samaria
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2414 # Jerusalem
+					province_id = 2359 # Damascus
+					province_id = 2333 # Arpad
+					province_id = 2340 # Hamath
+					province_id = 2432 # Samaria
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = assyria_01_mesopotamia_beaten
+			}
+		}
+		final = yes 
+	}
+	
+}
+	

@@ -1,21 +1,25 @@
 ﻿is_tier_1_formable_trigger = {
 	OR = {
-		tag = XIT #Italia
-		tag = XIL #Illyria
+		
 		tag = XSL #Sicily
 		tag = XSH #Sherden
 		tag = XCR #Crete
-		tag = XCH #Greece
 		tag = XEI #Epirus
-		tag = XTH #Thrace
-		tag = XEG #Egypt
 		tag = XET #Etruria
+		tag = XCY #Cyprus
+		tag = XIS #Israel
+		tag = XCI #Cilicia
 	}
 }
 
 is_tier_2_formable_trigger = {
 	OR = {
-		
+		tag = XSY #Syria
+		tag = XEG #Egypt
+		tag = XCH #Greece
+		tag = XIT #Italia
+		tag = XIL #Illyria
+		tag = XTH #Thrace
 	}
 }
 

@@ -16,6 +16,9 @@ character_events.35 = {
 						has_trait = aeacid
 						has_trait = shoshenqid
 						has_trait = napatan
+						has_trait = adaside
+						has_trait = davidid
+						has_trait = kuzite
 					}
 				}
 			}
@@ -84,6 +87,39 @@ character_events.35 = {
 					}
 				}
 				add_trait = napatan
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = adaside
+					}
+					NOT = {
+						has_trait = adaside
+					}
+				}
+				add_trait = adaside
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = davidid
+					}
+					NOT = {
+						has_trait = davidid
+					}
+				}
+				add_trait = davidid
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = kuzite
+					}
+					NOT = {
+						has_trait = kuzite
+					}
+				}
+				add_trait = kuzite
 			}
 		}
 		if = {
@@ -157,6 +193,42 @@ character_events.35 = {
 				}
 			}
 			add_trait = napatan	
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = adaside
+				}
+				NOT = {
+					has_trait = adaside
+				}
+			}
+			add_trait = adaside	
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = davidid
+				}
+				NOT = {
+					has_trait = davidid
+				}
+			}
+			add_trait = davidid	
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = kuzite
+				}
+				NOT = {
+					has_trait = kuzite
+				}
+			}
+			add_trait = kuzite	
 		}
 	}
 }

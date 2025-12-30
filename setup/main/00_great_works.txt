@@ -2,6 +2,9 @@ provinces = {
 	1989={ # Giza
 		great_work=1
 	}
+	2414={ # Jerusalem
+		great_work=2
+	}
 }
 
 great_work_manager={	
@@ -23,7 +26,29 @@ great_work_manager={
 			}
 			great_work_effect_selections={
 				{
-					great_work_effect="gw_effect_overlord_boost"
+					great_work_effect="gw_effect_great_pyramid"
+					great_work_effect_tier = "gw_effect_tier_4"
+				}
+			}
+		}
+		2={
+			ancient_wonder = yes
+			key="first_temple"
+			great_work_state=great_work_state_completed
+			finished_date=450.10.1
+			great_work_category="building"
+
+			great_work_name={
+				name="wonder_firsttemple"
+			}
+			great_work_components={
+				{
+					great_work_module="wonder_firsttemple" #wonder_second_temple_herod
+				}
+			}
+			great_work_effect_selections={
+				{
+					great_work_effect="gw_effect_first_temple"
 					great_work_effect_tier = "gw_effect_tier_4"
 				}
 			}

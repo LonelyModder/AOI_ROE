@@ -46,3 +46,18 @@ entity = {
 	name = "nubian_gfx_port_entity"
 	pdxmesh = "eastern_port_mesh"
 }
+
+entity = {
+	name = "carthaginian_gfx_port_entity"
+	pdxmesh = "eastern_port_mesh"
+}
+
+entity = {
+	name = "levantine_gfx_port_entity"
+	pdxmesh = "eastern_port_mesh"
+}
+
+entity = {
+	name = "mesopotamian_gfx_port_entity"
+	pdxmesh = "eastern_port_mesh"
+}

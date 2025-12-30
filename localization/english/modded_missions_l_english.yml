@@ -1,5 +1,5 @@
 ﻿l_english:
- #Latium
+ #Latium mission tree 1
  #Starter
  latium_01_italy:0 "Masters of Italia"
  latium_01_italy_DESCRIPTION:0 "The tribes living near the lower Tiber are collectively called Latins. They are unique blrend of Italic and Etruscan culture, connecting the culturel achivements of etruscans with the discipline and strangth of the italic tribes. That unique mix can one day grat them control over the whole peninsula."
@@ -40,7 +40,7 @@
  latium_01_italy_7c_DESC:2 "Etruria was well developed way before romans even stepped foot there. There was little need for new urban centers so romans focused on tying the intrests of the etruscan city-states with rome like for example by bilateral defense contract with Tarquinii."
  latium_01_italy_99:0 "Italy Conquered!"
  latium_01_italy_99_DESC:2 "Finally Rome is the only power in italian peninsula. Petty wars are over and a new dawn is upon us. We need to use that new found strangth to spread light of roman civilisation to other regions."
- #Macedonia
+ #Macedonia mission tree 1
  #Starter
  macedon_01_macedonia:0 "Macedonian Hegemony"
  macedon_01_macedonia_DESCRIPTION:0 "Macedonians settled in northern greece barely four centuries ago. By living close to the Thracians they pushed out of the area they took over a lot of thracian habits like for example drinking undiluted wine. Thats why most of greeks sees them as barbarians and tends to mock them on every oportunity. Time to show them that macedonians are also the heirs of Heracles himself!"
@@ -79,7 +79,7 @@
  macedon_01_macedonia_6b_DESC:2 "Aparently the Temple of Delphi was sacked and their treasures stolen. This sacrelige caused the series of holy wars in central Hellas. We could use this and take up a mantle of the one who will restore peace and order to Greece. If by chance we will become the next Hegemon than who will blame us?"
  macedon_01_macedonia_99:0 "New Hegemon"
  macedon_01_macedonia_99_DESC:2 "Finally after all those years Greece has new master. Now the centuries of chaos are over. Merchants can travel from Pella to Athens withous fear. Farmers can plow their fields and be sure they will live to see them harvested. All that thanks to their new Macedonian overlords. Now there is the time to unite with the greeks overseas who suffer from opression of foreign kings."
- #Macedonia
+ #Kushite mission tree 1
  #Starter
  kush_01_egypt:0 "Kushite Invasion"
  kush_01_egypt_DESCRIPTION:0 "Kushites lived for hundreds of years under the shadow of their northern neighbours. Egyptian reign began with military outposts and expeditions but soon they started to colonize the area and they even created a series of fortresses to maintain control over it. But now egypt is in a state of civil war and Kush have a new rulers. Leaders of Napata looked at the pharohs with envy. They started to reform Nubia into a proper centralised state and now seeing the oportunity that may not repeat itself kushites started war preparations. But one do not always need to fight with a sword."
@@ -112,3 +112,24 @@
  kush_01_egypt_12_DESC:2 "Nile Delta is very hard to control, especially for a new foreign dynasty. Trying to find solution advisors proposed the creation of vassal states loyal to the throne. This could relief some pressure from treasury and local kings could provide troops for our campaigns."
  kush_01_egypt_99:0 "Kushite Egypt"
  kush_01_egypt_99_DESC:2 "Finally for the first time in history kushite sits on the egyptian throne. The last attempt at conquest of Egypt was made seven centuries ago. Throu all this time Kush was a patchwork of different tribes that were busy fighting each other instead of their real enemies. No more! From now on All will fear the us for we are sons of Ra!"
+ #Assyria mission tree 1
+ #Starter
+ assyria_01_mesopotamia:0 "The Land of Ashur"
+ assyria_01_mesopotamia_DESCRIPTION:0 "Assyria have no serious natural borders, except the Euphrates river which is long and not really easily defendable. After the events of Bronze Age Collapse the followers of Ashur found themselves under siege conducted by the Aramean tribes that until this point lived on the edges of civilisation. Yet thanks to the capable leadership they managed to push invaders back and now they are the only real regional power."
+ assyria_01_mesopotamia_CRITERIA_DESCRIPTION:0 "Follow the path of Assyrian kings like Tiglath-Pilaser III and conquer the Mesopotamia. End the crisis that started with the Bronze age Collapse by any means necessary."
+ assyria_01_mesopotamia_BUTTON_TOOLTIP:0 "Follow the path of Assyrian kings like Tiglath-Pilaser III and conquer the Mesopotamia. End the crisis that started with the Bronze Age Collapse by any means necessary."
+ #Missions
+ assyria_01_mesopotamia_1:0 "Desert Raiders"
+ assyria_01_mesopotamia_1_DESC:2 "The Bit Hatallu tribe dared by the supposed political weakness decided to raid western provinces of Assyria. Which is a very big mistake. Assyrian monarch need to punish them for their insolence."
+ assyria_01_mesopotamia_2:0 "National Standing Army"
+ assyria_01_mesopotamia_2_DESC:2 "The Assyrian religion required from it's followers to wage yearly campaigns against the enemies of the state and thanks to the Assyrias location there always were enemies to fight. Pilaser knowing that king cannot be at all places at once and most of the attacks army had to face was in form of raids decided that a new solution was needed."
+ assyria_01_mesopotamia_3:0 "Aramean Influence"
+ assyria_01_mesopotamia_3_DESC:2 "The ascension of half-aramean to the throne brought important changes to the assyrian culture. The large number of imperial citizens were of aramean descent and aramean language was way easier in use than akkadian. The change of the language and assimilation of arameans especially those living closer to the heartland may reinvigorate the imperial economy and provide new recruits to our army."
+ assyria_01_mesopotamia_4:0 "The Upper Sea"
+ assyria_01_mesopotamia_4_DESC:2 "Akkadians called the surrounding seas the Upper and Lower, mainly because of the direction of the rivers Tigris and Euphrates. The traditional ritual when akkadian king conquered the coast of the sea was for him to wash his wepons in a sea water. The main obstacle on path to the Mediterrainean is the city of Arpad and it's aramean and hittite allies. Maybe with some luck we will manage to convince some to accept assyrian domination instead of fighting us."
+ assyria_01_mesopotamia_5:0 "Enemy of My Enemy"
+ assyria_01_mesopotamia_5_DESC:2 "Damascus was for a long time the center of anti-assyrian resistance in the Levant. They are the largest state in the region and often they were leading the coalitions of neighbouring states against assyria. Lately they came into conflict with their jewish allies. Without the support of Samaria they will not be a serious threat for our forces. Maybe it will be a good idea to remind the Samarians about their kings oath."
+ assyria_01_mesopotamia_6:0 "Roforming The Canaan"
+ assyria_01_mesopotamia_6_DESC:2 "Canaan is perhaps the most important region in the Middle East. It's a direct road to Egypt and is filled with various groups that do not like each other to put it mildly. There are reforms needed to pacify the region. Of course not everyone will like it."
+ assyria_01_mesopotamia_99:0 "King of Kings"
+ assyria_01_mesopotamia_99_DESC:2 "After a lot of effort and countless horrors necessary to bring back obedience Assyria managed to bring Middle East under control. The citizens of the empire can once again feel safe from raids and opression of various warlords that plagued region in the past. Glory to Ashur and his viceking."

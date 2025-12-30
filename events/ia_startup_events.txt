@@ -191,3 +191,64 @@ esfa_startup.11 = { #Nubian
         name = esfa_startup.11.a
     }
 }
+
+esfa_startup.12 = { #Akkadian
+    type = country_event
+    title = esfa_startup.12.t
+    desc = esfa_startup.12.desc
+    picture = welcoming_window_1
+	
+    trigger = {
+		country_culture_group = akkadian
+    }
+
+    option = {    
+        name = esfa_startup.12.a
+    }
+}
+
+esfa_startup.13 = { #Synaic
+    type = country_event
+    title = esfa_startup.13.t
+    desc = esfa_startup.13.desc
+    picture = welcoming_window_1
+	
+    trigger = {
+		country_culture_group = synaic
+    }
+
+    option = {    
+        name = esfa_startup.13.a
+    }
+}
+
+esfa_startup.14 = { #Aramaic
+    type = country_event
+    title = esfa_startup.14.t
+    desc = esfa_startup.14.desc
+    picture = welcoming_window_1
+	
+    trigger = {
+		country_culture_group = aramaic
+    }
+
+    option = {    
+        name = esfa_startup.14.a
+    }
+}
+
+esfa_startup.15 = { #Anatolian
+    type = country_event
+    title = esfa_startup.15.t
+    desc = esfa_startup.15.desc
+    picture = welcoming_window_1
+	
+    trigger = {
+		country_culture_group = hattian
+    }
+
+    option = {    
+        name = esfa_startup.15.a
+    }
+}
+

@@ -1,0 +1,23 @@
+﻿"MBG"={
+	country="MBG"
+	
+	42={
+		first_name="Mati-el"
+		family = c:MBG.fam:Gusite
+		birth_date=410.1.1
+		culture="agusiani"
+		religion="canaanitic_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=6
+		add_finesse=7
+		add_zeal=5
+		no_traits=yes
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:MBG={
+			set_as_ruler=char:42
+		}
+	}
+}

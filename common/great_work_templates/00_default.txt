@@ -462,3 +462,20 @@ argead_palace={
 		}
 	}
 }
+
+first_temple={
+	can_build = no
+	localization_key = "wonder_firsttemple"
+	great_work_category="building"
+	great_work_components={
+		{
+			great_work_module="wonder_second_temple_herod"
+		}
+	}
+	great_work_effect_selections={
+		{
+			great_work_effect="gw_effect_first_temple"
+			great_work_effect_tier = "gw_effect_tier_4"
+		}
+	}
+}

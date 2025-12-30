@@ -1,0 +1,64 @@
+﻿country_decisions = {
+	
+	#form Cylicia
+	form_cylicia = {
+		
+		potential = {
+			num_of_cities >= 1
+			country_culture_group = hattian
+			NOT = {
+				is_tier_1_formable_trigger = yes
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+			NOT = {
+				tag = XCI
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					is_in_area = tarsus_area
+					is_in_area = issus_area
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = "cylicia_must_not_exist"
+				NOT = {
+					any_country = {
+						tag = XCI
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_area = tarsus_area 
+			owns_area = issus_area 
+		}
+		
+		effect = {
+			custom_tooltip = "tier_1_formable_tooltip"
+			change_country_name = "CYLICIA_NAME"
+			hidden_effect = {
+				change_country_adjective = "CYLICIA_ADJECTIVE"
+				change_country_tag = "XCI"
+				#change_country_color =  "cretan_blue"
+				#change_country_flag = CYLICIA_FLAG
+			}
+			capital_scope = {
+				capital_formable_small_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+	}
+	
+}

@@ -196,5 +196,8 @@ has_bloodline_trigger = {
 		has_trait = aeacid
 		has_trait = shoshenqid
 		has_trait = napatan
+		has_trait = adaside
+		has_trait = davidid
+		has_trait = kuzite
 	}
 }

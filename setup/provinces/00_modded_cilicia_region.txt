@@ -1,0 +1,929 @@
+﻿2203={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	holy_site="omen_maphrodite"
+}
+
+2204={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2205={ 
+	terrain="forest"
+	trade_goods="cedar"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2206={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2207={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="grecoid_pantheon"
+	culture="gecypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2208={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2209={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2210={ 
+	terrain="plains"
+	trade_goods="hemp"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2211={ 
+	terrain="forest"
+	trade_goods="dye"
+	religion="canaanitic_pantheon"
+	culture="corepunic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	freemen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+}
+
+2212={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2213={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2214={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2215={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gcypriot"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2218={ 
+	terrain="mountain"
+	trade_goods="hemp"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2219={ 
+	terrain="mountain"
+	trade_goods="leather"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2220={ 
+	terrain="mountain"
+	trade_goods="cedar"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2221={ 
+	terrain="mountain"
+	trade_goods="cedar"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2222={ 
+	terrain="mountain"
+	trade_goods="leather"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2223={ 
+	terrain="mountain"
+	trade_goods="base_metals"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2224={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2225={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2226={ 
+	terrain="mountain"
+	trade_goods="precious_metals"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2227={ 
+	terrain="mountain"
+	trade_goods="precious_metals"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2228={ 
+	terrain="mountain"
+	trade_goods="cattle"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2229={ 
+	terrain="hills"
+	trade_goods="cedar"
+	religion="luwic_pantheon"
+	culture="tarhatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2230={ 
+	terrain="hills"
+	trade_goods="cedar"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2231={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2232={ 
+	terrain="plains"
+	trade_goods="base_metals"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2233={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=5
+	}
+}
+
+2234={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=2
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2235={ 
+	terrain="plains"
+	trade_goods="glass"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=5
+	}
+}
+
+2236={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2237={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2238={ 
+	terrain="marsh"
+	trade_goods="fish"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2239={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2240={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2241={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2242={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2243={ 
+	terrain="hills"
+	trade_goods="cedar"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2244={ 
+	terrain="hills"
+	trade_goods="cedar"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2245={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=5
+	}
+}
+
+2246={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2247={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2248={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2249={ 
+	terrain="plains"
+	trade_goods="hemp"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2250={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2251={ 
+	terrain="plains"
+	trade_goods="iron"
+	religion="luwic_pantheon"
+	culture="hatti"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

@@ -1,0 +1,467 @@
+﻿namespace = assyria_01_mesopotamia_1
+
+assyria_01_mesopotamia_1.101 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.101.t"
+	desc = "assyria_01_mesopotamia_1.101.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAH
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.101.a"
+		c:MAH = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:2593
+				target = p:2593.owner
+			}
+		}
+		set_global_variable = {
+			name = hatallu_invade_assyria
+		}
+		ai_chance = { base = 90 }
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.101.b"
+		ai_chance = { base = 10 }
+	}
+}
+
+assyria_01_mesopotamia_1.102 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.102.t"
+	desc = "assyria_01_mesopotamia_1.102.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+		has_global_variable = hatallu_invade_assyria
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.102.a"
+	}
+}
+
+assyria_01_mesopotamia_1.1 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.1.t"
+	desc = "assyria_01_mesopotamia_1.1.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.1.a"
+		char:37 = {
+            death = { death_reason = death_assassinated }
+        }
+		c:MAC={set_as_ruler=char:46}
+		#Revolt of Assyrian Loyalists
+		
+	}
+}
+
+assyria_01_mesopotamia_1.2 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.2.t"
+	desc = "assyria_01_mesopotamia_1.2.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.2.a"
+	}
+}
+
+assyria_01_mesopotamia_1.3 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.3.t"
+	desc = "assyria_01_mesopotamia_1.3.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	immediate = {
+		if = {
+			limit = {
+				NOT = {
+					any_army = {
+						has_legion_trigger = yes
+						legion = ROOT.capital_scope.governorship.legion
+					}
+				}
+			}
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = engineer_cohort
+						add_subunit = supply_train
+						add_subunit = supply_train
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+					}
+				}
+			}
+			#add_country_modifier = {
+			#	name = cymmerian_invasion_modifier
+			#	duration = 14600 # 10 years
+			#}
+			every_unit = {
+				add_food = 100
+			}
+			#add_treasury = 300
+		}
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.3.a"
+	}
+}
+
+assyria_01_mesopotamia_1.4 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.4.t"
+	desc = "assyria_01_mesopotamia_1.4.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.4.a"
+	}
+}
+
+assyria_01_mesopotamia_1.5 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.5.t"
+	desc = "assyria_01_mesopotamia_1.5.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.5.a"
+		random_country_culture = {
+            limit = { is_culture = anahrinite }
+			ROOT = { integrate_country_culture = PREV }
+		}
+		random_country_culture = {
+            limit = { is_culture = agusiani }
+			ROOT = { integrate_country_culture = PREV }
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.6= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.6.t"
+	desc = "assyria_01_mesopotamia_1.6.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.6.a"
+		set_global_variable = {
+			name = assyrian_demands
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.7= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.7.t"
+	desc = "assyria_01_mesopotamia_1.7.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		is_subject=no
+		capital_scope = {is_in_region = syria_region} 
+		has_global_variable = assyrian_demands
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.7.a"
+		c:MAC = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.7.b"
+	}
+}
+
+assyria_01_mesopotamia_1.8= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.8.t"
+	desc = "assyria_01_mesopotamia_1.8.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.8.a"
+		c:MBG = {
+			every_owned_province = {
+				add_claim = c:MAC
+			}
+		}
+		c:MAP = {
+			every_owned_province = {
+				add_claim = c:MAC
+			}
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.9= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.9.t"
+	desc = "assyria_01_mesopotamia_1.9.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.9.a"
+		set_global_variable = {
+			name = assyria_and_the_jews
+		}
+		c:MAI = {
+			every_owned_province = {
+				add_claim = c:MAC
+			}
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.10 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.10.t"
+	desc = "assyria_01_mesopotamia_1.10.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAN
+		has_global_variable = assyria_and_the_jews
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.10.a"
+		c:MAC = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+		set_global_variable = {
+			name = samaria_submition
+		}
+		ai_chance = { base = 10 }
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.10.a"
+		set_global_variable = {
+			name = samaria_rejection
+		}
+		ai_chance = { base = 90 }
+	}
+}
+
+assyria_01_mesopotamia_1.11= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.11.t"
+	desc = "assyria_01_mesopotamia_1.11.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+		has_global_variable = samaria_submition
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.11.a"
+	}
+}
+
+assyria_01_mesopotamia_1.12 = {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.12.t"
+	desc = "assyria_01_mesopotamia_1.12.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAM
+		has_global_variable = assyria_and_the_jews
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.12.a"
+		c:MAC = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+		set_global_variable = {
+			name = judahite_submition
+		}
+		ai_chance = { base = 80 }
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.12.a"
+		set_global_variable = {
+			name = judahite_rejection
+		}
+		ai_chance = { base = 20 }
+	}
+}
+
+assyria_01_mesopotamia_1.13= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.13.t"
+	desc = "assyria_01_mesopotamia_1.13.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+		has_global_variable = judahite_submition
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.13.a"
+	}
+}
+
+assyria_01_mesopotamia_1.14= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.14.t"
+	desc = "assyria_01_mesopotamia_1.14.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+		has_global_variable = judahite_rejection
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.14.a"
+	}
+}
+
+assyria_01_mesopotamia_1.15= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.15.t"
+	desc = "assyria_01_mesopotamia_1.15.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.15.a"
+		set_global_variable = {
+			name = assyria_in_canaan
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.16= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.16.t"
+	desc = "assyria_01_mesopotamia_1.16.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		is_subject=no
+		capital_scope = {is_in_region = canaan_region}
+		has_global_variable = assyria_in_canaan
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.16.a"
+		c:MAC = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+		ai_chance = { base = 60 }
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.16.b"
+		root = {
+			every_owned_province = {
+				add_claim = c:MAC
+			}
+		}
+		ai_chance = { base = 40 }
+	}
+}
+
