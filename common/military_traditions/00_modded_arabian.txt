@@ -8,6 +8,7 @@
 				OR = {
 					country_culture_group = arabian
 					country_culture_group = aramaic
+					country_culture_group = synaic
 				}				
 			}
 			custom_tooltip = {
@@ -16,6 +17,7 @@
 			OR = {
 				country_culture_group = arabian
 				country_culture_group = aramaic
+				country_culture_group = synaic
 			}
 		}
 		trigger_else_if = {
@@ -40,6 +42,7 @@
 						OR = {
 							this.culture.culture_group = culture_group:arabian	
 							this.culture.culture_group = culture_group:aramaic
+							this.culture.culture_group = culture_group:synaic
 						}
 					}
 				}
@@ -66,6 +69,7 @@
 						OR = {
 							this.culture.culture_group = culture_group:arabian	
 							this.culture.culture_group = culture_group:aramaic
+							this.culture.culture_group = culture_group:synaic
 						}
 					}
 				}
@@ -94,6 +98,7 @@
 						OR = {
 							this.culture.culture_group = culture_group:arabian	
 							this.culture.culture_group = culture_group:aramaic
+							this.culture.culture_group = culture_group:synaic
 						}
 					}
 				}
