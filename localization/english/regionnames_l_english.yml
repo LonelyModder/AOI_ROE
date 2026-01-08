@@ -28,7 +28,13 @@
  modded_canaan_region:0 "Canaan"
  modded_ebernari_region:0 "Osrhoene"
  modded_ionia_region:0 "Ionia"
+ modded_asia_region:0 "Asia"
  #Areas
+ dorias_area:0 "Dorias"
+ miletus_area:0 "Miletus"
+ ephesus_area:0 "Ephesus"
+ aeolia_area:0 "Aeolis"
+ troas_area:0 "Troad"
  mifta_area:0 "Mifta"
  nisibis_area:0 "Nisibis"
  amida_area:0 "Amida"

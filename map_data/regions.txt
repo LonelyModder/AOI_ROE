@@ -11,9 +11,19 @@ modded_tmp_region = {
 	}
 }
 
-modded_ionia_region = {
+modded_asia_region = {
 	areas = {
 		
+	}
+}
+
+modded_ionia_region = {
+	areas = {
+		troas_area
+		aeolia_area
+		ephesus_area
+		miletus_area
+		dorias_area
 	}
 }
 
