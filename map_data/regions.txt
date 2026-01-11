@@ -11,9 +11,26 @@ modded_tmp_region = {
 	}
 }
 
+modded_lycia_region = {
+	areas = {
+		xanthos_area
+		phaselis_area
+		perge_area
+		side_area
+		isaura_area
+	}
+}
+
 modded_asia_region = {
 	areas = {
-		
+		cyzicus_area
+		silandos_area
+		aureliopolis_area
+		cibyra_area
+		apamea_area
+		aizanoi_area
+		bagis_area
+		doryleum_area
 	}
 }
 
