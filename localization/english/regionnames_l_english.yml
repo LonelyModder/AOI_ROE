@@ -30,6 +30,7 @@
  modded_ionia_region:0 "Ionia"
  modded_asia_region:0 "Asia"
  modded_lycia_region:0 "Lycia et Pamphylia"
+ modded_phrygia_region:0 "Galatia"
  #Areas
  isaura_area:0 "Isaura"
  side_area:0 "Side"

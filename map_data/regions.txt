@@ -11,6 +11,12 @@ modded_tmp_region = {
 	}
 }
 
+modded_phrygia_region = {
+	areas = {
+		
+	}
+}
+
 modded_lycia_region = {
 	areas = {
 		xanthos_area
