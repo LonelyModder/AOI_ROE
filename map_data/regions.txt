@@ -13,7 +13,14 @@ modded_tmp_region = {
 
 modded_phrygia_region = {
 	areas = {
-		
+		iconium_area
+		isara_area
+		tatta_area
+		claudiolaodicea_area
+		germa_area
+		gordion_area
+		ancyra_area
+		parnassos_area
 	}
 }
 
