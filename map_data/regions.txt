@@ -11,6 +11,12 @@ modded_tmp_region = {
 	}
 }
 
+modded_cappadocia_region = {
+	areas = {
+		
+	}
+}
+
 modded_phrygia_region = {
 	areas = {
 		iconium_area
