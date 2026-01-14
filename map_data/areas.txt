@@ -25,7 +25,7 @@ sea_area = {
 }
 
 tmp_area = { 
-    provinces = {  }    
+    provinces = { 3102 3103 3104 3105 3106 3107 3108 3109 3110 }    
 }
 
 halys_area = { 
