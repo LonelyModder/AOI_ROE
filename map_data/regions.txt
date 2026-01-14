@@ -13,7 +13,14 @@ modded_tmp_region = {
 
 modded_cappadocia_region = {
 	areas = {
-		
+		meliddu_area
+		pyramos_area
+		arabissus_area
+		raitiara_area
+		cesarea_area
+		tyana_area
+		archelais_area
+		halys_area
 	}
 }
 
