@@ -11,6 +11,16 @@ modded_tmp_region = {
 	}
 }
 
+modded_bithynia_region = {
+	areas = {
+		kios_area
+		nicomedia_area
+		sangarius_area
+		heracleia_area
+		amastris_area
+	}
+}
+
 modded_cappadocia_region = {
 	areas = {
 		meliddu_area

@@ -32,7 +32,13 @@
  modded_lycia_region:0 "Lycia et Pamphylia"
  modded_phrygia_region:0 "Galatia"
  modded_cappadocia_region:0 "Cappadocia"
+ modded_bithynia_region:0 "Bithynia"
  #Areas
+ amastris_area:0 "Amastris"
+ heracleia_area:0 "Heracleia"
+ sangarius_area:0 "Sangarius"
+ nicomedia_area:0 "Nicomedia"
+ kios_area:0 "Kios"
  halys_area:0 "Halys"
  archelais_area:0 "Archelais"
  tyana_area:0 "Tyana"
