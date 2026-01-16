@@ -25,7 +25,7 @@ sea_area = {
 }
 
 tmp_area = { 
-    provinces = {  }    
+    provinces = { 3167 3168 3169 3170 }    
 }
 
 amastris_area = { 
