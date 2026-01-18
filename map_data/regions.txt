@@ -11,6 +11,17 @@ modded_tmp_region = {
 	}
 }
 
+modded_paphlagonia_region = {
+	areas = {
+		ionopolis_area
+		sinope_area
+		amisos_area
+		germanicopolis_area
+		solva_area
+		aricia_area
+	}
+}
+
 modded_bithynia_region = {
 	areas = {
 		kios_area
