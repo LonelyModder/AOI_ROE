@@ -26,8 +26,8 @@
  no_neighbor_has_colonization_progress:0 "No neighbour has #Y Colonization Progress#!"
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
- patch_notes:0 "Part IV: Promised Land"
- patch_notes_text:0 "What's new:\n- Iron Age in the Middle East with the ascending Assyrians and all those attempting to stop them. \n- 348 new land provinces (2597 in total) \n- Half of Assyrian Mission tree. \n- 4 new cultures and 3 new religions."
+ patch_notes:0 "Part V: Gold and Iron"
+ patch_notes_text:0 "What's new:\n- Remade Anatolia invaded by the Cymmerians. \n- "
  
  #Modifier text
  osasis:0 "Oasis"

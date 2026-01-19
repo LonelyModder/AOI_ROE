@@ -11,6 +11,12 @@ modded_tmp_region = {
 	}
 }
 
+modded_pontus_region = {
+	areas = {
+		
+	}
+}
+
 modded_paphlagonia_region = {
 	areas = {
 		ionopolis_area
