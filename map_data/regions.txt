@@ -13,7 +13,14 @@ modded_tmp_region = {
 
 modded_pontus_region = {
 	areas = {
-		
+		trapezus_area
+		polemonion_area
+		koloneia_area
+		amaseia_area
+		metellinum_area
+		dimum_area
+		sebastopolis_area
+		sebasteia_area
 	}
 }
 
