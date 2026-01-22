@@ -27,7 +27,7 @@
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
  patch_notes:0 "Part V: Gold and Iron"
- patch_notes_text:0 "What's new:\n- Remade Anatolia invaded by the Cymmerians. \n- "
+ patch_notes_text:0 "What's new:\n- Remade Anatolia invaded by the Cymmerians. \n- 572 new land provinces (3364 provinces in total)."
  
  #Modifier text
  osasis:0 "Oasis"
