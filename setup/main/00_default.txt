@@ -3446,7 +3446,7 @@ country = {
 			government = despotic_monarchy
 			primary_culture = hatti
 			religion = luwic_pantheon
-			capital = 2245
+			capital = 2249
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3456,7 +3456,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2245 2246 2247 2249 2250 2251 2248
+				2245 2246 2247 2249 2251
 			}
 		}
 		
@@ -3559,7 +3559,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2284 2283 2282 2285 2286 2287
+				2284 2283 2282 2285 2286 2287 3027 3029 3031 3032
 			}
 		}
 		
@@ -3760,6 +3760,42 @@ country = {
 			
 			own_control_core = 	{ 
 				2227 2229 2218 2219 2220 2221 2222 2223 2224 2225 2226 2228
+			}
+		}
+		
+		GAA = {          
+			government = despotic_monarchy
+			primary_culture = hatti
+			religion = luwic_pantheon
+			capital = 3034
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3034 3035 3036 3037 3038 3033 3028 3044 3026 3030
+			}
+		}
+		
+		GAB = {          
+			government = despotic_monarchy
+			primary_culture = hatti
+			religion = luwic_pantheon
+			capital = 3024
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3024 3025 3023 3022 3021 2248 2250
 			}
 		}
 	}
