@@ -3,9 +3,9 @@
 	
 	levy_template = levy_nomadoi
 	
-	primary = cavalry_light
-	second = missile_archers
-	flank = cavalry_horse_archers
+	primary = ia_archers
+	second = ia_warriors
+	flank = ia_horsearchers
 
 	primary_navy = tetrere
 	secondary_navy = octere
