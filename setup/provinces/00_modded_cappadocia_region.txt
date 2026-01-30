@@ -381,15 +381,15 @@
 3006={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="corehatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -400,15 +400,15 @@
 3007={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="corehatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -457,15 +457,15 @@
 3010={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="corehatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -476,8 +476,8 @@
 3011={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -495,8 +495,8 @@
 3012={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -514,8 +514,8 @@
 3013={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -533,8 +533,8 @@
 3014={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -552,8 +552,8 @@
 3015={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -571,8 +571,8 @@
 3016={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -590,8 +590,8 @@
 3017={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -609,15 +609,15 @@
 3018={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="corehatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -628,34 +628,37 @@
 3019={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="corehatti"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
-		amount=4
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 3020={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="corehatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1014,8 +1017,8 @@
 3039={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1033,8 +1036,8 @@
 3040={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1052,8 +1055,8 @@
 3041={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1071,8 +1074,8 @@
 3042={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1090,8 +1093,8 @@
 3043={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1128,15 +1131,15 @@
 3045={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="corehatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1147,15 +1150,15 @@
 3046={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="corehatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1166,15 +1169,15 @@
 3047={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="corehatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1185,15 +1188,15 @@
 3048={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="corehatti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1204,8 +1207,8 @@
 3049={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1223,8 +1226,8 @@
 3050={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1242,11 +1245,14 @@
 3051={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1261,8 +1267,8 @@
 3052={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1280,8 +1286,8 @@
 3053={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1299,8 +1305,8 @@
 3054={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1318,8 +1324,8 @@
 3055={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1337,8 +1343,8 @@
 3056={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1356,8 +1362,8 @@
 3057={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1375,8 +1381,8 @@
 3058={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1394,8 +1400,8 @@
 3059={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1413,8 +1419,8 @@
 3060={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1432,8 +1438,8 @@
 3061={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1451,8 +1457,8 @@
 3062={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1470,8 +1476,8 @@
 3063={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

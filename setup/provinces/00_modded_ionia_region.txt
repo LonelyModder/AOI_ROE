@@ -571,103 +571,121 @@
 2672={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2673={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gionian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=15
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=10
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 2674={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=12
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
 2675={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kylakian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
+	}
+	citizen={
 		amount=4
 	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=8
+	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2676={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2677={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kylakian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -685,15 +703,15 @@
 2678={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}	
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -704,46 +722,52 @@
 2679={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="grecoid_pantheon"
+	culture="gdorian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}	
-	tribesmen={
-		amount=4
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 2680={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kylakian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}	
-	tribesmen={
+	province_rank="city"
+	citizen={
 		amount=4
 	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=8
+	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2681={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kylakian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -761,8 +785,8 @@
 2682={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kylakian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -837,8 +861,8 @@
 2686={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kylakian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -894,27 +918,30 @@
 2690={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kylakian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}	
-	tribesmen={
+	province_rank="city"
+	citizen={
 		amount=4
 	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=8
+	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2692={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kylakian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -989,8 +1016,8 @@
 2701={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kylakian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1008,8 +1035,8 @@
 2706={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kylakian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
