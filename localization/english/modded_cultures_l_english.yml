@@ -152,6 +152,7 @@
  hattian:2 "Anatolian"
  hatti:0 "Syro-Hittite"
  tarhatti:0 "Tarhuntassian"
+ kattakan:0 "Kaskan"
  hattian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  hattian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Arab
