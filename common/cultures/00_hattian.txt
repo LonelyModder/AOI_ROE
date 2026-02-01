@@ -31,6 +31,11 @@
 		kattakan = {}
 		lydian = {}
 		kylakian = {}
+		lukkan = {}
+		hisauran = {}
+		hpisidian = {}
+		hpamphylian = {}
+		horoandian = {}
 	}
 	
 	barbarian_names = { AMARDI ANARIACAE AUGASII CASPII CHORASMII CYRTII DAHAE DERBICII ISSEDONES LEGAE MATIANI MASSAGETAE PARNI SACAE SARMATAE SOANES VITII }

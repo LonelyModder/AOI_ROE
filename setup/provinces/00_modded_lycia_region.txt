@@ -1,8 +1,8 @@
 ﻿2817={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -20,8 +20,8 @@
 2818={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -39,8 +39,8 @@
 2819={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -58,8 +58,8 @@
 2820={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -77,46 +77,55 @@
 2821={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=1
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2822={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
+	}
+	citizen={
 		amount=4
 	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=8
+	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2823={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -134,27 +143,30 @@
 2824={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=1
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2825={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -172,8 +184,8 @@
 2826={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -191,27 +203,30 @@
 2827={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=1
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2828={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -229,8 +244,8 @@
 2829={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -248,8 +263,8 @@
 2830={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -267,8 +282,8 @@
 2831={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -286,8 +301,8 @@
 2832={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -305,8 +320,8 @@
 2833={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -324,8 +339,8 @@
 2834={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -343,8 +358,8 @@
 2835={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -362,8 +377,8 @@
 2836={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -381,8 +396,8 @@
 2837={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -400,8 +415,8 @@
 2838={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -419,8 +434,8 @@
 2839={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -438,8 +453,8 @@
 2840={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,8 +472,8 @@
 2841={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -476,27 +491,33 @@
 2842={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
-	}	
-	tribesmen={
+	}
+	citizen={
 		amount=4
 	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=8
+	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2843={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -514,27 +535,30 @@
 2844={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=1
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2845={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -552,8 +576,8 @@
 2846={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpisidian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -571,27 +595,33 @@
 2847={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpamphylian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2848={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="horoandian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -609,8 +639,8 @@
 2849={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpamphylian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -628,27 +658,30 @@
 2850={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpamphylian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=1
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2851={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpamphylian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -666,27 +699,30 @@
 2852={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpamphylian"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=1
+		amount=2
 	}	
 	tribesmen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 2853={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpamphylian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,8 +740,8 @@
 2854={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpamphylian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -723,8 +759,8 @@
 2855={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpamphylian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -742,8 +778,8 @@
 2856={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="horoandian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -761,8 +797,8 @@
 2857={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="horoandian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -780,8 +816,8 @@
 2858={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="horoandian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -799,11 +835,14 @@
 2859={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hisauran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -818,8 +857,8 @@
 2860={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hisauran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -837,8 +876,8 @@
 2861={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hisauran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -856,8 +895,8 @@
 2862={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hisauran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -875,8 +914,8 @@
 2863={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hisauran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -894,8 +933,8 @@
 2864={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hisauran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -913,8 +952,8 @@
 2865={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hisauran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -932,8 +971,8 @@
 2866={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hisauran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -951,8 +990,8 @@
 2867={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hisauran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -970,8 +1009,8 @@
 2868={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hisauran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

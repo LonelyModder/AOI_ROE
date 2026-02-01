@@ -550,6 +550,7 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 	
 	#Pirates
+	2828 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	1141 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	1132 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	1263 = { modifier = { modifier = pirate_haven_modifier always = yes } }
@@ -565,10 +566,14 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	2679 = { port_building = 2 }
+	2650 = { port_building = 2 }
 	2673 = { port_building = 2 }
 	2676 = { port_building = 2 }
 	2674 = { port_building = 2 }
 	2221 = { port_building = 1 }
+	2850 = { port_building = 1 }
+	2824 = { port_building = 1 }
+	2828 = { port_building = 1 }
 	2430 = { port_building = 1 }
 	2206 = { port_building = 2 }
 	2268 = { port_building = 2 }
@@ -3303,7 +3308,7 @@ country = {
 			
 			own_control_core = 	{ 
 				2300 2299 2305 2306 2349 2350 2353 2355 2356 2370 2371 2369
-				2357 2358 2354 2351 2352 2379 2378 2376
+				2357 2358 2354 2351 2352 2379 2378 2376 2373 2372
 			}
 		}
 		
@@ -3317,6 +3322,7 @@ country = {
 			own_control_core = 	{ 
 				2359 2360 2365 2374 2312 2277 2276 2275 2274 2273 2366 
 				2368 2367 2487 2477 2475 2474 2490 2489 2488 2476 2437 2438
+				2491 2492 2499 2375 2377 2380
 			}
 		}
 		
@@ -3753,7 +3759,7 @@ country = {
 			government = tribal_federation
 			primary_culture = tarhatti
 			religion = luwic_pantheon
-			capital = 2221
+			capital = 2218
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3967,14 +3973,88 @@ country = {
 				2941 2942 2972 2973 2957 2950 2951 2967 2955 2956 2741 2742 2743 2744
 				3072 3073 3068 3067 3069 3075 3076 3077 3078 3066 2764 2759 2770 2771 2756 2758
 				3261 3255 3256 3254 3263 3264 3262 3259 3266 3267 3265 3268 3065
-				2953 2960 2961 2959 2962 2954 2966 2969 2970 2971 2952
+				2953 2960 2961 2959 2962 2954 2966 2969 2970 2971 2952 2745 2746
 				2920 2922 2910 2892 2893 2895 2894 2909 2923 2897 2898 3257 3253
 				2924 2925 2936 2926 2928 2937 2927 2938 2921 2939 2940 2965 3168 
 				2765 2748 2747 2766 2767 2757 2773 2786 2896 2919 2917 2918
 				2903 2902 2904 2905 2907 2908 2906 2899 2900 2901 3258 3260 3273 
-				2783 2784 2785 2781 2779 2772 2774 2775 2776 2777 2778 2780
+				2783 2784 2785 2781 2779 2772 2774 2775 2776 2777 2778 2780 3003 3000
 				3274 3271 3275 3270 3269 3277 3278 3287 3276 3281 3272 3280 3279 
 				3119 3132 3134 3136 3135 2963 2964 2958 3183 3182 3181 3178 3174 3177 3175 3176 3169
+			}
+		}
+		
+		GAM = {          
+			government = tribal_federation
+			primary_culture = lukkan
+			religion = luwic_pantheon
+			capital = 2822
+			
+			own_control_core = 	{ 
+				2822 2824 2821 2817 2825 2827 2828 2829 2833 2818 2823 2819 2820 2826 2835 2830 2832
+			}
+		}
+		
+		GAN = {          
+			government = tribal_federation
+			primary_culture = hpisidian
+			religion = luwic_pantheon
+			capital = 2842
+			
+			own_control_core = 	{ 
+				2842 2844 2845 2846 2843 2831 2834 2836 2837 2838 2839 2840 2841
+			}
+		}
+		
+		GAO = {          
+			government = tribal_federation
+			primary_culture = hpamphylian
+			religion = luwic_pantheon
+			capital = 2847
+			
+			own_control_core = 	{ 
+				2847 2852 2850 2853 2854 2855 2851 2849
+			}
+		}
+		
+		GAP = {          
+			government = tribal_federation
+			primary_culture = horoandian
+			religion = luwic_pantheon
+			capital = 2887
+			
+			own_control_core = 	{ 
+				2887 2889 2888 2769 2768 2857 2858 2848 2856
+			}
+		}
+		
+		GAR = {          
+			government = tribal_federation
+			primary_culture = hisauran
+			religion = luwic_pantheon
+			capital = 2859
+			
+			own_control_core = 	{ 
+				2859 2860 2861 2862 2863 2864 2865 2867 
+				2868 2890 2891 2913 2914 2912 2866 2915 2911 2916
+			}
+		}
+		
+		GAS = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 2650
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2650
 			}
 		}
 	}
