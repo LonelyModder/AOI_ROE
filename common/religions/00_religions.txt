@@ -232,7 +232,7 @@ scythic_pantheon = { # Nomadic gods
 }
 
 luwic_pantheon = { # Luwian gods 
-	color = hsv { 0.06 0.9 0.84 }
+	color = hsv { 0.10 0.87 0.86 }
 	modifier = { 
 		diplomatic_reputation = 3
 		diplomatic_relations = 2
@@ -242,7 +242,7 @@ luwic_pantheon = { # Luwian gods
 }
 
 thracic_pantheon = { # Phrygian gods 
-	color = hsv { 0.0 0.5 1.0 }
+	color = hsv { 0.01 0.97 0.45 }
 	modifier = { 
 		war_exhaustion = -0.025
 		fabricate_claim_speed = 0.5

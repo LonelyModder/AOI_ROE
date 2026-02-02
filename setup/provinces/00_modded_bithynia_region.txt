@@ -1,8 +1,8 @@
 ﻿3102={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -20,8 +20,8 @@
 3103={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -39,8 +39,8 @@
 3104={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -58,11 +58,14 @@
 3105={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -77,8 +80,8 @@
 3106={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -96,8 +99,8 @@
 3107={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -115,8 +118,8 @@
 3108={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -134,8 +137,8 @@
 3109={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -153,8 +156,8 @@
 3110={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -172,8 +175,8 @@
 3111={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -191,11 +194,14 @@
 3112={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -210,8 +216,8 @@
 3113={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -229,8 +235,8 @@
 3114={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -248,8 +254,8 @@
 3115={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -267,8 +273,8 @@
 3116={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -286,8 +292,8 @@
 3117={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -305,8 +311,8 @@
 3118={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -324,8 +330,8 @@
 3119={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -343,8 +349,8 @@
 3120={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -362,11 +368,14 @@
 3121={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -381,8 +390,8 @@
 3122={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -400,8 +409,8 @@
 3123={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -419,8 +428,8 @@
 3124={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -438,8 +447,8 @@
 3125={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,8 +466,8 @@
 3126={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -476,8 +485,8 @@
 3127={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -495,8 +504,8 @@
 3128={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -514,8 +523,8 @@
 3129={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -533,8 +542,8 @@
 3130={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -552,8 +561,8 @@
 3131={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -571,8 +580,8 @@
 3132={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -590,8 +599,8 @@
 3133={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -609,8 +618,8 @@
 3134={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -628,8 +637,8 @@
 3135={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -647,8 +656,8 @@
 3136={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -666,8 +675,8 @@
 3137={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -685,8 +694,8 @@
 3138={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,8 +713,8 @@
 3139={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -723,8 +732,8 @@
 3140={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -742,8 +751,8 @@
 3141={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -761,8 +770,8 @@
 3142={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -780,11 +789,14 @@
 3143={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -799,8 +811,8 @@
 3144={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -818,8 +830,8 @@
 3145={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -837,8 +849,8 @@
 3146={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -856,8 +868,8 @@
 3147={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -875,8 +887,8 @@
 3148={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -894,8 +906,8 @@
 3149={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -913,8 +925,8 @@
 3150={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -932,8 +944,8 @@
 3151={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

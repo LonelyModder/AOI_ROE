@@ -460,6 +460,8 @@ diplomacy = {
 	alliance = { first = MAI second = MBG } #Aram-Arpad
 	alliance = { first = MAI second = MAN } #Aram-Samaria ?Questionable Allies
 	alliance = { first = EAA second = MAO } #22nd Dynasty-Philistia
+	Lydian Tributaries
+	dependency = { first = GAL second = GAY subject_type = tributary }
 }
 
 provinces = { #Any entry must contain a comment with city name.
@@ -566,6 +568,14 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	2679 = { port_building = 2 }
+	3212 = { port_building = 2 }
+	2661 = { port_building = 2 }
+	2638 = { port_building = 2 }
+	2670 = { port_building = 2 }
+	3221 = { port_building = 2 }
+	2638 = { port_building = 2 }
+	2639 = { port_building = 2 }
+	2668 = { port_building = 2 }
 	2650 = { port_building = 2 }
 	2673 = { port_building = 2 }
 	2676 = { port_building = 2 }
@@ -3824,7 +3834,7 @@ country = {
 			
 			own_control_core = 	{ 
 				2687 2684 2683 2693 2696 2685 2688 2699 2700 2707 
-				2751 2752 2750 2749 2753 2689 2691 2704 2705 2694 
+				2751 2752 2750 2749 2753 2689 2691 2704 2705 2709
 				2698 2697 2708 2715 2714 2716 2737 2754 2755
 			}
 		}
@@ -3940,12 +3950,12 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2671 2673 2668 2670 2669 2666 2664 2667 2665 2661 2662 2663 2639
+				2671 2673 2668 2670 2669 2666 2664 2667 2662 2663 2639
 			}
 		}
 		
 		GAK = {          
-			government = aristocratic_republic
+			government = despotic_monarchy
 			primary_culture = corehatti
 			religion = luwic_pantheon
 			capital = 3019
@@ -4055,6 +4065,117 @@ country = {
 			
 			own_control_core = 	{ 
 				2650
+			}
+		}
+		
+		GAT = {          
+			government = aristocratic_republic
+			primary_culture = gaeolian
+			religion = grecoid_pantheon
+			capital = 2661
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2661 2660 2655 2656 2646 2642 2641 2640 2638 2637 2665 2694
+			}
+		}
+		
+		GAU = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 3212
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3212
+			}
+		}
+		
+		GAW = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 3221
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3221
+			}
+		}
+		
+		GAY = {          
+			government = tribal_federation
+			primary_culture = mysic
+			religion = thracic_pantheon
+			capital = 2719
+			
+			own_control_core = 	{ 
+				2719 2720 2731 2730 2653 2652 2651 2718 2659 2732 2733 2695 
+				2658 2657 2654 2647 2643 2644 2645 2649 2648 2710 2717 
+				2729 2728 2736 2735 2734 2738 2739 2761 2760 2763 2740 2762 2782
+			}
+		}
+		
+		GAZ = {          
+			government = tribal_kingdom
+			primary_culture = bithynic
+			religion = thracic_pantheon
+			capital = 3105
+			
+			own_control_core = 	{ 
+				3105 3104 3102 3103 3109 3110 
+			}
+		}
+		
+		GBA = {          
+			government = tribal_kingdom
+			primary_culture = bithynic
+			religion = thracic_pantheon
+			capital = 3121
+			
+			own_control_core = 	{ 
+				3121 3116 3111 3120 3127 3126 3124 3125 3123 3122 3128 3129
+			}
+		}
+		
+		GBB = {          
+			government = tribal_kingdom
+			primary_culture = bithynic
+			religion = thracic_pantheon
+			capital = 3112
+			
+			own_control_core = 	{ 
+				3112 3106 3107 3113 3108 3114 3115 3117 3118 3130 
+			}
+		}
+		
+		GBC = {          
+			government = tribal_kingdom
+			primary_culture = bithynic
+			religion = thracic_pantheon
+			capital = 3143
+			
+			own_control_core = 	{ 
+				3143 3145 3141 3140 3139 3131 3133 3137 3138 3142 3144 3148 3147 3146 3149 3150 3151
 			}
 		}
 	}

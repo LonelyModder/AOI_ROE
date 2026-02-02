@@ -113,6 +113,7 @@
 		gthessalian = {}
 		gnorthwest = {}
 		gachean = {}
+		gaeolian = {}
 		gattic = {}
 		gbeotian = {}
 		garcadian = {}
