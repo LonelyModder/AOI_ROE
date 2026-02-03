@@ -438,6 +438,18 @@ family={
 			culture = corepunic
 			prestige=300
 		}
+		31={
+			key="Mittanid"
+			owner=GAL
+			culture = phrygic
+			prestige=300
+		}
+		32={
+			key="Heraclid"
+			owner=GAC
+			culture = lydian
+			prestige=300
+		}
 	}
 }
 diplomacy = {
@@ -3823,7 +3835,8 @@ country = {
 			}
 		}
 		
-		GAC = {          
+		GAC = {   
+			family = 32
 			government = despotic_monarchy
 			primary_culture = lydian
 			religion = luwic_pantheon
@@ -3975,7 +3988,8 @@ country = {
 			}
 		}
 		
-		GAL = {          
+		GAL = {  
+			family = 31
 			government = despotic_monarchy
 			primary_culture = phrygic
 			religion = thracic_pantheon
