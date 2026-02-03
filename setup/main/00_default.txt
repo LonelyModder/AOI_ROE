@@ -3981,6 +3981,13 @@ country = {
 			religion = thracic_pantheon
 			capital = 2946
 			
+			poptype_rights = {
+				{
+					culture = mushkian 
+					type = citizen
+				}
+			}
+			
 			own_control_core = 	{ 
 				2946 2945 2943 2947 2944 2948 2949 2986 2987 2992 2999 3005 3004 2990
 				2941 2942 2972 2973 2957 2950 2951 2967 2955 2956 2741 2742 2743 2744
@@ -4307,7 +4314,7 @@ country = {
 		
 		GBL = {          
 			government = tribal_federation
-			primary_culture = cmosinoecia
+			primary_culture = hpaphlagonian
 			religion = caucasic_pantheon
 			capital = 3198
 			
