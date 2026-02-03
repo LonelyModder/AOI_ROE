@@ -2,9 +2,9 @@
 	
 	levy_template = levy_armenioi
 	
-	primary = ia_archers
-	second = ia_warriors
-	flank = ia_chariots
+	primary = ia_warriors
+	second = ia_lightinfantry
+	flank = ia_scirmishers
 
 	primary_navy = tetrere
 	secondary_navy = octere

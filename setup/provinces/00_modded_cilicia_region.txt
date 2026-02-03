@@ -588,11 +588,8 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount=1
-	}
 	citizen={
-		amount=2
+		amount=3
 	}	
 	freemen={
 		amount=4

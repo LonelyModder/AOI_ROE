@@ -33,8 +33,11 @@
 		kylakian = {}
 		lukkan = {}
 		hisauran = {}
+		hhaballan = {}
+		hwalman = {}
 		hpisidian = {}
 		hpamphylian = {}
+		hpaphlagonian = {}
 		horoandian = {}
 	}
 	
