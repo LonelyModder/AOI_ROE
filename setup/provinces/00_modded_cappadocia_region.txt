@@ -1,5 +1,5 @@
 ﻿2986={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -18,7 +18,7 @@
 }
 
 2987={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -37,7 +37,7 @@
 }
 
 2988={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -75,7 +75,7 @@
 }
 
 2990={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -113,7 +113,7 @@
 }
 
 2992={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -195,7 +195,7 @@
 }
 
 2996={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -214,7 +214,7 @@
 }
 
 2997={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -252,7 +252,7 @@
 }
 
 2999={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -271,7 +271,7 @@
 }
 
 3000={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -328,7 +328,7 @@
 }
 
 3003={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -347,7 +347,7 @@
 }
 
 3004={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -366,7 +366,7 @@
 }
 
 3005={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -673,7 +673,7 @@
 }
 
 3021={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -692,7 +692,7 @@
 }
 
 3022={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"
@@ -1059,7 +1059,7 @@
 }
 
 3041={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="kattakan"
@@ -1518,7 +1518,7 @@
 }
 
 3065={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1537,7 +1537,7 @@
 }
 
 3066={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1556,7 +1556,7 @@
 }
 
 3067={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1575,7 +1575,7 @@
 }
 
 3068={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1594,7 +1594,7 @@
 }
 
 3069={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1613,7 +1613,7 @@
 }
 
 3070={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1632,7 +1632,7 @@
 }
 
 3071={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1651,7 +1651,7 @@
 }
 
 3072={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1670,7 +1670,7 @@
 }
 
 3073={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1689,7 +1689,7 @@
 }
 
 3074={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1708,7 +1708,7 @@
 }
 
 3075={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1727,7 +1727,7 @@
 }
 
 3076={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1746,7 +1746,7 @@
 }
 
 3077={ 
-	terrain="hills"
+	terrain="plains"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1765,7 +1765,7 @@
 }
 
 3078={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1784,7 +1784,7 @@
 }
 
 2932={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hatti"

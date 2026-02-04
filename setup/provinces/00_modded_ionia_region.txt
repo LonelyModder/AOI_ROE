@@ -208,7 +208,7 @@
 }
 
 2648={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="mysic"

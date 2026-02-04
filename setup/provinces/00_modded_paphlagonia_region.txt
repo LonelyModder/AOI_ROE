@@ -1,5 +1,5 @@
 ﻿3167={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -18,7 +18,7 @@
 }
 
 3168={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -37,7 +37,7 @@
 }
 
 3169={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -56,7 +56,7 @@
 }
 
 3170={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -75,7 +75,7 @@
 }
 
 3171={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -94,7 +94,7 @@
 }
 
 3172={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -113,7 +113,7 @@
 }
 
 3173={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -132,7 +132,7 @@
 }
 
 3174={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -151,7 +151,7 @@
 }
 
 3175={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -170,7 +170,7 @@
 }
 
 3176={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -227,7 +227,7 @@
 }
 
 3179={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -246,7 +246,7 @@
 }
 
 3180={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -265,7 +265,7 @@
 }
 
 3181={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -303,7 +303,7 @@
 }
 
 3183={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -322,7 +322,7 @@
 }
 
 3184={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -341,7 +341,7 @@
 }
 
 3185={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -360,7 +360,7 @@
 }
 
 3186={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -379,7 +379,7 @@
 }
 
 3187={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -398,7 +398,7 @@
 }
 
 3188={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -417,7 +417,7 @@
 }
 
 3189={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -436,7 +436,7 @@
 }
 
 3190={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -455,7 +455,7 @@
 }
 
 3191={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -474,7 +474,7 @@
 }
 
 3192={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -493,7 +493,7 @@
 }
 
 3193={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -512,7 +512,7 @@
 }
 
 3194={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -531,7 +531,7 @@
 }
 
 3195={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -550,7 +550,7 @@
 }
 
 3196={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -569,7 +569,7 @@
 }
 
 3197={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -588,7 +588,7 @@
 }
 
 3198={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -610,7 +610,7 @@
 }
 
 3199={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -629,7 +629,7 @@
 }
 
 3200={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -648,7 +648,7 @@
 }
 
 3201={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -667,7 +667,7 @@
 }
 
 3202={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -686,7 +686,7 @@
 }
 
 3203={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -705,7 +705,7 @@
 }
 
 3204={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -724,7 +724,7 @@
 }
 
 3205={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -743,7 +743,7 @@
 }
 
 3206={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -762,7 +762,7 @@
 }
 
 3207={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -781,7 +781,7 @@
 }
 
 3208={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -800,7 +800,7 @@
 }
 
 3209={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -819,7 +819,7 @@
 }
 
 3210={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -838,7 +838,7 @@
 }
 
 3211={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
@@ -879,7 +879,7 @@
 }
 
 3213={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -898,7 +898,7 @@
 }
 
 3214={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -917,7 +917,7 @@
 }
 
 3215={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -939,7 +939,7 @@
 }
 
 3216={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -958,7 +958,7 @@
 }
 
 3217={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -977,7 +977,7 @@
 }
 
 3218={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -996,7 +996,7 @@
 }
 
 3219={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -1015,7 +1015,7 @@
 }
 
 3220={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -1034,7 +1034,7 @@
 }
 
 3221={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gionian"
@@ -1056,7 +1056,7 @@
 }
 
 3222={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -1075,7 +1075,7 @@
 }
 
 3223={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -1094,7 +1094,7 @@
 }
 
 3224={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -1113,7 +1113,7 @@
 }
 
 3225={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
@@ -1132,7 +1132,7 @@
 }
 
 3226={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"

@@ -293,7 +293,7 @@
 }
 
 2902={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="phrygic"
@@ -337,7 +337,7 @@
 }
 
 2904={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="phrygic"
@@ -812,7 +812,7 @@
 }
 
 2929={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -853,7 +853,7 @@
 }
 
 2931={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -872,7 +872,7 @@
 }
 
 2934={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -891,7 +891,7 @@
 }
 
 2935={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1081,7 +1081,7 @@
 }
 
 2945={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="phrygic"
@@ -1100,7 +1100,7 @@
 }
 
 2946={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="phrygic"
@@ -1264,7 +1264,7 @@
 }
 
 2954={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="phrygic"
@@ -1283,7 +1283,7 @@
 }
 
 2955={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="phrygic"
@@ -1302,7 +1302,7 @@
 }
 
 2956={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="corehatti"
@@ -1340,7 +1340,7 @@
 }
 
 2958={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hkalasman"
@@ -1359,7 +1359,7 @@
 }
 
 2959={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hkalasman"
@@ -1378,7 +1378,7 @@
 }
 
 2960={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="phrygic"
@@ -1397,7 +1397,7 @@
 }
 
 2961={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hkalasman"
@@ -1435,7 +1435,7 @@
 }
 
 2963={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="phrygic"
@@ -1454,7 +1454,7 @@
 }
 
 2964={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hkalasman"
@@ -1473,7 +1473,7 @@
 }
 
 2965={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hkalasman"
@@ -1530,7 +1530,7 @@
 }
 
 2968={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hkalasman"

@@ -1,5 +1,5 @@
 ﻿3252={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -18,7 +18,7 @@
 }
 
 3253={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -37,7 +37,7 @@
 }
 
 3254={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -56,7 +56,7 @@
 }
 
 3255={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -75,7 +75,7 @@
 }
 
 3256={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -94,7 +94,7 @@
 }
 
 3257={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -113,7 +113,7 @@
 }
 
 3258={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -132,7 +132,7 @@
 }
 
 3259={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -151,7 +151,7 @@
 }
 
 3260={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -170,7 +170,7 @@
 }
 
 3261={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -189,7 +189,7 @@
 }
 
 3262={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -208,7 +208,7 @@
 }
 
 3263={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -227,7 +227,7 @@
 }
 
 3264={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="phrygic"
@@ -252,7 +252,7 @@
 }
 
 3265={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -334,7 +334,7 @@
 }
 
 3269={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -353,7 +353,7 @@
 }
 
 3270={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -372,7 +372,7 @@
 }
 
 3271={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -391,7 +391,7 @@
 }
 
 3272={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -410,7 +410,7 @@
 }
 
 3273={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -429,7 +429,7 @@
 }
 
 3274={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -448,7 +448,7 @@
 }
 
 3275={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -467,7 +467,7 @@
 }
 
 3276={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -486,7 +486,7 @@
 }
 
 3277={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -505,7 +505,7 @@
 }
 
 3278={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -524,7 +524,7 @@
 }
 
 3279={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -543,7 +543,7 @@
 }
 
 3280={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -562,7 +562,7 @@
 }
 
 3281={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -581,7 +581,7 @@
 }
 
 3282={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
@@ -600,7 +600,7 @@
 }
 
 3283={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -619,7 +619,7 @@
 }
 
 3284={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -641,7 +641,7 @@
 }
 
 3285={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -660,7 +660,7 @@
 }
 
 3286={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -679,7 +679,7 @@
 }
 
 3287={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -698,7 +698,7 @@
 }
 
 3288={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="kattakan"
@@ -717,7 +717,7 @@
 }
 
 3289={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -736,7 +736,7 @@
 }
 
 3290={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="kattakan"
@@ -755,7 +755,7 @@
 }
 
 3291={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -774,7 +774,7 @@
 }
 
 3292={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -793,7 +793,7 @@
 }
 
 3293={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="kattakan"
@@ -812,7 +812,7 @@
 }
 
 3294={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="kattakan"
@@ -831,7 +831,7 @@
 }
 
 3295={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -850,7 +850,7 @@
 }
 
 3296={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -869,7 +869,7 @@
 }
 
 3297={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="mushkian"
@@ -888,7 +888,7 @@
 }
 
 3298={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="kattakan"
@@ -907,7 +907,7 @@
 }
 
 3299={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -926,7 +926,7 @@
 }
 
 3300={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -945,7 +945,7 @@
 }
 
 3301={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
@@ -964,7 +964,7 @@
 }
 
 3302={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
@@ -983,7 +983,7 @@
 }
 
 3303={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
@@ -1005,7 +1005,7 @@
 }
 
 3304={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
@@ -1024,7 +1024,7 @@
 }
 
 3305={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
@@ -1043,7 +1043,7 @@
 }
 
 3306={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1062,7 +1062,7 @@
 }
 
 3307={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1081,7 +1081,7 @@
 }
 
 3308={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1100,7 +1100,7 @@
 }
 
 3309={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1119,7 +1119,7 @@
 }
 
 3310={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1138,7 +1138,7 @@
 }
 
 3311={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1157,7 +1157,7 @@
 }
 
 3312={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1176,7 +1176,7 @@
 }
 
 3313={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1195,7 +1195,7 @@
 }
 
 3314={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1214,7 +1214,7 @@
 }
 
 3315={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1236,7 +1236,7 @@
 }
 
 3316={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1255,7 +1255,7 @@
 }
 
 3317={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1274,7 +1274,7 @@
 }
 
 3318={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1293,7 +1293,7 @@
 }
 
 3319={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1312,7 +1312,7 @@
 }
 
 3320={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
@@ -1331,7 +1331,7 @@
 }
 
 3321={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
@@ -1350,7 +1350,7 @@
 }
 
 3322={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
@@ -1369,7 +1369,7 @@
 }
 
 3323={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
@@ -1388,7 +1388,7 @@
 }
 
 3324={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
@@ -1407,7 +1407,7 @@
 }
 
 3325={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
@@ -1426,7 +1426,7 @@
 }
 
 3326={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
@@ -1445,7 +1445,7 @@
 }
 
 3327={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
@@ -1464,7 +1464,7 @@
 }
 
 3328={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
@@ -1486,7 +1486,7 @@
 }
 
 3329={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
@@ -1505,7 +1505,7 @@
 }
 
 3330={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
@@ -1524,7 +1524,7 @@
 }
 
 3331={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
@@ -1543,7 +1543,7 @@
 }
 
 3332={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="colchian"
@@ -1565,7 +1565,7 @@
 }
 
 3333={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="colchian"
@@ -1584,7 +1584,7 @@
 }
 
 3334={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="colchian"
@@ -1603,7 +1603,7 @@
 }
 
 3335={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="colchian"
@@ -1622,7 +1622,7 @@
 }
 
 3336={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="colchian"
@@ -1641,7 +1641,7 @@
 }
 
 3337={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="colchian"
@@ -1663,7 +1663,7 @@
 }
 
 3338={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="caucasic_pantheon"
 	culture="colchian"
