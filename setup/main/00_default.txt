@@ -597,7 +597,6 @@ provinces = { #Any entry must contain a comment with city name.
 	2676 = { port_building = 2 }
 	2674 = { port_building = 2 }
 	2221 = { port_building = 1 }
-	2850 = { port_building = 1 }
 	2824 = { port_building = 1 }
 	2828 = { port_building = 1 }
 	2430 = { port_building = 1 }

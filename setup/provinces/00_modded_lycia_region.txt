@@ -1,5 +1,5 @@
 ﻿2817={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -18,7 +18,7 @@
 }
 
 2818={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -37,7 +37,7 @@
 }
 
 2819={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -56,7 +56,7 @@
 }
 
 2820={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -75,7 +75,7 @@
 }
 
 2821={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -97,7 +97,7 @@
 }
 
 2822={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -122,7 +122,7 @@
 }
 
 2823={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -141,7 +141,7 @@
 }
 
 2824={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -163,7 +163,7 @@
 }
 
 2825={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -182,7 +182,7 @@
 }
 
 2826={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -201,7 +201,7 @@
 }
 
 2827={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -223,7 +223,7 @@
 }
 
 2828={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -242,7 +242,7 @@
 }
 
 2829={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -261,7 +261,7 @@
 }
 
 2830={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -280,7 +280,7 @@
 }
 
 2831={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -299,7 +299,7 @@
 }
 
 2832={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="lukkan"
@@ -337,7 +337,7 @@
 }
 
 2834={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -375,7 +375,7 @@
 }
 
 2836={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -394,7 +394,7 @@
 }
 
 2837={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -413,7 +413,7 @@
 }
 
 2838={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -432,7 +432,7 @@
 }
 
 2839={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -451,7 +451,7 @@
 }
 
 2840={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -470,7 +470,7 @@
 }
 
 2841={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -489,7 +489,7 @@
 }
 
 2842={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -514,7 +514,7 @@
 }
 
 2843={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -533,7 +533,7 @@
 }
 
 2844={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -555,7 +555,7 @@
 }
 
 2845={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpisidian"
@@ -593,7 +593,7 @@
 }
 
 2847={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
@@ -618,7 +618,7 @@
 }
 
 2848={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="horoandian"
@@ -637,7 +637,7 @@
 }
 
 2849={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
@@ -656,7 +656,7 @@
 }
 
 2850={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
@@ -678,7 +678,7 @@
 }
 
 2851={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
@@ -697,7 +697,7 @@
 }
 
 2852={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
@@ -719,7 +719,7 @@
 }
 
 2853={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
@@ -738,7 +738,7 @@
 }
 
 2854={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
@@ -757,7 +757,7 @@
 }
 
 2855={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
@@ -776,7 +776,7 @@
 }
 
 2856={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="horoandian"
@@ -795,7 +795,7 @@
 }
 
 2857={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="horoandian"
@@ -814,7 +814,7 @@
 }
 
 2858={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="horoandian"
@@ -855,7 +855,7 @@
 }
 
 2860={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hisauran"
@@ -874,7 +874,7 @@
 }
 
 2861={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hisauran"
@@ -893,7 +893,7 @@
 }
 
 2862={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hisauran"
@@ -912,7 +912,7 @@
 }
 
 2863={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hisauran"
@@ -931,7 +931,7 @@
 }
 
 2864={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hisauran"
@@ -950,7 +950,7 @@
 }
 
 2865={ 
-	terrain="plains"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="luwic_pantheon"
 	culture="hisauran"

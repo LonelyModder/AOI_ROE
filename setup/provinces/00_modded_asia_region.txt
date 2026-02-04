@@ -26,7 +26,7 @@
 }
 
 2651={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="mysic"
@@ -548,7 +548,7 @@
 }
 
 2719={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="mysic"
@@ -570,7 +570,7 @@
 }
 
 2720={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="mysic"
@@ -647,7 +647,7 @@
 
 2731={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="marsh"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
