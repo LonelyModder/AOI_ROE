@@ -170,7 +170,7 @@
 }
 
 2646={ 
-	terrain="hills"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gaeolian"
@@ -322,7 +322,7 @@
 }
 
 2658={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="mysic"
@@ -341,7 +341,7 @@
 }
 
 2660={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gaeolian"
@@ -480,7 +480,7 @@
 }
 
 2667={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gionian"
@@ -988,7 +988,7 @@
 }
 
 2694={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="grecoid_pantheon"
 	culture="gaeolian"
@@ -1007,7 +1007,7 @@
 }
 
 2695={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="mysic"

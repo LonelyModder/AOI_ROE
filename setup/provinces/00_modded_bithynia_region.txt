@@ -1,5 +1,5 @@
 ﻿3102={ 
-	terrain="plains"
+	terrain="marsh"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -37,7 +37,7 @@
 }
 
 3104={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -56,7 +56,7 @@
 }
 
 3105={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -78,7 +78,7 @@
 }
 
 3106={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -97,7 +97,7 @@
 }
 
 3107={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -116,7 +116,7 @@
 }
 
 3108={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -135,7 +135,7 @@
 }
 
 3109={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -154,7 +154,7 @@
 }
 
 3110={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -173,7 +173,7 @@
 }
 
 3111={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -192,7 +192,7 @@
 }
 
 3112={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -214,7 +214,7 @@
 }
 
 3113={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -233,7 +233,7 @@
 }
 
 3114={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -252,7 +252,7 @@
 }
 
 3115={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -271,7 +271,7 @@
 }
 
 3116={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -290,7 +290,7 @@
 }
 
 3117={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -309,7 +309,7 @@
 }
 
 3118={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -328,7 +328,7 @@
 }
 
 3119={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -347,7 +347,7 @@
 }
 
 3120={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -483,7 +483,7 @@
 }
 
 3127={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -502,7 +502,7 @@
 }
 
 3128={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -521,7 +521,7 @@
 }
 
 3129={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -540,7 +540,7 @@
 }
 
 3130={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -559,7 +559,7 @@
 }
 
 3131={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -578,7 +578,7 @@
 }
 
 3132={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -597,7 +597,7 @@
 }
 
 3133={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -616,7 +616,7 @@
 }
 
 3134={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -635,7 +635,7 @@
 }
 
 3135={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -654,7 +654,7 @@
 }
 
 3136={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -673,7 +673,7 @@
 }
 
 3137={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -692,7 +692,7 @@
 }
 
 3138={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -711,7 +711,7 @@
 }
 
 3139={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -730,7 +730,7 @@
 }
 
 3140={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -749,7 +749,7 @@
 }
 
 3141={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -768,7 +768,7 @@
 }
 
 3142={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -787,7 +787,7 @@
 }
 
 3143={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -809,7 +809,7 @@
 }
 
 3144={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -828,7 +828,7 @@
 }
 
 3145={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -847,7 +847,7 @@
 }
 
 3146={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -866,7 +866,7 @@
 }
 
 3147={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -885,7 +885,7 @@
 }
 
 3148={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -904,7 +904,7 @@
 }
 
 3149={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -923,7 +923,7 @@
 }
 
 3150={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
@@ -942,7 +942,7 @@
 }
 
 3151={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="thracic_pantheon"
 	culture="bithynic"
