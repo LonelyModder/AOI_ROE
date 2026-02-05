@@ -1389,7 +1389,7 @@
 
 3324={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
 	civilization_value=0
@@ -1446,7 +1446,7 @@
 
 3327={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fruits"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
 	civilization_value=0
@@ -1465,7 +1465,7 @@
 
 3328={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
 	civilization_value=0
@@ -1487,7 +1487,7 @@
 
 3329={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
 	civilization_value=0
@@ -1506,7 +1506,7 @@
 
 3330={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
 	civilization_value=0
@@ -1525,7 +1525,7 @@
 
 3331={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
 	civilization_value=0
@@ -1544,7 +1544,7 @@
 
 3332={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="caucasic_pantheon"
 	culture="colchian"
 	civilization_value=0
@@ -1566,7 +1566,7 @@
 
 3333={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="caucasic_pantheon"
 	culture="colchian"
 	civilization_value=0
@@ -1585,7 +1585,7 @@
 
 3334={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="caucasic_pantheon"
 	culture="colchian"
 	civilization_value=0
@@ -1604,7 +1604,7 @@
 
 3335={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="caucasic_pantheon"
 	culture="colchian"
 	civilization_value=0
@@ -1623,7 +1623,7 @@
 
 3336={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="caucasic_pantheon"
 	culture="colchian"
 	civilization_value=0
@@ -1642,7 +1642,7 @@
 
 3337={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="caucasic_pantheon"
 	culture="colchian"
 	civilization_value=0
@@ -1664,7 +1664,7 @@
 
 3338={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="caucasic_pantheon"
 	culture="colchian"
 	civilization_value=0

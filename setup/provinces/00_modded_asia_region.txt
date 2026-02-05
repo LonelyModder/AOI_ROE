@@ -1,6 +1,6 @@
 ﻿2650={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="marble"
 	religion="grecoid_pantheon"
 	culture="gionian"
 	civilization_value=0
@@ -27,7 +27,7 @@
 
 2651={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -103,7 +103,7 @@
 
 2688={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -141,7 +141,7 @@
 
 2696={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -549,7 +549,7 @@
 
 2719={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -571,7 +571,7 @@
 
 2720={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -628,7 +628,7 @@
 
 2730={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -647,7 +647,7 @@
 
 2731={ 
 	terrain="marsh"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0

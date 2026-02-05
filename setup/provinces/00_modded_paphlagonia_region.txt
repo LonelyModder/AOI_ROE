@@ -858,7 +858,7 @@
 
 3212={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="grecoid_pantheon"
 	culture="gionian"
 	civilization_value=0
@@ -880,7 +880,7 @@
 
 3213={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
 	civilization_value=0
@@ -899,7 +899,7 @@
 
 3214={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
 	civilization_value=0
@@ -997,7 +997,7 @@
 
 3219={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
 	civilization_value=0
@@ -1016,7 +1016,7 @@
 
 3220={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
 	civilization_value=0
@@ -1035,7 +1035,7 @@
 
 3221={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="grecoid_pantheon"
 	culture="gionian"
 	civilization_value=0

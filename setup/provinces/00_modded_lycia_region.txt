@@ -1,6 +1,6 @@
 ﻿2817={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 2818={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 2819={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 2820={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 2821={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -98,7 +98,7 @@
 
 2822={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -123,7 +123,7 @@
 
 2823={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -142,7 +142,7 @@
 
 2824={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -164,7 +164,7 @@
 
 2825={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -183,7 +183,7 @@
 
 2826={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -202,7 +202,7 @@
 
 2827={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -224,7 +224,7 @@
 
 2828={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -243,7 +243,7 @@
 
 2829={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -300,7 +300,7 @@
 
 2832={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -319,7 +319,7 @@
 
 2833={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -357,7 +357,7 @@
 
 2835={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cedar"
 	religion="luwic_pantheon"
 	culture="lukkan"
 	civilization_value=0
@@ -414,7 +414,7 @@
 
 2838={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="hpisidian"
 	civilization_value=0
@@ -433,7 +433,7 @@
 
 2839={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="luwic_pantheon"
 	culture="hpisidian"
 	civilization_value=0
@@ -490,7 +490,7 @@
 
 2842={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="luwic_pantheon"
 	culture="hpisidian"
 	civilization_value=0
@@ -575,7 +575,7 @@
 
 2846={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="luwic_pantheon"
 	culture="hpisidian"
 	civilization_value=0
@@ -594,7 +594,7 @@
 
 2847={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
 	civilization_value=0
@@ -657,7 +657,7 @@
 
 2850={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
 	civilization_value=0
@@ -720,7 +720,7 @@
 
 2853={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="dye"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
 	civilization_value=0
@@ -739,7 +739,7 @@
 
 2854={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="luwic_pantheon"
 	culture="hpamphylian"
 	civilization_value=0
@@ -815,7 +815,7 @@
 
 2858={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="luwic_pantheon"
 	culture="horoandian"
 	civilization_value=0
@@ -834,7 +834,7 @@
 
 2859={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="luwic_pantheon"
 	culture="hisauran"
 	civilization_value=0
@@ -856,7 +856,7 @@
 
 2860={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="hisauran"
 	civilization_value=0
@@ -875,7 +875,7 @@
 
 2861={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="hisauran"
 	civilization_value=0
