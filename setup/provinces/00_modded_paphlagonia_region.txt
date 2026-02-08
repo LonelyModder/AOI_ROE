@@ -152,7 +152,7 @@
 
 3175={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -171,7 +171,7 @@
 
 3176={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -763,7 +763,7 @@
 
 3207={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
 	civilization_value=0
@@ -782,7 +782,7 @@
 
 3208={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
 	civilization_value=0
@@ -801,7 +801,7 @@
 
 3209={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -839,7 +839,7 @@
 
 3211={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -1113,8 +1113,8 @@
 }
 
 3225={ 
-	terrain="forest"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
 	civilization_value=0

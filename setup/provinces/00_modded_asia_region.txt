@@ -223,7 +223,7 @@
 
 2700={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -318,7 +318,7 @@
 
 2707={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -473,7 +473,7 @@
 
 2715={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -590,7 +590,7 @@
 
 2728={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -970,7 +970,7 @@
 
 2748={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="luwic_pantheon"
 	culture="hwalman"
 	civilization_value=0
@@ -989,7 +989,7 @@
 
 2749={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -1236,7 +1236,7 @@
 
 2762={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
