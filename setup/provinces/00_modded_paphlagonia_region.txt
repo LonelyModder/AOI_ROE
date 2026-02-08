@@ -247,7 +247,7 @@
 
 3180={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -304,7 +304,7 @@
 
 3183={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -323,7 +323,7 @@
 
 3184={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -399,7 +399,7 @@
 
 3188={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -475,7 +475,7 @@
 
 3192={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -513,7 +513,7 @@
 
 3194={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -532,7 +532,7 @@
 
 3195={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -551,7 +551,7 @@
 
 3196={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
 	civilization_value=0
@@ -725,7 +725,7 @@
 
 3205={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0
@@ -820,7 +820,7 @@
 
 3210={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="hpaphlagonian"
 	civilization_value=0

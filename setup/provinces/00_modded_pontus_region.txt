@@ -272,7 +272,7 @@
 
 3266={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -291,7 +291,7 @@
 
 3267={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -310,7 +310,7 @@
 
 3268={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="thracic_pantheon"
 	culture="phrygic"
 	civilization_value=0
@@ -1006,7 +1006,7 @@
 
 3304={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
 	civilization_value=0
@@ -1351,7 +1351,7 @@
 
 3322={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
 	civilization_value=0
@@ -1370,7 +1370,7 @@
 
 3323={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
 	civilization_value=0

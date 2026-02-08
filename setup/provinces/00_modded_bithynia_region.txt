@@ -1,6 +1,6 @@
 ﻿3102={ 
 	terrain="marsh"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 3103={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 3105={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -136,7 +136,7 @@
 
 3109={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -155,7 +155,7 @@
 
 3110={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -272,7 +272,7 @@
 
 3116={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -367,7 +367,7 @@
 
 3121={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -389,7 +389,7 @@
 
 3122={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -408,7 +408,7 @@
 
 3123={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -427,7 +427,7 @@
 
 3124={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -446,7 +446,7 @@
 
 3125={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -484,7 +484,7 @@
 
 3127={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -522,7 +522,7 @@
 
 3129={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -712,7 +712,7 @@
 
 3139={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -731,7 +731,7 @@
 
 3140={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -750,7 +750,7 @@
 
 3141={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -829,7 +829,7 @@
 
 3145={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -886,7 +886,7 @@
 
 3148={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -905,7 +905,7 @@
 
 3149={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0
@@ -943,7 +943,7 @@
 
 3151={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="thracic_pantheon"
 	culture="bithynic"
 	civilization_value=0

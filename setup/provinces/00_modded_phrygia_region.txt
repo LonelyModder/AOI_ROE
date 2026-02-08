@@ -136,7 +136,7 @@
 
 2894={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="hkatteran"
 	civilization_value=0
@@ -154,8 +154,8 @@
 }
 
 2895={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="luwic_pantheon"
 	culture="hkatteran"
 	civilization_value=0
@@ -173,8 +173,8 @@
 }
 
 2896={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="luwic_pantheon"
 	culture="hkatteran"
 	civilization_value=0
@@ -433,7 +433,7 @@
 
 2909={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="hkatteran"
 	civilization_value=0
@@ -452,7 +452,7 @@
 
 2910={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="hkatteran"
 	civilization_value=0
@@ -623,7 +623,7 @@
 
 2919={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="hkatteran"
 	civilization_value=0
@@ -642,7 +642,7 @@
 
 2920={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="luwic_pantheon"
 	culture="hkatteran"
 	civilization_value=0
@@ -661,7 +661,7 @@
 
 2921={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="hkatteran"
 	civilization_value=0
@@ -680,7 +680,7 @@
 
 2922={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="hkatteran"
 	civilization_value=0
@@ -892,7 +892,7 @@
 
 2935={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -987,7 +987,7 @@
 
 2940={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="luwic_pantheon"
 	culture="hkatteran"
 	civilization_value=0
