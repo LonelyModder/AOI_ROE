@@ -19,7 +19,7 @@
 
 2987={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 2988={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -114,7 +114,7 @@
 
 2992={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -133,7 +133,7 @@
 
 2993={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -155,7 +155,7 @@
 
 2994={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -177,7 +177,7 @@
 
 2995={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -215,7 +215,7 @@
 
 2997={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -253,7 +253,7 @@
 
 2999={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -272,7 +272,7 @@
 
 3000={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -367,7 +367,7 @@
 
 3005={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -405,7 +405,7 @@
 
 3007={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -462,7 +462,7 @@
 
 3010={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -500,7 +500,7 @@
 
 3012={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -614,7 +614,7 @@
 
 3018={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -633,7 +633,7 @@
 
 3019={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -655,7 +655,7 @@
 
 3020={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -753,7 +753,7 @@
 
 3025={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -772,7 +772,7 @@
 
 3026={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -791,7 +791,7 @@
 
 3027={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -810,7 +810,7 @@
 
 3028={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -905,7 +905,7 @@
 
 3033={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -1098,7 +1098,7 @@
 
 3043={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="luwic_pantheon"
 	culture="kattakan"
 	civilization_value=0
@@ -1117,7 +1117,7 @@
 
 3044={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="hatti"
 	civilization_value=0
@@ -1136,7 +1136,7 @@
 
 3045={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -1155,7 +1155,7 @@
 
 3046={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -1174,7 +1174,7 @@
 
 3047={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -1193,7 +1193,7 @@
 
 3048={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -1291,7 +1291,7 @@
 
 3053={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="kattakan"
 	civilization_value=0
@@ -1310,7 +1310,7 @@
 
 3054={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="kattakan"
 	civilization_value=0
@@ -1481,7 +1481,7 @@
 
 3063={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="luwic_pantheon"
 	culture="kattakan"
 	civilization_value=0
@@ -1500,7 +1500,7 @@
 
 3064={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -1538,7 +1538,7 @@
 
 3066={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -1576,7 +1576,7 @@
 
 3068={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -1633,7 +1633,7 @@
 
 3071={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0
@@ -1804,7 +1804,7 @@
 
 2933={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="corehatti"
 	civilization_value=0

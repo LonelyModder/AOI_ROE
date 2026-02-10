@@ -677,6 +677,17 @@ provinces = { #Any entry must contain a comment with city name.
 	2414 = {modifier = { modifier = walls_of_jerusalem always = yes }}
 	
 	#Passes
+	3021 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2687 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3321 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3061 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3041 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3038 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3034 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2822 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2849 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2860 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2864 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2464 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2467 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2441 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -4242,7 +4253,7 @@ country = {
 			government = despotic_monarchy
 			primary_culture = corehatti
 			religion = luwic_pantheon
-			capital = 2995
+			capital = 2993
 			
 			technology={
 				military_tech={ level=2 progress=0 }

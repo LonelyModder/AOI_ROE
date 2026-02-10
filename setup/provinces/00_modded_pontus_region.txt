@@ -411,7 +411,7 @@
 
 3273={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -449,7 +449,7 @@
 
 3275={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -525,7 +525,7 @@
 
 3279={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -582,7 +582,7 @@
 
 3282={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
 	civilization_value=0
@@ -661,7 +661,7 @@
 
 3286={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -1139,7 +1139,7 @@
 
 3311={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
 	civilization_value=0
@@ -1158,7 +1158,7 @@
 
 3312={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
 	civilization_value=0
@@ -1177,7 +1177,7 @@
 
 3313={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fruits"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
 	civilization_value=0
@@ -1237,7 +1237,7 @@
 
 3316={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
 	civilization_value=0
@@ -1256,7 +1256,7 @@
 
 3317={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
 	civilization_value=0
@@ -1275,7 +1275,7 @@
 
 3318={ 
 	terrain="hills"
-	trade_goods="olives"
+	trade_goods="olive"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
 	civilization_value=0
@@ -1294,7 +1294,7 @@
 
 3319={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
 	civilization_value=0
@@ -1313,7 +1313,7 @@
 
 3320={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
 	civilization_value=0
@@ -1332,7 +1332,7 @@
 
 3321={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
 	civilization_value=0
@@ -1408,7 +1408,7 @@
 
 3325={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
 	civilization_value=0
@@ -1427,7 +1427,7 @@
 
 3326={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="caucasic_pantheon"
 	culture="cmacronian"
 	civilization_value=0

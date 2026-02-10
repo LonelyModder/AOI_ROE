@@ -988,8 +988,8 @@
 }
 
 2694={ 
-	terrain="forest"
-	trade_goods="vegetables"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="grecoid_pantheon"
 	culture="gaeolian"
 	civilization_value=0

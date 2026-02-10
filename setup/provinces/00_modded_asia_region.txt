@@ -166,7 +166,7 @@
 
 2697={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -185,7 +185,7 @@
 
 2698={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -340,7 +340,7 @@
 
 2708={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -454,7 +454,7 @@
 
 2714={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -609,7 +609,7 @@
 
 2729={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -666,7 +666,7 @@
 
 2732={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -685,7 +685,7 @@
 
 2733={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -704,7 +704,7 @@
 
 2734={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -723,7 +723,7 @@
 
 2735={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -856,7 +856,7 @@
 
 2742={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="luwic_pantheon"
 	culture="kylakian"
 	civilization_value=0
@@ -875,7 +875,7 @@
 
 2743={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -894,7 +894,7 @@
 
 2744={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="thracic_pantheon"
 	culture="phrygic"
 	civilization_value=0
@@ -951,7 +951,7 @@
 
 2747={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="hwalman"
 	civilization_value=0
@@ -1008,7 +1008,7 @@
 
 2750={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="lydian"
 	civilization_value=0
@@ -1141,7 +1141,7 @@
 
 2757={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="luwic_pantheon"
 	culture="hwalman"
 	civilization_value=0
@@ -1160,7 +1160,7 @@
 
 2758={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="hhaballan"
 	civilization_value=0
@@ -1198,7 +1198,7 @@
 
 2760={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -1217,7 +1217,7 @@
 
 2761={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -1255,7 +1255,7 @@
 
 2763={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -1274,7 +1274,7 @@
 
 2764={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="hhaballan"
 	civilization_value=0
@@ -1312,7 +1312,7 @@
 
 2766={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="hwalman"
 	civilization_value=0
@@ -1331,7 +1331,7 @@
 
 2767={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="luwic_pantheon"
 	culture="hwalman"
 	civilization_value=0
@@ -1350,7 +1350,7 @@
 
 2768={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="luwic_pantheon"
 	culture="horoandian"
 	civilization_value=0
@@ -1388,7 +1388,7 @@
 
 2770={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="hhaballan"
 	civilization_value=0
@@ -1407,7 +1407,7 @@
 
 2771={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="luwic_pantheon"
 	culture="hhaballan"
 	civilization_value=0
@@ -1464,7 +1464,7 @@
 
 2774={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="luwic_pantheon"
 	culture="hhaballan"
 	civilization_value=0
@@ -1483,7 +1483,7 @@
 
 2775={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="thracic_pantheon"
 	culture="phrygic"
 	civilization_value=0
@@ -1508,7 +1508,7 @@
 
 2776={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="thracic_pantheon"
 	culture="phrygic"
 	civilization_value=0
@@ -1546,7 +1546,7 @@
 
 2778={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="hhaballan"
 	civilization_value=0
@@ -1565,7 +1565,7 @@
 
 2779={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="luwic_pantheon"
 	culture="hhaballan"
 	civilization_value=0
@@ -1584,7 +1584,7 @@
 
 2780={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="luwic_pantheon"
 	culture="hhaballan"
 	civilization_value=0
@@ -1603,7 +1603,7 @@
 
 2781={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="thracic_pantheon"
 	culture="phrygic"
 	civilization_value=0
@@ -1622,7 +1622,7 @@
 
 2782={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="thracic_pantheon"
 	culture="mysic"
 	civilization_value=0
@@ -1660,7 +1660,7 @@
 
 2784={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="thracic_pantheon"
 	culture="phrygic"
 	civilization_value=0
@@ -1679,7 +1679,7 @@
 
 2785={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="thracic_pantheon"
 	culture="phrygic"
 	civilization_value=0
@@ -1698,7 +1698,7 @@
 
 2786={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="hhaballan"
 	civilization_value=0
