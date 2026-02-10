@@ -1697,7 +1697,7 @@
 }
 
 2786={ 
-	terrain="plains"
+	terrain="marsh"
 	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="hhaballan"

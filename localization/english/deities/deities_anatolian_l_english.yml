@@ -30,3 +30,6 @@
  deity_sauska:0 "$omen_sauska$"
  omen_sauska:1 "Sauska"
  omen_sauska_desc:4 "Godess of love,war and healing. Equivalent of Ishtar often called Ishtar of subartu by akkadians."
+ deity_acybele:0 "$omen_acybele$"
+ omen_acybele:1 "Kubilaya"
+ omen_acybele_desc:4 "The mother of our people approves of our plans to expand our empire and bring more people into the fold. Under the guiding eyes of Cybele, only the most fatigued of our people will oppose more wars."

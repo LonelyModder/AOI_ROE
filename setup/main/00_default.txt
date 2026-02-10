@@ -251,6 +251,13 @@ treasure_manager = {
 				local_population_capacity = 4
 			}
 		}
+		36 = { # Pessinus
+			key = "treasure_cybelestone" 
+			icon = "treasure_chest"
+			state_modifier = {
+				local_building_slot = 2
+			}
+		}
     }
 }
 family={
@@ -563,6 +570,9 @@ provinces = { #Any entry must contain a comment with city name.
 	2326 = { # Mabbog
 		treasure_slots = { 	treasures = { 35 } }
 	}
+	2898 = { # Pessinus
+		treasure_slots = { 	treasures = { 36 } }
+	}
 	
 	#Pirates
 	2828 = { modifier = { modifier = pirate_haven_modifier always = yes } }
@@ -677,6 +687,20 @@ provinces = { #Any entry must contain a comment with city name.
 	2414 = {modifier = { modifier = walls_of_jerusalem always = yes }}
 	
 	#Passes
+	2736 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3131 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2965 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3187 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3308 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3326 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3338 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3061 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3041 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3033 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2988 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2222 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2826 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2711 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	3021 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2687 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	3321 = { modifier = { modifier = lesser_pass_modifier always = yes } }

@@ -745,6 +745,7 @@
 	slaves={
 		amount=2
 	}
+	holy_site="omen_mhelios"
 }
 
 2680={ 

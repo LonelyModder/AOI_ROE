@@ -726,6 +726,7 @@
 	slaves={
 		amount=5
 	}
+	holy_site="omen_tarhunz"
 }
 
 2296={ 

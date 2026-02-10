@@ -1,6 +1,6 @@
 ﻿3252={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="caucasic_pantheon"
 	culture="cchalybia"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 3253={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 3254={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 3255={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 3256={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -95,7 +95,7 @@
 
 3257={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -114,7 +114,7 @@
 
 3258={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -133,7 +133,7 @@
 
 3259={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -152,7 +152,7 @@
 
 3260={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -171,7 +171,7 @@
 
 3261={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -190,7 +190,7 @@
 
 3262={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -205,11 +205,12 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_arinna"
 }
 
 3263={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -228,7 +229,7 @@
 
 3264={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="thracic_pantheon"
 	culture="phrygic"
 	civilization_value=0
@@ -253,7 +254,7 @@
 
 3265={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -335,7 +336,7 @@
 
 3269={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -354,7 +355,7 @@
 
 3270={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -373,7 +374,7 @@
 
 3271={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -392,7 +393,7 @@
 
 3272={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -430,7 +431,7 @@
 
 3274={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -468,7 +469,7 @@
 
 3276={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -487,7 +488,7 @@
 
 3277={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -506,7 +507,7 @@
 
 3278={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -544,7 +545,7 @@
 
 3280={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -563,7 +564,7 @@
 
 3281={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -601,7 +602,7 @@
 
 3283={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -620,7 +621,7 @@
 
 3284={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -642,7 +643,7 @@
 
 3285={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -680,7 +681,7 @@
 
 3287={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -699,7 +700,7 @@
 
 3288={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="luwic_pantheon"
 	culture="kattakan"
 	civilization_value=0
@@ -718,7 +719,7 @@
 
 3289={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -737,7 +738,7 @@
 
 3290={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="luwic_pantheon"
 	culture="kattakan"
 	civilization_value=0
@@ -756,7 +757,7 @@
 
 3291={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fruits"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -794,7 +795,7 @@
 
 3293={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="luwic_pantheon"
 	culture="kattakan"
 	civilization_value=0
@@ -813,7 +814,7 @@
 
 3294={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="luwic_pantheon"
 	culture="kattakan"
 	civilization_value=0
@@ -851,7 +852,7 @@
 
 3296={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="caucasic_pantheon"
 	culture="mushkian"
 	civilization_value=0
@@ -889,7 +890,7 @@
 
 3298={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="luwic_pantheon"
 	culture="kattakan"
 	civilization_value=0
@@ -927,7 +928,7 @@
 
 3300={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
 	civilization_value=0
@@ -946,7 +947,7 @@
 
 3301={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
 	civilization_value=0
@@ -965,7 +966,7 @@
 
 3302={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
 	civilization_value=0
@@ -984,7 +985,7 @@
 
 3303={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
 	civilization_value=0
@@ -1025,7 +1026,7 @@
 
 3305={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="caucasic_pantheon"
 	culture="ctibarenia"
 	civilization_value=0
@@ -1044,7 +1045,7 @@
 
 3306={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="caucasic_pantheon"
 	culture="cmosinoecia"
 	civilization_value=0
