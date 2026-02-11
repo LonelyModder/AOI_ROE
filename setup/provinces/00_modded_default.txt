@@ -7542,8 +7542,8 @@
 
 2787={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thrscic_pantheon"
+	culture="mysic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7932,8 +7932,8 @@
 
 2878={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="lukkan"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -8342,8 +8342,8 @@
 
 3099={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="kattakan"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -8452,8 +8452,8 @@
 
 3160={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="thracic_pantheon"
+	culture="bithynic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -8702,8 +8702,8 @@
 
 3245={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="luwic_pantheon"
+	culture="hpaphlagonian"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -8881,8 +8881,8 @@
 
 3350={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="caucasic_pantheon"
+	culture="ctibarenia"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

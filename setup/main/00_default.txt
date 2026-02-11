@@ -258,6 +258,28 @@ treasure_manager = {
 				local_building_slot = 2
 			}
 		}
+		37 = { # Telmessos
+			key = "treasure_tombofpayava" 
+			icon = "treasure_sarcophagus_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_base_trade_routes_modifier = 0.1
+			}
+		}
+		38 = { # Tyita
+			key = "treasure_menicon"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_research_points_modifier = 0.1
+			}
+		}
+		39 = { # Comanu
+			key = "treasure_mafigure"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_happiness_for_same_religion_modifier = 0.1
+			}
+		}
     }
 }
 family={
@@ -573,6 +595,15 @@ provinces = { #Any entry must contain a comment with city name.
 	2898 = { # Pessinus
 		treasure_slots = { 	treasures = { 36 } }
 	}
+	2817 = { # Telmessos
+		treasure_slots = { 	treasures = { 37 } }
+	}
+	2768 = { # Tyita
+		treasure_slots = { 	treasures = { 38 } }
+	}
+	3019 = { # Comanu
+		treasure_slots = { 	treasures = { 39 } }
+	}
 	
 	#Pirates
 	2828 = { modifier = { modifier = pirate_haven_modifier always = yes } }
@@ -793,6 +824,12 @@ provinces = { #Any entry must contain a comment with city name.
 	########################################
 	# Barbarian Spawn Spots
 	########################################
+	3099 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	3350 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	3245 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	3160 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	2787 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	2878 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	2252 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	2382 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	2500 = { modifier = { modifier = generic_barbarian_spawn_place } }

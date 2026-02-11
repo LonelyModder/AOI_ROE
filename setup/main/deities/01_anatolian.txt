@@ -44,6 +44,26 @@ deity_manager = {
 			key = omen_acybele
 			deity = deity_acybele
 		}
+		10421 = {
+			key = omen_aagdistis
+			deity = deity_aagdistis
+		}
+		10422 = {
+			key = omen_amen
+			deity = deity_amen
+		}
+		10423 = {
+			key = omen_aattis
+			deity = deity_aattis
+		}
+		10424 = {
+			key = omen_akakasbos
+			deity = deity_akakasbos
+		}
+		10425 = {
+			key = omen_ama
+			deity = deity_ama
+		}
 	}
 }
 

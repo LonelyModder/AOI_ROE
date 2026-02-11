@@ -15,6 +15,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_akakasbos"
 }
 
 2818={ 

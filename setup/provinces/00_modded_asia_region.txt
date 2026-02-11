@@ -238,6 +238,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_aagdistis"
 }
 
 2702={ 
@@ -1194,6 +1195,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_aattis"
 }
 
 2760={ 
@@ -1365,6 +1367,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_amen"
 }
 
 2769={ 
