@@ -170,7 +170,8 @@ colors = {
 	EGYPT_COLOR = rgb { 230 178 9 }
 	TRUSCIA_COLOR = rgb { 34 26 184 }
 	SYRIA_COLOR = rgb { 13 186 59 }
-	ISRAEL_COLOR =  = rgb { 35 160 222 }
+	ISRAEL_COLOR = rgb { 35 160 222 }
+	KHATTE_COLOR = rgb { 158 99 44 }
 	#Event Colors
 	KAlessian_color = rgb { 186 19 13 }
 	

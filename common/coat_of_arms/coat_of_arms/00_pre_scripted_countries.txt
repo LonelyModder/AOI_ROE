@@ -349,6 +349,17 @@ EGYPT_FLAG = {
 	}
 }
 
+KHATTE_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 125 46 20 }
+	color2 = "bone_white"
+
+	colored_emblem = {
+		texture = "ce_hatti.dds"
+		color1 = rgb { 230 173 16 }
+	}
+}
+
 THRACE_FLAG = {
 	pattern = "pattern_solid.tga"
 	color1 = "ck2_green"

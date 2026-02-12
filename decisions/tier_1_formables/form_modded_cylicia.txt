@@ -5,7 +5,10 @@
 		
 		potential = {
 			num_of_cities >= 1
-			country_culture_group = hattian
+			OR = {
+				country_culture_group = hattian
+				country_culture_group = grekoid
+			}
 			NOT = {
 				is_tier_1_formable_trigger = yes
 				is_tier_2_formable_trigger = yes

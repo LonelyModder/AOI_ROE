@@ -1318,6 +1318,8 @@
  TRUSCIA_ADJECTIVE:0 "Etruscan"
  EPIRUS_NAME:0 "Epirus"
  EPIRUS_ADJECTIVE:0 "Epirote"
+ KHATTE_NAME:0 "Hittite Empire"
+ KHATTE_ADJECTIVE:0 "Hittite"
  #Event Names
  AlbaLonga_NAME:0 "Alba Longa"
  AlbaLonga_ADJECTIVE:0 "Alban"
