@@ -73,6 +73,9 @@
 		assyria_01_mesopotamia_1.14
 		assyria_01_mesopotamia_1.16
 		assyria_01_mesopotamia_1.102
+		#Cymmerian Migration
+		cymmerian_invasion_ec.1
+		cymmerian_invasion_ec.2
 		#Units
 		units_allowance_events.1
 		#Modded events 

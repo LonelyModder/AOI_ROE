@@ -447,3 +447,10 @@
  assyria_01_mesopotamia_1.16.desc:0 "Our fears has just matirialised. Assyrian army capruted Damascus and have open road into Canaan. We know that all those who bend the knee will live but if they will feel secure in the region won't they outright annex our territory?"
  assyria_01_mesopotamia_1.16.a:0 "We are too weak to oppose them."
  assyria_01_mesopotamia_1.16.b:0 "We will never bow before them."
+ #Cymmerian Migration into Anatolia
+ cymmerian_invasion_ec.1.t:0 "Cymmerians Invading"
+ cymmerian_invasion_ec.1.desc:0 "The rumours were true. The Cymmerians are on the move once again and our realm is the target of their migration. Tempted by the riches of anatolian cities and chased out of their homes by the scythians Gimmiri do not have any other choice but to claim new home by the right of conquest."
+ cymmerian_invasion_ec.1.a:0 "Over my dead body."
+ cymmerian_invasion_ec.2.t:0 "Cymmerian Migration"
+ cymmerian_invasion_ec.2.desc:0 "We got reports from the north that a new player appeared in Anatolia. Nomadic people called Cymmerians migrated into the eastern part of the peninsula chased from their steppe home by the scythians. Reports claim that the conquest is extremely brutal and barbarians spare no one."
+ cymmerian_invasion_ec.2.a:0 "Alarming news indeed."
