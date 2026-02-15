@@ -57,7 +57,8 @@ assyria_1_victory = {
 
 #invasions
 cymmerian_invasion_modifier = {
-    global_tax_income = 16
+    land_morale_modifier = -0.5
+	discipline = -0.5
 	#global_tax_modifier
 }
 

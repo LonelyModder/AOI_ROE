@@ -34,6 +34,8 @@
  osasis_desc:0 "The only water source in the desert and also the only permanent place to live in this harsh enviroment."
  lepontic_invasion_modifier:0 "Mobilisation"
  desc_lepontic_invasion_modifier:0 "Under extreme circumstances all available males (and in some cultures like scythians females) are mobilised for war."
+ cymmerian_invasion_modifier:0 "Horde Invades"
+ desc_cymmerian_invasion_modifier:0 "Our country was invaded by the steppe horde and is the subject of their brutal tactics. The morale is shaken and soldiers spread the tale of their atrocities."
  latium_1_starts:0 "Latins Mobilise"
  desc_latium_1_starts:0 "Latin tribes are capable of mobilising large amount of warriors in a short amount of time thanks to the system of obligations. Each clan and city is obliged to send agreed amount of warriors."
  latium_1_victory:0 "Italy Conquered!"
