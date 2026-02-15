@@ -193,8 +193,8 @@ cymmerian_invasion_ec.1 = {
 				change_government = despotic_monarchy
 				set_primary_culture = cymmeric
 				set_country_religion = scythic_pantheon
-				change_country_name = "AnatolianCymmeria1_NAME"
-				change_country_adjective = "AnatolianCymmeria1_ADJECTIVE"
+				change_country_name = "AnatolianCymmeria2_NAME"
+				change_country_adjective = "AnatolianCymmeria2_ADJECTIVE"
 			}
 		}
 		p:3178.owner = {
