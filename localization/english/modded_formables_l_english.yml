@@ -49,4 +49,10 @@
  tabal_must_not_exist:0 "Tabal must not exist."
  form_tabal:0 "Form Tabal"
  form_tabal_desc:0 "Tabal, sometimes called Tibarens, was a loose confederation of neo-hittite states under the leadership of Tuwana. Using the safety and remoteness of the Taurus Mountains they intended to reform the Hittite Empire and bring back the glory of the hittites. They were credited with the building of the famous cappadocian underground cities."
+ peloponessus_must_not_exist:0 "Peloponesian League must not exist."
+ form_peloponessus:0 "Form Peloponesian League"
+ form_peloponessus_desc:0 "Peloponesian League was just a convenient name for Sparta and their allies. Spartans knew they were fiew in number and will not manage to compete with such powers as Beotians and Athens by themselves so they turned to diplomacy. During wars with Persia the greeks were able to field army at all much thanks to the Spartan diplomacy."
+ delos_must_not_exist:0 "Delian League must not exist."
+ form_delos:0 "Form Delian League"
+ form_delos_desc:0 "Delian League was initially both defensive and offensive allience against Persia founded after the second invasion. After the Persian threat was gone however the League was turned into Athenian tool with which Athens intended to force the Greece into a submission. Naturally it lead to a conflict with Sparta and their Peloponesian allies."
  

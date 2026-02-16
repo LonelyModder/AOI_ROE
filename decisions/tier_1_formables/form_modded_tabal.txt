@@ -39,8 +39,8 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 2933 # Passaron
-			owns = 2929 # Dodona
+			owns = 2933 # Tuwana
+			owns = 2929 # Khupisna
 			owns = 2993 # Atuna
 			owns = 2994 # Shinukta
 			owns = 2234 # Khillika

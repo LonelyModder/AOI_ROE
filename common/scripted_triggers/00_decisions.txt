@@ -10,6 +10,8 @@
 		tag = XIS #Israel
 		tag = XCI #Cilicia
 		tag = XTB #Tabal
+		tag = XPL #Peloponesian League
+		tag = XDL #Delian League
 	}
 }
 

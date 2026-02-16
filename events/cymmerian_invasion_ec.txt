@@ -9,7 +9,7 @@ cymmerian_invasion_ec.1 = {
 	
 	trigger = {
 		owns = 3266
-		current_date >= 438.4.1 # 470.4.1
+		current_date >= 470.4.1 # 470.4.1
 		NOT = {has_global_variable = cymmerians_in_anatolia}
 	}
 	

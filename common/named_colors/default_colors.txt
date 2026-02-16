@@ -173,6 +173,8 @@ colors = {
 	ISRAEL_COLOR = rgb { 35 160 222 }
 	KHATTE_COLOR = rgb { 158 99 44 }
 	TABAL_COLOR = rgb { 214 167 13 }
+	PELOPONESSUS_COLOR = rgb { 201 56 16 }
+	DELOS_COLOR = rgb { 17 98 191 }
 	#Event Colors
 	KAlessian_color = rgb { 186 19 13 }
 	

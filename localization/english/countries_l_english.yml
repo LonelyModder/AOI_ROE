@@ -1288,6 +1288,10 @@
  GBO:0 "Mushkia"
  GBO_ADJ:0 "Mushkian"
  #Modded Formables
+ DELOS_NAME:0 "Delian League"
+ DELOS_ADJECTIVE:0 "Delian"
+ PELOPONESSUS_NAME:0 "Peloponesian League"
+ PELOPONESSUS_ADJECTIVE:0 "Peloponesian"
  TABAL_NAME:0 "Tabal"
  TABAL_ADJECTIVE:0 "Tabalite"
  CYLICIA_NAME:0 "Cylicia"
