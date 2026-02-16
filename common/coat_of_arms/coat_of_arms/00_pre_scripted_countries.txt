@@ -303,6 +303,18 @@ GAM = {
 	}
 }
 
+GAC = {
+	pattern = "pattern_solid.tga"
+	color1 = "bone_white"
+	color2 = "pitch_black"
+
+	colored_emblem = {
+		texture = "ce_lydia.dds"
+		color1 = rgb { 230 210 32 }
+		color2 = rgb { 20 20 20 }
+	}
+}
+
 GAN = {
 	pattern = "pattern_diagonal_line_fat_02.tga"
 	color1 = "purple"

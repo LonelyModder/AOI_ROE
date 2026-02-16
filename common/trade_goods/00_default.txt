@@ -178,6 +178,11 @@ cedar = { #Modified
 	category = 0
 	gold = 0.3
 	
+	allow_unit_type = hexere
+	allow_unit_type = tetrere
+	allow_unit_type = octere
+	allow_unit_type = mega_galley
+	
 	province = {
 		local_ship_recruit_speed = 0.25
 	}

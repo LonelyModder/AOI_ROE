@@ -9,7 +9,7 @@ cymmerian_invasion_ec.1 = {
 	
 	trigger = {
 		owns = 3266
-		current_date >= 438.4.1 # 470.4.1
+		current_date >= 470.4.1 # 470.4.1
 		NOT = {has_global_variable = cymmerians_in_anatolia}
 	}
 	
@@ -26,7 +26,7 @@ cymmerian_invasion_ec.1 = {
                 }
             } 
 			create_country = {
-				change_government = despotic_monarchy
+				change_government = despotic_monarchy #New Government?
 				set_primary_culture = cymmeric
 				set_country_religion = scythic_pantheon
 				change_country_name = "AnatolianCymmeria_NAME"
@@ -262,7 +262,6 @@ cymmerian_invasion_ec.1 = {
 		set_global_variable = {
 			name = cymmerians_in_anatolia
 		}
-		ai_chance = { base = 90 }
 	}
 	
 	option = { 
@@ -280,11 +279,40 @@ cymmerian_invasion_ec.2 = {
 	trigger = {
 		has_global_variable = cymmerians_in_anatolia
 		NOT = { owns = 3264 }
-		current_date <= 438.6.1 # 470.6.1
+		current_date <= 470.6.1 # 470.6.1
 	}
 	
 	option = { 
 		name = "cymmerian_invasion_ec.2.a"
+	}
+}
+
+cymmerian_invasion_ec.3 = {  
+	type = country_event
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = cymmeric
+		war = no
+		capital_scope = { 
+			OR = {
+				is_in_region = modded_pontus_region
+				is_in_region = modded_phrygia_region
+			}
+		}
+	}
+	
+	immediate = { 
+		random_unit_in_province = {
+			#limit = {
+			#	unit_owner = root
+			#}
+			every_sub_unit = {
+				destroy_subunit = yes
+			}
+			destroy_unit = yes
+		}
 	}
 }
 
