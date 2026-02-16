@@ -9,6 +9,7 @@
 		tag = XCY #Cyprus
 		tag = XIS #Israel
 		tag = XCI #Cilicia
+		tag = XTB #Tabal
 	}
 }
 

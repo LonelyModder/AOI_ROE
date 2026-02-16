@@ -1,0 +1,93 @@
+﻿country_decisions = {
+	
+	# Form Tabal
+	form_tabal = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XTB
+			}
+			primary_culture = corehatti
+			NOT = {
+				is_tier_1_formable_trigger = yes
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2933 # Tuwana
+					province_id = 2929 # Khupisna
+					province_id = 2993 # Atuna
+					province_id = 2994 # Shinukta
+					province_id = 2234 # Khillika
+					province_id = 2249 # Ishunda
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = tabal_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XTB
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 2933 # Passaron
+			owns = 2929 # Dodona
+			owns = 2993 # Atuna
+			owns = 2994 # Shinukta
+			owns = 2234 # Khillika
+			owns = 2249 # Ishunda
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "TABAL_NAME"
+			hidden_effect = {
+				change_country_adjective = "TABAL_ADJECTIVE"
+				change_country_color = "TABAL_COLOR"
+				change_country_tag = XTB
+				#change_country_flag = BAI
+			}
+			if = {
+				limit = {
+					p:2933 = { is_capital = no }
+				}
+				set_capital = 2933
+				hidden_effect = {
+					p:2933.state = {
+						set_state_capital = 2933
+					}
+				}
+				capital_scope = {
+					establish_city_effect = yes
+				}
+			}
+			p:2933 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = Tabal_claims_tooltip
+			hidden_effect = {
+				region:modded_cappadocia_region = { formable_region_province_effect = yes }
+				region:modded_phrygia_region = { formable_region_province_effect = yes }
+				region:modded_pontus_region = { formable_region_province_effect = yes }
+				region:modded_cilicia_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

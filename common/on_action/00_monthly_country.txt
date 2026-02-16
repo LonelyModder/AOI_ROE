@@ -76,7 +76,9 @@
 		#Cymmerian Migration
 		cymmerian_invasion_ec.1 #Event
 		cymmerian_invasion_ec.2	#Message
-		#cymmerian_invasion_ec.3 #Horde Deletion ToDo
+		cymmerian_invasion_ec.3 #Horde Deletion 
+		cymmerian_invasion_ec.4
+		cymmerian_invasion_ec.5
 		#Units
 		units_allowance_events.1
 		#Modded events 

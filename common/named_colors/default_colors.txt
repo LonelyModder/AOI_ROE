@@ -172,6 +172,7 @@ colors = {
 	SYRIA_COLOR = rgb { 13 186 59 }
 	ISRAEL_COLOR = rgb { 35 160 222 }
 	KHATTE_COLOR = rgb { 158 99 44 }
+	TABAL_COLOR = rgb { 214 167 13 }
 	#Event Colors
 	KAlessian_color = rgb { 186 19 13 }
 	

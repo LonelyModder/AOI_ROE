@@ -1288,6 +1288,8 @@
  GBO:0 "Mushkia"
  GBO_ADJ:0 "Mushkian"
  #Modded Formables
+ TABAL_NAME:0 "Tabal"
+ TABAL_ADJECTIVE:0 "Tabalite"
  CYLICIA_NAME:0 "Cylicia"
  CYLICIA_ADJECTIVE:0 "Cylician"
  Unisrael_Name:0 "Israel"
