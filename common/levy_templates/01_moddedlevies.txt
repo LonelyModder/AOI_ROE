@@ -251,7 +251,7 @@ levy_kebabiya = { #arab militia
 
 #Scythian
 
-levy_nomadoilevy_kebabiya = { #scythian militia
+levy_nomadoi = { #scythian militia
 	default = no
 
 	ia_archers = 0.2
