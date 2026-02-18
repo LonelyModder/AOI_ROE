@@ -447,6 +447,10 @@
  assyria_01_mesopotamia_1.16.desc:0 "Our fears has just matirialised. Assyrian army capruted Damascus and have open road into Canaan. We know that all those who bend the knee will live but if they will feel secure in the region won't they outright annex our territory?"
  assyria_01_mesopotamia_1.16.a:0 "We are too weak to oppose them."
  assyria_01_mesopotamia_1.16.b:0 "We will never bow before them."
+ #Lydia
+ lydia_01_anatolia_1.1.t:0 "Lydian Lions"
+ lydia_01_anatolia_1.1.desc:0 "In anatolia we have access to a number of gold mines. Gold, as a rare metal, could serve as an intermediate commodity serving as an intermediary in the exchange of goods. This could greatly boost our economy. We even have first project of a new round object with roaring lion carved on it."
+ lydia_01_anatolia_1.1.a:0 "Let's call them Lydian Lions."
  #Cymmerian Migration into Anatolia
  cymmerian_invasion_ec.1.t:0 "Cymmerians Invading"
  cymmerian_invasion_ec.1.desc:0 "The rumours were true. The Cymmerians are on the move once again and our realm is the target of their migration. Tempted by the riches of anatolian cities and chased out of their homes by the scythians Gimmiri do not have any other choice but to claim new home by the right of conquest."

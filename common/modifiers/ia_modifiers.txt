@@ -55,6 +55,23 @@ assyria_1_victory = {
 	happiness_for_same_religion_modifier = 0.12
 }
 
+lydia_1_starts = {
+	land_morale_modifier = 0.1
+	agressive_expansion_impact = -0.75
+	agressive_expansion_monthly_change = -0.05
+}
+
+lydia_1_victory = {
+	ruler_popularity_gain = 0.1
+	happiness_for_same_culture_modifier = 0.07
+	happiness_for_same_religion_modifier = 0.12
+}
+
+lydian_economic_boom = {
+	global_tax_modifier = 0.1
+	global_commerce_modifier = 0.12
+}
+
 #invasions
 cymmerian_invasion_modifier = {
     land_morale_modifier = -0.5
@@ -63,7 +80,7 @@ cymmerian_invasion_modifier = {
 }
 
 lepontic_invasion_modifier = {
-    levy_size_multiplier = 0.25
+    levy_size_multiplier = 0.2
 	land_morale_modifier = 0.2
 	discipline = 0.2
 	agressive_expansion_impact = -0.75

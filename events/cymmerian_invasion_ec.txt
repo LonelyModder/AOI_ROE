@@ -14,11 +14,26 @@ cymmerian_invasion_ec.1 = {
 	}
 	
 	immediate = { 
-		name = "cymmerian_invasion_ec.1.a"
 		#Invading Cymmerians
 		p:3268 = { #Turaka Tribe
 			while = {
-                count = 80
+                count = 5
+                define_pop = {
+					type = nobles
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 10
+                define_pop = {
+					type = citizen
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 65
                 define_pop = {
 					type = tribesmen
 					culture = cymmeric
@@ -28,7 +43,7 @@ cymmerian_invasion_ec.1 = {
 			while = {
                 count = 20
                 define_pop = {
-					type = slave
+					type = slaves
 					culture = cymmeric
 					religion = scythic_pantheon
                 }
@@ -111,7 +126,23 @@ cymmerian_invasion_ec.1 = {
 		}
 		p:3260 = { #Ugrata Tribe
 			while = {
-                count = 80
+                count = 5
+                define_pop = {
+					type = nobles
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 10
+                define_pop = {
+					type = citizen
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 65
                 define_pop = {
 					type = tribesmen
 					culture = cymmeric
@@ -121,11 +152,11 @@ cymmerian_invasion_ec.1 = {
 			while = {
                 count = 20
                 define_pop = {
-					type = slave
+					type = slaves
 					culture = cymmeric
 					religion = scythic_pantheon
                 }
-            } 
+            }
 			create_country = {
 				change_government = despotic_monarchy
 				set_primary_culture = cymmeric
@@ -198,7 +229,23 @@ cymmerian_invasion_ec.1 = {
 		}
 		p:3178 = { #Spadana Tribe
 			while = {
-                count = 80
+                count = 5
+                define_pop = {
+					type = nobles
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 10
+                define_pop = {
+					type = citizen
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 65
                 define_pop = {
 					type = tribesmen
 					culture = cymmeric
@@ -208,11 +255,11 @@ cymmerian_invasion_ec.1 = {
 			while = {
                 count = 20
                 define_pop = {
-					type = slave
+					type = slaves
 					culture = cymmeric
 					religion = scythic_pantheon
                 }
-            } 
+            }
 			create_country = {
 				change_government = despotic_monarchy
 				set_primary_culture = cymmeric
@@ -331,10 +378,24 @@ cymmerian_invasion_ec.3 = {
 		p:3268 = { #Turaka Tribe
 			create_country = {
 				change_government = despotic_monarchy #New Government?
-				set_primary_culture = cymmeric
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = cymmeric
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = cymmeric
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
 				set_country_religion = scythic_pantheon
 				change_country_name = "AnatolianCymmeria_NAME"
 				change_country_adjective = "AnatolianCymmeria_ADJECTIVE"
+			}
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
 			}
 		}
 		every_owned_province = {
@@ -366,10 +427,24 @@ cymmerian_invasion_ec.4 = {
 		p:3260 = { #Ugrata Tribe
 			create_country = {
 				change_government = despotic_monarchy #New Government?
-				set_primary_culture = cymmeric
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = cymmeric
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = cymmeric
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
 				set_country_religion = scythic_pantheon
 				change_country_name = "AnatolianCymmeria1_NAME"
 				change_country_adjective = "AnatolianCymmeria1_ADJECTIVE"
+			}
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
 			}
 		}
 		every_owned_province = {
@@ -401,10 +476,24 @@ cymmerian_invasion_ec.5 = {
 		p:3178 = { #Spadana Tribe
 			create_country = {
 				change_government = despotic_monarchy #New Government?
-				set_primary_culture = cymmeric
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = cymmeric
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = cymmeric
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
 				set_country_religion = scythic_pantheon
 				change_country_name = "AnatolianCymmeria2_NAME"
 				change_country_adjective = "AnatolianCymmeria2_ADJECTIVE"
+			}
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
 			}
 		}
 		every_owned_province = {
