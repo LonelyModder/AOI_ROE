@@ -91,7 +91,7 @@
 		duration = 60
 		
 		allow = {
-			
+			political_influence > 20
 		}
 		
 		highlight = {
@@ -99,16 +99,78 @@
 		}
 		
 		on_start = {
-			
+			show_as_tooltip = { 
+				add_political_influence = -20
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			trigger_event = { id = lydia_01_anatolia_1.2 }
 		}
 		
 		on_completion = {
-			trigger_event = { id = lydia_01_anatolia_1.2 }
+			trigger_event = { id = lydia_01_anatolia_1.6 }
+		}
+	}
+	
+	lydia_01_anatolia_3 = { # Carian Allies
+		requires = { lydia_01_anatolia_2 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 20
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -20
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			trigger_event = { id = lydia_01_anatolia_1.7 }
+		}
+		
+		on_completion = {
+			
+		}
+	}
+	
+	lydia_01_anatolia_4 = { # Greeks
+		requires = { lydia_01_anatolia_3 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 20
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -20
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			trigger_event = { id = lydia_01_anatolia_1.11 }
+		}
+		
+		on_completion = {
+			
 		}
 	}
 	
 	lydia_01_anatolia_99 = { # Lords of Asia
-		requires = { lydia_01_anatolia_1 } 
+		requires = { lydia_01_anatolia_1 lydia_01_anatolia_4 } 
 		icon = task_conquest
 		#duration = 30
 		

@@ -20,6 +20,9 @@
  AssyriaINTRO:0 "#T Assyria#!\nDifficulty: #Y EASY#!\n\n During the events of the Bronze Age Collapse Assyria was luckier than the nations near the Mediterrainean Coast and wasn't on the path of the migrating Sea Peoples. Yet after the fall of Levant Aramean tribes filled the power vacuum and spread throuthout the middle east. After years of conflict Assyrians managed to halt their advance and began the counteroffensive. Now with their homeland secured and army in full strangth they found themselves as the last great brone age power left standing. That means no one stands before Assyria and the conquest of Mesopotamia. Time to give the title King of the World meaning!."
  Assyria:0 "Assyria"
  Assyria2:0 "Assyria"
+ LydiaINTRO:0 "#T Lydia#!\nDifficulty: #Y MEDIUM#!\n\n Lydia lately is in a difficult position surrounded by enemies with more on their way as rumors spread about potential nomadic invasion. Yet the kingdom is strong, united and maybe not as lonely as they think they are. Thou Phrygians are scarry they have issues of their own and with enemies fighting each other Lydia will have unique opportunity to dominate anatolian peninsula."
+ Lydia:0 "Lydia"
+ Lydia2:0 "Lydia"
  
  owns_any_neighboring_province:0 "Owns any neighbour province"
  owns_any_neighboring_province_culture:0 "Any owned #Y neighbour#! province must fulfill one of the following: \n  Dominant province culture is an #Y integrated#! culture \n  Dominant province culture is #Y [THIS.GetProvince.GetCulture.GetName]#!"
@@ -32,6 +35,8 @@
  #Modifier text
  osasis:0 "Oasis"
  osasis_desc:0 "The only water source in the desert and also the only permanent place to live in this harsh enviroment."
+ greek_mercs_in_lydia:0 "Greek Mercenaries"
+ desc_greek_mercs_in_lydia:0 "Greeks are one of the best mercenaries in the world. Their infantry is best in the region. Lately they proposed a dicount on their services."
  lepontic_invasion_modifier:0 "Mobilisation"
  desc_lepontic_invasion_modifier:0 "Under extreme circumstances all available males (and in some cultures like scythians females) are mobilised for war."
  cymmerian_invasion_modifier:0 "Horde Invades"

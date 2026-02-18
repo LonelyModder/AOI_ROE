@@ -8,6 +8,21 @@ cymmerian_pic_1 = {
 	picture = "gfx/interface/event_window/cymmerian_pic_1.dds"
 }
 
+cymmerian_pic_1 = {
+	theme = Honor
+	picture = "gfx/interface/event_window/cymmerian_pic_1.dds"
+}
+
+lydia_pic_1 = {
+	theme = Honor
+	picture = "gfx/interface/event_window/lydia_pic_1.dds"
+}
+
+lydia_pic_2 = {
+	theme = Honor
+	picture = "gfx/interface/event_window/lydia_pic_2.dds"
+}
+
 latium_pic_1 = {
 	theme = Honor
 	picture = "gfx/interface/event_window/latium_pic_1.dds"

@@ -80,12 +80,16 @@ cymmerian_invasion_modifier = {
 }
 
 lepontic_invasion_modifier = {
-    levy_size_multiplier = 0.2
+    levy_size_multiplier = 0.25
 	land_morale_modifier = 0.2
 	discipline = 0.2
 	agressive_expansion_impact = -0.75
 	agressive_expansion_monthly_change = -0.05
 	#global_tax_modifier
+}
+
+greek_mercs_in_lydia = {
+    mercenary_maintenance_cost = -0.5
 }
 
 #Colonization
