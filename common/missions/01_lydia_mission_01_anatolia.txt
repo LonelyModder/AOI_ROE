@@ -169,8 +169,36 @@
 		}
 	}
 	
+	lydia_01_anatolia_5 = { # Treres
+		requires = { lydia_01_anatolia_4 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			treasury > 100
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_treasury = 100
+			}
+			hidden_effect = { 
+				add_treasury = 100
+			}
+			trigger_event = { id = lydia_01_anatolia_1.15 }
+		}
+	}
+	
 	lydia_01_anatolia_99 = { # Lords of Asia
-		requires = { lydia_01_anatolia_1 lydia_01_anatolia_4 } 
+		requires = { lydia_01_anatolia_1 lydia_01_anatolia_5 } 
 		icon = task_conquest
 		#duration = 30
 		

@@ -141,7 +141,7 @@ lydia_01_anatolia_1.7 = {
 	title = "lydia_01_anatolia_1.7.t"
 	desc = "lydia_01_anatolia_1.7.desc"
 	fire_only_once = yes
-	picture = lydia_pic_1
+	picture = lydia_pic_3
 	
 	trigger = {
 		tag=GAC
@@ -164,7 +164,7 @@ lydia_01_anatolia_1.8 = {
 	title = "lydia_01_anatolia_1.8.t"
 	desc = "lydia_01_anatolia_1.8.desc"
 	fire_only_once = yes
-	picture = lydia_pic_1
+	picture = lydia_pic_3
 	
 	trigger = {
 		tag=GAD
@@ -207,7 +207,7 @@ lydia_01_anatolia_1.9 = {
 	title = "lydia_01_anatolia_1.9.t"
 	desc = "lydia_01_anatolia_1.9.desc"
 	fire_only_once = yes
-	picture = lydia_pic_1
+	picture = lydia_pic_3
 	
 	trigger = {
 		tag=GAC
@@ -224,7 +224,7 @@ lydia_01_anatolia_1.10 = {
 	title = "lydia_01_anatolia_1.10.t"
 	desc = "lydia_01_anatolia_1.10.desc"
 	fire_only_once = yes
-	picture = lydia_pic_1
+	picture = lydia_pic_3
 	
 	trigger = {
 		tag=GAC
@@ -236,6 +236,163 @@ lydia_01_anatolia_1.10 = {
 		c:GAD = {
 			every_owned_province = {
 				add_claim = c:GAC
+			}
+		}
+	}
+}
+
+lydia_01_anatolia_1.11 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.11.t"
+	desc = "lydia_01_anatolia_1.11.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.11.a"
+		set_global_variable = {
+			name = greek_subjects_of_lydia
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.12
+			days = 30
+		}
+	}
+}
+
+lydia_01_anatolia_1.12 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.12.t"
+	desc = "lydia_01_anatolia_1.12.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		country_culture_group = grekoid
+		capital_scope = { is_in_region = modded_ionia_region }
+		has_global_variable = greek_subjects_of_lydia
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.12.a"
+		c:GAC = {
+            make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+		trigger_event = { 
+			id = lydia_01_anatolia_1.13
+			days = 30
+		}
+		ai_chance = { factor = 70 }
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.12.a"
+		root = {
+			every_owned_province = {
+				add_claim = c:GAC
+			}
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.14
+			days = 30
+		}
+		ai_chance = { factor = 30 }
+	}
+}
+
+lydia_01_anatolia_1.13 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.13.t"
+	desc = "lydia_01_anatolia_1.13.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.13.a"
+	}
+}
+
+lydia_01_anatolia_1.14 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.14.t"
+	desc = "lydia_01_anatolia_1.14.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.14.a"
+	}
+}
+
+lydia_01_anatolia_1.15 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.15.t"
+	desc = "lydia_01_anatolia_1.15.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.15.a"
+		c:GAY = {
+			every_owned_province = {
+				add_claim = c:GAC
+			}
+		}
+		p:2649 = { #Treres Tribe
+			while = {
+                count = 65
+                define_pop = {
+					type = tribesmen
+					culture = brygian
+					religion = thracic_pantheon
+                }
+            } 
+			create_country = {
+				change_government = tribal_kingdom
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = brygian
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = brygian
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
+				set_country_religion = thracic_pantheon
+				change_country_name = "TRERES_NAME"
+				change_country_adjective = "TRERES_ADJECTIVE"
+			}
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
+			}
+		}
+		p:2649.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:2652
+				target = p:2652.owner
 			}
 		}
 	}

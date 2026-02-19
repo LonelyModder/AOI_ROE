@@ -23,6 +23,11 @@ lydia_pic_2 = {
 	picture = "gfx/interface/event_window/lydia_pic_2.dds"
 }
 
+lydia_pic_3 = {
+	theme = Honor
+	picture = "gfx/interface/event_window/lydia_pic_3.dds"
+}
+
 latium_pic_1 = {
 	theme = Honor
 	picture = "gfx/interface/event_window/latium_pic_1.dds"
