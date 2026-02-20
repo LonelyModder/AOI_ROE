@@ -178,6 +178,7 @@
  #Scythian
  scythic:2 "Scythian"
  cymmeric:0 "Cymmerian"
+ sscythian:0 "Scythian"
  scythic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  scythic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Caucasian

@@ -30,7 +30,7 @@
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
  patch_notes:0 "Part V: Gold and Iron"
- patch_notes_text:0 "What's new:\n- Remade Anatolia just before the Cymmerian Invasion. \n- 572 new land provinces (3364 provinces in total)."
+ patch_notes_text:0 "What's new:\n- Remade Anatolia just before the Cymmerian Invasion. \n- 572 new land provinces (3364 provinces in total). \n- 2 new cultures in form of caucasian tribes of north-eastern Anatolia and the scythian hordes. \n- New invasion events like the cymmerian migration, treres assault throu bosphorus and scythian intervention. \n- Lydian mission tree."
  
  #Modifier text
  osasis:0 "Oasis"
@@ -39,6 +39,8 @@
  desc_greek_mercs_in_lydia:0 "Greeks are one of the best mercenaries in the world. Their infantry is best in the region. Lately they proposed a dicount on their services."
  lepontic_invasion_modifier:0 "Mobilisation"
  desc_lepontic_invasion_modifier:0 "Under extreme circumstances all available males (and in some cultures like scythians females) are mobilised for war."
+ scythian_invasion_modifier:0 "Scythian Expetition"
+ desc_scythian_invasion_modifier:0 "Taking Lydian offer Scythian host crossed the Caucasus and invaded Anatolia. Scythians thou didn't intend to withdrew after assisting the Lydians but the ultimate goal was invasion of the former Phrygian territory."
  cymmerian_invasion_modifier:0 "Horde Invades"
  desc_cymmerian_invasion_modifier:0 "Our country was invaded by the steppe horde and is the subject of their brutal tactics. The morale is shaken and soldiers spread the tale of their atrocities."
  latium_1_starts:0 "Latins Mobilise"

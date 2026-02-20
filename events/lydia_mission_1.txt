@@ -281,7 +281,7 @@ lydia_01_anatolia_1.12 = {
 		name = "lydia_01_anatolia_1.12.a"
 		c:GAC = {
             make_subject = {
-                type = feudatory
+                type = tributary
                 target = root
             }
         }
@@ -395,6 +395,12 @@ lydia_01_anatolia_1.15 = {
 				target = p:2652.owner
 			}
 		}
+		set_global_variable = {
+			name = trerian_brotherly_aid
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.19
+		}
 	}
 }
 
@@ -416,5 +422,152 @@ lydia_01_anatolia_1.16 = {
 				add_claim = c:GAC
 			}
 		}
+	}
+}
+
+lydia_01_anatolia_1.17 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.17.t"
+	desc = "lydia_01_anatolia_1.17.desc"
+	fire_only_once = yes
+	picture = lydia_pic_4
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.17.a"
+		p:3337 = { #Scythia
+			while = {
+                count = 65
+                define_pop = {
+					type = tribesmen
+					culture = sscythian
+					religion = scythic_pantheon
+                }
+            }
+			create_country = {
+				change_government = despotic_monarchy
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = sscythian
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = sscythian
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
+				set_country_religion = thracic_pantheon
+				change_country_name = "SCYTHIANH_NAME"
+				change_country_adjective = "SCYTHIANH_ADJECTIVE"
+			}
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
+			}
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = engineer_cohort
+						add_subunit = engineer_cohort
+						add_subunit = supply_train
+						add_subunit = supply_train
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+					}
+				}
+			}
+			every_unit = {
+				add_food = 100
+			}
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
+			}
+		}
+		p:3337.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:3338
+				target = p:3338.owner
+			}
+		}
+		set_global_variable = {
+			name = scythian_brotherly_aid
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.18
+		}
+	}
+}
+
+lydia_01_anatolia_1.18 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.18.t"
+	desc = "lydia_01_anatolia_1.18.desc"
+	fire_only_once = yes
+	picture = lydia_pic_4
+	
+	trigger = {
+		has_global_variable = scythian_brotherly_aid
+		NOT = { tag=GAC }
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.16.a"
+	}
+}
+
+lydia_01_anatolia_1.19 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.19.t"
+	desc = "lydia_01_anatolia_1.19.desc"
+	fire_only_once = yes
+	picture = celtic_chiefs
+	
+	trigger = {
+		has_global_variable = trerian_brotherly_aid
+		NOT = { tag=GAC }
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.19.a"
 	}
 }

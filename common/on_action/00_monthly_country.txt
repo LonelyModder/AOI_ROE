@@ -86,6 +86,8 @@
 		lydia_01_anatolia_1.9
 		lydia_01_anatolia_1.10
 		lydia_01_anatolia_1.12
+		lydia_01_anatolia_1.18
+		lydia_01_anatolia_1.19
 		#Units
 		units_allowance_events.1
 		#Modded events 
