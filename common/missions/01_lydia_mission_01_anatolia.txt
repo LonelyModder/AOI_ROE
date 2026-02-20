@@ -243,6 +243,11 @@
 		allow = {
 			treasury > 100
 			c:GAY = { exists = no }
+			OR = {
+				p:3268.owner = { religion = scythic_pantheon }
+				p:3260.owner = { religion = scythic_pantheon }
+				p:3178.owner = { religion = scythic_pantheon }
+			}
 		}
 		
 		highlight = {
