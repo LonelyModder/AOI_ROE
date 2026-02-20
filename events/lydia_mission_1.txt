@@ -439,14 +439,6 @@ lydia_01_anatolia_1.17 = {
 	option = { 
 		name = "lydia_01_anatolia_1.17.a"
 		p:3337 = { #Scythia
-			while = {
-                count = 65
-                define_pop = {
-					type = tribesmen
-					culture = sscythian
-					religion = scythic_pantheon
-                }
-            }
 			create_country = {
 				change_government = despotic_monarchy
 				if = {
@@ -463,10 +455,6 @@ lydia_01_anatolia_1.17 = {
 				set_country_religion = thracic_pantheon
 				change_country_name = "SCYTHIANH_NAME"
 				change_country_adjective = "SCYTHIANH_ADJECTIVE"
-			}
-			add_country_modifier = {
-				name = lepontic_invasion_modifier
-				duration = 14600
 			}
 			capital_scope.governorship = {
 				raise_legion = {
@@ -518,7 +506,7 @@ lydia_01_anatolia_1.17 = {
 				add_food = 100
 			}
 			add_country_modifier = {
-				name = lepontic_invasion_modifier
+				name = scythian_invasion_modifier
 				duration = 14600
 			}
 		}
