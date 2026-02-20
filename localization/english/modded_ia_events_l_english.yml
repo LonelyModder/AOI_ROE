@@ -496,7 +496,9 @@
  lydia_01_anatolia_1.15.t:0 "Treres"
  lydia_01_anatolia_1.15.desc:0 "Our northward expansion has been halted by an unexpected obstacle. Mysians, being related to Phrygians, have been under the protection of Phrygian empire for more than a century now and their forces are substancial. But what if we could be able to create a distraction? On the other side of Bosphorus there are many dangerous tribes."
  lydia_01_anatolia_1.15.a:0 "One may be strong enaugh to deal with the mysians for us."
- 
+ lydia_01_anatolia_1.16.t:0 "Phrygians"
+ lydia_01_anatolia_1.16.desc:0 "Phrygians controlled the central plains for far too long. Those lands belong to us. Time to defeat these foreign hordes and chase them back to Thrace!"
+ lydia_01_anatolia_1.16.desc:0 "For Sfarda!"
  #Cymmerian Migration into Anatolia
  cymmerian_invasion_ec.1.t:0 "Cymmerians Invading"
  cymmerian_invasion_ec.1.desc:0 "The rumours were true. The Cymmerians are on the move once again and our realm is the target of their migration. Tempted by the riches of anatolian cities and chased out of their homes by the scythians Gimmiri do not have any other choice but to claim new home by the right of conquest."

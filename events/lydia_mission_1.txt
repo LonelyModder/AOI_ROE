@@ -397,3 +397,24 @@ lydia_01_anatolia_1.15 = {
 		}
 	}
 }
+
+lydia_01_anatolia_1.16 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.16.t"
+	desc = "lydia_01_anatolia_1.16.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.16.a"
+		c:GAL = {
+			every_owned_province = {
+				add_claim = c:GAC
+			}
+		}
+	}
+}

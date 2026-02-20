@@ -1327,6 +1327,8 @@
  KHATTE_NAME:0 "Hittite Empire"
  KHATTE_ADJECTIVE:0 "Hittite"
  #Event Names
+ TRERES_NAME:0 "Treria"
+ TRERES_ADJECTIVE:0 "Trerian"
  AnatolianCymmeria_NAME:0 "Turaka"
  AnatolianCymmeria_ADJECTIVE:0 "Turakan"
  AnatolianCymmeria1_NAME:0 "Ugrata"
