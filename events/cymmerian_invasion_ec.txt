@@ -1,0 +1,507 @@
+﻿namespace = cymmerian_invasion_ec
+
+cymmerian_invasion_ec.1 = {  
+	type = country_event
+	title = "cymmerian_invasion_ec.1.t"
+	desc = "cymmerian_invasion_ec.1.desc"
+	fire_only_once = yes
+	picture = cymmerian_pic_1
+	
+	trigger = {
+		owns = 3266
+		current_date >= 470.4.1 # 470.4.1
+		NOT = {has_global_variable = cymmerians_in_anatolia}
+	}
+	
+	immediate = { 
+		#Invading Cymmerians
+		p:3268 = { #Turaka Tribe
+			while = {
+                count = 5
+                define_pop = {
+					type = nobles
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 10
+                define_pop = {
+					type = citizen
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 65
+                define_pop = {
+					type = tribesmen
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 20
+                define_pop = {
+					type = slaves
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			create_country = {
+				change_government = despotic_monarchy #New Government?
+				set_primary_culture = cymmeric
+				set_country_religion = scythic_pantheon
+				change_country_name = "AnatolianCymmeria_NAME"
+				change_country_adjective = "AnatolianCymmeria_ADJECTIVE"
+			}
+		}
+		p:3264.owner = {
+			add_country_modifier = {
+				name = cymmerian_invasion_modifier
+				duration = 14600
+			}
+		}
+		p:3268.owner = {
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
+			}
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = engineer_cohort
+						add_subunit = engineer_cohort
+						add_subunit = supply_train
+						add_subunit = supply_train
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+					}
+				}
+			}
+			every_unit = {
+				add_food = 100
+			}
+		}
+		p:3268.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:3266
+				target = p:3266.owner
+			}
+		}
+		p:3260 = { #Ugrata Tribe
+			while = {
+                count = 5
+                define_pop = {
+					type = nobles
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 10
+                define_pop = {
+					type = citizen
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 65
+                define_pop = {
+					type = tribesmen
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 20
+                define_pop = {
+					type = slaves
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            }
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = cymmeric
+				set_country_religion = scythic_pantheon
+				change_country_name = "AnatolianCymmeria1_NAME"
+				change_country_adjective = "AnatolianCymmeria1_ADJECTIVE"
+			}
+		}
+		p:3260.owner = {
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
+			}
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = engineer_cohort
+						add_subunit = engineer_cohort
+						add_subunit = supply_train
+						add_subunit = supply_train
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+					}
+				}
+			}
+			every_unit = {
+				add_food = 100
+			}
+		}
+		p:3260.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:3258
+				target = p:3258.owner
+			}
+		}
+		p:3178 = { #Spadana Tribe
+			while = {
+                count = 5
+                define_pop = {
+					type = nobles
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 10
+                define_pop = {
+					type = citizen
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 65
+                define_pop = {
+					type = tribesmen
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            } 
+			while = {
+                count = 20
+                define_pop = {
+					type = slaves
+					culture = cymmeric
+					religion = scythic_pantheon
+                }
+            }
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = cymmeric
+				set_country_religion = scythic_pantheon
+				change_country_name = "AnatolianCymmeria2_NAME"
+				change_country_adjective = "AnatolianCymmeria2_ADJECTIVE"
+			}
+		}
+		p:3178.owner = {
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
+			}
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = engineer_cohort
+						add_subunit = engineer_cohort
+						add_subunit = supply_train
+						add_subunit = supply_train
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+					}
+				}
+			}
+			every_unit = {
+				add_food = 100
+			}
+		}
+		p:3178.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:3177
+				target = p:3177.owner
+			}
+		}
+		set_global_variable = {
+			name = cymmerians_in_anatolia
+		}
+	}
+	
+	option = { 
+		name = "cymmerian_invasion_ec.1.a"
+	}
+}
+
+cymmerian_invasion_ec.2 = {  
+	type = country_event
+	title = "cymmerian_invasion_ec.2.t"
+	desc = "cymmerian_invasion_ec.2.desc"
+	fire_only_once = yes
+	picture = cymmerian_pic_1
+	
+	trigger = {
+		has_global_variable = cymmerians_in_anatolia
+		NOT = { owns = 3264 }
+		#current_date <= 438.6.1 # 470.6.1
+	}
+	
+	option = { 
+		name = "cymmerian_invasion_ec.2.a"
+	}
+}
+
+cymmerian_invasion_ec.3 = {  
+	type = country_event
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = cymmeric
+		war = no
+		owns = 3268 #Turaka Tribe
+		p:3268 = {
+			is_capital = yes
+		}
+		is_ai = yes
+		NOT = { has_global_variable = turaka_landed }
+	}
+	
+	immediate = { 
+		p:3268 = { #Turaka Tribe
+			create_country = {
+				change_government = despotic_monarchy #New Government?
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = cymmeric
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = cymmeric
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
+				set_country_religion = scythic_pantheon
+				change_country_name = "AnatolianCymmeria_NAME"
+				change_country_adjective = "AnatolianCymmeria_ADJECTIVE"
+			}
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
+			}
+		}
+		every_owned_province = {
+			set_conquered_by = p:3268.owner
+		}
+		set_global_variable = {
+			name = turaka_landed
+		}
+	}
+}
+
+cymmerian_invasion_ec.4 = {  
+	type = country_event
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = cymmeric
+		war = no
+		owns = 3260 #Ugrata Tribe
+		p:3260 = {
+			is_capital = yes
+		}
+		is_ai = yes
+		NOT = { has_global_variable = ugrata_landed }
+	}
+	
+	immediate = { 
+		p:3260 = { #Ugrata Tribe
+			create_country = {
+				change_government = despotic_monarchy #New Government?
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = cymmeric
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = cymmeric
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
+				set_country_religion = scythic_pantheon
+				change_country_name = "AnatolianCymmeria1_NAME"
+				change_country_adjective = "AnatolianCymmeria1_ADJECTIVE"
+			}
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
+			}
+		}
+		every_owned_province = {
+			set_conquered_by = p:3260.owner
+		}
+		set_global_variable = {
+			name = ugrata_landed
+		}
+	}
+}
+
+cymmerian_invasion_ec.5 = {  
+	type = country_event
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = cymmeric
+		war = no
+		owns = 3178 #Spadana Tribe
+		p:3178 = {
+			is_capital = yes
+		}
+		is_ai = yes
+		NOT = { has_global_variable = spadana_landed }
+	}
+	
+	immediate = { 
+		p:3178 = { #Spadana Tribe
+			create_country = {
+				change_government = despotic_monarchy #New Government?
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = cymmeric
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = cymmeric
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
+				set_country_religion = scythic_pantheon
+				change_country_name = "AnatolianCymmeria2_NAME"
+				change_country_adjective = "AnatolianCymmeria2_ADJECTIVE"
+			}
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
+			}
+		}
+		every_owned_province = {
+			set_conquered_by = p:3178.owner
+		}
+		set_global_variable = {
+			name = spadana_landed
+		}
+	}
+}
+

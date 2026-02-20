@@ -1,0 +1,218 @@
+﻿caucasian_philosophy = { 
+	color = hsv { 1.1 1 0.5 }
+	image = celtic_britannic_path_5
+	
+	allow = {
+		trigger_if = {
+			limit = {
+				OR = {
+					country_culture_group = hazzian
+					country_culture_group = caucasic
+				}				
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			OR = {
+				country_culture_group = hazzian
+				country_culture_group = caucasic
+			}
+		}
+		trigger_else_if = {
+			limit = {
+				AND = {
+					OR = {
+						has_military_bonus = nuragian_path_end_bonus
+						has_military_bonus = westsemite_path_end_bonus
+						has_military_bonus = illyrian_path_end_bonus
+						has_military_bonus = grekoid_path_end_bonus
+						has_military_bonus = italian_path_end_bonus
+						has_military_bonus = thracian_path_end_bonus
+						has_military_bonus = libyan_path_end_bonus
+						has_military_bonus = nubian_path_end_bonus
+						has_military_bonus = egyptian_path_end_bonus
+						has_military_bonus = arabian_path_end_bonus
+						has_military_bonus = assyrian_path_end_bonus
+						has_military_bonus = anatolian_path_end_bonus
+						has_military_bonus = nomadic_path_end_bonus
+						has_military_bonus = arabian_path_end_bonus
+					}
+					any_country_culture = {
+						is_integrated = yes
+						OR = {
+							this.culture.culture_group = culture_group:hazzian	
+							this.culture.culture_group = culture_group:caucasic
+						}
+					}
+				}
+			}
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = nubian_path_end_bonus
+					has_military_bonus = egyptian_path_end_bonus
+					has_military_bonus = arabian_path_end_bonus
+					has_military_bonus = assyrian_path_end_bonus
+					has_military_bonus = anatolian_path_end_bonus
+					has_military_bonus = nomadic_path_end_bonus
+					has_military_bonus = arabian_path_end_bonus
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
+						OR = {
+							this.culture.culture_group = culture_group:hazzian	
+							this.culture.culture_group = culture_group:caucasic
+						}
+					}
+				}
+			}
+		}
+		trigger_else = {
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = nubian_path_end_bonus
+					has_military_bonus = egyptian_path_end_bonus
+					has_military_bonus = arabian_path_end_bonus
+					has_military_bonus = assyrian_path_end_bonus
+					has_military_bonus = anatolian_path_end_bonus
+					has_military_bonus = nomadic_path_end_bonus
+					has_military_bonus = arabian_path_end_bonus
+				}
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_akkadian"
+					any_country_culture = {
+						is_integrated = yes
+						OR = {
+							this.culture.culture_group = culture_group:hazzian	
+							this.culture.culture_group = culture_group:caucasic
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	caucasian_path_1 = { ###caucasian path
+		modifier = { 
+			ia_lightinfantry_morale = 0.1
+			ia_lightinfantry_offensive = 0.05
+		}
+		icon = celtic_britannic_path_5
+		requires = {}
+	}
+	
+	caucasian_path_2 = { ###caucasian path
+		modifier = { 
+			ia_hoplites_defensive = 0.1
+		}
+		enable_tactic = greek_phalanx
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_1}
+	}
+	
+	caucasian_path_3a = { ###caucasian path
+		modifier = { 
+			ia_chariots_morale = 0.1
+			ia_chariots_offensive = 0.1
+		}
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_2}
+	}
+	
+	caucasian_path_4a = { ###caucasian path
+		modifier = { 
+			ia_lancers_offensive = 0.1
+			ia_lancers_defensive = 0.05
+		}
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_3a}
+	}
+	
+	caucasian_path_5a = { ###caucasian path
+		modifier = { 
+			fort_maintenance_cost = -0.25
+		}
+		enable_ability = border_forts
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_4a}
+	}
+	
+	caucasian_path_6a = { ###caucasian path
+		modifier = { 
+			fort_limit = 1
+		}
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_5a}
+		on_activate = {
+			capital_scope = {
+				add_building_level = fortress_building
+			}
+		}
+	}
+	
+	caucasian_path_7a = { ###caucasian path
+		modifier = { 
+			hills_combat_bonus = 0.2
+		}
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_6a}
+	}
+	
+	caucasian_path_3b = { ###caucasian path
+		modifier = { 
+			ia_archers_offensive = 0.1
+			ia_archers_defensive = 0.1
+		}
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_2}
+	}
+	
+	caucasian_path_4b = { ###caucasian path
+		modifier = { 
+			ia_warriors_offensive = 0.1
+			ia_warriors_defensive = 0.05
+		}
+		enable_tactic = hit_and_run_tactics
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_3b}
+	}
+	
+	caucasian_path_5b = { ###caucasian path
+		modifier = { 
+			mountain_combat_bonus = 0.2
+		}
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_4b}
+	}
+	
+	caucasian_path_6b = { ###caucasian path
+		modifier = { 
+			levy_size_multiplier = 0.025
+		}
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_5b}
+	}
+	
+	caucasian_path_end_bonus = { ###caucasian path
+		modifier = { 
+			fort_maintenance_cost = -0.25
+		}
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_7a caucasian_path_6b}
+	}
+}

@@ -1,0 +1,202 @@
+﻿nomadic_philosophy = { 
+	color = hsv { 1.1 1 0.5 }
+	image = persian_scythian_path_3
+	
+	allow = {
+		trigger_if = {
+			limit = {
+				country_culture_group = scythic
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = scythic
+		}
+		trigger_else_if = {
+			limit = {
+				AND = {
+					OR = {
+						has_military_bonus = nuragian_path_end_bonus
+						has_military_bonus = westsemite_path_end_bonus
+						has_military_bonus = illyrian_path_end_bonus
+						has_military_bonus = grekoid_path_end_bonus
+						has_military_bonus = italian_path_end_bonus
+						has_military_bonus = thracian_path_end_bonus
+						has_military_bonus = libyan_path_end_bonus
+						has_military_bonus = nubian_path_end_bonus
+						has_military_bonus = egyptian_path_end_bonus
+						has_military_bonus = arabian_path_end_bonus
+						has_military_bonus = assyrian_path_end_bonus
+						has_military_bonus = anatolian_path_end_bonus
+						has_military_bonus = arabian_path_end_bonus
+						has_military_bonus = caucasian_path_end_bonus
+					}
+					any_country_culture = {
+						is_integrated = yes
+						this.culture.culture_group = culture_group:scythic
+					}
+				}
+			}
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = nubian_path_end_bonus
+					has_military_bonus = egyptian_path_end_bonus
+					has_military_bonus = arabian_path_end_bonus
+					has_military_bonus = assyrian_path_end_bonus
+					has_military_bonus = anatolian_path_end_bonus
+					has_military_bonus = arabian_path_end_bonus
+					has_military_bonus = caucasian_path_end_bonus
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
+						this.culture.culture_group = culture_group:scythic
+					}
+				}
+			}
+		}
+		trigger_else = {
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = nubian_path_end_bonus
+					has_military_bonus = egyptian_path_end_bonus
+					has_military_bonus = arabian_path_end_bonus
+					has_military_bonus = assyrian_path_end_bonus
+					has_military_bonus = anatolian_path_end_bonus
+					has_military_bonus = arabian_path_end_bonus
+					has_military_bonus = caucasian_path_end_bonus
+				}
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_akkadian"
+					any_country_culture = {
+						is_integrated = yes
+						this.culture.culture_group = culture_group:scythic
+					}
+				}
+			}
+		}
+	}
+	
+	nomadic_path_1 = { ###nomadic path
+		modifier = { 
+			movement_speed_if_no_road = 0.3
+		}
+		icon = persian_scythian_path_3
+		requires = {}
+	}
+	
+	nomadic_path_2 = { ###nomadic path
+		modifier = { 
+			ia_chariots_offensive = 0.2
+			ia_chariots_defensive = 0.2
+		}
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_1}
+	}
+	
+	nomadic_path_3 = { ###nomadic path
+		modifier = { 
+			plains_combat_bonus = 0.15
+		}
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_2}
+	}
+
+	nomadic_path_4a = { ###nomadic path
+		modifier = { 
+			ia_archers_morale = 0.2
+			ia_archers_offensive = 0.15
+			ia_archers_defensive = 0.15
+		}
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_3}
+	}
+	
+	nomadic_path_5a = { ###nomadic path
+		modifier = { 
+			ia_horsearchers_morale = 0.15
+			ia_horsearchers_offensive = 0.15
+			ia_horsearchers_defensive = 0.15
+		}
+		enable_tactic = hit_and_run_tactics
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_4a}
+	}
+	
+	nomadic_path_6a = { ###nomadic path
+		modifier = { 
+			ia_lancers_morale = 0.15
+			ia_lancers_offensive = 0.15
+			ia_lancers_defensive = 0.15
+		}
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_5a}
+	}
+	
+	nomadic_path_7a = { ###nomadic path
+		modifier = { 
+			siege_ability = 0.25
+		}
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_6a}
+	}
+	
+	nomadic_path_4b = { ###nomadic path
+		modifier = { 
+			forest_combat_bonus = 0.2
+		}
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_3}
+	}
+	
+	nomadic_path_5b = { ###nomadic path
+		modifier = { 
+			ia_warriors_morale = 0.1
+			ia_warriors_offensive = 0.05
+			ia_warriors_defensive = 0.05
+		}
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_4b}
+	}
+	
+	nomadic_path_6b = { ###nomadic path
+		modifier = { 
+			ia_hoplites_morale = 0.1
+			discipline = 0.1
+		}
+		enable_tactic = greek_phalanx
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_5b}
+	}
+	
+	nomadic_path_7b = { ###nomadic path
+		modifier = { 
+			fort_maintenance_cost = -0.25
+		}
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_6b}
+	}
+	
+	nomadic_path_end_bonus = { ###nomadic path
+		modifier = { 
+			movement_speed_if_no_road = 0.4
+		}
+		icon = persian_scythian_path_3
+		requires = {nomadic_path_7a nomadic_path_7b}
+	}
+}

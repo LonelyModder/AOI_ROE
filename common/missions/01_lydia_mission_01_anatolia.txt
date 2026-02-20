@@ -1,0 +1,316 @@
+﻿lydia_01_anatolia = { # Between Rivers
+	icon = lydia_01_anatolia
+	header = mission_image_rome #mission_image_phrygia
+	
+	repeatable = no
+
+    chance = {
+		factor = 10
+	}
+	
+	ai_chance = { factor = 10 }
+
+	potential = { 
+		NOT = { has_variable = lydia_01_anatolia }
+		primary_culture = lydian
+		tag=GAC
+		is_monarchy = yes
+		is_subject = no
+		has_civil_war = no
+		NOT = { has_global_variable = lydia_fail }
+	}
+	
+	abort = {	
+		OR = {
+			NOT = { primary_culture = lydian }
+			custom_tooltip = {
+				text = lydia_01_anatolia_abort_tt
+				has_global_variable = lydia_fail
+			}
+			ai_mission_back_out_trigger = yes
+		}
+	}
+	
+	on_start = {
+    	start_mission_ai_effect = yes
+    	save_scope_as = me_lydia_scope
+		add_country_modifier = {
+	        name = lydia_1_starts
+	        duration = 3650 # 10 years
+	    }
+    }
+	
+	on_abort = {
+    	custom_tooltip = ant_1_mission_cooldown_tt
+    	if = {
+	    	limit = { has_country_modifier = lydia_1_starts }
+    		remove_country_modifier = lydia_1_starts
+	    }
+		set_variable = {
+			name =lydia_01_anatolia
+			days = 7300
+		}
+    }
+	
+	on_completion = {
+		add_country_modifier = {
+    		name = lydia_1_victory
+    		duration = 7300 # 20 years
+    	}
+    	complete_mission_effect = yes 
+    }
+	
+	
+	lydia_01_anatolia_1 = { # Lydian Lion
+		requires = { lydia_01_anatolia_6 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			capital_scope.state = {
+                trade_good_surplus = { target = precious_metals value >= 1 }
+            }
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = lydia_01_anatolia_1.1 }
+		}
+	}
+	
+	lydia_01_anatolia_2 = { # Looking for Help
+		requires = {  }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			political_influence > 10
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -10
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+			}
+			trigger_event = { id = lydia_01_anatolia_1.2 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = lydia_01_anatolia_1.6 }
+		}
+	}
+	
+	lydia_01_anatolia_3 = { # Carian Allies
+		requires = {  }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 10
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -10
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+			}
+			trigger_event = { id = lydia_01_anatolia_1.7 }
+		}
+		
+		on_completion = {
+			
+		}
+	}
+	
+	lydia_01_anatolia_4 = { # Greeks
+		requires = { lydia_01_anatolia_2 lydia_01_anatolia_3 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 10
+			OR = {
+				c:GAD = { is_subject_of = c:GAC }
+				c:GAD = { exists = no }
+			}
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -10
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+			}
+			trigger_event = { id = lydia_01_anatolia_1.11 }
+		}
+		
+		on_completion = {
+			
+		}
+	}
+	
+	lydia_01_anatolia_5 = { # Treres
+		requires = { lydia_01_anatolia_4 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			treasury > 100
+			owns_or_subject_owns = 2661 #Cyme
+			owns_or_subject_owns = 2640 #Ilion
+			owns_or_subject_owns = 2668 #Ephesus
+			owns_or_subject_owns = 2673 #Miletus
+			owns_or_subject_owns = 2674 #Halicarnassus
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_treasury = 100
+			}
+			hidden_effect = { 
+				add_treasury = 100
+			}
+			trigger_event = { id = lydia_01_anatolia_1.15 }
+		}
+	}
+	
+	lydia_01_anatolia_6 = { # Phrygians
+		requires = { lydia_01_anatolia_5 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			political_influence > 10
+			c:GAY = { exists = no }
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_political_influence = -10
+			}
+			hidden_effect = { 
+				add_political_influence = -10
+			}
+			trigger_event = { id = lydia_01_anatolia_1.16 }
+		}
+	}
+	
+	lydia_01_anatolia_7 = { # Scythians
+		requires = { lydia_01_anatolia_5 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			treasury > 100
+			c:GAY = { exists = no }
+			OR = {
+				p:3268.owner = { religion = scythic_pantheon }
+				p:3260.owner = { religion = scythic_pantheon }
+				p:3178.owner = { religion = scythic_pantheon }
+			}
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_treasury = 100
+			}
+			hidden_effect = { 
+				add_treasury = 100
+			}
+			trigger_event = { id = lydia_01_anatolia_1.16 }
+		}
+	}
+	
+	lydia_01_anatolia_99 = { # Lords of Asia
+		requires = { lydia_01_anatolia_6 } 
+		icon = task_conquest
+		#duration = 30
+		
+		allow = { #Change to Important Capitals!
+			owns = 2696 # Sardes
+			owns_or_subject_owns = 2946 # Gordion
+			owns_or_subject_owns = 2719 # Dyscyleion
+			owns_or_subject_owns = 3109 # Kios
+			owns_or_subject_owns = 3212 # Sinope
+			owns_or_subject_owns = 2675 # Mylasa
+			owns_or_subject_owns = 2898 # Pessinous
+			owns_or_subject_owns = 2859 # Isaura
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2696 # Sardes
+					province_id = 2946 # Gordion
+					province_id = 2719 # Dyscyleion
+					province_id = 3109 # Kios
+					province_id = 3212 # Sinope
+					province_id = 2675 # Mylasa
+					province_id = 2898 # Pessinous
+					province_id = 2859 # Isaura
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = lydia_01_anatolia_beaten
+			}
+		}
+		final = yes 
+	}
+	
+}
+	

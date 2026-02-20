@@ -1,0 +1,1719 @@
+﻿2650={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=6
+	}	
+	freemen={
+		amount=4
+	}	
+	tribesmen={
+		amount=6
+		religion="thracic_pantheon"
+		culture="mysic"
+	}
+	slaves={
+		amount=3
+	}
+}
+
+2651={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2652={ 
+	terrain="plains"
+	trade_goods="hemp"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2653={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2659={ 
+	terrain="forest"
+	trade_goods="honey"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2688={ 
+	terrain="hills"
+	trade_goods="hemp"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2691={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2696={ 
+	terrain="forest"
+	trade_goods="cloth"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=13
+	}
+	freemen={
+		amount=8
+	}	
+	tribesmen={
+		amount=5
+	}
+	slaves={
+		amount=6
+	}
+}
+
+2697={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2698={ 
+	terrain="forest"
+	trade_goods="honey"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2699={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2700={ 
+	terrain="forest"
+	trade_goods="wild_game"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	holy_site="omen_aagdistis"
+}
+
+2702={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2703={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2704={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2705={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2707={ 
+	terrain="forest"
+	trade_goods="earthware"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
+	}	
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2708={ 
+	terrain="forest"
+	trade_goods="base_metals"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2709={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2710={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2711={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2712={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2713={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2714={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2715={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2716={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2717={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2718={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2719={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+}
+
+2720={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2728={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2729={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2730={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2731={ 
+	terrain="marsh"
+	trade_goods="hemp"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2732={ 
+	terrain="forest"
+	trade_goods="hemp"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2733={ 
+	terrain="forest"
+	trade_goods="wild_game"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2734={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2735={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2736={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2737={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2738={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2739={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2740={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2741={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2742={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2743={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2744={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="phrygic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2745={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="luwic_pantheon"
+	culture="hpisidian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2746={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="luwic_pantheon"
+	culture="hpisidian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2747={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="luwic_pantheon"
+	culture="hwalman"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2748={ 
+	terrain="plains"
+	trade_goods="hemp"
+	religion="luwic_pantheon"
+	culture="hwalman"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2749={ 
+	terrain="plains"
+	trade_goods="wool"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2750={ 
+	terrain="plains"
+	trade_goods="cloth"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2751={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2752={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2753={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2754={ 
+	terrain="hills"
+	trade_goods="precious_metals"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2755={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2756={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2757={ 
+	terrain="forest"
+	trade_goods="marble"
+	religion="luwic_pantheon"
+	culture="hwalman"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2758={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2759={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	holy_site="omen_aattis"
+}
+
+2760={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2761={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2762={ 
+	terrain="hills"
+	trade_goods="grain"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2763={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2764={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2765={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="luwic_pantheon"
+	culture="hwalman"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2766={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="luwic_pantheon"
+	culture="hwalman"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2767={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="luwic_pantheon"
+	culture="hwalman"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2768={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="luwic_pantheon"
+	culture="horoandian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	holy_site="omen_amen"
+}
+
+2769={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="luwic_pantheon"
+	culture="horoandian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2770={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2771={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2772={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="phrygic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2773={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2774={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2775={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="thracic_pantheon"
+	culture="phrygic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=10
+	}	
+	freemen={
+		amount=7
+	}	
+	tribesmen={
+		amount=6
+	}
+	slaves={
+		amount=5
+	}
+}
+
+2776={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="thracic_pantheon"
+	culture="phrygic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2777={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2778={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2779={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2780={ 
+	terrain="plains"
+	trade_goods="wool"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2781={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="phrygic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2782={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2783={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="phrygic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2784={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="phrygic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2785={ 
+	terrain="forest"
+	trade_goods="wild_game"
+	religion="thracic_pantheon"
+	culture="phrygic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2786={ 
+	terrain="marsh"
+	trade_goods="wild_game"
+	religion="luwic_pantheon"
+	culture="hhaballan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

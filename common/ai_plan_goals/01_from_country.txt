@@ -6,6 +6,7 @@ is_agressive_culture_aimod = {
 			tag = AAA
 			tag = BAA
 			tag = MAC
+			primary_culture = cymmeric
 		}
 		NOT = { is_tribal = yes }
 		manpower > 4
@@ -22,6 +23,7 @@ is_lacking_levies_pseudo_trigger = {
 			tag = AAA
 			tag = BAA
 			tag = MAC
+			primary_culture = cymmeric
 		}
 		NOT = { is_tribal = yes }
 	}

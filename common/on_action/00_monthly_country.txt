@@ -73,6 +73,21 @@
 		assyria_01_mesopotamia_1.14
 		assyria_01_mesopotamia_1.16
 		assyria_01_mesopotamia_1.102
+		#Cymmerian Migration
+		cymmerian_invasion_ec.1 #Event
+		cymmerian_invasion_ec.2	#Message
+		cymmerian_invasion_ec.3 #Horde Deletion 
+		cymmerian_invasion_ec.4
+		cymmerian_invasion_ec.5
+		#Lydia mision anatolia
+		lydia_01_anatolia_1.4
+		lydia_01_anatolia_1.5
+		lydia_01_anatolia_1.8
+		lydia_01_anatolia_1.9
+		lydia_01_anatolia_1.10
+		lydia_01_anatolia_1.12
+		lydia_01_anatolia_1.18
+		lydia_01_anatolia_1.19
 		#Units
 		units_allowance_events.1
 		#Modded events 

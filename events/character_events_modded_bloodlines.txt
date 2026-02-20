@@ -19,6 +19,7 @@ character_events.35 = {
 						has_trait = adaside
 						has_trait = davidid
 						has_trait = kuzite
+						has_trait = midaian
 					}
 				}
 			}
@@ -120,6 +121,17 @@ character_events.35 = {
 					}
 				}
 				add_trait = kuzite
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = midaian
+					}
+					NOT = {
+						has_trait = midaian
+					}
+				}
+				add_trait = midaian
 			}
 		}
 		if = {
@@ -229,6 +241,18 @@ character_events.35 = {
 				}
 			}
 			add_trait = kuzite	
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = midaian
+				}
+				NOT = {
+					has_trait = midaian
+				}
+			}
+			add_trait = midaian	
 		}
 	}
 }

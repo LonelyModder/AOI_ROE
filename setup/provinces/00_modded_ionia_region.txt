@@ -1,0 +1,1068 @@
+﻿2637={ 
+	terrain="mountain"
+	trade_goods="iron"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2638={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2639={ 
+	terrain="mountain"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2640={ 
+	terrain="farmland"
+	trade_goods="cloth"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2641={ 
+	terrain="plains"
+	trade_goods="dye"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2642={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2643={ 
+	terrain="farmland"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2644={ 
+	terrain="plains"
+	trade_goods="precious_metals"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2645={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2646={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2647={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2648={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2649={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2654={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2655={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2656={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2657={ 
+	terrain="hills"
+	trade_goods="glass"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2658={ 
+	terrain="forest"
+	trade_goods="wild_game"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2660={ 
+	terrain="forest"
+	trade_goods="olive"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2661={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2662={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2663={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2664={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2665={ 
+	terrain="hills"
+	trade_goods="earthware"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2666={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2667={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2668={ 
+	terrain="hills"
+	trade_goods="salt"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2669={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2670={ 
+	terrain="mountain"
+	trade_goods="marble"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2671={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2672={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2673={ 
+	terrain="farmland"
+	trade_goods="dye"
+	religion="grecoid_pantheon"
+	culture="gionian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=15
+	}	
+	freemen={
+		amount=10
+	}
+	slaves={
+		amount=6
+	}
+}
+
+2674={ 
+	terrain="hills"
+	trade_goods="earthware"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2675={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=8
+	}
+	slaves={
+		amount=3
+	}
+}
+
+2676={ 
+	terrain="hills"
+	trade_goods="dye"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2677={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2678={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2679={ 
+	terrain="hills"
+	trade_goods="glass"
+	religion="grecoid_pantheon"
+	culture="gdorian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	holy_site="omen_mhelios"
+}
+
+2680={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=8
+	}
+	slaves={
+		amount=3
+	}
+}
+
+2681={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2682={ 
+	terrain="hills"
+	trade_goods="dye"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2683={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2684={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2685={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2686={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2687={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=4
+	}
+}
+
+2689={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2690={ 
+	terrain="hills"
+	trade_goods="iron"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=8
+	}
+	slaves={
+		amount=3
+	}
+}
+
+2692={ 
+	terrain="hills"
+	trade_goods="fruits"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2693={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="luwic_pantheon"
+	culture="lydian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2694={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="grecoid_pantheon"
+	culture="gaeolian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2695={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="mysic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+}
+
+2701={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2706={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="luwic_pantheon"
+	culture="kylakian"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

@@ -194,15 +194,15 @@ latium_01_italy_1.7 = {
 	
 	option = { 
 		name = "latium_01_italy_1.7.a"
-		p:340 = { #Veii
-			create_country = {
-				change_government = despotic_monarchy
-				set_primary_culture = etrusci
-				set_country_religion = villanic_pantheon
-				change_country_name = "Veii_NAME"
-				change_country_adjective = "Veii_ADJECTIVE"
-			}
-		}
+		#p:340 = { #Veii
+		#	create_country = {
+		#		change_government = despotic_monarchy
+		#		set_primary_culture = etrusci
+		#		set_country_religion = villanic_pantheon
+		#		change_country_name = "Veii_NAME"
+		#		change_country_adjective = "Veii_ADJECTIVE"
+		#	}
+		#}
 		p:313.owner = {
 			declare_war_with_wargoal = {
 				war_goal = conquer_wargoal
@@ -296,7 +296,17 @@ latium_01_italy_1.9 = {
             } 
 			create_country = {
 				change_government = tribal_kingdom
-				set_primary_culture = clepontic
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = clepontic
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = clepontic
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
 				set_country_religion = celtic_pantheon
 				change_country_name = "Senones_NAME"
 				change_country_adjective = "Senones_ADJECTIVE"
@@ -319,7 +329,17 @@ latium_01_italy_1.9 = {
             } 
 			create_country = {
 				change_government = tribal_kingdom
-				set_primary_culture = clepontic
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = clepontic
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = clepontic
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
 				set_country_religion = celtic_pantheon
 				change_country_name = "Lingones_NAME"
 				change_country_adjective = "Lingones_ADJECTIVE"
@@ -342,7 +362,17 @@ latium_01_italy_1.9 = {
             } 
 			create_country = {
 				change_government = tribal_kingdom
-				set_primary_culture = clepontic
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = clepontic
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = clepontic
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
 				set_country_religion = celtic_pantheon
 				change_country_name = "Boioni_NAME"
 				change_country_adjective = "Boioni_ADJECTIVE"
@@ -365,7 +395,17 @@ latium_01_italy_1.9 = {
             } 
 			create_country = {
 				change_government = tribal_kingdom
-				set_primary_culture = clepontic
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = clepontic
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = clepontic
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
 				set_country_religion = celtic_pantheon
 				change_country_name = "Cenomani_NAME"
 				change_country_adjective = "Cenomani_ADJECTIVE"

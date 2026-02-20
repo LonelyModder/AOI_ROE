@@ -248,3 +248,36 @@ levy_kebabiya = { #arab militia
 	ia_chariots = 0.2
 	ia_camels = 0.2
 }
+
+#Scythian
+
+levy_nomadoi = { #scythian militia
+	default = no
+
+	ia_archers = 0.2
+	ia_warriors = 0.2
+	ia_horsearchers = 0.2
+	ia_lancers = 0.4
+}
+
+#Caucasian
+
+levy_mountainier = { #caucasian militia
+	default = no
+
+	ia_archers = 0.2
+	ia_warriors = 0.6
+	ia_chariots = 0.1
+	ia_lightcavalry = 0.1
+}
+
+#Hazzian
+
+levy_armenioi = { #armenian militia
+	default = no
+
+	ia_archers = 0.2
+	ia_warriors = 0.5
+	ia_chariots = 0.1
+	ia_lancers = 0.2
+}

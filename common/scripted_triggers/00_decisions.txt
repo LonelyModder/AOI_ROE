@@ -9,6 +9,9 @@
 		tag = XCY #Cyprus
 		tag = XIS #Israel
 		tag = XCI #Cilicia
+		tag = XTB #Tabal
+		tag = XPL #Peloponesian League
+		tag = XDL #Delian League
 	}
 }
 
@@ -20,6 +23,7 @@ is_tier_2_formable_trigger = {
 		tag = XIT #Italia
 		tag = XIL #Illyria
 		tag = XTH #Thrace
+		tag = XKH #Hittite Empire
 	}
 }
 

@@ -1,0 +1,961 @@
+﻿3102={ 
+	terrain="marsh"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3103={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3104={ 
+	terrain="hills"
+	trade_goods="grain"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3105={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3106={ 
+	terrain="hills"
+	trade_goods="grain"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3107={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3108={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3109={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3110={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3111={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3112={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3113={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3114={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3115={ 
+	terrain="hills"
+	trade_goods="cloth"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3116={ 
+	terrain="hills"
+	trade_goods="salt"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3117={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3118={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3119={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3120={ 
+	terrain="hills"
+	trade_goods="grain"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3121={ 
+	terrain="plains"
+	trade_goods="cloth"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3122={ 
+	terrain="plains"
+	trade_goods="cloth"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3123={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3124={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3125={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3126={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3127={ 
+	terrain="forest"
+	trade_goods="fish"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3128={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3129={ 
+	terrain="forest"
+	trade_goods="hemp"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3130={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3131={ 
+	terrain="hills"
+	trade_goods="hemp"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3132={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3133={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3134={ 
+	terrain="hills"
+	trade_goods="fruits"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3135={ 
+	terrain="hills"
+	trade_goods="hemp"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3136={ 
+	terrain="hills"
+	trade_goods="fruits"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3137={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3138={ 
+	terrain="hills"
+	trade_goods="earthware"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3139={ 
+	terrain="forest"
+	trade_goods="iron"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3140={ 
+	terrain="forest"
+	trade_goods="wine"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3141={ 
+	terrain="hills"
+	trade_goods="salt"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3142={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3143={ 
+	terrain="hills"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3144={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3145={ 
+	terrain="forest"
+	trade_goods="fish"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3146={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3147={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3148={ 
+	terrain="forest"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3149={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3150={ 
+	terrain="forest"
+	trade_goods="hemp"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3151={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="thracic_pantheon"
+	culture="bithynic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

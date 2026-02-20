@@ -10,7 +10,7 @@
 	secondary_navy = octere
 	flank_navy = liburnian
 	
-	color = hsv { 0.06 0.56 0.98 }
+	color = hsv { 0.10 0.87 0.86 }
 
 	male_names = {
 		Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
@@ -26,7 +26,21 @@
 	}
 	culture = {
 		hatti = {}
+		corehatti = {}
 		tarhatti = {}
+		kattakan = {}
+		lydian = {}
+		kylakian = {}
+		lukkan = {}
+		hisauran = {}
+		hhaballan = {}
+		hkatteran = {}
+		hwalman = {}
+		hpisidian = {}
+		hpamphylian = {}
+		hpaphlagonian = {}
+		horoandian = {}
+		hkalasman = {}
 	}
 	
 	barbarian_names = { AMARDI ANARIACAE AUGASII CASPII CHORASMII CYRTII DAHAE DERBICII ISSEDONES LEGAE MATIANI MASSAGETAE PARNI SACAE SARMATAE SOANES VITII }

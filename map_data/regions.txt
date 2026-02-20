@@ -11,6 +11,99 @@ modded_tmp_region = {
 	}
 }
 
+modded_pontus_region = {
+	areas = {
+		trapezus_area
+		polemonion_area
+		koloneia_area
+		amaseia_area
+		metellinum_area
+		dimum_area
+		sebastopolis_area
+		sebasteia_area
+	}
+}
+
+modded_paphlagonia_region = {
+	areas = {
+		ionopolis_area
+		sinope_area
+		amisos_area
+		germanicopolis_area
+		solva_area
+		aricia_area
+	}
+}
+
+modded_bithynia_region = {
+	areas = {
+		kios_area
+		nicomedia_area
+		sangarius_area
+		heracleia_area
+		amastris_area
+	}
+}
+
+modded_cappadocia_region = {
+	areas = {
+		meliddu_area
+		pyramos_area
+		arabissus_area
+		raitiara_area
+		cesarea_area
+		tyana_area
+		archelais_area
+		halys_area
+	}
+}
+
+modded_phrygia_region = {
+	areas = {
+		iconium_area
+		isara_area
+		tatta_area
+		claudiolaodicea_area
+		germa_area
+		gordion_area
+		ancyra_area
+		parnassos_area
+	}
+}
+
+modded_lycia_region = {
+	areas = {
+		xanthos_area
+		phaselis_area
+		perge_area
+		side_area
+		isaura_area
+	}
+}
+
+modded_asia_region = {
+	areas = {
+		cyzicus_area
+		silandos_area
+		aureliopolis_area
+		cibyra_area
+		apamea_area
+		aizanoi_area
+		bagis_area
+		doryleum_area
+	}
+}
+
+modded_ionia_region = {
+	areas = {
+		troas_area
+		aeolia_area
+		ephesus_area
+		miletus_area
+		dorias_area
+	}
+}
+
 modded_ebernari_region = {
 	areas = {
 		anatha_area

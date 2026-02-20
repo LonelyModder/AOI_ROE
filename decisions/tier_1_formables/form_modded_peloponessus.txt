@@ -1,0 +1,94 @@
+﻿country_decisions = {
+	
+	# Form Peloponessus
+	form_peloponessus = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XPL
+			}
+			primary_culture = gdorian
+			NOT = {
+				is_tier_1_formable_trigger = yes
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 1150 # Sparta
+					province_id = 1164 # Achea
+					province_id = 1178 # Arcadia
+					province_id = 1169 # Epidauros
+					province_id = 1163 # Troizen
+					province_id = 1159 # Elis
+					province_id = 1154 # Messenia
+					province_id = 1171 # Korynth
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = peloponessus_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XPL
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 1150 # Sparta
+			owns = 1164 # Achea
+			owns = 1178 # Arcadia
+			owns = 1169 # Epidauros
+			owns = 1163 # Troizen
+			owns = 1159 # Elis
+			owns = 1154 # Messenia
+			owns = 1171 # Korynth
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "PELOPONESSUS_NAME"
+			hidden_effect = {
+				change_country_adjective = "PELOPONESSUS_ADJECTIVE"
+				change_country_color = "PELOPONESSUS_COLOR"
+				change_country_tag = XPL
+				change_country_flag = BAE
+			}
+			if = {
+				limit = {
+					p:1150 = { is_capital = no }
+				}
+				set_capital = 1150
+				hidden_effect = {
+					p:1150.state = {
+						set_state_capital = 1150
+					}
+				}
+				capital_scope = {
+					establish_city_effect = yes
+				}
+			}
+			p:1150 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = Peloponessus_claims_tooltip
+			hidden_effect = {
+				region:modded_achea_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

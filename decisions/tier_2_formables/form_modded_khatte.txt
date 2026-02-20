@@ -1,0 +1,85 @@
+﻿country_decisions = {
+	
+	# Form Hittite Empire
+	form_khatte = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XKH
+			}
+			country_culture_group = hattian
+			NOT = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3264 # Hattusa
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = khatte_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XKH
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 3264 # Hattusa
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "KHATTE_NAME"
+			hidden_effect = {
+				change_country_adjective = "KHATTE_ADJECTIVE"
+				change_country_color = "KHATTE_COLOR"
+				change_country_tag = XKH
+				change_country_flag = KHATTE_FLAG
+			}
+			if = {
+				limit = {
+					p:3264 = { is_capital = no }
+				}
+				set_capital = 3264
+				hidden_effect = {
+					p:3264.state = {
+						set_state_capital = 3264
+					}
+				}
+				capital_scope = {
+					establish_city_effect = yes
+				}
+			}
+			p:3264 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			hidden_effect = {
+				region:modded_pontus_region = { formable_region_province_effect = yes }
+				region:modded_cappadocia_region = { formable_region_province_effect = yes }
+				region:modded_phrygia_region = { formable_region_province_effect = yes }
+				region:modded_lycia_region = { formable_region_province_effect = yes }
+				region:modded_asia_region = { formable_region_province_effect = yes }
+				region:modded_ionia_region = { formable_region_province_effect = yes }
+				region:modded_cylicia_region = { formable_region_province_effect = yes }
+				region:modded_syria_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

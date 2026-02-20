@@ -252,3 +252,18 @@ esfa_startup.15 = { #Anatolian
     }
 }
 
+esfa_startup.16 = { #Caucasian
+    type = country_event
+    title = esfa_startup.16.t
+    desc = esfa_startup.16.desc
+    picture = welcoming_window_1
+	
+    trigger = {
+		country_culture_group = caucasic
+    }
+
+    option = {    
+        name = esfa_startup.16.a
+    }
+}
+

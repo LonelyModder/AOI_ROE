@@ -251,6 +251,35 @@ treasure_manager = {
 				local_population_capacity = 4
 			}
 		}
+		36 = { # Pessinus
+			key = "treasure_cybelestone" 
+			icon = "treasure_chest"
+			state_modifier = {
+				local_building_slot = 2
+			}
+		}
+		37 = { # Telmessos
+			key = "treasure_tombofpayava" 
+			icon = "treasure_sarcophagus_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_base_trade_routes_modifier = 0.1
+			}
+		}
+		38 = { # Tyita
+			key = "treasure_menicon"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_research_points_modifier = 0.1
+			}
+		}
+		39 = { # Comanu
+			key = "treasure_mafigure"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_happiness_for_same_religion_modifier = 0.1
+			}
+		}
     }
 }
 family={
@@ -438,6 +467,18 @@ family={
 			culture = corepunic
 			prestige=300
 		}
+		31={
+			key="Mittanid"
+			owner=GAL
+			culture = phrygic
+			prestige=300
+		}
+		32={
+			key="Heraclid"
+			owner=GAC
+			culture = lydian
+			prestige=300
+		}
 	}
 }
 diplomacy = {
@@ -460,6 +501,9 @@ diplomacy = {
 	alliance = { first = MAI second = MBG } #Aram-Arpad
 	alliance = { first = MAI second = MAN } #Aram-Samaria ?Questionable Allies
 	alliance = { first = EAA second = MAO } #22nd Dynasty-Philistia
+	Lydian Tributaries
+	dependency = { first = GAL second = GAY subject_type = tributary }
+	dependency = { first = GAL second = GBO subject_type = feudatory }
 }
 
 provinces = { #Any entry must contain a comment with city name.
@@ -548,8 +592,21 @@ provinces = { #Any entry must contain a comment with city name.
 	2326 = { # Mabbog
 		treasure_slots = { 	treasures = { 35 } }
 	}
+	2898 = { # Pessinus
+		treasure_slots = { 	treasures = { 36 } }
+	}
+	2817 = { # Telmessos
+		treasure_slots = { 	treasures = { 37 } }
+	}
+	2768 = { # Tyita
+		treasure_slots = { 	treasures = { 38 } }
+	}
+	3019 = { # Comanu
+		treasure_slots = { 	treasures = { 39 } }
+	}
 	
 	#Pirates
+	2828 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	1141 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	1132 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	1263 = { modifier = { modifier = pirate_haven_modifier always = yes } }
@@ -564,7 +621,25 @@ provinces = { #Any entry must contain a comment with city name.
 	2215 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	2744 = { fortress_building = 1 }
+	2775 = { fortress_building = 1 }
+	3264 = { fortress_building = 1 }
+	2679 = { port_building = 2 }
+	3212 = { port_building = 2 }
+	2661 = { port_building = 2 }
+	2638 = { port_building = 2 }
+	2670 = { port_building = 2 }
+	3221 = { port_building = 2 }
+	2638 = { port_building = 2 }
+	2639 = { port_building = 2 }
+	2668 = { port_building = 2 }
+	2650 = { port_building = 2 }
+	2673 = { port_building = 2 }
+	2676 = { port_building = 2 }
+	2674 = { port_building = 2 }
 	2221 = { port_building = 1 }
+	2824 = { port_building = 1 }
+	2828 = { port_building = 1 }
 	2430 = { port_building = 1 }
 	2206 = { port_building = 2 }
 	2268 = { port_building = 2 }
@@ -643,6 +718,31 @@ provinces = { #Any entry must contain a comment with city name.
 	2414 = {modifier = { modifier = walls_of_jerusalem always = yes }}
 	
 	#Passes
+	2736 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3131 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2965 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3187 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3308 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3326 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3338 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3061 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3041 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3033 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2988 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2222 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2826 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2711 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3021 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2687 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3321 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3061 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3041 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3038 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3034 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2822 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2849 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2860 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	2864 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2464 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2467 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2441 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -724,6 +824,12 @@ provinces = { #Any entry must contain a comment with city name.
 	########################################
 	# Barbarian Spawn Spots
 	########################################
+	3099 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	3350 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	3245 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	3160 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	2787 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	2878 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	2252 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	2382 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	2500 = { modifier = { modifier = generic_barbarian_spawn_place } }
@@ -3299,7 +3405,7 @@ country = {
 			
 			own_control_core = 	{ 
 				2300 2299 2305 2306 2349 2350 2353 2355 2356 2370 2371 2369
-				2357 2358 2354 2351 2352 2379 2378 2376
+				2357 2358 2354 2351 2352 2379 2378 2376 2373 2372
 			}
 		}
 		
@@ -3313,6 +3419,7 @@ country = {
 			own_control_core = 	{ 
 				2359 2360 2365 2374 2312 2277 2276 2275 2274 2273 2366 
 				2368 2367 2487 2477 2475 2474 2490 2489 2488 2476 2437 2438
+				2491 2492 2499 2375 2377 2380
 			}
 		}
 		
@@ -3438,7 +3545,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2234 2236 2237
+				2234 2236 2237 2932 2988 3001
 			}
 		}
 		
@@ -3446,7 +3553,7 @@ country = {
 			government = despotic_monarchy
 			primary_culture = hatti
 			religion = luwic_pantheon
-			capital = 2245
+			capital = 2249
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3456,7 +3563,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2245 2246 2247 2249 2250 2251 2248
+				2245 2246 2247 2249 2251 3002
 			}
 		}
 		
@@ -3559,7 +3666,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2284 2283 2282 2285 2286 2287
+				2284 2283 2282 2285 2286 2287 3027 3029 3031 3032
 			}
 		}
 		
@@ -3749,7 +3856,7 @@ country = {
 			government = tribal_federation
 			primary_culture = tarhatti
 			religion = luwic_pantheon
-			capital = 2221
+			capital = 2218
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3760,6 +3867,572 @@ country = {
 			
 			own_control_core = 	{ 
 				2227 2229 2218 2219 2220 2221 2222 2223 2224 2225 2226 2228
+			}
+		}
+		
+		GAA = {          
+			government = despotic_monarchy
+			primary_culture = hatti
+			religion = luwic_pantheon
+			capital = 3034
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3034 3035 3036 3037 3038 3033 3028 3044 3026 3030
+			}
+		}
+		
+		GAB = {          
+			government = despotic_monarchy
+			primary_culture = hatti
+			religion = luwic_pantheon
+			capital = 3024
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3024 3025 3023 3022 3021 2248 2250
+			}
+		}
+		
+		GAC = {   
+			family = 32
+			government = despotic_monarchy
+			primary_culture = lydian
+			religion = luwic_pantheon
+			capital = 2696
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2687 2684 2683 2693 2696 2685 2688 2699 2700 2707 
+				2751 2752 2750 2749 2753 2689 2691 2704 2705 2709
+				2698 2697 2708 2715 2714 2716 2737 2754 2755
+			}
+		}
+		
+		GAD = {          
+			government = tribal_federation
+			primary_culture = kylakian
+			religion = luwic_pantheon
+			capital = 2675
+			
+			own_control_core = 	{ 
+				2675 2686 2680 2692 2690 2681 2682 2701 2702 2706 2711 2712 2713 2703 2677
+			}
+		}
+		
+		GAE = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 2679
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2679 2678
+			}
+		}
+		
+		GAF = {          
+			government = tribal_federation
+			primary_culture = kattakan
+			religion = luwic_pantheon
+			capital = 3051
+			
+			own_control_core = 	{ 
+				3051 3017 3014 3015 3016 3056 3063 3294 3298
+				3057 3058 3059 3060 3062 3061 3054 3053 3043 3040 
+				3042 3039 3041 3050 3049 3052 3055 3288 3290 3293 
+			}
+		}
+		
+		GAG = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 2676
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2676
+			}
+		}
+		
+		GAH = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 2674
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2674
+			}
+		}
+		
+		GAI = {          
+			government = aristocratic_republic
+			primary_culture = gdorian
+			religion = grecoid_pantheon
+			capital = 2672
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2672
+			}
+		}
+		
+		GAJ = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 2671
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2671 2673 2668 2670 2669 2666 2664 2667 2662 2663 2639
+			}
+		}
+		
+		GAK = {          
+			government = despotic_monarchy
+			primary_culture = corehatti
+			religion = luwic_pantheon
+			capital = 3019
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3019 3045 3046 3047 3048 3020 3010 3018 3007 3006
+			}
+		}
+		
+		GAL = {  
+			family = 31
+			government = despotic_monarchy
+			primary_culture = phrygic
+			religion = thracic_pantheon
+			capital = 2946
+			
+			own_control_core = 	{ 
+				2946 2945 2943 2947 2944 2948 2949 2986 2987 2992 2999 3005 3004 2990
+				2941 2942 2972 2973 2957 2950 2951 2967 2955 2956 2741 2742 2743 2744
+				3072 3073 3068 3067 3069 3075 3076 3077 3078 3066 2764 2759 2770 2771 2756 2758
+				3261 3255 3256 3254 3263 3264 3262 3259 3266 3267 3265 3268 3065 2968
+				2953 2960 2961 2959 2962 2954 2966 2969 2970 2971 2952 2745 2746
+				2920 2922 2910 2892 2893 2895 2894 2909 2923 2897 2898 3257 3253
+				2924 2925 2936 2926 2928 2937 2927 2938 2921 2939 2940 2965 3168 
+				2765 2748 2747 2766 2767 2757 2773 2786 2896 2919 2917 2918
+				2903 2902 2904 2905 2907 2908 2906 2899 2900 2901 3258 3260 3273 
+				2783 2784 2785 2781 2779 2772 2774 2775 2776 2777 2778 2780 3003 3000
+				3274 3271 3275 3270 3269 3277 3278 3287 3276 3281 3272 3280 3279 
+				3119 3132 3134 3136 3135 2963 2964 2958 3183 3182 3181 3178 3174 3177 3175 3176 3169
+			}
+		}
+		
+		GAM = {          
+			government = tribal_federation
+			primary_culture = lukkan
+			religion = luwic_pantheon
+			capital = 2822
+			
+			own_control_core = 	{ 
+				2822 2824 2821 2817 2825 2827 2828 2829 2833 2818 2823 2819 2820 2826 2835 2830 2832
+			}
+		}
+		
+		GAN = {          
+			government = tribal_federation
+			primary_culture = hpisidian
+			religion = luwic_pantheon
+			capital = 2842
+			
+			own_control_core = 	{ 
+				2842 2844 2845 2846 2843 2831 2834 2836 2837 2838 2839 2840 2841
+			}
+		}
+		
+		GAO = {          
+			government = tribal_federation
+			primary_culture = hpamphylian
+			religion = luwic_pantheon
+			capital = 2847
+			
+			own_control_core = 	{ 
+				2847 2852 2850 2853 2854 2855 2851 2849
+			}
+		}
+		
+		GAP = {          
+			government = tribal_federation
+			primary_culture = horoandian
+			religion = luwic_pantheon
+			capital = 2887
+			
+			own_control_core = 	{ 
+				2887 2889 2888 2769 2768 2857 2858 2848 2856
+			}
+		}
+		
+		GAR = {          
+			government = tribal_federation
+			primary_culture = hisauran
+			religion = luwic_pantheon
+			capital = 2859
+			
+			own_control_core = 	{ 
+				2859 2860 2861 2862 2863 2864 2865 2867 
+				2868 2890 2891 2913 2914 2912 2866 2915 2911 2916
+			}
+		}
+		
+		GAS = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 2650
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2650
+			}
+		}
+		
+		GAT = {          
+			government = aristocratic_republic
+			primary_culture = gaeolian
+			religion = grecoid_pantheon
+			capital = 2661
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2661 2660 2655 2656 2646 2642 2641 2640 2638 2637 2665 2694
+			}
+		}
+		
+		GBP = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 3212
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3212
+			}
+		}
+		
+		GAW = {          
+			government = aristocratic_republic
+			primary_culture = gionian
+			religion = grecoid_pantheon
+			capital = 3221
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3221
+			}
+		}
+		
+		GAY = {          
+			government = tribal_federation
+			primary_culture = mysic
+			religion = thracic_pantheon
+			capital = 2719
+			
+			own_control_core = 	{ 
+				2719 2720 2731 2730 2653 2652 2651 2718 2659 2732 2733 2695 
+				2658 2657 2654 2647 2643 2644 2645 2649 2648 2710 2717 
+				2729 2728 2736 2735 2734 2738 2739 2761 2760 2763 2740 2762 2782
+			}
+		}
+		
+		GAZ = {          
+			government = tribal_kingdom
+			primary_culture = bithynic
+			religion = thracic_pantheon
+			capital = 3105
+			
+			own_control_core = 	{ 
+				3105 3104 3102 3103 3109 3110 
+			}
+		}
+		
+		GBA = {          
+			government = tribal_kingdom
+			primary_culture = bithynic
+			religion = thracic_pantheon
+			capital = 3121
+			
+			own_control_core = 	{ 
+				3121 3116 3111 3120 3127 3126 3124 3125 3123 3122 3128 3129
+			}
+		}
+		
+		GBB = {          
+			government = tribal_kingdom
+			primary_culture = bithynic
+			religion = thracic_pantheon
+			capital = 3112
+			
+			own_control_core = 	{ 
+				3112 3106 3107 3113 3108 3114 3115 3117 3118 3130 
+			}
+		}
+		
+		GBC = {          
+			government = tribal_kingdom
+			primary_culture = bithynic
+			religion = thracic_pantheon
+			capital = 3143
+			
+			own_control_core = 	{ 
+				3143 3145 3141 3140 3139 3131 3133 3137 3138 3142 3144 3148 3147 3146 3149 3150 3151
+			}
+		}
+		
+		GBD = {          
+			government = despotic_monarchy
+			primary_culture = corehatti
+			religion = luwic_pantheon
+			capital = 2929
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2929 2931
+			}
+		}
+		
+		GBE = {          
+			government = despotic_monarchy
+			primary_culture = corehatti
+			religion = luwic_pantheon
+			capital = 2933
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2933 2934 2930 2935 2989 2991 2996
+			}
+		}
+		
+		GBF = {          
+			government = despotic_monarchy
+			primary_culture = corehatti
+			religion = luwic_pantheon
+			capital = 2993
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2995 2993 2997
+			}
+		}
+		
+		GBG = {          
+			government = despotic_monarchy
+			primary_culture = corehatti
+			religion = luwic_pantheon
+			capital = 2994
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				2994 3008 3009 3012 3011 3013 2998
+			}
+		}
+		
+		GBH = {          
+			government = despotic_monarchy
+			primary_culture = corehatti
+			religion = luwic_pantheon
+			capital = 3070
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3070 3074 3071 3064
+			}
+		}
+		
+		GBI = {          
+			government = tribal_kingdom
+			primary_culture = colchian
+			religion = caucasic_pantheon
+			capital = 3337
+			
+			own_control_core = 	{ 
+				3337 3338 3336 3335 3334 3333 3332
+			}
+		}
+		
+		GBJ = {          
+			government = tribal_kingdom
+			primary_culture = cmacronian
+			religion = caucasic_pantheon
+			capital = 3328
+			
+			own_control_core = 	{ 
+				3328 3329 3330 3331 3321 3326 3327
+			}
+		}
+		
+		GBK = {          
+			government = tribal_kingdom
+			primary_culture = cmosinoecia
+			religion = caucasic_pantheon
+			capital = 3315
+			
+			own_control_core = 	{ 
+				3315 3314 3313 3318 3316 3320 3317 3319 3300 3311 3312 3299 3307 3309 3310 3308 3306
+			}
+		}
+		
+		GBL = {          
+			government = tribal_federation
+			primary_culture = hpaphlagonian
+			religion = caucasic_pantheon
+			capital = 3198
+			
+			own_control_core = 	{ 
+				3188 3190 3191 3189 3198 3187 3167 3172 3186 3185
+				3194 3192 3195 3193 3202 3209 3201 3210 3203 3200
+				3170 3171 3173 3179 3180 3197 3199 3184 3204 3206 3205 3211
+			}
+		}
+		
+		GBM = {          
+			government = tribal_kingdom
+			primary_culture = ctibarenia
+			religion = caucasic_pantheon
+			capital = 3303
+			
+			own_control_core = 	{ 
+				3226 3225 3301 3302 3303 3304 3305 3322 3323 3324 3325
+			}
+		}
+		
+		GBN = {          
+			government = tribal_kingdom
+			primary_culture = cchalybia
+			religion = caucasic_pantheon
+			capital = 3215
+			
+			own_control_core = 	{ 
+				3215 3252 3208 3207 3216 3218 3219 3220 3214 3213 3222 3282 3224 3223 3217 3196
+			}
+		}
+		
+		GBO = {          
+			government = tribal_kingdom
+			primary_culture = mushkian
+			religion = caucasic_pantheon
+			capital = 3284
+			
+			own_control_core = 	{ 
+				3284 3285 3283 3296 3297 3295 3292 3291 3289 3286
 			}
 		}
 	}

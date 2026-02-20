@@ -1,0 +1,561 @@
+﻿namespace = lydia_01_anatolia_1
+
+lydia_01_anatolia_1.1 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.1.t"
+	desc = "lydia_01_anatolia_1.1.desc"
+	fire_only_once = yes
+	picture = lydia_pic_1
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.1.a"
+		add_country_modifier = {
+	        name = lydian_economic_boom
+	        duration = 3650 # 10 years
+	    }
+		add_innovation = 2
+	}
+}
+
+lydia_01_anatolia_1.2 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.2.t"
+	desc = "lydia_01_anatolia_1.2.desc"
+	fire_only_once = yes
+	picture = lydia_pic_1
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.2.a"
+		set_global_variable = {
+			name = lydia_sends_for_help
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.2 
+			days = 30
+		}
+	}
+}
+
+lydia_01_anatolia_1.3 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.3.t"
+	desc = "lydia_01_anatolia_1.3.desc"
+	fire_only_once = yes
+	picture = lydia_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.3.a"
+		set_global_variable = {
+			name = assyria_supports_lydia
+		}
+		add_treasury = -200
+		trigger_event = { 
+			id = lydia_01_anatolia_1.4 
+			days = 30
+		}
+		ai_chance = { factor = 90 }
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.3.b"
+		set_global_variable = {
+			name = assyria_deny_lydia
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.5 
+			days = 30
+		}
+		ai_chance = { factor = 10 }
+	}
+}
+
+lydia_01_anatolia_1.4 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.4.t"
+	desc = "lydia_01_anatolia_1.4.desc"
+	fire_only_once = yes
+	picture = lydia_pic_1
+	
+	trigger = {
+		tag=GAC
+		has_global_variable = assyria_supports_lydia
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.4.a"
+		add_treasury = 200
+	}
+}
+
+lydia_01_anatolia_1.5 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.5.t"
+	desc = "lydia_01_anatolia_1.5.desc"
+	fire_only_once = yes
+	picture = lydia_pic_1
+	
+	trigger = {
+		tag=GAC
+		has_global_variable = assyria_deny_lydia
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.5.a"
+	}
+}
+
+lydia_01_anatolia_1.6 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.6.t"
+	desc = "lydia_01_anatolia_1.6.desc"
+	fire_only_once = yes
+	picture = lydia_pic_2
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.6.a"
+		add_country_modifier = {
+	        name = greek_mercs_in_lydia
+	        duration = 3650 # 10 years
+	    }
+	}
+}
+
+lydia_01_anatolia_1.7 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.7.t"
+	desc = "lydia_01_anatolia_1.7.desc"
+	fire_only_once = yes
+	picture = lydia_pic_3
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.7.a"
+		set_global_variable = {
+			name = carian_proposition
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.8
+			days = 30
+		}
+	}
+}
+
+lydia_01_anatolia_1.8 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.8.t"
+	desc = "lydia_01_anatolia_1.8.desc"
+	fire_only_once = yes
+	picture = lydia_pic_3
+	
+	trigger = {
+		tag=GAD
+		has_global_variable = carian_proposition
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.8.a"
+		set_global_variable = {
+			name = carians_accept
+		}
+		c:GAC = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+		trigger_event = { 
+			id = lydia_01_anatolia_1.9 
+			days = 30
+		}
+		ai_chance = { factor = 90 }
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.8.b"
+		set_global_variable = {
+			name = carians_reject
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.10
+			days = 30
+		}
+		ai_chance = { factor = 10 }
+	}
+}
+
+lydia_01_anatolia_1.9 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.9.t"
+	desc = "lydia_01_anatolia_1.9.desc"
+	fire_only_once = yes
+	picture = lydia_pic_3
+	
+	trigger = {
+		tag=GAC
+		has_global_variable = carians_accept
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.9.a"
+	}
+}
+
+lydia_01_anatolia_1.10 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.10.t"
+	desc = "lydia_01_anatolia_1.10.desc"
+	fire_only_once = yes
+	picture = lydia_pic_3
+	
+	trigger = {
+		tag=GAC
+		has_global_variable = carians_reject
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.10.a"
+		c:GAD = {
+			every_owned_province = {
+				add_claim = c:GAC
+			}
+		}
+	}
+}
+
+lydia_01_anatolia_1.11 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.11.t"
+	desc = "lydia_01_anatolia_1.11.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.11.a"
+		set_global_variable = {
+			name = greek_subjects_of_lydia
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.12
+			days = 30
+		}
+	}
+}
+
+lydia_01_anatolia_1.12 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.12.t"
+	desc = "lydia_01_anatolia_1.12.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		country_culture_group = grekoid
+		capital_scope = { is_in_region = modded_ionia_region }
+		has_global_variable = greek_subjects_of_lydia
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.12.a"
+		c:GAC = {
+            make_subject = {
+                type = tributary
+                target = root
+            }
+        }
+		trigger_event = { 
+			id = lydia_01_anatolia_1.13
+			days = 30
+		}
+		ai_chance = { factor = 70 }
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.12.a"
+		root = {
+			every_owned_province = {
+				add_claim = c:GAC
+			}
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.14
+			days = 30
+		}
+		ai_chance = { factor = 30 }
+	}
+}
+
+lydia_01_anatolia_1.13 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.13.t"
+	desc = "lydia_01_anatolia_1.13.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.13.a"
+	}
+}
+
+lydia_01_anatolia_1.14 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.14.t"
+	desc = "lydia_01_anatolia_1.14.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.14.a"
+	}
+}
+
+lydia_01_anatolia_1.15 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.15.t"
+	desc = "lydia_01_anatolia_1.15.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.15.a"
+		c:GAY = {
+			every_owned_province = {
+				add_claim = c:GAC
+			}
+		}
+		p:2649 = { #Treres Tribe
+			while = {
+                count = 65
+                define_pop = {
+					type = tribesmen
+					culture = brygian
+					religion = thracic_pantheon
+                }
+            } 
+			create_country = {
+				change_government = tribal_kingdom
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = brygian
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = brygian
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
+				set_country_religion = thracic_pantheon
+				change_country_name = "TRERES_NAME"
+				change_country_adjective = "TRERES_ADJECTIVE"
+			}
+			add_country_modifier = {
+				name = lepontic_invasion_modifier
+				duration = 14600
+			}
+		}
+		p:2649.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:2652
+				target = p:2652.owner
+			}
+		}
+		set_global_variable = {
+			name = trerian_brotherly_aid
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.19
+		}
+	}
+}
+
+lydia_01_anatolia_1.16 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.16.t"
+	desc = "lydia_01_anatolia_1.16.desc"
+	fire_only_once = yes
+	picture = greek_court
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.16.a"
+		c:GAL = {
+			every_owned_province = {
+				add_claim = c:GAC
+			}
+		}
+	}
+}
+
+lydia_01_anatolia_1.17 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.17.t"
+	desc = "lydia_01_anatolia_1.17.desc"
+	fire_only_once = yes
+	picture = lydia_pic_4
+	
+	trigger = {
+		tag=GAC
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.17.a"
+		p:3337 = { #Scythia
+			create_country = {
+				change_government = despotic_monarchy
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = sscythian
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = sscythian
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
+				set_country_religion = thracic_pantheon
+				change_country_name = "SCYTHIANH_NAME"
+				change_country_adjective = "SCYTHIANH_ADJECTIVE"
+			}
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = engineer_cohort
+						add_subunit = engineer_cohort
+						add_subunit = supply_train
+						add_subunit = supply_train
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_warriors
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+						add_subunit = ia_lancers
+					}
+				}
+			}
+			every_unit = {
+				add_food = 100
+			}
+			add_country_modifier = {
+				name = scythian_invasion_modifier
+				duration = 14600
+			}
+		}
+		p:3337.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:3338
+				target = p:3338.owner
+			}
+		}
+		set_global_variable = {
+			name = scythian_brotherly_aid
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.18
+		}
+	}
+}
+
+lydia_01_anatolia_1.18 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.18.t"
+	desc = "lydia_01_anatolia_1.18.desc"
+	fire_only_once = yes
+	picture = lydia_pic_4
+	
+	trigger = {
+		has_global_variable = scythian_brotherly_aid
+		NOT = { tag=GAC }
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.16.a"
+	}
+}
+
+lydia_01_anatolia_1.19 = {  
+	type = country_event
+	title = "lydia_01_anatolia_1.19.t"
+	desc = "lydia_01_anatolia_1.19.desc"
+	fire_only_once = yes
+	picture = celtic_chiefs
+	
+	trigger = {
+		has_global_variable = trerian_brotherly_aid
+		NOT = { tag=GAC }
+	}
+	
+	option = { 
+		name = "lydia_01_anatolia_1.19.a"
+	}
+}

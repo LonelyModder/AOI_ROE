@@ -115,6 +115,7 @@ base_window = {
 					}
 				}
 			}
+			
 			flowcontainer = {
 				position = { -4 -3 }
 				parentanchor = right
@@ -500,6 +501,17 @@ base_window = {
 						position = { 0 0 }
 						blockoverride "Title_text" { text = "MILITARY_TRADITIONS" }
 					}
+					scrollarea = {
+						position = { 2 35  }
+						size = { 610 750 }
+						scrollbarpolicy_horizontal = always_off
+						
+						using = VerticalScrollAreaCutOff
+						scrollbar_vertical = {
+							using = VerticalScrollBar
+						}
+						
+						scrollwidget = {
 					
 					dynamicgridbox = {
 						flipdirection = yes
@@ -677,6 +689,8 @@ base_window = {
 								}
 							}
 						}
+					}
+					}
 					}
 				}
 			}
