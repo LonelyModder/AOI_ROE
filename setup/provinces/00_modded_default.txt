@@ -7542,7 +7542,7 @@
 
 2787={ #Mountains 
 	terrain="impassable_terrain"
-	religion="thrscic_pantheon"
+	religion="thracic_pantheon"
 	culture="mysic"
 	trade_goods=""
 	civilization_value=0
