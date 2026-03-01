@@ -9028,3 +9028,183 @@
 	barbarian_power=0
 	province_rank=""
 }
+
+3365={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3366={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3367={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3368={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3369={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3370={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3371={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3372={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3373={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3374={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3375={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3376={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3377={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3378={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3379={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3380={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3381={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3382={ #River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
