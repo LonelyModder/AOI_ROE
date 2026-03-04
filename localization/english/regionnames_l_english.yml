@@ -35,7 +35,18 @@
  modded_bithynia_region:0 "Bithynia"
  modded_paphlagonia_region:0 "Paphlagonia"
  modded_pontus_region:0 "Pontus"
+ modded_babylonia_region:0 "Babylonia"
+ modded_assyria_region:0 "Assyria"
+ modded_sealand_region:0 "Sealand"
+ 
  #Areas
+ nippur_area:0 "Nippur"
+ uruk_area:0 "Uruk"
+ deru_area:0 "Deru"
+ esnunna_area:0 "Eshnunna"
+ babylon_area:0 "Babylon"
+ durkurigalzu_area:0 "Dur-Kurigalzu"
+ rapiqu_area:0 "Rapiqu"
  sebasteia_area:0 "Sebasteia"
  sebastopolis_area:0 "Sebastopolis"
  dimum_area:0 "Dimum"

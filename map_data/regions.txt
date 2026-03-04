@@ -11,6 +11,30 @@ modded_tmp_region = {
 	}
 }
 
+modded_babylonia_region = {
+	areas = {
+		rapiqu_area
+		durkurigalzu_area
+		babylon_area
+		esnunna_area
+		deru_area
+		uruk_area
+		nippur_area
+	}
+}
+
+modded_assyria_region = {
+	areas = {
+		
+	}
+}
+
+modded_sealand_region = {
+	areas = {
+		
+	}
+}
+
 modded_pontus_region = {
 	areas = {
 		trapezus_area
