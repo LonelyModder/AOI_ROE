@@ -11,6 +11,24 @@ modded_tmp_region = {
 	}
 }
 
+modded_sealand_region = {
+	areas = {
+		
+	}
+}
+
+modded_assyria_region = {
+	areas = {
+		hatra_area
+		ashur_area
+		niniveh_area
+		meturnat_area
+		arrapha_area
+		tursan_area
+		ekimmuk_area
+	}
+}
+
 modded_babylonia_region = {
 	areas = {
 		rapiqu_area
@@ -20,18 +38,6 @@ modded_babylonia_region = {
 		deru_area
 		uruk_area
 		nippur_area
-	}
-}
-
-modded_assyria_region = {
-	areas = {
-		
-	}
-}
-
-modded_sealand_region = {
-	areas = {
-		
 	}
 }
 

@@ -40,6 +40,13 @@
  modded_sealand_region:0 "Sealand"
  
  #Areas
+ ekimmuk_area:0 "Ekimmuk"
+ tursan_area:0 "Tursan"
+ arrapha_area:0 "Arrapha"
+ meturnat_area:0 "Me-Turnat"
+ niniveh_area:0 "Niniveh"
+ ashur_area:0 "Ashur"
+ hatra_area:0 "Hatra"
  nippur_area:0 "Nippur"
  uruk_area:0 "Uruk"
  deru_area:0 "Deru"

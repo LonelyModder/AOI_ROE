@@ -2,7 +2,7 @@
  ia_colonize_button_confirm_t:0 "Colonization"
  ia_colonize_button_confirm_desc:0 "Are you sure you want to colonize the territory?"
 
- CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\n Date in the mod is counted since the fall of the City of Ugarit (1185 BC or 1 BAC in game) and the Bronze Age Collapse.\n\n#TF The degraded one trembles, and the low one is torn to pieces. Our food in the threshing floors is sacked and the vineyards are also destroyed. Our city is sacked, and may you know it! - Report to ruler of Carchemish about fall of Ugarit#!"
+ CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\n Date in the mod is counted since the fall of the City of Ugarit (1185 BC is year 1 in game) and the Bronze Age Collapse.\n\n#TF The degraded one trembles, and the low one is torn to pieces. Our food in the threshing floors is sacked and the vineyards are also destroyed. Our city is sacked, and may you know it! - Report to ruler of Carchemish about fall of Ugarit#!"
  DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since Bronze Age Collapse."
  THE_WORLD:1 "[GetDateString]#T  BAC"
  THE_WORLD_TOOLTIP:1 "#T Current Date#!\n BAC stands for Bronze Age Collapse. The year 1185 BC was chosen as the starting date because 437 years before the city of Ugarit fell to the Luccan invaders marking the beginning of the famous great offensive of the Sea Peoples against Egypt."
@@ -29,8 +29,8 @@
  no_neighbor_has_colonization_progress:0 "No neighbour has #Y Colonization Progress#!"
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
- patch_notes:0 "Part V: Gold and Iron"
- patch_notes_text:0 "What's new:\n- Remade Anatolia just before the Cymmerian Invasion. \n- 572 new land provinces (3364 provinces in total). \n- 2 new cultures in form of caucasian tribes of north-eastern Anatolia and the scythian hordes. \n- New invasion events like the cymmerian migration, treres assault throu bosphorus and scythian intervention. \n- Lydian mission tree."
+ patch_notes:0 "Part VI: Between Rivers"
+ patch_notes_text:0 "What's new:\n- New mesopotamian region with the mighty city of Babylon. "
  
  #Modifier text
  osasis:0 "Oasis"
