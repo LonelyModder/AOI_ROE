@@ -40,6 +40,12 @@
  modded_sealand_region:0 "Sealand"
  
  #Areas
+ gambolu_area:0 "Gambolu"
+ larak_area:0 "Larak"
+ lagash_area:0 "Lagash"
+ eulaios_area:0 "Eulaios"
+ forat_area:0 "Forat"
+ teredon_area:0 "Teredon"
  ekimmuk_area:0 "Ekimmuk"
  tursan_area:0 "Tursan"
  arrapha_area:0 "Arrapha"

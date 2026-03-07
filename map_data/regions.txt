@@ -13,7 +13,12 @@ modded_tmp_region = {
 
 modded_sealand_region = {
 	areas = {
-		
+		teredon_area
+		forat_area
+		eulaios_area
+		lagash_area
+		larak_area
+		gambolu_area
 	}
 }
 
