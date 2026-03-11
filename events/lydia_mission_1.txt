@@ -281,7 +281,7 @@ lydia_01_anatolia_1.12 = {
 		name = "lydia_01_anatolia_1.12.a"
 		c:GAC = {
             make_subject = {
-                type = tributary
+                type = feudatory
                 target = root
             }
         }

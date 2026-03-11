@@ -62,6 +62,8 @@
 		ahatallan = {}
 		agusiani = {}
 		anahrinite = {}
+		aitean = {}
+		achaldean = {}
 	}
 	
 	barbarian_names = { 

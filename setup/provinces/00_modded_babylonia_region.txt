@@ -347,15 +347,18 @@
 	culture="agade"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city_metropolis"
+	nobles={
+		amount=5
+	}
 	citizen={
-		amount=1
+		amount=20
 	}	
 	freemen={
-		amount=4
+		amount=15
 	}
 	slaves={
-		amount=1
+		amount=10
 	}
 }
 

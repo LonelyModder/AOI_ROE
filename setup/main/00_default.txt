@@ -486,6 +486,7 @@ diplomacy = {
 	dependency = { first = MAC second = MAT subject_type = feudatory }
 	dependency = { first = MAC second = MBA subject_type = feudatory }
 	dependency = { first = MAC second = MAW subject_type = feudatory }
+	dependency = { first = MAC second = MAE subject_type = feudatory }
 	#Arpad owns Hamath
 	dependency = { first = MBG second = MAP subject_type = feudatory }
 	#Phoenician League
@@ -4440,6 +4441,28 @@ country = {
 			
 			own_control_core = 	{ 
 				3284 3285 3283 3296 3297 3295 3292 3291 3289 3286
+			}
+		}
+		
+		DAA = { 
+			government = aristocratic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3401
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			historical_regnal_numbers = {
+				Nabu-Suma-Ukin = 1
+			}
+			
+			own_control_core = 	{ 
+				3401
 			}
 		}
 	}
