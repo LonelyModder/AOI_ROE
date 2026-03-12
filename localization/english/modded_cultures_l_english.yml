@@ -198,6 +198,20 @@
  azzian:0 "Azzi"
  hazzian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  hazzian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Kassite
+ kassite:2 "Kassite"
+ bkassite:0 "Kassite"
+ lullubian:0 "Lullubian"
+ parsuan:0 "Parsuan"
+ kassite_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ kassite_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Hurric
+ hurric:2 "Hurric"
+ mittanic:0 "Mittanic"
+ bianilic:0 "Urartrian"
+ manneanic:0 "Mannean"
+ hurric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ hurric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  venedi:2 "Aedric"
  wvenedi:0 "Heresy"
