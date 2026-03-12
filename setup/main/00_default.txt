@@ -479,6 +479,18 @@ family={
 			culture = lydian
 			prestige=300
 		}
+		33={
+			key="Shuma-Ishkun"
+			owner=DAA
+			culture = achaldean
+			prestige=100
+		}
+		34={
+			key="Nasir"
+			owner=DAL
+			culture = agade
+			prestige=100
+		}
 	}
 }
 diplomacy = {
@@ -487,6 +499,8 @@ diplomacy = {
 	dependency = { first = MAC second = MBA subject_type = feudatory }
 	dependency = { first = MAC second = MAW subject_type = feudatory }
 	dependency = { first = MAC second = MAE subject_type = feudatory }
+	dependency = { first = MAC second = DAB subject_type = feudatory }
+	dependency = { first = MAC second = DAD subject_type = feudatory }
 	#Arpad owns Hamath
 	dependency = { first = MBG second = MAP subject_type = feudatory }
 	#Phoenician League
@@ -625,6 +639,14 @@ provinces = { #Any entry must contain a comment with city name.
 	2744 = { fortress_building = 1 }
 	2775 = { fortress_building = 1 }
 	3264 = { fortress_building = 1 }
+	3495 = { fortress_building = 1 }
+	3500 = { fortress_building = 1 }
+	3473 = { fortress_building = 1 }
+	2593 = { fortress_building = 1 }
+	2296 = { fortress_building = 1 }
+	2515 = { fortress_building = 1 }
+	3438 = { port_building = 2 }
+	3554 = { port_building = 1 }
 	2679 = { port_building = 2 }
 	3212 = { port_building = 2 }
 	2661 = { port_building = 2 }
@@ -3345,10 +3367,10 @@ country = {
 				3502 3506 3507 3508 3509 3510 3501 3503 3504 3498 3496 3497
 				3465 3464 3463 3481 3480 3479 3478 3466 3489 3482 3487 3488
 				3468 3469 3470 3471 3475 3474 3473 3472 3536 3540 3467 3476
-				3485 3495 3516 3483 3484 3490 3517 3528 3531 3530 3533 3532
+				3495 3516 3490 3517 3528 3531 3530 3533 3532
 				3518 3519 3493 3494 3491 3521 3520 3529 3526 3535 3534 3522
 				3486 3492 3499 3500 3477 3505 3514 3515 3523 3537
-				3524 3525 3527 3538 3539 3541 3542 3544 3545 3546 3543
+				3524 3525 3527 3538 3539 3541 3543
 			}
 			
 			#is_antagonist = yes
@@ -3379,7 +3401,7 @@ country = {
 			capital = 2504
 			
 			own_control_core = 	{ 
-				2504 2505 2503 2317 2318 2319
+				2504 2505 2503 2317 2318 2319 3383 3384 3385 3386
 			}
 		}
 		
@@ -4445,16 +4467,24 @@ country = {
 		}
 		
 		DAA = { 
+			family=33
 			government = aristocratic_monarchy
-			primary_culture = agade
+			primary_culture = achaldean
 			religion = anunnaki_pantheon
 			capital = 3401
 			
+			poptype_rights = {
+				{
+					culture = agade 
+					type = citizen
+				}
+			}
+			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
 			}
 			
 			historical_regnal_numbers = {
@@ -4463,6 +4493,121 @@ country = {
 			
 			own_control_core = 	{ 
 				3401
+			}
+		}
+		
+		DAB = {          
+			government = tribal_kingdom
+			primary_culture = aitean
+			religion = anunnaki_pantheon
+			capital = 3483
+			
+			own_control_core = 	{ 
+				3483 3484 3485
+			}
+		}
+		
+		DAD = {          
+			government = tribal_kingdom
+			primary_culture = aitean
+			religion = anunnaki_pantheon
+			capital = 3545
+			
+			own_control_core = 	{ 
+				3545 3544 3546 3542
+			}
+		}
+		
+		DAE = {          
+			government = tribal_kingdom
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3559
+			
+			own_control_core = 	{ 
+				3554 3553 3552 3551 3555 3556 3557 3558 3559 3560
+			}
+		}
+		
+		DAF = {          
+			government = tribal_kingdom
+			primary_culture = aitean
+			religion = anunnaki_pantheon
+			capital = 3583
+			
+			own_control_core = 	{ 
+				3583 3582 3581 3585 3586 3587
+			}
+		}
+		
+		DAG = {          
+			government = tribal_kingdom
+			primary_culture = aitean
+			religion = anunnaki_pantheon
+			capital = 3573
+			
+			own_control_core = 	{ 
+				3573 3569 3567 3584 3575 3588
+			}
+		}
+		
+		DAH = {          
+			government = tribal_kingdom
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3402
+			
+			own_control_core = 	{ 
+				3402 3400 3409
+			}
+		}
+		
+		DAI = {          
+			government = tribal_kingdom
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3394
+			
+			own_control_core = 	{ 
+				3394 3395 3392
+			}
+		}
+		DAJ = {          
+			government = tribal_kingdom
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3425
+			
+			own_control_core = 	{ 
+				3424 3425 3423
+			}
+		}
+		DAK = {          
+			government = tribal_kingdom
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3433
+			
+			own_control_core = 	{ 
+				3433 3432
+			}
+		}
+		DAL = {  
+			family=34
+			government = aristocratic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3438
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3438
 			}
 		}
 	}

@@ -2,14 +2,14 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -21,14 +21,14 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -40,14 +40,14 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -59,14 +59,14 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="sutean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -173,14 +173,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -211,7 +211,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -219,6 +219,9 @@
 		amount=1
 	}	
 	freemen={
+		amount=1
+	}	
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -230,14 +233,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -325,14 +328,14 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -366,7 +369,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -374,6 +377,9 @@
 		amount=1
 	}	
 	freemen={
+		amount=1
+	}	
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -499,14 +505,14 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -765,14 +771,14 @@
 	terrain="marsh"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -784,14 +790,14 @@
 	terrain="marsh"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -803,7 +809,7 @@
 	terrain="marsh"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -811,6 +817,9 @@
 		amount=1
 	}	
 	freemen={
+		amount=1
+	}	
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -936,14 +945,14 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -955,7 +964,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="agade"
+	culture="achaldean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -963,6 +972,9 @@
 		amount=1
 	}	
 	freemen={
+		amount=1
+	}	
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -1053,15 +1065,18 @@
 	culture="agade"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=12
+	}	
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=7
 	}
 }
 

@@ -24,15 +24,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=8
+	}	
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -198,15 +201,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=12
+	}	
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=7
 	}
 }
 
@@ -255,15 +261,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=12
+	}	
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=7
 	}
 }
 
@@ -293,15 +302,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=8
+	}	
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -312,15 +324,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=8
+	}	
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -385,7 +400,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="ashurite"
+	culture="aitean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -393,6 +408,9 @@
 		amount=1
 	}	
 	freemen={
+		amount=1
+	}	
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -404,14 +422,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="ashurite"
+	culture="aitean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -423,14 +441,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="ashurite"
+	culture="aitean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -445,15 +463,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=8
+	}	
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -616,15 +637,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=12
+	}	
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=7
 	}
 }
 
@@ -711,15 +735,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=12
+	}	
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=7
 	}
 }
 
@@ -749,15 +776,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=12
+	}	
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=7
 	}
 }
 
@@ -996,15 +1026,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=12
+	}	
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=7
 	}
 }
 
@@ -1338,15 +1371,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=8
+	}	
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -1414,15 +1450,18 @@
 	culture="ashurite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}	
+	citizen={
+		amount=8
+	}	
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -1449,14 +1488,14 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="ashurite"
+	culture="aitean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -1487,14 +1526,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="ashurite"
+	culture="aitean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -1506,7 +1545,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="ashurite"
+	culture="aitean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1514,6 +1553,9 @@
 		amount=1
 	}	
 	freemen={
+		amount=1
+	}	
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -1525,14 +1567,14 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="anunnaki_pantheon"
-	culture="ashurite"
+	culture="aitean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
