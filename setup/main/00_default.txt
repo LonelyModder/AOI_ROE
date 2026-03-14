@@ -504,6 +504,7 @@ diplomacy = {
 	#Supporters of Shuma-Ishkun
 	dependency = { first = DAA second = DAH subject_type = feudatory }
 	dependency = { first = DAA second = DAI subject_type = feudatory }
+	dependency = { first = DAA second = DAK subject_type = feudatory }
 	#Arpad owns Hamath
 	dependency = { first = MBG second = MAP subject_type = feudatory }
 	#Phoenician League
@@ -4626,6 +4627,78 @@ country = {
 			
 			own_control_core = 	{ 
 				3413 3414 3417 3420 3422 3411 3412 3415 3416 3418 3419 3421
+			}
+		}
+		
+		DAN = {  
+			government = aristocratic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3568
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0 }
+			}
+			
+			own_control_core = 	{ 
+				3568 3566
+			}
+		}
+		
+		DAO = {  
+			government = aristocratic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3574
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0 }
+			}
+			
+			own_control_core = 	{ 
+				3574 3570 3571 3576 3572 3577 3562
+			}
+		}
+		
+		DAP = {  
+			government = aristocratic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3598
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0 }
+			}
+			
+			own_control_core = 	{ 
+				3605 3606 3608 3607 3609 3604 3603 3602 3598 3599 3601
+			}
+		}
+		
+		DAR = {  
+			government = aristocratic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3595
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0 }
+			}
+			
+			own_control_core = 	{ 
+				3595 3594 3596 3597 3600 3591 3593 3590 3592 3589
 			}
 		}
 	}
