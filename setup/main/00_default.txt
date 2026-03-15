@@ -649,7 +649,14 @@ provinces = { #Any entry must contain a comment with city name.
 	2593 = { fortress_building = 1 }
 	2296 = { fortress_building = 1 }
 	2515 = { fortress_building = 1 }
+	3397 = { fortress_building = 1 }
+	2457 = { fortress_building = 1 }
+	2449 = { fortress_building = 1 }
 	3438 = { port_building = 2 }
+	3564 = { port_building = 2 }
+	3568 = { port_building = 2 }
+	3595 = { port_building = 2 }
+	3606 = { port_building = 2 }
 	3554 = { port_building = 1 }
 	2679 = { port_building = 2 }
 	3212 = { port_building = 2 }
