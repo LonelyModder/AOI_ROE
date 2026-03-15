@@ -9281,8 +9281,8 @@
 
 3561={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
