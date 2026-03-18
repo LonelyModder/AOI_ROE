@@ -1,14 +1,14 @@
-﻿libyan_philosophy = { 
+﻿zagrosian_philosophy = { 
 	color = hsv { 1.1 1 0.5 }
-	image = mauryan_noble_path_1
+	image = persian_achaemenid_path_4
 	
 	allow = {
 		trigger_if = {
-			limit = { country_culture_group = libyan }
+			limit = { country_culture_group = kassite }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = libyan
+			country_culture_group = kassite
 		}
 		trigger_else_if = {
 			limit = {
@@ -19,8 +19,8 @@
 						has_military_bonus = illyrian_path_end_bonus
 						has_military_bonus = grekoid_path_end_bonus
 						has_military_bonus = italian_path_end_bonus
-						has_military_bonus = keltoi_path_end_bonus
 						has_military_bonus = thracian_path_end_bonus
+						has_military_bonus = libyan_path_end_bonus
 						has_military_bonus = nubian_path_end_bonus
 						has_military_bonus = egyptian_path_end_bonus
 						has_military_bonus = arabian_path_end_bonus
@@ -28,11 +28,11 @@
 						has_military_bonus = anatolian_path_end_bonus
 						has_military_bonus = nomadic_path_end_bonus
 						has_military_bonus = caucasian_path_end_bonus
-						has_military_bonus = zagrosian_path_end_bonus
+						has_military_bonus = assyrian_path_end_bonus
 					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:libyan
+						this.culture.culture_group = culture_group:kassite
 					}
 				}
 			}
@@ -43,8 +43,8 @@
 					has_military_bonus = illyrian_path_end_bonus
 					has_military_bonus = grekoid_path_end_bonus
 					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
 					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
 					has_military_bonus = nubian_path_end_bonus
 					has_military_bonus = egyptian_path_end_bonus
 					has_military_bonus = arabian_path_end_bonus
@@ -52,13 +52,13 @@
 					has_military_bonus = anatolian_path_end_bonus
 					has_military_bonus = nomadic_path_end_bonus
 					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
+					has_military_bonus = assyrian_path_end_bonus
 				}
 				any_country_culture = {
 					custom_tooltip = {
 						text = tradition_unlock_requirement_short
 						is_integrated = yes
-						this.culture.culture_group = culture_group:libyan
+						this.culture.culture_group = culture_group:kassite
 					}
 				}
 			}
@@ -71,8 +71,8 @@
 					has_military_bonus = illyrian_path_end_bonus
 					has_military_bonus = grekoid_path_end_bonus
 					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
 					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
 					has_military_bonus = nubian_path_end_bonus
 					has_military_bonus = egyptian_path_end_bonus
 					has_military_bonus = arabian_path_end_bonus
@@ -80,144 +80,120 @@
 					has_military_bonus = anatolian_path_end_bonus
 					has_military_bonus = nomadic_path_end_bonus
 					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
+					has_military_bonus = assyrian_path_end_bonus
 				}
 				custom_tooltip = {
-					text = "tradition_unlock_requirement_libyan"
+					text = "tradition_unlock_requirement_kassite"
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:libyan
+						this.culture.culture_group = culture_group:kassite
 					}
 				}
 			}
 		}
 	}
 	
-	libyan_path_1 = { ###libyan path
+	zagrosian_path_1 = { ###zagrosian path
 		modifier = { 
 			ia_warriors_offensive = 0.1
 			ia_warriors_defensive = 0.05
 		}
-		icon = mauryan_noble_path_1
+		icon = persian_achaemenid_path_4
 		requires = {}
 	}
 	
-	libyan_path_2 = { ###libyan path
+	zagrosian_path_2 = { ###zagrosian path
+		modifier = { 
+			ia_chariots_offensive = 0.1
+			ia_chariots_defensive = 0.05
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_1}
+	}
+	
+	zagrosian_path_3 = { ###zagrosian path
+		modifier = { 
+			hills_combat_bonus = 0.2
+			mountain_combat_bonus = 0.2
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_2}
+	}
+	
+	zagrosian_path_2a = { ###zagrosian path
+		modifier = { 
+			ia_chariots_offensive = 0.15
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_3}
+	}
+	
+	zagrosian_path_3a = { ###zagrosian path
+		modifier = { 
+			ia_warriors_offensive = 0.1
+			ia_warriors_defensive = 0.05
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_2a}
+	}
+	
+	zagrosian_path_4a = { ###zagrosian path
 		modifier = { 
 			ia_archers_offensive = 0.1
 			ia_archers_defensive = 0.05
 		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_1}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_3a}
 	}
 	
-	libyan_path_3 = { ###libyan path
+	zagrosian_path_2b = { ###zagrosian path
 		modifier = { 
-			ia_warriors_morale = 0.1
+			ia_archers_offensive = 0.15
 		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_2}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_3}
 	}
 	
-	libyan_path_3a = { ###libyan path
+	zagrosian_path_3b = { ###zagrosian path
 		modifier = { 
-			ia_chariots_offensive = 0.15
-			ia_chariots_defensive = 0.05
-			ia_lightcavalry_offensive = 0.15
+			ia_lightinfantry_offensive = 0.1
+			ia_lightinfantry_defensive = 0.05
+		}
+		enable_tactic = greek_phalanx
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_2b}
+	}
+	
+	zagrosian_path_4b = { ###zagrosian path
+		modifier = { 
+			army_movement_speed = 0.25
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_3b}
+	}
+	
+	zagrosian_path_5b = { ###zagrosian path
+		modifier = { 
+			global_defensive = 0.05
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_4b}
+	}
+	
+	zagrosian_path_6b = { ###zagrosian path
+		modifier = { 
+			ia_lightcavalry_offensive = 0.1
 			ia_lightcavalry_defensive = 0.05
 		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_3}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_5b}
 	}
 	
-	libyan_path_4a = { ###libyan path
+	zagrosian_path_end_bonus = { ###zagrosian path
 		modifier = { 
-			levy_size_multiplier = 0.025
+			global_defensive = 0.05
 		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_3a}
-	}
-	
-	libyan_path_5a = { ###libyan path
-		modifier = { 
-			global_cohort_start_experience = 5
-			experience_decay = -0.005
-		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_4a}
-		on_activate = {
-			custom_tooltip = "create_high_martial_rising_star"
-			hidden_effect = {
-				create_character = {
-					add_martial = 8
-					add_trait = disciplined
-				}
-			}
-		}
-	}
-	
-	libyan_path_6a = { ###libyan path
-		modifier = { 
-			fort_limit = 1
-		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_5a}
-		on_activate = {
-			capital_scope = {
-				add_building_level = fortress_building
-			}
-		}
-	}
-	
-	libyan_path_7a = { ###libyan path
-		modifier = { 
-			global_manpower_modifier = 0.1
-			monthly_legitimacy = 0.01
-		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_6a}
-		on_activate = {
-			add_legitimacy = 25
-			current_ruler = {
-				add_charisma = 2
-			}
-		}
-	}
-	
-	libyan_path_3b = { ###libyan path
-		modifier = { 
-			desert_combat_bonus = 0.25
-			plains_combat_bonus = 0.15
-			ia_camels_offensive = 0.15
-			ia_camels_defensive = 0.05
-		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_3}
-	}
-	
-	libyan_path_4b = { ###libyan path
-		modifier = { 
-			army_movement_speed = 0.2
-		}
-		enable_tactic = hit_and_run_tactics
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_3b}
-	}
-	
-	libyan_path_5b = { ###libyan path
-		modifier = { 
-			enslavement_efficiency = 0.1
-			global_slaves_output = output_large_svalue
-		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_4b}
-	}
-	
-	libyan_path_end_bonus = { ###libyan path
-		modifier = { 
-			global_cohort_start_experience = 5
-		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_7a libyan_path_5b}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_4a zagrosian_path_6b}
 	}
 }
