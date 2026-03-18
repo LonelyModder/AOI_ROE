@@ -312,6 +312,7 @@
 	slaves={
 		amount=4
 	}
+	holy_site="omen_mshamash"
 }
 
 3399={ 
@@ -372,6 +373,7 @@
 	slaves={
 		amount=10
 	}
+	holy_site="omen_mmarduk"
 }
 
 3402={ 
@@ -416,6 +418,7 @@
 	slaves={
 		amount=7
 	}
+	holy_site="omen_mnabu"
 }
 
 3404={ 
@@ -634,6 +637,7 @@
 	slaves={
 		amount=7
 	}
+	holy_site="omen_mishtar"
 }
 
 3415={ 
@@ -713,6 +717,7 @@
 	slaves={
 		amount=1
 	}
+	holy_site="omen_mea"
 }
 
 3419={ 
@@ -915,6 +920,7 @@
 	slaves={
 		amount=7
 	}
+	holy_site="omen_menlil"
 }
 
 3429={ 
