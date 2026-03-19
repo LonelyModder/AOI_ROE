@@ -370,6 +370,10 @@
 	freemen={
 		amount=15
 	}
+	tribesmen={
+		amount=10
+		culture="achaldean"
+	}
 	slaves={
 		amount=10
 	}

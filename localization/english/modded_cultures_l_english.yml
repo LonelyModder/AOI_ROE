@@ -212,6 +212,14 @@
  manneanic:0 "Mannean"
  hurric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  hurric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Elamite
+ elamitic:2 "Elamite"
+ susanian:0 "Susan"
+ awanic:0 "Awanese"
+ anshanian:0 "Anshanese"
+ ellipian:0 "Ellipian"
+ elamitic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ elamitic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  venedi:2 "Aedric"
  wvenedi:0 "Heresy"

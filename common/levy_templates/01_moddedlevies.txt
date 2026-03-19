@@ -293,6 +293,17 @@ levy_kasidic = { #kassite militia
 	ia_lightcavalry = 0.1
 }
 
+#Elamite
+
+levy_elamitic = { #elamite militia
+	default = no
+
+	ia_archers = 0.1
+	ia_lightinfantry = 0.6
+	ia_chariots = 0.2
+	ia_lightcavalry = 0.1
+}
+
 #Hurrian
 
 levy_urumic = { #hurric militia

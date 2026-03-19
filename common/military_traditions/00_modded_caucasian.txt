@@ -8,6 +8,7 @@
 				OR = {
 					country_culture_group = hazzian
 					country_culture_group = caucasic
+					country_culture_group = hurric
 				}				
 			}
 			custom_tooltip = {
@@ -43,6 +44,7 @@
 						OR = {
 							this.culture.culture_group = culture_group:hazzian	
 							this.culture.culture_group = culture_group:caucasic
+							this.culture.culture_group = culture_group:hurric
 						}
 					}
 				}
@@ -72,6 +74,7 @@
 						OR = {
 							this.culture.culture_group = culture_group:hazzian	
 							this.culture.culture_group = culture_group:caucasic
+							this.culture.culture_group = culture_group:hurric
 						}
 					}
 				}
@@ -103,6 +106,7 @@
 						OR = {
 							this.culture.culture_group = culture_group:hazzian	
 							this.culture.culture_group = culture_group:caucasic
+							this.culture.culture_group = culture_group:hurric
 						}
 					}
 				}
