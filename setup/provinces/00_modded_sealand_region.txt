@@ -206,7 +206,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -225,7 +229,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -249,6 +257,10 @@
 	freemen={
 		amount=6
 	}
+	tribesmen={
+		amount=4
+		culture="achaldean"
+	}
 	slaves={
 		amount=4
 	}
@@ -266,7 +278,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -285,7 +301,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -328,6 +348,10 @@
 	freemen={
 		amount=8
 	}
+	tribesmen={
+		amount=4
+		culture="achaldean"
+	}
 	slaves={
 		amount=7
 	}
@@ -364,7 +388,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -383,7 +411,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -402,7 +434,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -448,6 +484,10 @@
 	freemen={
 		amount=6
 	}
+	tribesmen={
+		amount=4
+		culture="achaldean"
+	}
 	slaves={
 		amount=4
 	}
@@ -484,7 +524,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -503,7 +547,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -522,7 +570,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -541,7 +593,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -560,7 +616,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -735,6 +795,8 @@
 	}	
 	freemen={
 		amount=4
+		religion="elamite_pantheon"
+		culture="awanic"
 	}
 	slaves={
 		amount=1
@@ -753,7 +815,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -772,7 +838,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -792,6 +862,8 @@
 	}	
 	freemen={
 		amount=4
+		religion="elamite_pantheon"
+		culture="susanian"
 	}
 	slaves={
 		amount=1
@@ -811,6 +883,8 @@
 	}	
 	freemen={
 		amount=4
+		religion="elamite_pantheon"
+		culture="susanian"
 	}
 	slaves={
 		amount=1
@@ -830,6 +904,8 @@
 	}	
 	freemen={
 		amount=4
+		religion="elamite_pantheon"
+		culture="susanian"
 	}
 	slaves={
 		amount=1
@@ -853,6 +929,10 @@
 	freemen={
 		amount=6
 	}
+	tribesmen={
+		amount=4
+		culture="achaldean"
+	}
 	slaves={
 		amount=4
 	}
@@ -870,7 +950,11 @@
 		amount=1
 	}	
 	freemen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		amount=2
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -890,6 +974,8 @@
 	}	
 	freemen={
 		amount=4
+		religion="elamite_pantheon"
+		culture="susanian"
 	}
 	slaves={
 		amount=1
@@ -913,6 +999,10 @@
 	freemen={
 		amount=6
 	}
+	tribesmen={
+		amount=4
+		culture="achaldean"
+	}
 	slaves={
 		amount=4
 	}
@@ -931,6 +1021,8 @@
 	}	
 	freemen={
 		amount=4
+		religion="elamite_pantheon"
+		culture="susanian"
 	}
 	slaves={
 		amount=1
@@ -950,6 +1042,8 @@
 	}	
 	freemen={
 		amount=4
+		religion="elamite_pantheon"
+		culture="susanian"
 	}
 	slaves={
 		amount=1
@@ -969,6 +1063,8 @@
 	}	
 	freemen={
 		amount=4
+		religion="elamite_pantheon"
+		culture="susanian"
 	}
 	slaves={
 		amount=1
@@ -988,6 +1084,8 @@
 	}	
 	freemen={
 		amount=4
+		religion="elamite_pantheon"
+		culture="susanian"
 	}
 	slaves={
 		amount=1
@@ -1007,6 +1105,8 @@
 	}	
 	freemen={
 		amount=4
+		religion="elamite_pantheon"
+		culture="susanian"
 	}
 	slaves={
 		amount=1
@@ -1021,11 +1121,12 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -1040,11 +1141,12 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -1059,11 +1161,12 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -1078,11 +1181,12 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -1097,11 +1201,12 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
+		culture="achaldean"
 	}
 	slaves={
 		amount=1
@@ -1116,11 +1221,12 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
+		culture="achaldean"
 	}
 	slaves={
 		amount=1

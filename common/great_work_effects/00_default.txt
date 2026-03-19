@@ -2280,3 +2280,49 @@ gw_effect_great_pyramid = {
 		}
 	}
 }
+
+gw_effect_isagil_temple = {
+	icon = "gw_effect_culture_expansion"
+
+	flags = {
+		"population"
+	}
+
+	great_work_tier_effect_modifiers = {
+		gw_effect_isagil_temple_tier_1 = {
+			great_work_effect_tier = gw_effect_tier_1
+
+			country_modifier = {
+				global_pop_conversion_speed_modifier = 0.04
+				#happiness_for_wrong_culture_group_modifier = 0.01
+			}
+		}
+		gw_effect_isagil_temple_tier_2 = {
+			great_work_effect_tier = gw_effect_tier_2
+
+			country_modifier = {
+				global_pop_conversion_speed_modifier = 0.06
+				#happiness_for_wrong_culture_group_modifier = 0.02
+
+			}
+		} 
+		gw_effect_isagil_temple_tier_3 = {
+			great_work_effect_tier = gw_effect_tier_3
+
+			country_modifier = {
+				global_pop_conversion_speed_modifier = 0.08
+				#happiness_for_wrong_culture_group_modifier = 0.03
+
+			}
+		} 
+		gw_effect_isagil_temple_tier_4 = {
+			great_work_effect_tier = gw_effect_tier_4
+
+			country_modifier = {
+				global_pop_conversion_speed_modifier = 0.1
+				#happiness_for_wrong_culture_group_modifier = 0.05
+
+			}
+		}
+	}
+}

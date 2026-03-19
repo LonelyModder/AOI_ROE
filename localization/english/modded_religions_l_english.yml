@@ -41,6 +41,8 @@
  hurrian_pantheon:0 "Hurrian"
  desc_hurrian_pantheon:0 "Hurrians worshipped large number of gods from various different cultures, especially Mesopotamia and Syria. Many gods were syncretised with Mesopotamian and Syrian deities over time. Šauška was for example identified with Ishtar of Nineveh. Syncretism embraced the native partners of gods, like the Syrian Hebat as wife of Tessub. Hurrians built temples where they worshipped their gods. They deified cult implements, like the incense burners, offering dishes and divine symbols. Gods images were cleaned, anointed, and dressed."
  armenic_pantheon:0 "Hayasan"
- desc_armenic_pantheon:0 " Oldest cults are believed to worship a creator called Ar or possibly Ara, embodied as the sun Arev or Areg, the ancient Armenians called themselves after all "children of the sun". Also among the most ancient of Indo-European-derived worship are the cults of eagles and lions, and of the sky."
+ desc_armenic_pantheon:0 "Oldest cults are believed to worship a creator called Ar or possibly Ara, embodied as the sun Arev or Areg, the ancient Armenians called themselves after all "children of the sun". Also among the most ancient of Indo-European-derived worship are the cults of eagles and lions, and of the sky."
+ elamite_pantheon:0 "Elamite"
+ desc_elamite_pantheon:0 "Elamites practised polytheism. Because we do not have enough sources, past scholars assumed that their religion must have been characterized by the ill-defined individual gods and worship also varied between localities. However, more recent scholarship shows that Elamite deities weren't any less defined than Sumerian, Akkadian or Hurrian."
  
  slavic_pantheon:0 "Heresy"
