@@ -348,7 +348,51 @@ GAN = {
 	}
 }
 
+DAL = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_chariot_01.dds"
+		color1 = "roman_red"
+	}
+}
+
+DAA = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_chariot_01.dds"
+		color1 = "roman_gold"
+	}
+}
+
 #Modded Emblems for starting countries
+
+BABYLONIA_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_chariot_01.dds"
+		color1 = "roman_red"
+	}
+}
+
+CHALDEA_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_chariot_01.dds"
+		color1 = "roman_gold"
+	}
+}
 
 EGYPT_FLAG = {
 	pattern = "pattern_solid.tga"

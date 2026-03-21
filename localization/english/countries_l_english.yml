@@ -1320,6 +1320,10 @@
  DAR:0 "Charax"
  DAR_ADJ:0 "Charaxan"
  #Modded Formables
+ CHALDEA_NAME:0 "Chaldea"
+ CHALDEA_NAME_ADJECTIVE:0 "Chaldean"
+ BABYLONIA_NAME:0 "Babylon"
+ BABYLONIA_ADJECTIVE:0 "Babylonian"
  DELOS_NAME:0 "Delian League"
  DELOS_ADJECTIVE:0 "Delian"
  PELOPONESSUS_NAME:0 "Peloponesian League"

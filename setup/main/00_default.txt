@@ -719,6 +719,8 @@ provinces = { #Any entry must contain a comment with city name.
 	2215 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	3457 = { fortress_building = 1 }
+	3449 = { fortress_building = 1 }
 	2744 = { fortress_building = 1 }
 	2775 = { fortress_building = 1 }
 	3264 = { fortress_building = 1 }

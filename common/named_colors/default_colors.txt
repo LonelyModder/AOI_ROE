@@ -175,6 +175,7 @@ colors = {
 	TABAL_COLOR = rgb { 214 167 13 }
 	PELOPONESSUS_COLOR = rgb { 201 56 16 }
 	DELOS_COLOR = rgb { 17 98 191 }
+	BABYLONIA_COLOR = rgb { 209 146 8 }
 	#Event Colors
 	KAlessian_color = rgb { 186 19 13 }
 	

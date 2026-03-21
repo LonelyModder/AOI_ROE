@@ -1,0 +1,110 @@
+﻿country_decisions = {
+	
+	# Form Babylon
+	form_babylonia = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XBA
+				tag = MAC
+				tag = DAA
+				tag = DAL
+			}
+			OR = {
+				country_culture_group = akkadian
+				country_culture_group = aramaic
+				country_culture_group = elamitic
+			}
+			NOT = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3401 # Babylon
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = babylonia_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XBA
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 3401 # Babylon
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			if = {
+				limit = {
+					NOT = { primary_culture = achaldean }
+				}
+				change_country_name = "BABYLONIA_NAME"
+			}
+			if = {
+				limit = {
+					primary_culture = achaldean 
+				}
+				change_country_name = "CHALDEA_NAME"
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						NOT = { primary_culture = achaldean }
+					}
+					change_country_adjective = "BABYLONIA_ADJECTIVE"
+					change_country_flag = BABYLONIA_FLAG
+				}
+				if = {
+					limit = {
+						primary_culture = achaldean 
+					}
+					change_country_adjective = "CHALDEA_ADJECTIVE"
+					change_country_flag = CHALDEA_FLAG
+				}
+				change_country_color = "BABYLONIA_COLOR"
+				change_country_tag = XBA
+			}
+			if = {
+				limit = {
+					p:3401 = { is_capital = no }
+				}
+				set_capital = 3401
+				hidden_effect = {
+					p:3401.state = {
+						set_state_capital = 3401
+					}
+				}
+				capital_scope = {
+					establish_city_effect = yes
+				}
+			}
+			p:3401 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = Babylonia_claims_tooltip
+			hidden_effect = {
+				region:modded_babylonia_region = { formable_region_province_effect = yes }
+				region:modded_sealand_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}
