@@ -198,6 +198,11 @@ esfa_startup.12 = { #Akkadian
 
     option = {    
         name = esfa_startup.12.a
+		#Claims of Nabonassar
+		c:DAL = {
+			region:modded_babylonia_region = { formable_region_province_effect = yes }
+			region:modded_sealand_region = { formable_region_province_effect = yes }			
+		}
     }
 }
 

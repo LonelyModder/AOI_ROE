@@ -796,7 +796,7 @@
 	freemen={
 		amount=4
 		religion="elamite_pantheon"
-		culture="awanic"
+		culture="susanian"
 	}
 	slaves={
 		amount=1

@@ -207,7 +207,7 @@
  kassite_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Hurric
  hurric:2 "Hurric"
- mittanic:0 "Mittanic"
+ mittanic:0 "Hurric"
  bianilic:0 "Urartrian"
  manneanic:0 "Mannean"
  hurric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
@@ -215,7 +215,6 @@
  #Elamite
  elamitic:2 "Elamite"
  susanian:0 "Susan"
- awanic:0 "Awanese"
  anshanian:0 "Anshanese"
  ellipian:0 "Ellipian"
  elamitic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"

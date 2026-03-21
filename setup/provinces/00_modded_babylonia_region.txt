@@ -429,6 +429,10 @@
 	slaves={
 		amount=10
 	}
+	slaves={
+		amount=1
+		culture="achaldean"
+	}
 	holy_site="omen_mmarduk"
 }
 
