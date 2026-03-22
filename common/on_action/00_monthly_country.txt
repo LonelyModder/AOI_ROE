@@ -88,6 +88,12 @@
 		lydia_01_anatolia_1.12
 		lydia_01_anatolia_1.18
 		lydia_01_anatolia_1.19
+		#Babylonian Civil War Events
+		babylon_sideevents.1
+		babylon_sideevents.2
+		babylon_sideevents.3
+		babylon_sideevents.4
+		babylon_sideevents.5
 		#Units
 		units_allowance_events.1
 		#Modded events 
