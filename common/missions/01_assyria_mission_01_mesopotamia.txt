@@ -236,7 +236,7 @@
 	}
 	
 	assyria_01_mesopotamia_7 = { # New Capital
-		requires = { assyria_01_mesopotamia_1 }
+		requires = { assyria_01_mesopotamia_9 }
 		icon = task_conquest
 		duration = 30
 		
@@ -268,6 +268,28 @@
 		
 		on_completion = {
 			trigger_event = { id = assyria_01_mesopotamia_1.18 }
+		}
+	}
+	
+	assyria_01_mesopotamia_8 = { # Pilaser
+		requires = { assyria_01_mesopotamia_1 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.19 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.20 }
 		}
 	}
 	

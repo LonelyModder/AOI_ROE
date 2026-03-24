@@ -481,3 +481,143 @@ assyria_01_mesopotamia_1.17= {
 	}
 }
 
+assyria_01_mesopotamia_1.18= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.18.t"
+	desc = "assyria_01_mesopotamia_1.18.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.18.a"
+		p:3473 = {
+			while = {
+                count = 3
+                define_pop = {
+					type = nobles
+					culture = ashurite
+					religion = anunnaki_pantheon
+                }
+            } 
+			while = {
+                count = 6
+                define_pop = {
+					type = citizen
+					culture = ashurite
+					religion = anunnaki_pantheon
+                }
+            }
+			set_city_status = city_metropolis
+		}
+		if = {
+			limit = {
+				p:3473 = { is_capital = no }
+			}
+			set_capital = 3473
+			hidden_effect = {
+				p:3473.state = {
+					set_state_capital = 3473
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+			}
+		}
+		p:3473 = {
+			capital_formable_medium_effect = yes
+			formable_capital_modifier_normal_effect = yes
+		}
+		add_3_free_province_investments = yes
+	}
+}
+
+assyria_01_mesopotamia_1.19= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.19.t"
+	desc = "assyria_01_mesopotamia_1.19.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.19.a"
+	}
+}
+
+assyria_01_mesopotamia_1.20= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.20.t"
+	desc = "assyria_01_mesopotamia_1.20.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.20.a"
+		c:MAC={
+			set_as_ruler=char:46
+			every_character = {
+				limit = { mother = scope:alesh_gov }
+				death = { death_reason = death_obscurity }
+			}
+		}
+		p:3518 = { #Rebelion of Nobility
+			create_country = {
+				change_government = despotic_monarchy #New Government?
+				set_primary_culture = ashurite
+				set_country_religion = anunnaki_pantheon
+				change_country_name = "ASYRIANNOBILITY_NAME"
+				change_country_adjective = "ASYRIANNOBILITY_ADJECTIVE"
+			}
+		}
+		p:3518.owner = {
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+					}
+				}
+			}
+			every_unit = {
+				add_food = 100
+			}
+		}
+		p:3518.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:3465
+				target = p:3465.owner
+			}
+		}
+	}
+}
+
