@@ -235,6 +235,42 @@
 		}
 	}
 	
+	assyria_01_mesopotamia_7 = { # New Capital
+		requires = { assyria_01_mesopotamia_1 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			owns = 3473 
+			political_influence > 20
+			treasury > 200
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3473
+				}
+			}
+			show_as_tooltip = { 
+				add_political_influence = -20 
+				add_treasury = -200
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+				add_treasury = -200
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.17 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.18 }
+		}
+	}
+	
 	assyria_01_mesopotamia_99 = { # King of Kings
 		requires = { assyria_01_mesopotamia_6 } 
 		icon = task_conquest

@@ -447,6 +447,9 @@
  assyria_01_mesopotamia_1.16.desc:0 "Our fears has just matirialised. Assyrian army capruted Damascus and have open road into Canaan. We know that all those who bend the knee will live but if they will feel secure in the region won't they outright annex our territory?"
  assyria_01_mesopotamia_1.16.a:0 "We are too weak to oppose them."
  assyria_01_mesopotamia_1.16.b:0 "We will never bow before them."
+ assyria_01_mesopotamia_1.17.t:0 "Nineveh"
+ assyria_01_mesopotamia_1.17.desc:0 "For Centuries Ashur was the name of both the country (assyria or Mat Assur literally means land of Ashur) and the city. Assyrian kings tried many times to change the capital for various resons like the need to distance themselves from scheeming nobility. Now in the middle of conflict with Urartu city called Nineveh seems a more fitting capital than Ashur. It's closer to the northern border and not far from the previous capital."
+ assyria_01_mesopotamia_1.17.a:0 "Let's begin the construction."
  #Lydia
  lydia_01_anatolia_1.1.t:0 "Lydian Lions"
  lydia_01_anatolia_1.1.desc:0 "In anatolia we have access to a number of gold mines. Gold, as a rare metal, could serve as an intermediate commodity serving as an intermediary in the exchange of goods. This could greatly boost our economy. We even have first project of a new round object with roaring lion carved on it."
