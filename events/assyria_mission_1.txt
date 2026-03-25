@@ -621,3 +621,48 @@ assyria_01_mesopotamia_1.20= {
 	}
 }
 
+assyria_01_mesopotamia_1.21= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.21.t"
+	desc = "assyria_01_mesopotamia_1.21.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.21.a"
+		p:3473={ # Hanging Gardens
+			begin_great_work_construction = {
+				great_work = "hanging_gardens"
+				locator = primary_great_work
+				is_ancient = yes						
+			}
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.22= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.22.t"
+	desc = "assyria_01_mesopotamia_1.22.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.22.a"
+		p:3473={ # Hanging Gardens
+			finish_great_work_construction = {
+				great_work = "hanging_gardens"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+

@@ -236,7 +236,7 @@
 	}
 	
 	assyria_01_mesopotamia_7 = { # New Capital
-		requires = { assyria_01_mesopotamia_9 }
+		requires = { assyria_01_mesopotamia_8 }
 		icon = task_conquest
 		duration = 30
 		
@@ -293,6 +293,39 @@
 		}
 	}
 	
+	assyria_01_mesopotamia_9 = { # Gardens of Niniveh
+		requires = { assyria_01_mesopotamia_7 }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			owns = 3473 
+			treasury > 200
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3473
+				}
+			}
+			show_as_tooltip = { 
+				add_treasury = -200
+			}
+			hidden_effect = { 
+				add_treasury = -200
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.21 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.22 }
+		}
+	}
+	
 	assyria_01_mesopotamia_99 = { # King of Kings
 		requires = { assyria_01_mesopotamia_6 } 
 		icon = task_conquest
@@ -304,6 +337,7 @@
 			owns_or_subject_owns = 2333 # Arpad
 			owns_or_subject_owns = 2340 # Hamath
 			owns_or_subject_owns = 2432 # Samaria
+			owns_or_subject_owns = 3401 # Babylon
 		}
 		
 		highlight = {
@@ -314,6 +348,7 @@
 					province_id = 2333 # Arpad
 					province_id = 2340 # Hamath
 					province_id = 2432 # Samaria
+					province_id = 3401 # Babylon
 				}
 			}
 		}
