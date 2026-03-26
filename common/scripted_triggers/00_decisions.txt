@@ -95,6 +95,7 @@ has_minable_trade_good_trigger = {
 			trade_goods = precious_metals
 			trade_goods = base_metals
 			trade_goods = iron
+			trade_goods = cinnabar
 		}
 	}
 }
@@ -106,6 +107,7 @@ has_unminable_trade_good_trigger = {
 		trade_goods = precious_metals
 		trade_goods = base_metals
 		trade_goods = iron
+		trade_goods = cinnabar
 	}
 }
 

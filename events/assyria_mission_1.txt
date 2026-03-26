@@ -566,10 +566,6 @@ assyria_01_mesopotamia_1.20= {
 		name = "assyria_01_mesopotamia_1.20.a"
 		c:MAC={
 			set_as_ruler=char:46
-			every_character = {
-				limit = { mother = scope:alesh_gov }
-				death = { death_reason = death_obscurity }
-			}
 		}
 		p:3518 = { #Rebelion of Nobility
 			create_country = {
@@ -662,6 +658,111 @@ assyria_01_mesopotamia_1.22= {
 				great_work = "hanging_gardens"
 				locator = primary_great_work
 			}
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.23= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.23.t"
+	desc = "assyria_01_mesopotamia_1.23.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.23.a"
+	}
+}
+
+assyria_01_mesopotamia_1.24= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.24.t"
+	desc = "assyria_01_mesopotamia_1.24.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.24.a"
+		region:modded_babylonia_region = { formable_region_province_effect = yes }
+		region:modded_sealand_region = { formable_region_province_effect = yes }
+		set_global_variable = {
+			name = assyrian_claim_babylonian_throne
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.25= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.25.t"
+	desc = "assyria_01_mesopotamia_1.25.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		owns = 3401
+		has_global_variable = assyrian_claim_babylonian_throne
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.25.a"
+	}
+}
+
+assyria_01_mesopotamia_1.26= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.26.t"
+	desc = "assyria_01_mesopotamia_1.26.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag = MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.26.a"
+	}
+}
+
+assyria_01_mesopotamia_1.27= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.27.t"
+	desc = "assyria_01_mesopotamia_1.27.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag = MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.27.a"
+		p:3401 = { #Assyrian Babylonia
+			create_country = {
+				change_government = despotic_monarchy 
+				set_primary_culture = agade
+				set_country_religion = anunnaki_pantheon
+				change_country_name = "ASSYRIANBABYLON_NAME"
+				change_country_adjective = "ASSYRIANBABYLON_ADJECTIVE"
+			}
+		}
+		every_region_province = {
+			limit = {
+				OR = {
+					is_in_region = modded_babylonia_region
+					is_in_region = modded_sealand_region
+				}
+				NOT = ( province_id = 3401 )
+			}
+			set_conquered_by = p:3401.owner
 		}
 	}
 }

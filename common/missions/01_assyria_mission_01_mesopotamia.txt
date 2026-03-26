@@ -326,8 +326,77 @@
 		}
 	}
 	
+	assyria_01_mesopotamia_10 = { # Babylon
+		requires = { assyria_01_mesopotamia_1 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			owns = 3397
+			political_influence > 20
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3397
+					province_id = 3401
+				}
+			}
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.23 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.24 }
+		}
+	}
+	
+	assyria_01_mesopotamia_11 = { # Babylonian Authonomy
+		requires = { assyria_01_mesopotamia_1 }
+		icon = task_conquest
+		duration = 60
+		
+		allow = {
+			owns_region = modded_babylonia_region
+			owns_region = modded_sealand_region
+			political_influence > 20
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					owns_region = modded_babylonia_region
+					owns_region = modded_sealand_region
+				}
+			}
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+		}
+		
+		on_start = {
+			trigger_event = { id = assyria_01_mesopotamia_1.26 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = assyria_01_mesopotamia_1.27 }
+		}
+	}
+	
 	assyria_01_mesopotamia_99 = { # King of Kings
-		requires = { assyria_01_mesopotamia_6 } 
+		requires = { assyria_01_mesopotamia_6 assyria_01_mesopotamia_11 } 
 		icon = task_conquest
 		#duration = 30
 		
