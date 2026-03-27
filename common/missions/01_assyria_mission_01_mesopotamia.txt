@@ -84,7 +84,7 @@
 	}
 	
 	assyria_01_mesopotamia_2 = { # National Standing Army
-		requires = { assyria_01_mesopotamia_1 }
+		requires = { assyria_01_mesopotamia_8 }
 		icon = task_conquest
 		duration = 90
 		
@@ -111,7 +111,7 @@
 	}
 	
 	assyria_01_mesopotamia_3 = { # Aramean Influence
-		requires = { assyria_01_mesopotamia_1 }
+		requires = { assyria_01_mesopotamia_8 }
 		icon = task_conquest
 		duration = 90
 		
@@ -238,7 +238,7 @@
 	assyria_01_mesopotamia_7 = { # New Capital
 		requires = { assyria_01_mesopotamia_8 }
 		icon = task_conquest
-		duration = 30
+		duration = 90
 		
 		allow = {
 			owns = 3473 
@@ -272,7 +272,7 @@
 	}
 	
 	assyria_01_mesopotamia_8 = { # Pilaser
-		requires = { assyria_01_mesopotamia_1 }
+		requires = {  }
 		icon = task_conquest
 		duration = 30
 		
@@ -361,7 +361,7 @@
 	}
 	
 	assyria_01_mesopotamia_11 = { # Babylonian Authonomy
-		requires = { assyria_01_mesopotamia_1 }
+		requires = { assyria_01_mesopotamia_10 }
 		icon = task_conquest
 		duration = 60
 		
@@ -396,7 +396,7 @@
 	}
 	
 	assyria_01_mesopotamia_99 = { # King of Kings
-		requires = { assyria_01_mesopotamia_6 assyria_01_mesopotamia_11 } 
+		requires = { assyria_01_mesopotamia_6 assyria_01_mesopotamia_11  assyria_01_mesopotamia_9  assyria_01_mesopotamia_3  assyria_01_mesopotamia_2 } 
 		icon = task_conquest
 		#duration = 30
 		

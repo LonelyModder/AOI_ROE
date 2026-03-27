@@ -463,6 +463,23 @@ argead_palace={
 	}
 }
 
+hanging_gardens={
+	can_build = no
+	localization_key = "wonder_hanging_gardens"
+	great_work_category="building"
+	great_work_components={
+		{
+			great_work_module="wonder_hanging_gardens"
+		}
+	}
+	great_work_effect_selections={
+		{
+			great_work_effect="gw_effect_gardens_of_niniveh"
+			great_work_effect_tier = "gw_effect_tier_4"
+		}
+	}
+}
+
 first_temple={
 	can_build = no
 	localization_key = "wonder_firsttemple"

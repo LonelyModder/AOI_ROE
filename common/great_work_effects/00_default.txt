@@ -2326,3 +2326,49 @@ gw_effect_isagil_temple = {
 		}
 	}
 }
+
+gw_effect_gardens_of_niniveh = {
+	icon = "gw_effect_gardens_of_niniveh"
+
+	flags = {
+		"population"
+	}
+
+	great_work_tier_effect_modifiers = {
+		gw_effect_gardens_of_niniveh_tier_1 = {
+			great_work_effect_tier = gw_effect_tier_1
+
+			country_modifier = {
+				#happiness_for_same_culture_modifier = 0.04
+				happiness_for_wrong_culture_group_modifier = 0.01
+			}
+		}
+		gw_effect_gardens_of_niniveh_tier_2 = {
+			great_work_effect_tier = gw_effect_tier_2
+
+			country_modifier = {
+				#happiness_for_same_culture_modifier = 0.08
+				happiness_for_wrong_culture_group_modifier = 0.02
+
+			}
+		} 
+		gw_effect_gardens_of_niniveh_tier_3 = {
+			great_work_effect_tier = gw_effect_tier_3
+
+			country_modifier = {
+				#happiness_for_same_culture_modifier = 0.12
+				happiness_for_wrong_culture_group_modifier = 0.03
+
+			}
+		} 
+		gw_effect_gardens_of_niniveh_tier_4 = {
+			great_work_effect_tier = gw_effect_tier_4
+
+			country_modifier = {
+				#happiness_for_same_culture_modifier = 0.16
+				happiness_for_wrong_culture_group_modifier = 0.05
+
+			}
+		}
+	}
+}
