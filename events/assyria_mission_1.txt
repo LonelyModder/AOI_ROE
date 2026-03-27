@@ -209,6 +209,10 @@ assyria_01_mesopotamia_1.6= {
 		set_global_variable = {
 			name = assyrian_demands
 		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.7
+			days = 30
+		}
 	}
 }
 
@@ -282,6 +286,10 @@ assyria_01_mesopotamia_1.9= {
 		set_global_variable = {
 			name = assyria_and_the_jews
 		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.10
+			days = 30
+		}
 		c:MAI = {
 			every_owned_province = {
 				add_claim = c:MAC
@@ -312,6 +320,10 @@ assyria_01_mesopotamia_1.10 = {
         }
 		set_global_variable = {
 			name = samaria_submition
+		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.11
+			days = 30
 		}
 		ai_chance = { base = 10 }
 	}
@@ -365,6 +377,10 @@ assyria_01_mesopotamia_1.12 = {
 		set_global_variable = {
 			name = judahite_submition
 		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.13
+			days = 30
+		}
 		ai_chance = { base = 80 }
 	}
 	
@@ -372,6 +388,10 @@ assyria_01_mesopotamia_1.12 = {
 		name = "assyria_01_mesopotamia_1.12.a"
 		set_global_variable = {
 			name = judahite_rejection
+		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.14
+			days = 30
 		}
 		ai_chance = { base = 20 }
 	}
@@ -426,6 +446,10 @@ assyria_01_mesopotamia_1.15= {
 		name = "assyria_01_mesopotamia_1.15.a"
 		set_global_variable = {
 			name = assyria_in_canaan
+		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.16
+			days = 30
 		}
 	}
 }
@@ -696,6 +720,10 @@ assyria_01_mesopotamia_1.24= {
 		set_global_variable = {
 			name = assyrian_claim_babylonian_throne
 		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.25
+			days = 30
+		}
 	}
 }
 
@@ -747,11 +775,13 @@ assyria_01_mesopotamia_1.27= {
 		name = "assyria_01_mesopotamia_1.27.a"
 		p:3401 = { #Assyrian Babylonia
 			create_country = {
-				change_government = despotic_monarchy 
+				change_government = aristocratic_monarchy 
 				set_primary_culture = agade
 				set_country_religion = anunnaki_pantheon
 				change_country_name = "ASSYRIANBABYLON_NAME"
 				change_country_adjective = "ASSYRIANBABYLON_ADJECTIVE"
+				change_country_flag = BABYLONIA_FLAG
+				change_country_color = "ASSYRIANBABYLON_COLOR"
 			}
 		}
 		every_region_province = {
@@ -764,6 +794,12 @@ assyria_01_mesopotamia_1.27= {
 			}
 			set_conquered_by = p:3401.owner
 		}
+		c:MAC = {
+            make_subject = {
+                type = feudatory
+                target = p:3401.owner
+            }
+        }
 	}
 }
 
