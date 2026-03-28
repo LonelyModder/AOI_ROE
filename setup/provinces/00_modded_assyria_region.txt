@@ -987,14 +987,14 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="anunnaki_pantheon"
-	culture="ashurite"
+	culture="aitean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
+	freemen={
 		amount=1
 	}	
-	freemen={
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -1275,7 +1275,7 @@
 	terrain="plains"
 	trade_goods="honey"
 	religion="anunnaki_pantheon"
-	culture="ashurite"
+	culture="aitean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1283,6 +1283,9 @@
 		amount=1
 	}	
 	freemen={
+		amount=1
+	}	
+	tribesmen={
 		amount=4
 	}
 	slaves={
@@ -1489,13 +1492,15 @@
 3542={ 
 	terrain="hills"
 	trade_goods="stone"
-	religion="anunnaki_pantheon"
-	culture="aitean"
+	religion="hurrian_pantheon"
+	culture="mittanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
 		amount=1
+		religion="anunnaki_pantheon"
+		culture="ashurite"
 	}	
 	tribesmen={
 		amount=4
@@ -1527,13 +1532,15 @@
 3544={ 
 	terrain="plains"
 	trade_goods="vegetables"
-	religion="anunnaki_pantheon"
-	culture="aitean"
+	religion="hurrian_pantheon"
+	culture="mittanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
 		amount=1
+		religion="anunnaki_pantheon"
+		culture="ashurite"
 	}	
 	tribesmen={
 		amount=4
@@ -1546,16 +1553,15 @@
 3545={ 
 	terrain="hills"
 	trade_goods="cattle"
-	religion="anunnaki_pantheon"
-	culture="aitean"
+	religion="hurrian_pantheon"
+	culture="mittanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=1
-	}	
 	freemen={
 		amount=1
+		religion="anunnaki_pantheon"
+		culture="ashurite"
 	}	
 	tribesmen={
 		amount=4
@@ -1568,13 +1574,15 @@
 3546={ 
 	terrain="hills"
 	trade_goods="wool"
-	religion="anunnaki_pantheon"
-	culture="aitean"
+	religion="hurrian_pantheon"
+	culture="mittanic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
 		amount=1
+		religion="anunnaki_pantheon"
+		culture="ashurite"
 	}	
 	tribesmen={
 		amount=4
