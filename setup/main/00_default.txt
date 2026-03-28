@@ -4702,7 +4702,7 @@ country = {
 		}
 		
 		DAM = {  
-			government = aristocratic_monarchy
+			government = despotic_monarchy
 			primary_culture = agade
 			religion = anunnaki_pantheon
 			capital = 3414
@@ -4720,7 +4720,7 @@ country = {
 		}
 		
 		DAN = {  
-			government = aristocratic_monarchy
+			government = despotic_monarchy
 			primary_culture = agade
 			religion = anunnaki_pantheon
 			capital = 3568
@@ -4738,7 +4738,7 @@ country = {
 		}
 		
 		DAO = {  
-			government = aristocratic_monarchy
+			government = despotic_monarchy
 			primary_culture = agade
 			religion = anunnaki_pantheon
 			capital = 3574
@@ -4756,7 +4756,7 @@ country = {
 		}
 		
 		DAP = {  
-			government = aristocratic_monarchy
+			government = despotic_monarchy
 			primary_culture = agade
 			religion = anunnaki_pantheon
 			capital = 3598
@@ -4774,7 +4774,7 @@ country = {
 		}
 		
 		DAR = {  
-			government = aristocratic_monarchy
+			government = despotic_monarchy
 			primary_culture = agade
 			religion = anunnaki_pantheon
 			capital = 3595

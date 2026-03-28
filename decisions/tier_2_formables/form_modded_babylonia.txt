@@ -11,6 +11,7 @@
 				tag = DAA
 				tag = DAL
 			}
+			NOT = { government = aristocratic_monarchy }
 			OR = {
 				country_culture_group = akkadian
 				country_culture_group = aramaic

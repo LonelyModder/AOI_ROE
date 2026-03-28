@@ -44,6 +44,13 @@
 					establish_city_effect = yes
 				}
 			}
+			if = {
+				limit = {
+					NOT = { government = aristocratic_monarchy }
+				}
+				change_government = aristocratic_monarchy
+				switch_government_type_event_clearup_effect = yes
+			}
 			p:3401 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes

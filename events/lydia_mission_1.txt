@@ -383,6 +383,8 @@ lydia_01_anatolia_1.15 = {
 				change_country_name = "TRERES_NAME"
 				change_country_adjective = "TRERES_ADJECTIVE"
 			}
+		}
+		p:2649.owner = {
 			add_country_modifier = {
 				name = lepontic_invasion_modifier
 				duration = 14600
@@ -505,6 +507,8 @@ lydia_01_anatolia_1.17 = {
 			every_unit = {
 				add_food = 100
 			}
+		}
+		p:3337.owner = {
 			add_country_modifier = {
 				name = scythian_invasion_modifier
 				duration = 14600
