@@ -1,0 +1,216 @@
+﻿zagrosian_philosophy = { 
+	color = hsv { 1.1 1 0.5 }
+	image = persian_achaemenid_path_4
+	
+	allow = {
+		trigger_if = {
+			limit = { 
+				OR = {
+				  country_culture_group = kassite
+				  country_culture_group = elamitic
+				}
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			OR = {
+				country_culture_group = kassite
+				country_culture_group = elamitic
+			}
+		}
+		trigger_else_if = {
+			limit = {
+				AND = {
+					OR = {
+						has_military_bonus = nuragian_path_end_bonus
+						has_military_bonus = westsemite_path_end_bonus
+						has_military_bonus = illyrian_path_end_bonus
+						has_military_bonus = grekoid_path_end_bonus
+						has_military_bonus = italian_path_end_bonus
+						has_military_bonus = thracian_path_end_bonus
+						has_military_bonus = libyan_path_end_bonus
+						has_military_bonus = nubian_path_end_bonus
+						has_military_bonus = egyptian_path_end_bonus
+						has_military_bonus = arabian_path_end_bonus
+						has_military_bonus = assyrian_path_end_bonus
+						has_military_bonus = anatolian_path_end_bonus
+						has_military_bonus = nomadic_path_end_bonus
+						has_military_bonus = caucasian_path_end_bonus
+						has_military_bonus = assyrian_path_end_bonus
+					}
+					any_country_culture = {
+						is_integrated = yes
+						OR = {
+							this.culture.culture_group = culture_group:kassite
+							this.culture.culture_group = culture_group:elamitic
+						}
+					}
+				}
+			}
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = nubian_path_end_bonus
+					has_military_bonus = egyptian_path_end_bonus
+					has_military_bonus = arabian_path_end_bonus
+					has_military_bonus = assyrian_path_end_bonus
+					has_military_bonus = anatolian_path_end_bonus
+					has_military_bonus = nomadic_path_end_bonus
+					has_military_bonus = caucasian_path_end_bonus
+					has_military_bonus = assyrian_path_end_bonus
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
+						OR = {
+							this.culture.culture_group = culture_group:kassite
+							this.culture.culture_group = culture_group:elamitic
+						}
+					}
+				}
+			}
+		}
+		trigger_else = {
+			AND = {
+				OR = {
+					has_military_bonus = nuragian_path_end_bonus
+					has_military_bonus = westsemite_path_end_bonus
+					has_military_bonus = illyrian_path_end_bonus
+					has_military_bonus = grekoid_path_end_bonus
+					has_military_bonus = italian_path_end_bonus
+					has_military_bonus = thracian_path_end_bonus
+					has_military_bonus = libyan_path_end_bonus
+					has_military_bonus = nubian_path_end_bonus
+					has_military_bonus = egyptian_path_end_bonus
+					has_military_bonus = arabian_path_end_bonus
+					has_military_bonus = assyrian_path_end_bonus
+					has_military_bonus = anatolian_path_end_bonus
+					has_military_bonus = nomadic_path_end_bonus
+					has_military_bonus = caucasian_path_end_bonus
+					has_military_bonus = assyrian_path_end_bonus
+				}
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_kassite"
+					any_country_culture = {
+						is_integrated = yes
+						OR = {
+							this.culture.culture_group = culture_group:kassite
+							this.culture.culture_group = culture_group:elamitic
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	zagrosian_path_1 = { ###zagrosian path
+		modifier = { 
+			ia_warriors_offensive = 0.1
+			ia_warriors_defensive = 0.05
+		}
+		icon = persian_achaemenid_path_4
+		requires = {}
+	}
+	
+	zagrosian_path_2 = { ###zagrosian path
+		modifier = { 
+			ia_chariots_offensive = 0.1
+			ia_chariots_defensive = 0.05
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_1}
+	}
+	
+	zagrosian_path_3 = { ###zagrosian path
+		modifier = { 
+			hills_combat_bonus = 0.2
+			mountain_combat_bonus = 0.2
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_2}
+	}
+	
+	zagrosian_path_2a = { ###zagrosian path
+		modifier = { 
+			ia_chariots_offensive = 0.15
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_3}
+	}
+	
+	zagrosian_path_3a = { ###zagrosian path
+		modifier = { 
+			ia_warriors_offensive = 0.1
+			ia_warriors_defensive = 0.05
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_2a}
+	}
+	
+	zagrosian_path_4a = { ###zagrosian path
+		modifier = { 
+			ia_archers_offensive = 0.1
+			ia_archers_defensive = 0.05
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_3a}
+	}
+	
+	zagrosian_path_2b = { ###zagrosian path
+		modifier = { 
+			ia_archers_offensive = 0.15
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_3}
+	}
+	
+	zagrosian_path_3b = { ###zagrosian path
+		modifier = { 
+			ia_lightinfantry_offensive = 0.1
+			ia_lightinfantry_defensive = 0.05
+		}
+		enable_tactic = greek_phalanx
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_2b}
+	}
+	
+	zagrosian_path_4b = { ###zagrosian path
+		modifier = { 
+			army_movement_speed = 0.25
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_3b}
+	}
+	
+	zagrosian_path_5b = { ###zagrosian path
+		modifier = { 
+			global_defensive = 0.05
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_4b}
+	}
+	
+	zagrosian_path_6b = { ###zagrosian path
+		modifier = { 
+			ia_lightcavalry_offensive = 0.1
+			ia_lightcavalry_defensive = 0.05
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_5b}
+	}
+	
+	zagrosian_path_end_bonus = { ###zagrosian path
+		modifier = { 
+			global_defensive = 0.05
+		}
+		icon = persian_achaemenid_path_4
+		requires = {zagrosian_path_4a zagrosian_path_6b}
+	}
+}

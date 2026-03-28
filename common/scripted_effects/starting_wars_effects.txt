@@ -1,19 +1,15 @@
-﻿besarabic_war_conflict_effect = {
-	c:CBP = {
-		add_alliance = CBO
-		add_alliance = CCB
-		add_alliance = CCD
+﻿nabonassar_revolt = {
+	c:DAL = {
+		add_alliance = MAC
 	} 
-	c:CCE = {
+	c:DAA = {
 		declare_war_with_wargoal = {
 			war_goal = conquer_wargoal
-		    province = p:1618
-			target = c:CBP
+		    province = p:3438
+			target = c:DAL
 		}
 	}
-	c:CBP = {
-		break_alliance = CBO
-		break_alliance = CCB
-		break_alliance = CCD
+	c:DAL = {
+		break_alliance = MAC
 	} 
 }

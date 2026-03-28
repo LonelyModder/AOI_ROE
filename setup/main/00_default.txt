@@ -280,6 +280,67 @@ treasure_manager = {
 				local_happiness_for_same_religion_modifier = 0.1
 			}
 		}
+		40 = { # Niniveh
+			key = "treasure_whiteobelisk" 
+			icon = "treasure_architecture_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_freemen_output = 0.15
+			}
+		}
+		41 = { # Niniveh
+			key = "treasure_maskofsargon" 
+			icon = "treasure_armor_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				monthly_local_governor_wage = -0.15
+			}
+		}
+		42 = { # Ashur
+			key = "treasure_blackobelisk" 
+			icon = "treasure_architecture_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_slaves_output = 0.15
+			}
+		}
+		43 = { # Sippar
+			key = "treasure_babylonianmapoftheworld" 
+			icon = "treasure_chest"
+            state_modifier = {
+				local_population_capacity_modifier = 0.075
+			}
+		}
+		44 = { # Babylon
+			key = "treasure_statueofmarduk"
+			icon = "treasure_architecture"
+            state_modifier = {
+				local_happiness_for_same_culture_modifier = 0.1
+			}
+		}
+		45 = { # Barsip
+            key = "treasure_statueofnabu"
+            icon = "treasure_architecture"
+            state_modifier = {
+                local_research_points_modifier = 0.1
+            }
+        }
+		46 = { # Nippur
+			key = "treasure_tgilgamesh"
+			icon = "treasure_urn_3"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_nobles_output = 0.1
+			}
+		}
+		47 = { # Nippur
+			key = "treasure_babylonianchronicles"
+			icon = "treasure_urn_2"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_research_points_modifier = 0.15
+			}
+		}
     }
 }
 family={
@@ -479,6 +540,18 @@ family={
 			culture = lydian
 			prestige=300
 		}
+		33={
+			key="Shuma-Ishkun"
+			owner=DAA
+			culture = achaldean
+			prestige=100
+		}
+		34={
+			key="Nasir"
+			owner=DAL
+			culture = agade
+			prestige=100
+		}
 	}
 }
 diplomacy = {
@@ -486,6 +559,13 @@ diplomacy = {
 	dependency = { first = MAC second = MAT subject_type = feudatory }
 	dependency = { first = MAC second = MBA subject_type = feudatory }
 	dependency = { first = MAC second = MAW subject_type = feudatory }
+	dependency = { first = MAC second = MAE subject_type = feudatory }
+	dependency = { first = MAC second = DAB subject_type = feudatory }
+	dependency = { first = MAC second = DAD subject_type = feudatory }
+	#Supporters of Shuma-Ishkun
+	dependency = { first = DAA second = DAH subject_type = feudatory }
+	dependency = { first = DAA second = DAI subject_type = feudatory }
+	dependency = { first = DAA second = DAK subject_type = feudatory }
 	#Arpad owns Hamath
 	dependency = { first = MBG second = MAP subject_type = feudatory }
 	#Phoenician League
@@ -604,6 +684,24 @@ provinces = { #Any entry must contain a comment with city name.
 	3019 = { # Comanu
 		treasure_slots = { 	treasures = { 39 } }
 	}
+	3473 = { # Niniveh
+		treasure_slots = { 	treasures = { 40 41 } }
+	}
+	3465 = { # Ashur
+		treasure_slots = { 	treasures = { 42 } }
+	}
+	3398 = { # Sippar
+		treasure_slots = { 	treasures = { 43 } }
+	}
+	3401 = { # Babylon
+		treasure_slots = { 	treasures = { 44 } }
+	}
+	3403 = { # Barsip
+		treasure_slots = { 	treasures = { 45 } }
+	}
+	3428 = { # Nippur
+		treasure_slots = { 	treasures = { 46 47 } }
+	}
 	
 	#Pirates
 	2828 = { modifier = { modifier = pirate_haven_modifier always = yes } }
@@ -621,9 +719,26 @@ provinces = { #Any entry must contain a comment with city name.
 	2215 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
+	3457 = { fortress_building = 1 }
+	3449 = { fortress_building = 1 }
 	2744 = { fortress_building = 1 }
 	2775 = { fortress_building = 1 }
 	3264 = { fortress_building = 1 }
+	3495 = { fortress_building = 1 }
+	3500 = { fortress_building = 1 }
+	3473 = { fortress_building = 1 }
+	2593 = { fortress_building = 1 }
+	2296 = { fortress_building = 1 }
+	2515 = { fortress_building = 1 }
+	3397 = { fortress_building = 1 }
+	2457 = { fortress_building = 1 }
+	2449 = { fortress_building = 1 }
+	3438 = { port_building = 2 }
+	3564 = { port_building = 2 }
+	3568 = { port_building = 2 }
+	3595 = { port_building = 2 }
+	3606 = { port_building = 2 }
+	3554 = { port_building = 1 }
 	2679 = { port_building = 2 }
 	3212 = { port_building = 2 }
 	2661 = { port_building = 2 }
@@ -824,6 +939,7 @@ provinces = { #Any entry must contain a comment with city name.
 	########################################
 	# Barbarian Spawn Spots
 	########################################
+	3561 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	3099 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	3350 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	3245 = { modifier = { modifier = generic_barbarian_spawn_place } }
@@ -3319,7 +3435,7 @@ country = {
 			government = aristocratic_monarchy
 			primary_culture = ashurite
 			religion = anunnaki_pantheon
-			capital = 2593
+			capital = 3465
 			
 			technology={
 				military_tech={ level=3 progress=0 }
@@ -3335,12 +3451,19 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				2593 2588 2574 2572 2573 2587 2590 2591 2576 2577 2521 2517 2516 2513 2529 2530 2528 2523 2522 2520
-				2578 2579 2580 2581 2582 2583 2592 2594 2595 2596 2597 2589 2545 2544 2542 2543 2546 2547 2548 2549
+				2593 2588 2574 2572 2573 2587 2590 2591 2576 2577 2521 2517 2516 2513 2529 2530 2528
+				2578 2579 2580 2581 2582 2583 2592 2594 2595 2596 2597 2589 2545 2544 2542 2543 2546
 				2567 2566 2575 2586 2568 2584 2569 2570 2585 2571 2551 2552 2519 2518 2506 2507 2508
-				2555 2524 2525 2559 2561 2560 2526 2527 2562 2563 2564 2565 2509 2511 2512 2515 2514 2510 2308 2307
+				2555 2524 2525 2559 2561 2560 2526 2527 2562 2563 2564 2565 2509 2511 2512 2515 2514
 				2541 2553 2540 2537 2536 2535 2538 2539 2554 2557 2558 2556 2316 2315 2314 2310 2309 
-				2298 2297 2296 2289 2325 2326 2327 2328 
+				2298 2297 2296 2289 2325 2326 2327 2328 2510 2308 2307 2547 2548 2549 2523 2522 2520 
+				3502 3506 3507 3508 3509 3510 3501 3503 3504 3498 3496 3497
+				3465 3464 3463 3481 3480 3479 3478 3466 3489 3482 3487 3488
+				3468 3469 3470 3471 3475 3474 3473 3472 3536 3540 3467 3476
+				3495 3490 3517 3528 3530 3533 3532
+				3518 3519 3493 3494 3491 3521 3520 3529 3526 3535 3534 3522
+				3486 3492 3499 3500 3477 3505 3514 3515 3523 3537
+				3524 3525 3527 3538 3539 3541 3543 3545 3544 3546 3542
 			}
 			
 			#is_antagonist = yes
@@ -3371,7 +3494,7 @@ country = {
 			capital = 2504
 			
 			own_control_core = 	{ 
-				2504 2505 2503 2317 2318 2319
+				2504 2505 2503 2317 2318 2319 3383 3384 3385 3386
 			}
 		}
 		
@@ -4433,6 +4556,238 @@ country = {
 			
 			own_control_core = 	{ 
 				3284 3285 3283 3296 3297 3295 3292 3291 3289 3286
+			}
+		}
+		
+		DAA = { 
+			family=33
+			government = aristocratic_monarchy
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3401
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			historical_regnal_numbers = {
+				Nabu-Suma-Ukin = 1
+			}
+			
+			own_control_core = 	{ 
+				3401 3398 3396 3403 3408 3406 3410 3429 3407 3431 3430 3427   
+			    3426 3428 3404 3405 3397 3399 3460 3462 3461 3393 3391 3390 3387 3389 3388  
+				
+			}
+		}
+		
+		DAB = {          
+			government = tribal_kingdom
+			primary_culture = aitean
+			religion = anunnaki_pantheon
+			capital = 3483
+			
+			own_control_core = 	{ 
+				3483 3484 3485
+			}
+		}
+		
+		DAD = {          
+			government = tribal_kingdom
+			primary_culture = aitean
+			religion = anunnaki_pantheon
+			capital = 3531
+			
+			own_control_core = 	{ 
+				3531 3516
+			}
+		}
+		
+		DAE = {          
+			government = tribal_kingdom
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3559
+			
+			own_control_core = 	{ 
+				3554 3553 3552 3551 3555 3556 3557 3558 3559 3560
+			}
+		}
+		
+		DAF = {          
+			government = tribal_kingdom
+			primary_culture = aitean
+			religion = anunnaki_pantheon
+			capital = 3583
+			
+			own_control_core = 	{ 
+				3583 3582 3581 3585 3586 3587
+			}
+		}
+		
+		DAG = {          
+			government = tribal_kingdom
+			primary_culture = aitean
+			religion = anunnaki_pantheon
+			capital = 3573
+			
+			own_control_core = 	{ 
+				3573 3569 3567 3584 3575 3588
+			}
+		}
+		
+		DAH = {          
+			government = tribal_kingdom
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3402
+			
+			own_control_core = 	{ 
+				3402 3400 3409
+			}
+		}
+		
+		DAI = {          
+			government = tribal_kingdom
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3394
+			
+			own_control_core = 	{ 
+				3394 3395 3392
+			}
+		}
+		DAJ = {          
+			government = tribal_kingdom
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3425
+			
+			own_control_core = 	{ 
+				3424 3425 3423
+			}
+		}
+		DAK = {          
+			government = tribal_kingdom
+			primary_culture = achaldean
+			religion = anunnaki_pantheon
+			capital = 3433
+			
+			own_control_core = 	{ 
+				3433 3432
+			}
+		}
+		DAL = {  
+			family=34
+			government = aristocratic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3438
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0 }
+			}
+			
+			own_control_core = 	{ 
+				3438 3437 3436 3435 3434 3449 3450 3451 3452 3447 3445 3444 3442 3441 3439
+				3443 3446 3453 3454 3456 3455 3457 3458 3459 3448 3440 3563 3578 3579 3580
+				3564 3565
+			}
+		}
+		
+		DAM = {  
+			government = despotic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3414
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0 }
+			}
+			
+			own_control_core = 	{ 
+				3413 3414 3417 3420 3422 3411 3412 3415 3416 3418 3419 3421
+			}
+		}
+		
+		DAN = {  
+			government = despotic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3568
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0 }
+			}
+			
+			own_control_core = 	{ 
+				3568 3566
+			}
+		}
+		
+		DAO = {  
+			government = despotic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3574
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0 }
+			}
+			
+			own_control_core = 	{ 
+				3574 3570 3571 3576 3572 3577 3562
+			}
+		}
+		
+		DAP = {  
+			government = despotic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3598
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0 }
+			}
+			
+			own_control_core = 	{ 
+				3605 3606 3608 3607 3609 3604 3603 3602 3598 3599 3601
+			}
+		}
+		
+		DAR = {  
+			government = despotic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 3595
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0 }
+			}
+			
+			own_control_core = 	{ 
+				3595 3594 3596 3597 3600 3591 3593 3590 3592 3589
 			}
 		}
 	}

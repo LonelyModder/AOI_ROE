@@ -510,6 +510,21 @@ wool = { #Modified
 	color = rgb { 158 167 181 }
 }
 
+cinnabar = {
+	category = 5
+	gold = 0.45
+
+	province = {
+		local_slaves_happyness = happiness_small_svalue
+	}
+	country = {
+		governor_loyalty = 4
+	}
+	
+	color = hsv { 1 0.95 0.8  }
+	
+}
+
 gems = { #44 Territories
 	category = 3
 	

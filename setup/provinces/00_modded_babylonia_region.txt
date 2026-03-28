@@ -1,0 +1,1864 @@
+﻿3383={ 
+	terrain="desert"
+	trade_goods="wool"
+	religion="anunnaki_pantheon"
+	culture="sutean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3384={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="anunnaki_pantheon"
+	culture="sutean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3385={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="sutean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3386={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="anunnaki_pantheon"
+	culture="sutean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3387={ 
+	terrain="desert"
+	trade_goods="wool"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3388={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3389={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3390={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3391={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3392={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3393={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3394={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3395={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3396={ 
+	terrain="farmland"
+	trade_goods="wine"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3397={ 
+	terrain="farmland"
+	trade_goods="glass"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	nobles={
+		amount=1
+		culture="bkassite"
+	}		
+	citizen={
+		amount=12
+	}
+	citizen={
+		amount=2
+		culture="bkassite"
+	}	
+	freemen={
+		amount=8
+	}
+	freemen={
+		amount=2
+		culture="bkassite"
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=7
+	}
+}
+
+3398={ 
+	terrain="farmland"
+	trade_goods="cloth"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=4
+	}
+	holy_site="omen_mshamash"
+}
+
+3399={ 
+	terrain="farmland"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3400={ 
+	terrain="desert"
+	trade_goods="wool"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3401={ 
+	terrain="farmland"
+	trade_goods="earthware"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city_metropolis"
+	nobles={
+		amount=5
+	}
+	citizen={
+		amount=20
+	}	
+	freemen={
+		amount=15
+	}
+	tribesmen={
+		amount=10
+		culture="achaldean"
+	}
+	slaves={
+		amount=10
+	}
+	slaves={
+		amount=1
+		culture="achaldean"
+	}
+	holy_site="omen_mmarduk"
+}
+
+3402={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}	
+	tribesmen={
+		amount=8
+	}
+	slaves={
+		amount=3
+	}
+}
+
+3403={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=7
+	}
+	holy_site="omen_mnabu"
+}
+
+3404={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3405={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3406={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3407={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3408={ 
+	terrain="farmland"
+	trade_goods="glass"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3409={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3410={ 
+	terrain="farmland"
+	trade_goods="cloth"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=7
+	}
+}
+
+3411={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3412={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3413={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3414={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=7
+	}
+	holy_site="omen_mishtar"
+}
+
+3415={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3416={ 
+	terrain="desert"
+	trade_goods="cloth"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3417={ 
+	terrain="marsh"
+	trade_goods="base_metals"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3418={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+	holy_site="omen_mea"
+}
+
+3419={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3420={ 
+	terrain="marsh"
+	trade_goods="earthware"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3421={ 
+	terrain="marsh"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3422={ 
+	terrain="marsh"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3423={ 
+	terrain="marsh"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3424={ 
+	terrain="marsh"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3425={ 
+	terrain="marsh"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3426={ 
+	terrain="marsh"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3427={ 
+	terrain="farmland"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3428={ 
+	terrain="marsh"
+	trade_goods="cloth"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=7
+	}
+	holy_site="omen_menlil"
+}
+
+3429={ 
+	terrain="farmland"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3430={ 
+	terrain="farmland"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3431={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3432={ 
+	terrain="farmland"
+	trade_goods="steppe_horses"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3433={ 
+	terrain="farmland"
+	trade_goods="steppe_horses"
+	religion="anunnaki_pantheon"
+	culture="achaldean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3434={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3435={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3436={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3437={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3438={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=7
+	}
+}
+
+3439={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3440={ 
+	terrain="plains"
+	trade_goods="fruits"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3441={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3442={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3443={ 
+	terrain="plains"
+	trade_goods="fruits"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3444={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3445={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3446={ 
+	terrain="plains"
+	trade_goods="honey"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3447={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3448={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3449={ 
+	terrain="plains"
+	trade_goods="fruits"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}
+	citizen={
+		amount=2
+		culture="bkassite"
+	}	
+	freemen={
+		amount=6
+	}
+	freemen={
+		amount=2
+		culture="bkassite"
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3450={ 
+	terrain="plains"
+	trade_goods="fruits"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3451={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3452={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+		culture="bkassite"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3453={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+		culture="bkassite"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3454={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+		culture="bkassite"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3455={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+		culture="bkassite"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3456={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+		culture="bkassite"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3457={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}
+	citizen={
+		amount=2
+		culture="bkassite"
+	}	
+	freemen={
+		amount=6
+	}
+	freemen={
+		amount=2
+		culture="bkassite"
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3458={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+		culture="bkassite"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3459={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+		culture="bkassite"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3460={ 
+	terrain="farmland"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3461={ 
+	terrain="farmland"
+	trade_goods="glass"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}
+	citizen={
+		amount=2
+		culture="bkassite"
+	}	
+	freemen={
+		amount=6
+	}
+	freemen={
+		amount=2
+		culture="bkassite"
+	}
+	tribesmen={
+		amount=3
+		culture="achaldean"
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3462={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="agade"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+		culture="achaldean"
+	}
+	slaves={
+		amount=1
+	}
+}

@@ -3,7 +3,7 @@ PIR = "setup/countries/pirates.txt"
 BAR = "setup/countries/barbarians.txt"
 MER = "setup/countries/mercenaries.txt"
 
-#Used A,B,C,E,G,M,T
+#Used A,B,C,D,E,G,M,T
 #New:
 #Italy and Illyria
 AAA = "setup/countries/modded/mAAA.txt"
@@ -243,3 +243,20 @@ GBL = "setup/countries/modded/mGBL.txt"
 GBM = "setup/countries/modded/mGBM.txt"
 GBN = "setup/countries/modded/mGBN.txt"
 GBO = "setup/countries/modded/mGBO.txt"
+#Babylonia
+DAA = "setup/countries/modded/mDAA.txt"
+DAB = "setup/countries/modded/mDAB.txt"
+DAD = "setup/countries/modded/mDAD.txt"
+DAE = "setup/countries/modded/mDAE.txt"
+DAF = "setup/countries/modded/mDAF.txt"
+DAG = "setup/countries/modded/mDAG.txt"
+DAH = "setup/countries/modded/mDAH.txt"
+DAI = "setup/countries/modded/mDAI.txt"
+DAJ = "setup/countries/modded/mDAJ.txt"
+DAK = "setup/countries/modded/mDAK.txt"
+DAL = "setup/countries/modded/mDAL.txt"
+DAM = "setup/countries/modded/mDAM.txt"
+DAN = "setup/countries/modded/mDAN.txt"
+DAO = "setup/countries/modded/mDAO.txt"
+DAP = "setup/countries/modded/mDAP.txt"
+DAR = "setup/countries/modded/mDAR.txt"

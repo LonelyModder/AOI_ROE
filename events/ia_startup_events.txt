@@ -12,7 +12,6 @@ esfa_startup.1 = { #Italics
 			country_culture_group = italic
 			country_culture_group = thyrrenic
 		}
-		is_ai = no
     }
 
     option = {    
@@ -28,7 +27,6 @@ esfa_startup.2 = { #Celtic
 	
     trigger = {
 		country_culture_group = celtic
-		is_ai = no
     }
 
     option = {    
@@ -57,7 +55,6 @@ esfa_startup.3 = { #Ligurian
 	
     trigger = {
 		country_culture_group = liguric
-		is_ai = no
     }
 
     option = {    
@@ -77,7 +74,6 @@ esfa_startup.4 = { #Illyrian
 			country_culture_group = liburnic
 			country_culture_group = illyric
 		}
-		is_ai = no
     }
 
     option = {    
@@ -108,7 +104,6 @@ esfa_startup.6 = { #Greek
 	
     trigger = {
 		country_culture_group = grekoid
-		is_ai = no
     }
 
     option = {    
@@ -124,7 +119,6 @@ esfa_startup.7 = { #Canaanites
 	
     trigger = {
 		country_culture_group = levantine
-		is_ai = no
     }
 
     option = {    
@@ -204,6 +198,12 @@ esfa_startup.12 = { #Akkadian
 
     option = {    
         name = esfa_startup.12.a
+		#Claims of Nabonassar
+		if = {
+			limit = { tag = DAL }
+			region:modded_babylonia_region = { formable_region_province_effect = yes }
+			region:modded_sealand_region = { formable_region_province_effect = yes }			
+		}
     }
 }
 

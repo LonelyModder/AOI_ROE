@@ -40,6 +40,7 @@
 						has_military_bonus = anatolian_path_end_bonus
 						has_military_bonus = nomadic_path_end_bonus
 						has_military_bonus = caucasian_path_end_bonus
+						has_military_bonus = zagrosian_path_end_bonus
 					}
 					any_country_culture = {
 						is_integrated = yes
@@ -68,6 +69,7 @@
 					has_military_bonus = anatolian_path_end_bonus
 					has_military_bonus = nomadic_path_end_bonus
 					has_military_bonus = caucasian_path_end_bonus
+					has_military_bonus = zagrosian_path_end_bonus
 				}
 				any_country_culture = {
 					custom_tooltip = {
@@ -101,6 +103,7 @@
 					has_military_bonus = anatolian_path_end_bonus
 					has_military_bonus = nomadic_path_end_bonus
 					has_military_bonus = caucasian_path_end_bonus
+					has_military_bonus = zagrosian_path_end_bonus
 				}
 				custom_tooltip = {
 					text = "tradition_unlock_requirement_italic"

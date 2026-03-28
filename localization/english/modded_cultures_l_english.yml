@@ -147,6 +147,8 @@
  ahatallan:0 "Hatallan"
  agusiani:0 "Syriac"
  sutean:0 "Sutean"
+ aitean:0 "Mesopotamian"
+ achaldean:0 "Chaldean"
  aramaic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  aramaic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Hattian
@@ -196,6 +198,27 @@
  azzian:0 "Azzi"
  hazzian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  hazzian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Kassite
+ kassite:2 "Kassite"
+ bkassite:0 "Kassite"
+ lullubian:0 "Lullubian"
+ parsuan:0 "Parsuan"
+ kassite_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ kassite_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Hurric
+ hurric:2 "Hurric"
+ mittanic:0 "Hurric"
+ bianilic:0 "Urartrian"
+ manneanic:0 "Mannean"
+ hurric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ hurric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Elamite
+ elamitic:2 "Elamite"
+ susanian:0 "Susan"
+ anshanian:0 "Anshanese"
+ ellipian:0 "Ellipian"
+ elamitic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ elamitic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  venedi:2 "Aedric"
  wvenedi:0 "Heresy"

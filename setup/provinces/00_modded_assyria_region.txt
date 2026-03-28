@@ -1,0 +1,1593 @@
+﻿3463={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3464={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3465={ 
+	terrain="plains"
+	trade_goods="cloth"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city_metropolis"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=15
+	}	
+	freemen={
+		amount=12
+	}
+	slaves={
+		amount=10
+	}
+	holy_site="omen_mashshur"
+}
+
+3466={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3467={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3468={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3469={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3470={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3471={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3472={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3473={ 
+	terrain="plains"
+	trade_goods="base_metals"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=7
+	}
+	holy_site="omen_mninurta"
+}
+
+3474={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3475={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3476={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=7
+	}
+}
+
+3477={ 
+	terrain="plains"
+	trade_goods="steppe_horses"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3478={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3479={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3480={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3481={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3482={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3483={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="aitean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3484={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="aitean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3485={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="aitean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3486={ 
+	terrain="plains"
+	trade_goods="gems"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3487={ 
+	terrain="plains"
+	trade_goods="steppe_horses"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3488={ 
+	terrain="plains"
+	trade_goods="steppe_horses"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3489={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3490={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3491={ 
+	terrain="plains"
+	trade_goods="honey"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3492={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3493={ 
+	terrain="plains"
+	trade_goods="honey"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3494={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3495={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=7
+	}
+}
+
+3496={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3497={ 
+	terrain="desert"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3498={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3499={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3500={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=7
+	}
+}
+
+3501={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3502={ 
+	terrain="desert"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=7
+	}
+}
+
+3503={ 
+	terrain="desert"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3504={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3505={ 
+	terrain="plains"
+	trade_goods="steppe_horses"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3506={ 
+	terrain="desert"
+	trade_goods="wool"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3507={ 
+	terrain="desert"
+	trade_goods="horses"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3508={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3509={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3510={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3514={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3515={ 
+	terrain="plains"
+	trade_goods="steppe_horses"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3516={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="anunnaki_pantheon"
+	culture="aitean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3517={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3518={ 
+	terrain="plains"
+	trade_goods="gems"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=12
+	}	
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=7
+	}
+}
+
+3519={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3520={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3521={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3522={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3523={ 
+	terrain="plains"
+	trade_goods="honey"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3524={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3525={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3526={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3527={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3528={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3529={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3530={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3531={ 
+	terrain="plains"
+	trade_goods="honey"
+	religion="anunnaki_pantheon"
+	culture="aitean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3532={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3533={ 
+	terrain="plains"
+	trade_goods="honey"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3534={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3535={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3536={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3537={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3538={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3539={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3540={ 
+	terrain="plains"
+	trade_goods="glass"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
+}
+
+3541={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3542={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="hurrian_pantheon"
+	culture="mittanic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+		religion="anunnaki_pantheon"
+		culture="ashurite"
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3543={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="anunnaki_pantheon"
+	culture="ashurite"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3544={ 
+	terrain="plains"
+	trade_goods="vegetables"
+	religion="hurrian_pantheon"
+	culture="mittanic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+		religion="anunnaki_pantheon"
+		culture="ashurite"
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3545={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="hurrian_pantheon"
+	culture="mittanic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+		religion="anunnaki_pantheon"
+		culture="ashurite"
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3546={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="hurrian_pantheon"
+	culture="mittanic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+		religion="anunnaki_pantheon"
+		culture="ashurite"
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

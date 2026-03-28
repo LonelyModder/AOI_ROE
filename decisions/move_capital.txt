@@ -1,0 +1,66 @@
+﻿country_decisions = {
+	
+	# Move capital to Babylon
+	capital_babylon = {
+		
+		potential = {
+			num_of_cities >= 1
+			NOT = {
+				tag = XBA
+				tag = MAC
+			}
+			OR = {
+				country_culture_group = akkadian
+				country_culture_group = aramaic
+				country_culture_group = elamitic
+			}
+			p:3401 = { is_capital = no }
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3401 # Babylon
+				}
+			}
+		}
+		
+		allow = {
+			p:3401 = { is_capital = no }
+		}
+		
+		effect = {
+			if = {
+				limit = {
+					p:3401 = { is_capital = no }
+				}
+				set_capital = 3401
+				hidden_effect = {
+					p:3401.state = {
+						set_state_capital = 3401
+					}
+				}
+				capital_scope = {
+					establish_city_effect = yes
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government = aristocratic_monarchy }
+				}
+				change_government = aristocratic_monarchy
+				switch_government_type_event_clearup_effect = yes
+			}
+			p:3401 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_3_free_province_investments = yes
+		}
+			
+		ai_will_do = {
+			base = 1
+		}
+	}
+}		
+		

@@ -1764,7 +1764,7 @@
 
 348={ 
 	terrain="hills"
-	trade_goods="honey"
+	trade_goods="cinnabar"
 	religion="villanic_pantheon"
 	culture="etrusci"
 	civilization_value=0

@@ -13,8 +13,8 @@
  #Latin
  aristocratic_republic_ruler_latinic:0 "Consul"
  aristocratic_republic_ruler_female_latinic:0 "Consul"
- aristocratic_republic_coruler_latinic:0 "Co-Consul"
- aristocratic_republic_coruler_female_latinic:0 "Co-Consul"
+ aristocratic_republic_co_ruler_latinic:0 "Co-Consul"
+ aristocratic_republic_co_ruler_female_latinic:0 "Co-Consul"
  despotic_monarchy_ruler_latinic:0 "Rex"
  despotic_monarchy_ruler_female_latinic:0 "Rex"
  #Kemetic
@@ -37,3 +37,11 @@
  #Arabian
  tribal_kingdom_ruler_arabian:0 "Sheikh"
  tribal_kingdom_ruler_female_arabian:0 "Sheikh"
+ #Philistine
+ aristocratic_republic_ruler_pphilistine:0 "Sarin"
+ aristocratic_republic_ruler_female_pphilistine:0 "Sarin"
+ aristocratic_republic_co_ruler_pphilistine:0 "Sarin"
+ aristocratic_republic_co_ruler_female_pphilistine:0 "Sarin"
+ #Assyrian
+ aristocratic_monarchy_ruler_ashurite:0 "Viceroy of Ashur"
+ aristocratic_monarchy_ruler_female_ashurite:0 "Viceroy of Ashur"

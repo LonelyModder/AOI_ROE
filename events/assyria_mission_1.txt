@@ -209,6 +209,10 @@ assyria_01_mesopotamia_1.6= {
 		set_global_variable = {
 			name = assyrian_demands
 		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.7
+			days = 30
+		}
 	}
 }
 
@@ -282,6 +286,10 @@ assyria_01_mesopotamia_1.9= {
 		set_global_variable = {
 			name = assyria_and_the_jews
 		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.10
+			days = 30
+		}
 		c:MAI = {
 			every_owned_province = {
 				add_claim = c:MAC
@@ -312,6 +320,10 @@ assyria_01_mesopotamia_1.10 = {
         }
 		set_global_variable = {
 			name = samaria_submition
+		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.11
+			days = 30
 		}
 		ai_chance = { base = 10 }
 	}
@@ -365,6 +377,10 @@ assyria_01_mesopotamia_1.12 = {
 		set_global_variable = {
 			name = judahite_submition
 		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.13
+			days = 30
+		}
 		ai_chance = { base = 80 }
 	}
 	
@@ -372,6 +388,10 @@ assyria_01_mesopotamia_1.12 = {
 		name = "assyria_01_mesopotamia_1.12.a"
 		set_global_variable = {
 			name = judahite_rejection
+		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.14
+			days = 30
 		}
 		ai_chance = { base = 20 }
 	}
@@ -427,6 +447,10 @@ assyria_01_mesopotamia_1.15= {
 		set_global_variable = {
 			name = assyria_in_canaan
 		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.16
+			days = 30
+		}
 	}
 }
 
@@ -462,6 +486,326 @@ assyria_01_mesopotamia_1.16= {
 			}
 		}
 		ai_chance = { base = 40 }
+	}
+}
+
+assyria_01_mesopotamia_1.17= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.17.t"
+	desc = "assyria_01_mesopotamia_1.17.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.17.a"
+	}
+}
+
+assyria_01_mesopotamia_1.18= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.18.t"
+	desc = "assyria_01_mesopotamia_1.18.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.18.a"
+		p:3473 = {
+			while = {
+                count = 3
+                define_pop = {
+					type = nobles
+					culture = ashurite
+					religion = anunnaki_pantheon
+                }
+            } 
+			while = {
+                count = 6
+                define_pop = {
+					type = citizen
+					culture = ashurite
+					religion = anunnaki_pantheon
+                }
+            }
+			set_city_status = city_metropolis
+		}
+		if = {
+			limit = {
+				p:3473 = { is_capital = no }
+			}
+			set_capital = 3473
+			hidden_effect = {
+				p:3473.state = {
+					set_state_capital = 3473
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+			}
+		}
+		p:3473 = {
+			capital_formable_medium_effect = yes
+			formable_capital_modifier_normal_effect = yes
+		}
+		add_3_free_province_investments = yes
+	}
+}
+
+assyria_01_mesopotamia_1.19= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.19.t"
+	desc = "assyria_01_mesopotamia_1.19.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.19.a"
+	}
+}
+
+assyria_01_mesopotamia_1.20= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.20.t"
+	desc = "assyria_01_mesopotamia_1.20.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.20.a"
+		c:MAC={
+			set_as_ruler=char:46
+		}
+		p:3518 = { #Rebelion of Nobility
+			create_country = {
+				change_government = despotic_monarchy #New Government?
+				set_primary_culture = ashurite
+				set_country_religion = anunnaki_pantheon
+				change_country_name = "ASYRIANNOBILITY_NAME"
+				change_country_adjective = "ASYRIANNOBILITY_ADJECTIVE"
+			}
+		}
+		p:3518.owner = {
+			capital_scope.governorship = {
+				raise_legion = {
+					create_unit = {
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_horsearchers
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_hoplites
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+						add_subunit = ia_archers
+					}
+				}
+			}
+			every_unit = {
+				add_food = 100
+			}
+		}
+		p:3518.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:3465
+				target = p:3465.owner
+			}
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.21= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.21.t"
+	desc = "assyria_01_mesopotamia_1.21.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.21.a"
+		p:3473={ # Hanging Gardens
+			begin_great_work_construction = {
+				great_work = "hanging_gardens"
+				locator = primary_great_work
+				is_ancient = yes						
+			}
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.22= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.22.t"
+	desc = "assyria_01_mesopotamia_1.22.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.22.a"
+		p:3473={ # Hanging Gardens
+			finish_great_work_construction = {
+				great_work = "hanging_gardens"
+				locator = primary_great_work
+			}
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.23= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.23.t"
+	desc = "assyria_01_mesopotamia_1.23.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.23.a"
+	}
+}
+
+assyria_01_mesopotamia_1.24= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.24.t"
+	desc = "assyria_01_mesopotamia_1.24.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag=MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.24.a"
+		region:modded_babylonia_region = { formable_region_province_effect = yes }
+		region:modded_sealand_region = { formable_region_province_effect = yes }
+		set_global_variable = {
+			name = assyrian_claim_babylonian_throne
+		}
+		trigger_event = {
+			id = assyria_01_mesopotamia_1.25
+			days = 30
+		}
+	}
+}
+
+assyria_01_mesopotamia_1.25= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.25.t"
+	desc = "assyria_01_mesopotamia_1.25.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		owns = 3401
+		has_global_variable = assyrian_claim_babylonian_throne
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.25.a"
+	}
+}
+
+assyria_01_mesopotamia_1.26= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.26.t"
+	desc = "assyria_01_mesopotamia_1.26.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag = MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.26.a"
+	}
+}
+
+assyria_01_mesopotamia_1.27= {  
+	type = country_event
+	title = "assyria_01_mesopotamia_1.27.t"
+	desc = "assyria_01_mesopotamia_1.27.desc"
+	fire_only_once = yes
+	picture = assyria_pic_1
+	
+	trigger = {
+		tag = MAC
+	}
+	
+	option = { 
+		name = "assyria_01_mesopotamia_1.27.a"
+		p:3401 = { #Assyrian Babylonia
+			create_country = {
+				change_government = aristocratic_monarchy 
+				set_primary_culture = agade
+				set_country_religion = anunnaki_pantheon
+				change_country_name = "ASSYRIANBABYLON_NAME"
+				change_country_adjective = "ASSYRIANBABYLON_ADJECTIVE"
+				change_country_flag = BABYLONIA_FLAG
+				change_country_color = "ASSYRIANBABYLON_COLOR"
+			}
+		}
+		region:modded_babylonia_region = {
+			every_region_province = {
+				limit = {
+					NOT = { province_id = 3401 }
+				}
+				set_conquered_by = p:3401.owner
+			}
+		}
+		region:modded_sealand_region = {
+			every_region_province = {
+				limit = {
+					NOT = { province_id = 3401 }
+				}
+				set_conquered_by = p:3401.owner
+			}
+		}
+		c:MAC = {
+            make_subject = {
+                type = feudatory
+                target = p:3401.owner
+            }
+        }
 	}
 }
 

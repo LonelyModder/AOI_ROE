@@ -310,7 +310,7 @@
 
 597={ 
 	terrain="mountain"
-	trade_goods="cattle"
+	trade_goods="cinnabar"
 	religion="illyric_pantheon"
 	culture="lcarnian"
 	civilization_value=0

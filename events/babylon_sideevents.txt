@@ -1,0 +1,153 @@
+﻿namespace = babylon_sideevents
+
+babylon_sideevents.1 = {  
+	type = country_event
+	title = "babylon_sideevents.1.t"
+	desc = "babylon_sideevents.1.desc"
+	fire_only_once = yes
+	picture = babylon_pic_1
+	
+	left_portrait = c:MAC.current_ruler
+	right_portrait = c:DAL.current_ruler
+	
+	trigger = {
+		tag=MAC
+		c:DAL = {
+			owns = 3401
+			owns = 3397
+			owns = 3399
+			owns = 3460
+			owns = 3461
+			owns = 3462
+		}
+	}
+	
+	option = { 
+		name = "babylon_sideevents.1.a"
+		set_global_variable = {
+			name = assyrian_babylon_demand
+		}
+		ai_chance = { factor = 90 }
+	}
+	
+	option = { 
+		name = "babylon_sideevents.1.b"
+		set_global_variable = {
+			name = assyrian_mercy
+		}
+		ai_chance = { factor = 10 }
+	}
+}
+
+babylon_sideevents.2 = {  
+	type = country_event
+	title = "babylon_sideevents.2.t"
+	desc = "babylon_sideevents.2.desc"
+	fire_only_once = yes
+	picture = babylon_pic_1
+	
+	left_portrait = c:MAC.current_ruler
+	right_portrait = c:DAL.current_ruler
+	
+	trigger = {
+		tag=DAL
+		has_global_variable = assyrian_babylon_demand
+	}
+	
+	option = { 
+		name = "babylon_sideevents.2.a"
+		set_global_variable = {
+			name = babylon_agres
+		}
+		p:3397 = { set_conquered_by = c:MAC }
+		p:3399 = { set_conquered_by = c:MAC }
+		p:3460 = { set_conquered_by = c:MAC }
+		p:3461 = { set_conquered_by = c:MAC }
+		p:3462 = { set_conquered_by = c:MAC }
+		ai_chance = { factor = 80 }
+	}
+	
+	option = { 
+		name = "babylon_sideevents.2.b"
+		set_global_variable = {
+			name = babylon_rejects
+		}
+		ai_chance = { factor = 20 }
+	}
+}
+
+babylon_sideevents.3 = {  
+	type = country_event
+	title = "babylon_sideevents.3.t"
+	desc = "babylon_sideevents.3.desc"
+	fire_only_once = yes
+	picture = babylon_pic_1
+	
+	left_portrait = c:MAC.current_ruler
+	right_portrait = c:DAL.current_ruler
+	
+	trigger = {
+		tag=MAC
+		has_global_variable = babylon_agres
+	}
+	
+	option = { 
+		name = "babylon_sideevents.3.a"
+	}
+}	
+
+babylon_sideevents.4 = {  
+	type = country_event
+	title = "babylon_sideevents.4.t"
+	desc = "babylon_sideevents.4.desc"
+	fire_only_once = yes
+	picture = babylon_pic_1
+	
+	left_portrait = c:MAC.current_ruler
+	right_portrait = c:DAL.current_ruler
+	
+	trigger = {
+		tag=MAC
+		has_global_variable = babylon_rejects
+	}
+	
+	option = { 
+		name = "babylon_sideevents.4.a"
+		c:MAC = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:3397
+				target = p:3397.owner
+			}
+		}
+		ai_chance = { factor = 20 }
+	}
+	
+	option = { 
+		name = "babylon_sideevents.4.b"
+		set_global_variable = {
+			name = assyrians_giveup_kurigalzu
+		}
+		ai_chance = { factor = 80 }
+	}
+}
+
+babylon_sideevents.5 = {  
+	type = country_event
+	title = "babylon_sideevents.5.t"
+	desc = "babylon_sideevents.5.desc"
+	fire_only_once = yes
+	picture = babylon_pic_1
+	
+	left_portrait = c:MAC.current_ruler
+	right_portrait = c:DAL.current_ruler
+	
+	trigger = {
+		tag=DAL
+		has_global_variable = assyrians_giveup_kurigalzu
+	}
+	
+	option = { 
+		name = "babylon_sideevents.5.a"
+	}
+}

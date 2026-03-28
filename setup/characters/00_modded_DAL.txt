@@ -1,0 +1,23 @@
+﻿"DAL"={
+	country="DAL"
+	
+	50={
+		first_name="Nabu"
+		family = c:DAL.fam:Nasir
+		birth_date=410.1.1
+		culture="agade"
+		religion="annunaki_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=10
+		add_finesse=8
+		add_zeal=7
+		no_traits=yes
+		add_gold=100
+		add_popularity=100
+		#dna=""
+		c:DAL={
+			set_as_ruler=char:50
+		}
+	}
+}

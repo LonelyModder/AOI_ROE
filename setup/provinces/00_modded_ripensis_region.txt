@@ -247,7 +247,7 @@
 
 1491={ 
 	terrain="plains"
-	trade_goods="fur"
+	trade_goods="cinnabar"
 	religion="thracic_pantheon"
 	culture="ttriballian"
 	civilization_value=0
