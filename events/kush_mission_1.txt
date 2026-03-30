@@ -496,7 +496,17 @@ kush_01_egypt_1.18 = {
 		p:1968 = { #24th Dynasty
 			create_country = {
 				change_government = theocratic_monarchy
-				set_primary_culture = lower_kemetic
+				if = {
+					limit = {
+						NOT = {
+							primary_culture = lower_kemetic
+						}
+					}
+					set_primary_culture_cleanup_effect = {
+						NEW_PRIMARY_CULTURE = lower_kemetic
+						MAKE_OLD_CULTURE_INTEGRATED = yes
+					}
+				}
 				set_country_religion = kemetic_pantheon
 				change_country_name = "Tefnakhts_NAME"
 				change_country_adjective = "Tefnakhts_ADJECTIVE"
