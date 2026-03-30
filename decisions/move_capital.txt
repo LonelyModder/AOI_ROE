@@ -27,6 +27,7 @@
 		
 		allow = {
 			p:3401 = { is_capital = no }
+			owns = 3401
 		}
 		
 		effect = {
