@@ -6,7 +6,7 @@
 		family = c:DAL.fam:Nasir
 		birth_date=410.1.1
 		culture="agade"
-		religion="annunaki_pantheon"
+		religion="anunnaki_pantheon"
 		no_stats=yes
 		add_martial=7
 		add_charisma=10
