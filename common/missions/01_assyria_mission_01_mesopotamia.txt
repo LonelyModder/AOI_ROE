@@ -93,15 +93,15 @@
 		}
 		
 		highlight = {
+		}
+		
+		on_start = {
 			show_as_tooltip = {  
 				add_treasury = -100 
 			}
 			hidden_effect = { 
 				add_treasury = -100 
 			}
-		}
-		
-		on_start = {
 			trigger_event = { id = assyria_01_mesopotamia_1.2 }
 		}
 		
@@ -120,15 +120,15 @@
 		}
 		
 		highlight = {
+		}
+		
+		on_start = {
 			show_as_tooltip = { 
 				add_political_influence = -20 
 			}
 			hidden_effect = { 
 				add_political_influence = -20
 			}
-		}
-		
-		on_start = {
 			trigger_event = { id = assyria_01_mesopotamia_1.4 }
 		}
 		
@@ -148,6 +148,9 @@
 		}
 		
 		highlight = {
+		}
+		
+		on_start = {
 			show_as_tooltip = { 
 				add_political_influence = -10 
 				add_treasury = -100 
@@ -156,9 +159,6 @@
 				add_political_influence = -10
 				add_treasury = -100 
 			}
-		}
-		
-		on_start = {
 			trigger_event = { id = assyria_01_mesopotamia_1.6 }
 		}
 		
@@ -185,15 +185,15 @@
 					province_id = 2340
 				}
 			}
+		}
+		
+		on_start = {
 			show_as_tooltip = { 
 				add_political_influence = -20 
 			}
 			hidden_effect = { 
 				add_political_influence = -20
 			}
-		}
-		
-		on_start = {
 			trigger_event = { id = assyria_01_mesopotamia_1.9 }
 		}
 		
@@ -214,19 +214,17 @@
 		
 		highlight = {
 			scope:province = {
-				OR = {
-					province_id = 2359
-				}
+				province_id = 2359
 			}
+		}
+		
+		on_start = {
 			show_as_tooltip = { 
 				add_political_influence = -20 
 			}
 			hidden_effect = { 
 				add_political_influence = -20
 			}
-		}
-		
-		on_start = {
 			trigger_event = { id = assyria_01_mesopotamia_1.15 }
 		}
 		
@@ -248,10 +246,11 @@
 		
 		highlight = {
 			scope:province = {
-				OR = {
-					province_id = 3473
-				}
+				province_id = 3473
 			}
+		}
+		
+		on_start = {
 			show_as_tooltip = { 
 				add_political_influence = -20 
 				add_treasury = -200
@@ -260,9 +259,6 @@
 				add_political_influence = -20
 				add_treasury = -200
 			}
-		}
-		
-		on_start = {
 			trigger_event = { id = assyria_01_mesopotamia_1.17 }
 		}
 		
@@ -305,19 +301,17 @@
 		
 		highlight = {
 			scope:province = {
-				OR = {
-					province_id = 3473
-				}
+				province_id = 3473
 			}
+		}
+		
+		on_start = {
 			show_as_tooltip = { 
 				add_treasury = -200
 			}
 			hidden_effect = { 
 				add_treasury = -200
 			}
-		}
-		
-		on_start = {
 			trigger_event = { id = assyria_01_mesopotamia_1.21 }
 		}
 		
@@ -343,15 +337,15 @@
 					province_id = 3401
 				}
 			}
+		}
+		
+		on_start = {
 			show_as_tooltip = { 
 				add_political_influence = -20 
 			}
 			hidden_effect = { 
 				add_political_influence = -20
 			}
-		}
-		
-		on_start = {
 			trigger_event = { id = assyria_01_mesopotamia_1.23 }
 		}
 		
@@ -374,19 +368,19 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					owns_region = modded_babylonia_region
-					owns_region = modded_sealand_region
+					is_in_region = modded_babylonia_region
+					is_in_region = modded_sealand_region
 				}
 			}
+		}
+		
+		on_start = {
 			show_as_tooltip = { 
 				add_political_influence = -20 
 			}
 			hidden_effect = { 
 				add_political_influence = -20
 			}
-		}
-		
-		on_start = {
 			trigger_event = { id = assyria_01_mesopotamia_1.26 }
 		}
 		
