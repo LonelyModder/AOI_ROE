@@ -393,6 +393,7 @@ modded_sardiniaetcorsica_region = {
 		turris_area
 		olbia_area
 		corsica_area
+		baleares_area
 	}
 }
 
