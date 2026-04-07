@@ -11,6 +11,18 @@ modded_tmp_region = {
 	}
 }
 
+modded_africae_region = {
+	areas = {
+		
+	}
+}
+
+modded_mauretania_region = {
+	areas = {
+		
+	}
+}
+
 modded_sealand_region = {
 	areas = {
 		teredon_area

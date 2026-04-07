@@ -38,6 +38,8 @@
  modded_babylonia_region:0 "Babylonia"
  modded_assyria_region:0 "Assyria"
  modded_sealand_region:0 "Sealand"
+ modded_africae_region:0 "Africae"
+ modded_mauretania_region:0 "Mauretania"
  
  #Areas
  gambolu_area:0 "Puqudu"
