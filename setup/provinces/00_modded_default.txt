@@ -10497,3 +10497,83 @@
 	barbarian_power=0
 	province_rank=""
 }
+
+3771={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3772={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3773={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3774={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3775={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3776={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3786={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3811={ #Mountains 
+	terrain="impassable_terrain"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
