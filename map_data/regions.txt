@@ -11,15 +11,25 @@ modded_tmp_region = {
 	}
 }
 
-modded_africae_region = {
+modded_mauretania_region = {
 	areas = {
 		
 	}
 }
 
-modded_mauretania_region = {
+modded_numidia_region = {
 	areas = {
 		
+	}
+}
+
+modded_africae_region = {
+	areas = {
+		euphranta_area
+		thubactis_area
+		sabratha_area
+		gightis_area
+		tritonis_area
 	}
 }
 

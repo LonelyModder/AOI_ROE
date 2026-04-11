@@ -38,10 +38,16 @@
  modded_babylonia_region:0 "Babylonia"
  modded_assyria_region:0 "Assyria"
  modded_sealand_region:0 "Sealand"
- modded_africae_region:0 "Africae"
+ modded_africae_region:0 "Africa"
+ modded_numidia_region:0 "Numidia"
  modded_mauretania_region:0 "Mauretania"
  
  #Areas
+ tritonis_area:0 "Tritonis"
+ gightis_area:0 "Gightis"
+ sabratha_area:0 "Sabratha"
+ thubactis_area:0 "Thubactis"
+ euphranta_area:0 "Euphranta"
  gambolu_area:0 "Puqudu"
  larak_area:0 "Larak"
  lagash_area:0 "Lagash"

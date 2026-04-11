@@ -1,4 +1,4 @@
-﻿3737={ 
+﻿3789={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -17,7 +17,7 @@
 	}
 }
 
-3738={ 
+3790={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -36,7 +36,7 @@
 	}
 }
 
-3739={ 
+3793={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -55,7 +55,7 @@
 	}
 }
 
-3740={ 
+3799={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -74,7 +74,7 @@
 	}
 }
 
-3741={ 
+3800={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -93,7 +93,7 @@
 	}
 }
 
-3742={ 
+3801={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -112,7 +112,7 @@
 	}
 }
 
-3743={ 
+3802={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -131,7 +131,7 @@
 	}
 }
 
-3744={ 
+3803={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -150,7 +150,7 @@
 	}
 }
 
-3745={ 
+3804={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -169,7 +169,7 @@
 	}
 }
 
-3746={ 
+3805={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -188,7 +188,7 @@
 	}
 }
 
-3747={ 
+3806={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -207,7 +207,7 @@
 	}
 }
 
-3748={ 
+3807={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -226,7 +226,7 @@
 	}
 }
 
-3749={ 
+3808={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -245,7 +245,7 @@
 	}
 }
 
-3750={ 
+3809={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -264,7 +264,7 @@
 	}
 }
 
-3751={ 
+3810={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -283,7 +283,7 @@
 	}
 }
 
-3752={ 
+3812={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -302,7 +302,7 @@
 	}
 }
 
-3753={ 
+3813={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -321,7 +321,7 @@
 	}
 }
 
-3754={ 
+3814={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -340,7 +340,7 @@
 	}
 }
 
-3755={ 
+3815={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -359,7 +359,7 @@
 	}
 }
 
-3756={ 
+3816={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -378,7 +378,7 @@
 	}
 }
 
-3757={ 
+3817={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -397,7 +397,7 @@
 	}
 }
 
-3758={ 
+3818={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -416,7 +416,7 @@
 	}
 }
 
-3759={ 
+3819={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -435,7 +435,7 @@
 	}
 }
 
-3760={ 
+3820={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -454,7 +454,7 @@
 	}
 }
 
-3761={ 
+3821={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -473,7 +473,7 @@
 	}
 }
 
-3762={ 
+3822={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -492,7 +492,7 @@
 	}
 }
 
-3763={ 
+3823={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -511,7 +511,7 @@
 	}
 }
 
-3764={ 
+3824={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -530,7 +530,7 @@
 	}
 }
 
-3765={ 
+3825={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -549,7 +549,7 @@
 	}
 }
 
-3766={ 
+3826={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -568,7 +568,7 @@
 	}
 }
 
-3767={ 
+3827={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -587,7 +587,7 @@
 	}
 }
 
-3768={ 
+3828={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -606,7 +606,7 @@
 	}
 }
 
-3769={ 
+3829={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -625,7 +625,7 @@
 	}
 }
 
-3770={ 
+3830={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -644,7 +644,7 @@
 	}
 }
 
-3777={ 
+3831={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -663,7 +663,7 @@
 	}
 }
 
-3778={ 
+3832={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -682,7 +682,7 @@
 	}
 }
 
-3779={ 
+3833={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -701,7 +701,7 @@
 	}
 }
 
-3780={ 
+3834={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -720,7 +720,7 @@
 	}
 }
 
-3781={ 
+3835={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -739,7 +739,7 @@
 	}
 }
 
-3782={ 
+3836={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -758,7 +758,7 @@
 	}
 }
 
-3783={ 
+3837={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -777,7 +777,7 @@
 	}
 }
 
-3784={ 
+3838={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -796,7 +796,7 @@
 	}
 }
 
-3785={ 
+3839={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -815,7 +815,7 @@
 	}
 }
 
-3787={ 
+3840={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -834,7 +834,7 @@
 	}
 }
 
-3788={ 
+3841={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -853,7 +853,7 @@
 	}
 }
 
-3791={ 
+3842={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -872,7 +872,7 @@
 	}
 }
 
-3792={ 
+3843={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -891,7 +891,7 @@
 	}
 }
 
-3794={ 
+3844={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -910,7 +910,7 @@
 	}
 }
 
-3795={ 
+3845={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -929,7 +929,7 @@
 	}
 }
 
-3796={ 
+3846={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -948,7 +948,7 @@
 	}
 }
 
-3797={ 
+3847={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
@@ -967,7 +967,235 @@
 	}
 }
 
-3798={ 
+3848={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3849={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3850={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3851={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3852={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3853={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3854={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3855={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3856={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3857={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3858={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3859={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="slavic_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3860={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="slavic_pantheon"
