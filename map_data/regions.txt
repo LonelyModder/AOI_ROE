@@ -19,7 +19,16 @@ modded_mauretania_region = {
 
 modded_numidia_region = {
 	areas = {
-		
+		lunci_area
+		carthago_area
+		regius_area
+		sufetula_area
+		thuburbo_area
+		capsa_area
+		bulla_area
+		vescera_area
+		mascula_area
+		lambaesis_area
 	}
 }
 
