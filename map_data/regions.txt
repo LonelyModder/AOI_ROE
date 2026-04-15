@@ -11,9 +11,23 @@ modded_tmp_region = {
 	}
 }
 
-modded_mauretania_region = {
+modded_tingitania_region = {
 	areas = {
 		
+	}
+}
+
+modded_mauretania_region = {
+	areas = {
+		zarai_area
+		choba_area
+		bida_area
+		uzinaza_area
+		iol_area
+		mina_area
+		gebal_area
+		altava_area
+		mulucha_area
 	}
 }
 

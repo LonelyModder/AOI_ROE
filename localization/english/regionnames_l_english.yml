@@ -41,8 +41,18 @@
  modded_africae_region:0 "Africa"
  modded_numidia_region:0 "Numidia"
  modded_mauretania_region:0 "Mauretania"
+ modded_tingitania_region:0 "Tingitania"
  
  #Areas
+ altava_area:0 "Altava"
+ mulucha_area:0 "Mulucha"
+ gebal_area:0 "Gebal"
+ mina_area:0 "Mina"
+ iol_area:0 "Iol"
+ uzinaza_area:0 "Uzinaza"
+ bida_area:0 "Bida"
+ choba_area:0 "Choba"
+ zarai_area:0 "Zarai"
  lambaesis_area:0 "Lambaesis"
  mascula_area:0 "Mascula"
  vescera_area:0 "Vescera"
