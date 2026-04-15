@@ -29,8 +29,8 @@
  no_neighbor_has_colonization_progress:0 "No neighbour has #Y Colonization Progress#!"
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
- patch_notes:0 "Part VI: Between Rivers"
- patch_notes_text:0 "What's new:\n- New mesopotamian region with the mighty city of Babylon. \n- Over 219 new land provinces to conquer (3609 total provinces). \n- New Assyrian submissions. \n- New trade good called cinnabar. \n- Fixes for Lydian missions crash. "
+ patch_notes:0 "Part VII: New Home"
+ patch_notes_text:0 "What's new:\n- North African region with 329 new land provinces to conquer (4112 provinces on the map in total)."
  
  #Modifier text
  osasis:0 "Oasis"

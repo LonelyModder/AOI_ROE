@@ -13,7 +13,11 @@ modded_tmp_region = {
 
 modded_tingitania_region = {
 	areas = {
-		
+		rusaddir_area
+		sokosia_area
+		tingis_area
+		marusia_area
+		sububia_area
 	}
 }
 

@@ -44,6 +44,11 @@
  modded_tingitania_region:0 "Tingitania"
  
  #Areas
+ marusia_area:0 "Marusia"
+ sububia_area:0 "Sububia"
+ tingis_area:0 "Tingis"
+ sokosia_area:0 "Sokosia"
+ rusaddir_area:0 "Rusaddir"
  altava_area:0 "Altava"
  mulucha_area:0 "Mulucha"
  gebal_area:0 "Gebal"
