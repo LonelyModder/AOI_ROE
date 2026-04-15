@@ -30,7 +30,7 @@
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
  patch_notes:0 "Part VII: New Home"
- patch_notes_text:0 "What's new:\n- North African region with 329 new land provinces to conquer (4112 provinces on the map in total)."
+ patch_notes_text:0 "What's new:\n- North African region with 329 new land provinces to conquer (4112 provinces on the map in total). \n- Fixing bugs like missiong diety files in non state supported religions and wrong religions in character definitions."
  
  #Modifier text
  osasis:0 "Oasis"
