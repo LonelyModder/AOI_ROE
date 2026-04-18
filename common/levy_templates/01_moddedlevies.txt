@@ -314,3 +314,14 @@ levy_urumic = { #hurric militia
 	ia_chariots = 0.1
 	ia_lancers = 0.2
 }
+
+#Numidian
+
+levy_numidian = { #numiadian militia
+	default = no
+
+	ia_archers = 0.2
+	ia_warriors = 0.4
+	ia_lightcavalry = 0.2
+	ia_elephants = 0.2
+}

@@ -259,7 +259,10 @@ libyan_heritage = {
 	}
 	
 	trigger = {
-		country_culture_group = libyan
+		OR = {
+			country_culture_group = libyan
+			country_culture_group = numidian
+		}
 	}
 }
 
