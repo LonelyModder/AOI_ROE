@@ -221,9 +221,9 @@
  elamitic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  numidian:2 "Numidian"
- maurian:0 "Maurian"
- massylian:0 "Massylian"
- massaesylian:0 "Massaesylian"
+ mauri:0 "Maurian"
+ massylic:0 "Massylian"
+ massaesylic:0 "Massaesylian"
  numidian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  numidian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy

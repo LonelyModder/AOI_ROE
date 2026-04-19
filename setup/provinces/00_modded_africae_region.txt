@@ -1,7 +1,7 @@
 ﻿3737={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -20,7 +20,7 @@
 3738={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -39,7 +39,7 @@
 3739={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -58,7 +58,7 @@
 3740={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -77,7 +77,7 @@
 3741={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -96,7 +96,7 @@
 3742={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -115,7 +115,7 @@
 3743={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -134,7 +134,7 @@
 3744={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -153,7 +153,7 @@
 3745={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -172,7 +172,7 @@
 3746={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -191,7 +191,7 @@
 3747={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -210,7 +210,7 @@
 3748={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -229,7 +229,7 @@
 3749={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -248,7 +248,7 @@
 3750={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -267,7 +267,7 @@
 3751={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -286,7 +286,7 @@
 3752={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -305,7 +305,7 @@
 3753={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -324,7 +324,7 @@
 3754={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -343,7 +343,7 @@
 3755={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -362,7 +362,7 @@
 3756={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -381,7 +381,7 @@
 3757={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -400,7 +400,7 @@
 3758={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -419,7 +419,7 @@
 3759={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -438,7 +438,7 @@
 3760={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -457,7 +457,7 @@
 3761={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -476,7 +476,7 @@
 3762={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -495,7 +495,7 @@
 3763={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -514,7 +514,7 @@
 3764={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -533,7 +533,7 @@
 3765={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -552,7 +552,7 @@
 3766={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -571,7 +571,7 @@
 3767={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -590,7 +590,7 @@
 3768={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -609,7 +609,7 @@
 3769={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -628,7 +628,7 @@
 3770={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -647,7 +647,7 @@
 3777={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -666,7 +666,7 @@
 3778={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -685,7 +685,7 @@
 3779={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -704,7 +704,7 @@
 3780={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -723,7 +723,7 @@
 3781={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -742,7 +742,7 @@
 3782={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -761,7 +761,7 @@
 3783={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -780,7 +780,7 @@
 3784={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -799,7 +799,7 @@
 3785={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -818,7 +818,7 @@
 3787={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -837,7 +837,7 @@
 3788={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -856,7 +856,7 @@
 3791={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -875,7 +875,7 @@
 3792={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -894,7 +894,7 @@
 3794={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -913,7 +913,7 @@
 3795={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -932,7 +932,7 @@
 3796={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -951,7 +951,7 @@
 3797={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -970,7 +970,7 @@
 3798={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -989,7 +989,7 @@
 3803={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1008,7 +1008,7 @@
 3793={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0

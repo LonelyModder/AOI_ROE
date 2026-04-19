@@ -418,9 +418,6 @@
 		}
 		nessamones = {}
 		gaetuli = {}
-		mauri = {}
-		massylic = {}
-		massaesylic = {}
 		lotophage = {}
 		ammonii = {}
 		marmaridaian = {
