@@ -862,8 +862,8 @@
 3731={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="libyan_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="talayotic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -881,8 +881,8 @@
 3732={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="libyan_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="talayotic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -900,8 +900,8 @@
 3733={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="libyan_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="talayotic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -919,8 +919,8 @@
 3734={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="libyan_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="talayotic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -938,8 +938,8 @@
 3735={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="libyan_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="talayotic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -957,8 +957,8 @@
 3736={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="libyan_pantheon"
-	culture="wvenedi"
+	religion="nuragian_pantheon"
+	culture="talayotic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

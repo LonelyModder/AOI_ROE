@@ -2,7 +2,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -21,7 +21,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -40,7 +40,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -59,7 +59,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -78,7 +78,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -97,7 +97,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -116,7 +116,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -135,7 +135,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -154,7 +154,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -173,7 +173,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -192,7 +192,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -211,7 +211,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -230,7 +230,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -268,7 +268,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -287,7 +287,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -306,7 +306,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -325,7 +325,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -344,7 +344,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -363,7 +363,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -382,7 +382,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -401,7 +401,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -420,7 +420,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -439,7 +439,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -458,7 +458,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -477,7 +477,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -515,7 +515,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -534,7 +534,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -553,7 +553,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -572,7 +572,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -591,7 +591,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -610,7 +610,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -629,7 +629,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -648,7 +648,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -667,7 +667,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -686,7 +686,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -705,7 +705,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -724,7 +724,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +743,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -762,7 +762,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -781,7 +781,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -800,7 +800,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -819,7 +819,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -838,7 +838,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -857,7 +857,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -876,7 +876,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -895,7 +895,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -914,7 +914,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -933,7 +933,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -952,7 +952,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -971,7 +971,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -990,7 +990,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1009,7 +1009,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1028,7 +1028,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1047,7 +1047,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1066,7 +1066,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1085,7 +1085,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1104,7 +1104,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1123,7 +1123,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1142,7 +1142,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1161,7 +1161,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1180,7 +1180,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1199,7 +1199,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1218,7 +1218,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1237,7 +1237,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1256,7 +1256,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1275,7 +1275,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1294,7 +1294,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1313,7 +1313,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1332,7 +1332,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1351,7 +1351,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1370,7 +1370,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1389,7 +1389,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1408,7 +1408,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1427,7 +1427,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1446,7 +1446,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1465,7 +1465,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1484,7 +1484,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1503,7 +1503,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1522,7 +1522,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1541,7 +1541,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1560,7 +1560,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1579,7 +1579,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1598,7 +1598,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1617,7 +1617,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1636,7 +1636,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1655,7 +1655,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1674,7 +1674,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1693,7 +1693,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1712,7 +1712,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1731,7 +1731,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1750,7 +1750,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1769,7 +1769,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1788,7 +1788,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1807,7 +1807,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1826,7 +1826,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1845,7 +1845,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1864,7 +1864,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1883,7 +1883,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1902,7 +1902,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1921,7 +1921,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1940,7 +1940,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1959,7 +1959,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1978,7 +1978,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1997,7 +1997,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2016,7 +2016,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2035,7 +2035,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2054,7 +2054,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2073,7 +2073,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2092,7 +2092,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2111,7 +2111,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2130,7 +2130,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2149,7 +2149,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2168,7 +2168,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2187,7 +2187,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2206,7 +2206,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2225,7 +2225,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2244,7 +2244,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2263,7 +2263,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

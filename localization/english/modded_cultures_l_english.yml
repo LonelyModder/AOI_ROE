@@ -8,6 +8,7 @@
  occidental:2 "Nuragian"
  corsi:0 "Corsi"
  nurage:0 "Nuragic"
+ talayotic:0 "Talayotic"
  occidental_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  occidental_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  levantine:2 "Canaanite"
@@ -115,6 +116,7 @@
  ma:0 "Meshwesh"
  marmaridaian:0 "Marmaridaian"
  ammonii:0 "Ammonian"
+ psylli:0 "Psyllian"
  libyan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  libyan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nubian
