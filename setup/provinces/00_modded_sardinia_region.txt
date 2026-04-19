@@ -861,7 +861,7 @@
 
 3731={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="nuragian_pantheon"
 	culture="talayotic"
 	civilization_value=0
@@ -880,7 +880,7 @@
 
 3732={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="nuragian_pantheon"
 	culture="talayotic"
 	civilization_value=0
@@ -898,8 +898,8 @@
 }
 
 3733={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="precious_metals"
 	religion="nuragian_pantheon"
 	culture="talayotic"
 	civilization_value=0
@@ -917,8 +917,8 @@
 }
 
 3734={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="salt"
 	religion="nuragian_pantheon"
 	culture="talayotic"
 	civilization_value=0
@@ -937,7 +937,7 @@
 
 3735={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="glass"
 	religion="nuragian_pantheon"
 	culture="talayotic"
 	civilization_value=0
@@ -955,8 +955,8 @@
 }
 
 3736={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="hemp"
 	religion="nuragian_pantheon"
 	culture="talayotic"
 	civilization_value=0

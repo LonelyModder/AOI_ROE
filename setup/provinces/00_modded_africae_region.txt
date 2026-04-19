@@ -474,7 +474,7 @@
 }
 
 3762={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="wvenedi"
@@ -835,7 +835,7 @@
 }
 
 3788={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="wvenedi"
@@ -854,7 +854,7 @@
 }
 
 3791={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="wvenedi"

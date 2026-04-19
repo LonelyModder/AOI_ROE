@@ -4660,6 +4660,7 @@ country = {
 				3394 3395 3392
 			}
 		}
+		
 		DAJ = {          
 			government = tribal_kingdom
 			primary_culture = achaldean
