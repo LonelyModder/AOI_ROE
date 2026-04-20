@@ -10520,8 +10520,8 @@
 
 3773={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="libyan_pantheon"
+	culture="macaean"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -10560,8 +10560,8 @@
 
 3786={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="libyan_pantheon"
+	culture="lotophage"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -10570,8 +10570,8 @@
 
 3811={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="libyan_pantheon"
+	culture="massylic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -10720,8 +10720,8 @@
 
 3978={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="libyan_pantheon"
+	culture="massaesylic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -10900,8 +10900,8 @@
 
 4048={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="libyan_pantheon"
+	culture="massaesylic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -10980,8 +10980,8 @@
 
 4108={ #Mountains 
 	terrain="impassable_terrain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="libyan_pantheon"
+	culture="mauri"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
