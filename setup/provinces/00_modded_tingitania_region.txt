@@ -189,7 +189,7 @@
 }
 
 4062={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="mauri"
@@ -208,7 +208,7 @@
 }
 
 4063={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="mauri"
@@ -322,7 +322,7 @@
 }
 
 4069={ 
-	terrain="forest"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="mauri"
@@ -968,7 +968,7 @@
 }
 
 4103={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="mauri"

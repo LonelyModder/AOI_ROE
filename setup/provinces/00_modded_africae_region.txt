@@ -1,8 +1,8 @@
 ﻿3737={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="psylli"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -18,10 +18,10 @@
 }
 
 3738={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="psylli"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -37,10 +37,10 @@
 }
 
 3739={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="psylli"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -56,10 +56,10 @@
 }
 
 3740={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="psylli"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -75,10 +75,10 @@
 }
 
 3741={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="psylli"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -94,10 +94,10 @@
 }
 
 3742={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="psylli"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -113,10 +113,10 @@
 }
 
 3743={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="psylli"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,10 +132,10 @@
 }
 
 3744={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="psylli"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -151,10 +151,10 @@
 }
 
 3745={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="psylli"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -170,10 +170,10 @@
 }
 
 3746={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -189,10 +189,10 @@
 }
 
 3747={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -208,10 +208,10 @@
 }
 
 3748={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -227,10 +227,10 @@
 }
 
 3749={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -246,10 +246,10 @@
 }
 
 3750={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -266,9 +266,9 @@
 
 3751={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -284,10 +284,10 @@
 }
 
 3752={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -303,10 +303,10 @@
 }
 
 3753={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -323,9 +323,9 @@
 
 3754={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="dye"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -341,10 +341,10 @@
 }
 
 3755={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -361,9 +361,9 @@
 
 3756={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,10 +379,10 @@
 }
 
 3757={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -401,7 +401,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -420,7 +420,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -437,9 +437,9 @@
 
 3760={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="dye"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -458,7 +458,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -475,9 +475,9 @@
 
 3762={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -515,7 +515,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -531,10 +531,10 @@
 }
 
 3765={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="psylli"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -550,10 +550,10 @@
 }
 
 3766={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -569,10 +569,10 @@
 }
 
 3767={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -588,10 +588,10 @@
 }
 
 3768={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="macaean"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -607,10 +607,10 @@
 }
 
 3769={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,10 +626,10 @@
 }
 
 3770={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -648,7 +648,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -667,7 +667,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -686,7 +686,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -705,7 +705,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -721,10 +721,10 @@
 }
 
 3781={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -740,10 +740,10 @@
 }
 
 3782={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="lotophage"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -762,7 +762,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -778,10 +778,10 @@
 }
 
 3784={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -797,10 +797,10 @@
 }
 
 3785={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -816,10 +816,10 @@
 }
 
 3787={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -838,7 +838,7 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -857,7 +857,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -873,10 +873,10 @@
 }
 
 3792={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -892,10 +892,10 @@
 }
 
 3794={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -914,7 +914,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -933,7 +933,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -952,7 +952,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -968,10 +968,10 @@
 }
 
 3798={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -990,7 +990,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1006,10 +1006,10 @@
 }
 
 3793={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="salt"
 	religion="libyan_pantheon"
-	culture="wvenedi"
+	culture="gyzantianic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

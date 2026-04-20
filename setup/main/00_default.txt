@@ -704,6 +704,7 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 	
 	#Pirates
+	3733 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	2828 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	1141 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	1132 = { modifier = { modifier = pirate_haven_modifier always = yes } }
@@ -798,6 +799,7 @@ provinces = { #Any entry must contain a comment with city name.
 	1149 = { port_building = 2 }
 	1301 = { port_building = 1 }
 	1263 = { port_building = 1 }
+	3733 = { port_building = 1 }
 	311 = { port_building = 1 }
 	788 = { port_building = 1 }
 	483 = { port_building = 1 }
@@ -4671,6 +4673,7 @@ country = {
 				3424 3425 3423
 			}
 		}
+		
 		DAK = {          
 			government = tribal_kingdom
 			primary_culture = achaldean
@@ -4789,6 +4792,17 @@ country = {
 			
 			own_control_core = 	{ 
 				3595 3594 3596 3597 3600 3591 3593 3590 3592 3589
+			}
+		}
+		
+		DAS = {          
+			government = tribal_kingdom
+			primary_culture = talayotic
+			religion = nuragian_pantheon
+			capital = 3734
+			
+			own_control_core = 	{ 
+				3731 3732 3733 3734 3735 3736 
 			}
 		}
 	}

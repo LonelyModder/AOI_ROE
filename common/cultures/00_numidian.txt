@@ -1,5 +1,5 @@
 ﻿numidian = {
-	color = hsv { 0.30  0.62  0.88 }
+	color = hsv { 0.14  0.767  0.61 }
 	
 	levy_template = levy_numidian
 	

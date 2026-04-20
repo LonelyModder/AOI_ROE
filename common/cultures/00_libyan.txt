@@ -39,9 +39,7 @@
 
 	culture = {
 		psylli = {}
-		gilgamaic = {}
-		abystaic = {}
-		machlyanic = {}
+		macaean = {}
 		gyzantianic = {}
 		libi = {
 		male_names = {
@@ -417,7 +415,6 @@
 	}
 		}
 		nessamones = {}
-		gaetuli = {}
 		lotophage = {}
 		ammonii = {}
 		marmaridaian = {

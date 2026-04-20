@@ -1,6 +1,6 @@
 ﻿3789={ 
-	terrain="plains"
-	trade_goods="farmland"
+	terrain="farmland"
+	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 3800={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="dye"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -151,7 +151,7 @@
 }
 
 3806={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -170,7 +170,7 @@
 }
 
 3807={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -399,7 +399,7 @@
 
 3820={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="dye"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -437,7 +437,7 @@
 
 3822={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="dye"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -1063,7 +1063,7 @@
 }
 
 3855={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1082,7 +1082,7 @@
 }
 
 3856={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1101,7 +1101,7 @@
 }
 
 3857={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1196,7 +1196,7 @@
 }
 
 3862={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1272,7 +1272,7 @@
 }
 
 3866={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1291,7 +1291,7 @@
 }
 
 3867={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1310,7 +1310,7 @@
 }
 
 3868={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1329,7 +1329,7 @@
 }
 
 3869={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1424,7 +1424,7 @@
 }
 
 3874={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1443,7 +1443,7 @@
 }
 
 3875={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1462,7 +1462,7 @@
 }
 
 3876={ 
-	terrain="forest"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1481,7 +1481,7 @@
 }
 
 3877={ 
-	terrain="forest"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1500,7 +1500,7 @@
 }
 
 3878={ 
-	terrain="forest"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1519,7 +1519,7 @@
 }
 
 3879={ 
-	terrain="hills"
+	terrain="mountain"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1576,7 +1576,7 @@
 }
 
 3882={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1595,7 +1595,7 @@
 }
 
 3883={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1652,7 +1652,7 @@
 }
 
 3886={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1900,7 +1900,7 @@
 
 3899={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -1918,7 +1918,7 @@
 }
 
 3900={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -1937,8 +1937,8 @@
 }
 
 3901={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="iron"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -1956,8 +1956,8 @@
 }
 
 3902={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="iron"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -1975,7 +1975,7 @@
 }
 
 3903={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -2051,7 +2051,7 @@
 }
 
 3907={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -2127,8 +2127,8 @@
 }
 
 3911={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="base_metals"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -2184,7 +2184,7 @@
 }
 
 3914={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -2241,7 +2241,7 @@
 }
 
 3917={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"
@@ -2260,7 +2260,7 @@
 }
 
 3918={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
 	culture="massylic"

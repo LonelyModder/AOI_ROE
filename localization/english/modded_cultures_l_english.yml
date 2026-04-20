@@ -117,6 +117,9 @@
  marmaridaian:0 "Marmaridaian"
  ammonii:0 "Ammonian"
  psylli:0 "Psyllian"
+ macaean:0 "Macaean"
+ lotophage:0 "Lotophagian"
+ gyzantianic:0 "Gyzantian"
  libyan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  libyan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nubian
@@ -222,7 +225,7 @@
  elamitic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  elamitic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
- numidian:2 "Numidian"
+ numidian:2 "Amazigh"
  mauri:0 "Maurian"
  massylic:0 "Massylian"
  massaesylic:0 "Massaesylian"
