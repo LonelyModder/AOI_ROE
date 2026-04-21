@@ -266,7 +266,7 @@
 
 3946={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -285,7 +285,7 @@
 
 3947={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -494,7 +494,7 @@
 
 3958={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -513,7 +513,7 @@
 
 3959={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1615,7 +1615,7 @@
 
 4019={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1634,7 +1634,7 @@
 
 4020={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1672,7 +1672,7 @@
 
 4022={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1691,7 +1691,7 @@
 
 4023={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1729,7 +1729,7 @@
 
 4025={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1748,7 +1748,7 @@
 
 4026={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0

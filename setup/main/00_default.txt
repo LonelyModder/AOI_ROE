@@ -735,6 +735,11 @@ provinces = { #Any entry must contain a comment with city name.
 	2457 = { fortress_building = 1 }
 	2449 = { fortress_building = 1 }
 	3438 = { port_building = 2 }
+	4091 = { port_building = 2 }
+	4103 = { port_building = 2 }
+	3815 = { port_building = 2 }
+	3825 = { port_building = 2 }
+	3823 = { port_building = 2 }
 	3564 = { port_building = 2 }
 	3568 = { port_building = 2 }
 	3595 = { port_building = 2 }
@@ -4808,6 +4813,96 @@ country = {
 			
 			own_control_core = 	{ 
 				3731 3732 3733 3734 3735 3736 
+			}
+		}
+		
+		DAT = {          
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 3823
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3823 3822
+			}
+		}
+		
+		DAU = {          
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 3824
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3824 3825
+			}
+		}
+		
+		DAW = {          
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 3816
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3816 3815
+			}
+		}
+		
+		DAY = {          
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 4091
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				4091
+			}
+		}
+		
+		DAZ = {          
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 4103
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				4103
 			}
 		}
 	}
