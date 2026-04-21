@@ -1,6 +1,6 @@
 ﻿4052={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cedar"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -227,8 +227,8 @@
 }
 
 4064={ 
-	terrain="forest"
-	trade_goods="wood"
+	terrain="hills"
+	trade_goods="vegetables"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -304,7 +304,7 @@
 
 4068={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -323,7 +323,7 @@
 
 4069={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -475,7 +475,7 @@
 
 4077={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -513,7 +513,7 @@
 
 4079={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="earthware"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -532,7 +532,7 @@
 
 4080={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="earthware"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -570,7 +570,7 @@
 
 4082={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -589,7 +589,7 @@
 
 4083={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -608,7 +608,7 @@
 
 4084={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -684,7 +684,7 @@
 
 4088={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cloth"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -863,7 +863,7 @@
 
 4097={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cedar"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -920,7 +920,7 @@
 
 4100={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cedar"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
