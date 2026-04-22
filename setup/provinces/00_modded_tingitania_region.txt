@@ -19,7 +19,7 @@
 
 4053={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -56,8 +56,8 @@
 }
 
 4055={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 4056={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -95,7 +95,7 @@
 
 4057={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -152,7 +152,7 @@
 
 4060={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -171,7 +171,7 @@
 
 4061={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -190,7 +190,7 @@
 
 4062={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -209,7 +209,7 @@
 
 4063={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -247,7 +247,7 @@
 
 4065={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -266,7 +266,7 @@
 
 4066={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -285,7 +285,7 @@
 
 4067={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -310,6 +310,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -342,7 +345,7 @@
 
 4070={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cedar"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -361,7 +364,7 @@
 
 4071={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cedar"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -380,7 +383,7 @@
 
 4072={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -418,7 +421,7 @@
 
 4074={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -437,7 +440,7 @@
 
 4075={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -456,7 +459,7 @@
 
 4076={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -646,7 +649,7 @@
 
 4086={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -665,7 +668,7 @@
 
 4087={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -768,12 +771,15 @@
 
 4092={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -787,7 +793,7 @@
 
 4093={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -806,7 +812,7 @@
 
 4094={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -844,7 +850,7 @@
 
 4096={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -958,7 +964,7 @@
 
 4102={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="mauri"
 	civilization_value=0
@@ -977,7 +983,7 @@
 
 4103={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="canaanitic_pantheon"
 	culture="punici"
 	civilization_value=0

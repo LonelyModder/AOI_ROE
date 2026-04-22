@@ -78,7 +78,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -97,7 +97,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -154,7 +154,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -173,7 +173,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1447,10 +1447,13 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1466,7 +1469,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1504,7 +1507,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1523,7 +1526,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1542,7 +1545,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1561,7 +1564,7 @@
 	terrain="mountain"
 	trade_goods="cedar"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1770,7 +1773,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="massylic"
+	culture="gaetulian"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

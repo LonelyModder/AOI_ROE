@@ -1079,7 +1079,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				53 75 76 80
+				53 
 			}
 		}
 		
@@ -1570,7 +1570,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				50 44 26
+				50 
 			}
 		}
 		
@@ -4903,6 +4903,147 @@ country = {
 			
 			own_control_core = 	{ 
 				4103
+			}
+		}
+		
+		DBA = {          
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 44
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				44
+			}
+		}
+		
+		DBB = {          
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 26
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				26
+			}
+		}
+		
+		DBC = {          
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 76
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				76 75 
+			}
+		}
+		
+		DBD = {         
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 80
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				80
+			}
+		}
+		
+		DBE = {          
+			government = tribal_chiefdom
+			primary_culture = psylli
+			religion = libyan_pantheon
+			capital = 3742
+			
+			own_control_core = 	{ 
+				3742 3741 3740 3739 
+			}
+		}
+		
+		DBF = {          
+			government = tribal_chiefdom
+			primary_culture = lotophage
+			religion = libyan_pantheon
+			capital = 3763
+			
+			own_control_core = 	{ 
+				3763 3762 3761 3759
+			}
+		}
+		
+		DBG = {          
+			government = tribal_kingdom
+			primary_culture = gyzantianic
+			religion = libyan_pantheon
+			capital = 3794
+			
+			own_control_core = 	{ 
+				3794 3803 3795 3792 3793 3791 3788 3778 3796 
+				3779 3780 3783 3784 3785 3787 3798 3797
+			}
+		}
+		
+		DBH = {          
+			government = tribal_kingdom
+			primary_culture = gaetulian
+			religion = libyan_pantheon
+			capital = 3873
+			
+			own_control_core = 	{ 
+				3876 3873 3874 3890 3877 3879 3878 3806 3807 3802 3801
+			}
+		}
+		
+		DBI = {          
+			government = tribal_kingdom
+			primary_culture = mauri
+			religion = libyan_pantheon
+			capital = 4068
+			
+			own_control_core = 	{ 
+				4068 4067 4066 4064 4065 4069 4077 4074 4072 4075 4076
+			}
+		}
+		
+		DBJ = {          
+			government = tribal_kingdom
+			primary_culture = mauri
+			religion = libyan_pantheon
+			capital = 4092
+			
+			own_control_core = 	{ 
+				4092 4102 4101 4089 4090 4087 4083 4084 4088 4082 4081 4080 
+				4078 4079 4097 4099 4100 4098 4096 4095 4094 4086 4093 4085 
+				4071 4073 4070 4063
 			}
 		}
 	}

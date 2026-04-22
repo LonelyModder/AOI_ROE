@@ -229,6 +229,8 @@
  mauri:0 "Maurian"
  massylic:0 "Massylian"
  massaesylic:0 "Massaesylian"
+ gaetulian:0 "Gaetulian"
+ abannaean:0 "Abannaean"
  numidian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  numidian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
