@@ -328,7 +328,7 @@
 
 3816={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="fish"
 	religion="canaanitic_pantheon"
 	culture="punici"
 	civilization_value=0
@@ -355,7 +355,7 @@
 
 3817={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -374,7 +374,7 @@
 
 3818={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -761,7 +761,7 @@
 
 3837={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="elephants"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -799,7 +799,7 @@
 
 3839={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="elephants"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -1773,7 +1773,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="libyan_pantheon"
-	culture="gaetulian"
+	culture="massylic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1910,6 +1910,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	

@@ -323,7 +323,7 @@
 
 3949={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -475,7 +475,7 @@
 
 3957={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -589,7 +589,7 @@
 
 3963={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -950,7 +950,7 @@
 
 3984={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -969,7 +969,7 @@
 
 3985={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1083,7 +1083,7 @@
 
 3991={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1102,7 +1102,7 @@
 
 3992={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1178,7 +1178,7 @@
 
 3996={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1273,7 +1273,7 @@
 
 4001={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1311,7 +1311,7 @@
 
 4003={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="elephants"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1330,7 +1330,7 @@
 
 4004={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1349,7 +1349,7 @@
 
 4005={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1444,7 +1444,7 @@
 
 4010={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1545,6 +1545,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1577,7 +1580,7 @@
 
 4017={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="gems"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1693,7 +1696,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="libyan_pantheon"
-	culture="massaesylic"
+	culture="mauri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1712,7 +1715,7 @@
 	terrain="hills"
 	trade_goods="gems"
 	religion="libyan_pantheon"
-	culture="massaesylic"
+	culture="mauri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1731,7 +1734,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="libyan_pantheon"
-	culture="massaesylic"
+	culture="mauri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1750,7 +1753,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="libyan_pantheon"
-	culture="massaesylic"
+	culture="mauri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1769,7 +1772,7 @@
 	terrain="plains"
 	trade_goods="elephants"
 	religion="libyan_pantheon"
-	culture="massaesylic"
+	culture="mauri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1788,7 +1791,7 @@
 	terrain="plains"
 	trade_goods="cattle"
 	religion="libyan_pantheon"
-	culture="massaesylic"
+	culture="mauri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1807,7 +1810,7 @@
 	terrain="plains"
 	trade_goods="elephants"
 	religion="libyan_pantheon"
-	culture="massaesylic"
+	culture="mauri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1826,7 +1829,7 @@
 	terrain="plains"
 	trade_goods="leather"
 	religion="libyan_pantheon"
-	culture="massaesylic"
+	culture="mauri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

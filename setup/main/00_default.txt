@@ -735,6 +735,7 @@ provinces = { #Any entry must contain a comment with city name.
 	2457 = { fortress_building = 1 }
 	2449 = { fortress_building = 1 }
 	3438 = { port_building = 2 }
+	4080 = { port_building = 2 }
 	4091 = { port_building = 2 }
 	4103 = { port_building = 2 }
 	3815 = { port_building = 2 }
@@ -840,6 +841,19 @@ provinces = { #Any entry must contain a comment with city name.
 	2414 = {modifier = { modifier = walls_of_jerusalem always = yes }}
 	
 	#Passes
+	3866 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3890 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3960 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3957 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3899 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3879 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3941 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4017 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4024 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4060 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4065 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4074 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4075 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2736 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	3131 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2965 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -5019,7 +5033,7 @@ country = {
 			capital = 3873
 			
 			own_control_core = 	{ 
-				3876 3873 3874 3890 3877 3879 3878 3806 3807 3802 3801
+				3876 3873 3874 3877 3879 3878 3806 3807 
 			}
 		}
 		
@@ -5044,6 +5058,69 @@ country = {
 				4092 4102 4101 4089 4090 4087 4083 4084 4088 4082 4081 4080 
 				4078 4079 4097 4099 4100 4098 4096 4095 4094 4086 4093 4085 
 				4071 4073 4070 4063
+			}
+		}
+		
+		DBK = {          
+			government = tribal_kingdom
+			primary_culture = mauri
+			religion = libyan_pantheon
+			capital = 4055
+			
+			own_control_core = 	{ 
+				4055 4056 4061 4062 4060 4057 4054 4058 4059 4053 4052
+				4030 4029 4028 4027 4026 4025 4024 4023  
+			}
+		}
+		
+		DBL = {          
+			government = tribal_kingdom
+			primary_culture = massaesylic
+			religion = libyan_pantheon
+			capital = 4015
+			
+			own_control_core = 	{ 
+				4022 4021 4013 4006 4017 4012 4016 4014 4018 4019 4015 4020
+				3997 4000 4001 4002 4005 4004 4003 4011 4008 4010
+				3986 3988 3991 3987 3992 3996 3989 3998 3990 3999
+				3969 3970 3983 3984 3985 3993 3994 3995 4007 4009
+				3965 3975 3976 3966 3967 3968 3980 3979 3981 3982 3956
+				3961 3951 3950 3949 3952 3953 3954 3960 3962 3963 3964 3955
+				3935 3933 3932 3937 3934 3938 3945 3936 3947 3944 3948 3957
+				3942 3940 3941 3971 3972 3973 3974 3939 3943 3946 3958 3959
+			}
+		}
+		
+		DBM = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3897
+			
+			own_control_core = 	{ 
+				3891 3892 3893 3894 3895 3896 3897 3898 3899 3903 3904 3905 3890 3868
+				3887 3869 3866 3880 3865 3909 3913 3875 3888 3910 3912 3889
+				3883 3872 3882 3871 3870 3885 3886 3884 3908 3862
+				3804 3805 3808 3856 3857 3858 3863 3867 3809
+				3881 3906 3914 3911 3918 3902 3901 3900 3907 3915 3916 3917
+			}
+		}
+		
+		DBN = {         
+			government = aristocratic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 4080
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				4080
 			}
 		}
 	}

@@ -63,6 +63,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -536,19 +539,27 @@
 4080={ 
 	terrain="forest"
 	trade_goods="earthware"
-	religion="libyan_pantheon"
-	culture="mauri"
+	religion="canaanitic_pantheon"
+	culture="punici"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=4
 	}	
 	tribesmen={
 		amount=4
+		religion="libyan_pantheon"
+		culture="mauri"
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
