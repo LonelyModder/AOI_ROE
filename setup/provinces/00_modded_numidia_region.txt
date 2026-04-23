@@ -19,7 +19,7 @@
 
 3790={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -767,6 +767,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -951,7 +954,7 @@
 
 3847={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -1014,6 +1017,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1046,7 +1052,7 @@
 
 3852={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -1103,7 +1109,7 @@
 
 3855={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -1619,7 +1625,7 @@
 
 3882={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -2008,6 +2014,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	

@@ -38,7 +38,7 @@
 
 3739={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="psylli"
 	civilization_value=0
@@ -95,7 +95,7 @@
 
 3742={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="psylli"
 	civilization_value=0
@@ -117,7 +117,7 @@
 
 3743={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="libyan_pantheon"
 	culture="psylli"
 	civilization_value=0
@@ -421,7 +421,7 @@
 
 3759={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="lotophage"
 	civilization_value=0
@@ -595,7 +595,7 @@
 
 3768={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="macaean"
 	civilization_value=0
@@ -633,7 +633,7 @@
 
 3770={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="lotophage"
 	civilization_value=0
@@ -652,7 +652,7 @@
 
 3777={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="lotophage"
 	civilization_value=0
@@ -728,7 +728,7 @@
 
 3781={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="lotophage"
 	civilization_value=0
@@ -747,7 +747,7 @@
 
 3782={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="lotophage"
 	civilization_value=0
@@ -785,7 +785,7 @@
 
 3784={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="gyzantianic"
 	civilization_value=0
@@ -899,7 +899,7 @@
 
 3794={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="honey"
 	religion="libyan_pantheon"
 	culture="gyzantianic"
 	civilization_value=0
@@ -921,7 +921,7 @@
 
 3795={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="elephants"
 	religion="libyan_pantheon"
 	culture="gyzantianic"
 	civilization_value=0
@@ -997,7 +997,7 @@
 
 3803={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="gyzantianic"
 	civilization_value=0
