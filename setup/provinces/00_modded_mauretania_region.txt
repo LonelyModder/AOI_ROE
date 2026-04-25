@@ -408,6 +408,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -421,7 +424,7 @@
 
 3954={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fiah"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -858,7 +861,7 @@
 
 3979={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -877,7 +880,7 @@
 
 3980={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1010,7 +1013,7 @@
 
 3987={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1523,7 +1526,7 @@
 
 4014={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0

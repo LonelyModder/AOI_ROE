@@ -5083,9 +5083,7 @@ country = {
 				3997 4001 4005 4004 4011 4008 4010
 				3986 3988 3991 3987 3992 3996 
 				3969 3970 3983 3984 3985 3993 3994 3995 4007 4009
-				3965 3966 3967 3968 3980 3979 3956
-				3961 3951 3950 3949 3952 3953 3954 3960 3962 3963 3964 3955
-				3946 3958 3959
+				3967 3968 3980 3979 
 			}
 		}
 		
@@ -5163,6 +5161,51 @@ country = {
 			
 			own_control_core = 	{ 
 				3837 3839 3840 3838 3829 3828 3814 3800 3836 3835 3827 3799 
+			}
+		}
+		
+		DBT = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3855
+			
+			own_control_core = 	{ 
+				3855 3856 3862 3863 3859 3854 
+			}
+		}
+		
+		DBU = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3830
+			
+			own_control_core = 	{ 
+				3830 3804 3813 3812 3833
+			}
+		}
+		
+		DBW = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3826
+			
+			own_control_core = 	{ 
+				3826 3834 3810 3789 3790
+			}
+		}
+		
+		DBY = {          
+			government = tribal_kingdom
+			primary_culture = massaesylic
+			religion = libyan_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				3961 3951 3950 3949 3952 3953 3954 3960 3962 3963 
+				3964 3955 3959 3958 3946 3956 3966 3965
 			}
 		}
 	}

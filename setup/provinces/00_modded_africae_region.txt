@@ -19,7 +19,7 @@
 
 3738={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="psylli"
 	civilization_value=0
@@ -576,7 +576,7 @@
 
 3767={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="macaean"
 	civilization_value=0
@@ -614,7 +614,7 @@
 
 3769={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="lotophage"
 	civilization_value=0
@@ -766,7 +766,7 @@
 
 3783={ 
 	terrain="plains"
-	trade_goods="dye"
+	trade_goods="dates"
 	religion="libyan_pantheon"
 	culture="gyzantianic"
 	civilization_value=0
@@ -880,7 +880,7 @@
 
 3792={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="libyan_pantheon"
 	culture="gyzantianic"
 	civilization_value=0

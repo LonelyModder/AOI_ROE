@@ -558,6 +558,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -634,6 +637,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -1115,6 +1121,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
 	freemen={
 		amount=1
 	}	
@@ -2087,7 +2096,7 @@
 
 3906={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
@@ -2315,7 +2324,7 @@
 
 3918={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="massylic"
 	civilization_value=0
