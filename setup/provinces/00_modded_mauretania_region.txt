@@ -1,6 +1,6 @@
 ﻿3932={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 3933={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 3934={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 3935={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -95,7 +95,7 @@
 
 3937={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -114,7 +114,7 @@
 
 3938={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -133,7 +133,7 @@
 
 3939={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -152,7 +152,7 @@
 
 3940={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -171,7 +171,7 @@
 
 3941={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -190,7 +190,7 @@
 
 3942={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -209,7 +209,7 @@
 
 3943={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -228,7 +228,7 @@
 
 3944={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -247,7 +247,7 @@
 
 3945={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -402,7 +402,7 @@
 
 3953={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -424,7 +424,7 @@
 
 3954={ 
 	terrain="hills"
-	trade_goods="fiah"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -538,7 +538,7 @@
 
 3960={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -557,7 +557,7 @@
 
 3961={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="vegetables"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -576,7 +576,7 @@
 
 3962={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fur"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -633,7 +633,7 @@
 
 3965={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -671,7 +671,7 @@
 
 3967={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -690,7 +690,7 @@
 
 3968={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -709,7 +709,7 @@
 
 3969={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -728,7 +728,7 @@
 
 3970={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -747,7 +747,7 @@
 
 3971={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="abannaean"
 	civilization_value=0
@@ -766,7 +766,7 @@
 
 3972={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="libyan_pantheon"
 	culture="abannaean"
 	civilization_value=0
@@ -785,7 +785,7 @@
 
 3973={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="abannaean"
 	civilization_value=0
@@ -804,7 +804,7 @@
 
 3974={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="abannaean"
 	civilization_value=0
@@ -899,7 +899,7 @@
 
 3981={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -937,7 +937,7 @@
 
 3983={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1051,7 +1051,7 @@
 
 3989={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1070,7 +1070,7 @@
 
 3990={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1203,7 +1203,7 @@
 
 3997={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1222,7 +1222,7 @@
 
 3998={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1241,7 +1241,7 @@
 
 3999={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1374,7 +1374,7 @@
 
 4006={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1412,7 +1412,7 @@
 
 4008={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1469,7 +1469,7 @@
 
 4011={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1488,7 +1488,7 @@
 
 4012={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1507,7 +1507,7 @@
 
 4013={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="base_metals"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1545,7 +1545,7 @@
 
 4015={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wine"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1567,7 +1567,7 @@
 
 4016={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0
@@ -1605,7 +1605,7 @@
 
 4018={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="libyan_pantheon"
 	culture="massaesylic"
 	civilization_value=0

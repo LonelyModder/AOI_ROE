@@ -5003,17 +5003,6 @@ country = {
 			}
 		}
 		
-		DBF = {          
-			government = tribal_chiefdom
-			primary_culture = lotophage
-			religion = libyan_pantheon
-			capital = 3763
-			
-			own_control_core = 	{ 
-				3763 3762 3761 3759
-			}
-		}
-		
 		DBG = {          
 			government = tribal_kingdom
 			primary_culture = gyzantianic

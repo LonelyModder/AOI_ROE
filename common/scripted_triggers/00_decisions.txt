@@ -25,6 +25,7 @@ is_tier_2_formable_trigger = {
 		tag = XTH #Thrace
 		tag = XKH #Hittite Empire
 		tag = XBA #Babylon
+		tag = XNU #Numidia
 	}
 }
 

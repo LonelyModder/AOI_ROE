@@ -394,6 +394,17 @@ DAT = {
 
 #Modded Emblems for starting countries
 
+NUMIDIA_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_elephant_02.dds"
+		color1 = "NUMIDIA_COLOR"
+	}
+}
+
 BABYLONIA_FLAG = {
 	pattern = "pattern_solid.tga"
 	color1 = "offwhite"
