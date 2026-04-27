@@ -567,3 +567,13 @@
  babylon_sideevents.5.t:0 "Assyria Backs Off"
  babylon_sideevents.5.desc:0 "Assyrians gave up on the Border region. It's a good news we don't know if we could face them. They surely have other issues elswhere. We need to use that time to reunite the rest of the country and bolster our defences. They may always come back."
  babylon_sideevents.5.a:0 "And I'm certain they will one day."
+ #Carthage
+ carthage_01_africa_1.1.t:0 "Carthaginian Trade"
+ carthage_01_africa_1.1.desc:0 "Thanks to the strategic location and competent leadership Carthage quickly outgrew all other neighbouring colonies becoming the biggest regional power. The New City as it's name is translated chose the trade as it's main source of income utilizing the trade route from Levant to Iberia."
+ carthage_01_africa_1.1.a:0 "And trade will bring new colonists."
+ carthage_01_africa_1.2.t:0 "Carthage Grows"
+ carthage_01_africa_1.2.desc:0 "Hearing about the rise of a new Canaanite power in the west the phoenicians begin migration to the region. New Colonists will definately tip the local balance of power to our favor. Among the new citizens we also have the local berbers moving into Carthage seeking better life."
+ carthage_01_africa_1.2.a:0 "Let's welcome all of them!"
+ carthage_01_africa_1.3.t:0 "Utica Captured!"
+ carthage_01_africa_1.3.desc:0 ""
+ carthage_01_africa_1.3.a:0 ""

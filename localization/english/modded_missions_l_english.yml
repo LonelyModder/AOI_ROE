@@ -173,5 +173,7 @@
  carthage_01_africa_CRITERIA_DESCRIPTION:0 "Follow the path of Carthaginian traders and armies and take control over important trade routes from eastern mediterrainean to Spain. Conquer the region in the name of Ba'al Hammon."
  carthage_01_africa_BUTTON_TOOLTIP:0 "Follow the path of Carthaginian traders and armies and take control over important trade routes from eastern mediterrainean to Spain. Conquer the region in the name of Ba'al Hammon."
  #Missions
- carthage_01_africa_1:0 "New Home"
- carthage_01_africa_1_DESC:2 ""
+ carthage_01_africa_1:0 "Carthaginian Trade"
+ carthage_01_africa_1_DESC:2 "Thanks to the strategic location and competent leadership Carthage quickly outgrew all other neighbouring colonies becoming the biggest regional power. The New City as it's name is translated chose the trade as it's main source of income utilizing the trade route from Levant to Iberia."
+ carthage_01_africa_2:0 "Neighborly Rivalry"
+ carthage_01_africa_2_DESC:2 "Utica is one of if not the oldest phoenician colony so it's not surprising that on every opportunity Uticans try to assert dominance over the other colonies. Carthage is however bit bigger and richer than Utica so it naturally over time became a rival. The winner of this confrontation will be able to unite the phoenicians of the west so the reward will be worth the effort. "

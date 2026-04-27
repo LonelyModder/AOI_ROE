@@ -14,7 +14,6 @@
 		NOT = { has_variable = carthage_01_africa }
 		primary_culture = punici
 		tag=DAT
-		is_monarchy = yes
 		is_subject = no
 		has_civil_war = no
 		NOT = { has_global_variable = carthage_fail }
@@ -61,13 +60,18 @@
     }
 	
 	
-	carthage_01_africa_1 = { # New Home
+	carthage_01_africa_1 = { # Carthaginian Trade
 		requires = {  }
 		icon = task_conquest
-		#duration = 30
+		duration = 30
 		
 		allow = {
-			
+			p:3823 = {
+                 AND = {
+                    owned_or_subject_owned = root
+                    has_building = commerce_building
+                }
+            }
 		}
 		
 		highlight = {
@@ -75,11 +79,33 @@
 		}
 		
 		on_start = {
-			
+			trigger_event = { id = carthage_01_africa_1.1 }
 		}
 		
 		on_completion = {
-			trigger_event = { id = carthage_01_africa_1.1 }
+			trigger_event = { id = carthage_01_africa_1.2 }
+		}
+	}
+	
+	carthage_01_africa_2 = { # Neighborly Rivalry
+		requires = {  }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			owns = 3824
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			trigger_event = { id = carthage_01_africa_1.3 }
+		}
+		
+		on_completion = {
+			#Subjugation of other colonies
 		}
 	}
 	
@@ -89,23 +115,15 @@
 		#duration = 30
 		
 		allow = { #Change to Important Capitals!
-			owns_or_subject_owns = 2414 # Jerusalem
-			owns_or_subject_owns = 2359 # Damascus
-			owns_or_subject_owns = 2333 # Arpad
-			owns_or_subject_owns = 2340 # Hamath
-			owns_or_subject_owns = 2432 # Samaria
-			owns_or_subject_owns = 3401 # Babylon
+			owns_or_subject_owns = 3823 # Carthago
+			owns_or_subject_owns = 3824 # Utica 
 		}
 		
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 2414 # Jerusalem
-					province_id = 2359 # Damascus
-					province_id = 2333 # Arpad
-					province_id = 2340 # Hamath
-					province_id = 2432 # Samaria
-					province_id = 3401 # Babylon
+					province_id = 3823 # Carthago
+					province_id = 3824 # Utica
 				}
 			}
 		}

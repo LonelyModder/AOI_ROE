@@ -15,3 +15,53 @@ carthage_01_africa_1.1 = {
 		name = "carthage_01_africa_1.1.a"
 	}
 }
+
+carthage_01_africa_1.2 = {  
+	type = country_event
+	title = "carthage_01_africa_1.2.t"
+	desc = "carthage_01_africa_1.2.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.2.a"
+		p:3823 = {
+			while = {
+                count = 6
+                define_pop = {
+					type = freemen
+					culture = punici
+					religion = canaanitic_pantheon
+                }
+            }
+			while = {
+                count = 4
+                define_pop = {
+					type = tribesmen
+					culture = massylic
+					religion = libyan_pantheon
+                }
+            }
+		}
+	}
+}
+
+carthage_01_africa_1.3 = {  
+	type = country_event
+	title = "carthage_01_africa_1.3.t"
+	desc = "carthage_01_africa_1.3.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.3.a"
+	}
+}
