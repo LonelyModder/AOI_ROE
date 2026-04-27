@@ -166,3 +166,12 @@
  lydia_01_anatolia_7_DESC:2 "It were ultimately the scythians who forced the Cymmerians to arrive here the first time so after a heated debate idea was proposed to fight nomads with nomads and invite the Scythians into Anatolia."
  lydia_01_anatolia_99:0 "Lords of Asia"
  lydia_01_anatolia_99_DESC:2 "We have survived the Cymmerian Invasions and used the oportunity to expand our dominion throuthout the western Anatolia. We are also the most powerfull regional player with booming economy. One day all will call us the Kings of the world!"
+ #Carthaginian mission tree 1
+ #Starter
+ carthage_01_africa:0 "New City"
+ carthage_01_africa_DESCRIPTION:0 "Founded barely century ago Tyrian colony in Carthage was meant to serve as an important stop on a vital trade route from Levant to Spain. Because of it's location city grew in size, importance and it's leaders began to have thair own ambitions for the western mediterrainean region."
+ carthage_01_africa_CRITERIA_DESCRIPTION:0 "Follow the path of Carthaginian traders and armies and take control over important trade routes from eastern mediterrainean to Spain. Conquer the region in the name of Ba'al Hammon."
+ carthage_01_africa_BUTTON_TOOLTIP:0 "Follow the path of Carthaginian traders and armies and take control over important trade routes from eastern mediterrainean to Spain. Conquer the region in the name of Ba'al Hammon."
+ #Missions
+ carthage_01_africa_1:0 "New Home"
+ carthage_01_africa_1_DESC:2 ""

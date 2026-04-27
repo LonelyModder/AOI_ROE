@@ -341,6 +341,27 @@ treasure_manager = {
 				local_research_points_modifier = 0.15
 			}
 		}
+		48 = { # Bida
+			key = "treasure_stoneofsinifere"
+			icon = "treasure_sarcophagus"
+			state_modifier = {
+				local_tribesmen_output = 0.15
+			}
+		}
+		49 = { # Carthage
+			key = "treasure_lionheadedtanit"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_base_trade_routes_modifier = 0.1
+			}
+		}
+		50 = { # Thinissut
+			key = "treasure_stelaebaalhammon"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_monthly_food_modifier = 0.1
+			}
+		}
     }
 }
 family={
@@ -588,6 +609,15 @@ diplomacy = {
 
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
+	3818 = { # Thinissut
+		treasure_slots = { 	treasures = { 50 } }
+	}
+	3823 = { # Carthage
+		treasure_slots = { 	treasures = { 49 } }
+	}
+	3951 = { # Bida
+		treasure_slots = { 	treasures = { 48 } }
+	}
 	1981 = { # Tanis
 		treasure_slots = { 	treasures = { 30 } }
 	}

@@ -1,0 +1,17 @@
+﻿namespace = carthage_01_africa_1
+
+carthage_01_africa_1.1 = {  
+	type = country_event
+	title = "carthage_01_africa_1.1.t"
+	desc = "carthage_01_africa_1.1.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.1.a"
+	}
+}

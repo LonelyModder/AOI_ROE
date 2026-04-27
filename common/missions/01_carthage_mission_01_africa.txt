@@ -1,0 +1,126 @@
+﻿carthage_01_africa = { # New City
+	icon = carthage_01_africa
+	header = mission_image_rome #mission_image_phrygia
+	
+	repeatable = no
+
+    chance = {
+		factor = 10
+	}
+	
+	ai_chance = { factor = 10 }
+
+	potential = { 
+		NOT = { has_variable = carthage_01_africa }
+		primary_culture = punici
+		tag=DAT
+		is_monarchy = yes
+		is_subject = no
+		has_civil_war = no
+		NOT = { has_global_variable = carthage_fail }
+	}
+	
+	abort = {	
+		OR = {
+			NOT = { primary_culture = punici }
+			custom_tooltip = {
+				text = carthage_01_africa_abort_tt
+				has_global_variable = carthage_fail
+			}
+			ai_mission_back_out_trigger = yes
+		}
+	}
+	
+	on_start = {
+    	start_mission_ai_effect = yes
+    	save_scope_as = me_carthage_scope
+		add_country_modifier = {
+	        name = carthage_1_starts
+	        duration = 3650 # 10 years
+	    }
+    }
+	
+	on_abort = {
+    	custom_tooltip = ant_1_mission_cooldown_tt
+    	if = {
+	    	limit = { has_country_modifier = carthage_1_starts }
+    		remove_country_modifier = carthage_1_starts
+	    }
+		set_variable = {
+			name =carthage_01_africa
+			days = 7300
+		}
+    }
+	
+	on_completion = {
+		add_country_modifier = {
+    		name = carthage_1_victory
+    		duration = 7300 # 20 years
+    	}
+    	complete_mission_effect = yes 
+    }
+	
+	
+	carthage_01_africa_1 = { # New Home
+		requires = {  }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = carthage_01_africa_1.1 }
+		}
+	}
+	
+	carthage_01_africa_99 = { # Rulers of Africa
+		requires = {  } 
+		icon = task_conquest
+		#duration = 30
+		
+		allow = { #Change to Important Capitals!
+			owns_or_subject_owns = 2414 # Jerusalem
+			owns_or_subject_owns = 2359 # Damascus
+			owns_or_subject_owns = 2333 # Arpad
+			owns_or_subject_owns = 2340 # Hamath
+			owns_or_subject_owns = 2432 # Samaria
+			owns_or_subject_owns = 3401 # Babylon
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2414 # Jerusalem
+					province_id = 2359 # Damascus
+					province_id = 2333 # Arpad
+					province_id = 2340 # Hamath
+					province_id = 2432 # Samaria
+					province_id = 3401 # Babylon
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = carthage_01_africa_beaten
+			}
+		}
+		final = yes 
+	}
+	
+}
+	
