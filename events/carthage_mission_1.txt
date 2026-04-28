@@ -63,5 +63,104 @@ carthage_01_africa_1.3 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.3.a"
+		set_global_variable = {
+			name = carthaginian_claims
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.4 
+		}
+	}
+}
+
+carthage_01_africa_1.4 = {  
+	type = country_event
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		primary_culture = punici
+		has_global_variable = carthaginian_claims
+	}
+	
+	immediate = { 
+		every_owned_province = {
+			add_claim = c:DAT
+		}
+	}
+}
+
+carthage_01_africa_1.5 = {  
+	type = country_event
+	title = "carthage_01_africa_1.5.t"
+	desc = "carthage_01_africa_1.5.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.5.a"
+		set_global_variable = {
+			name = carthage_as_new_leader
+		}
+		trigger_event = { 
+			id = lydia_01_anatolia_1.6
+			days = 30
+		}
+	}
+}
+
+carthage_01_africa_1.6 = {  
+	type = country_event
+	title = "carthage_01_africa_1.6.t"
+	desc = "carthage_01_africa_1.6.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		primary_culture = punici
+		has_global_variable = carthage_as_new_leader
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.6.a"
+		every_owned_province = {
+			set_conquered_by = c:DAT
+		}
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.6.b"
+		c:DAT = {
+             make_subject = {
+                type = feudatory
+                target = root
+            }
+        }
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.6.c"
+	}
+}
+
+carthage_01_africa_1.7 = {  
+	type = country_event
+	title = "carthage_01_africa_1.7.t"
+	desc = "carthage_01_africa_1.7.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.7.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 	}
 }

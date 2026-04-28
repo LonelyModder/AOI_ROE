@@ -248,7 +248,7 @@ bloodlines_startup.9 = { #Kuzite
 
 }
 
-bloodlines_startup.10 = { #Kuzite
+bloodlines_startup.10 = { #Midaian
 
 	type = country_event
 	hidden = yes

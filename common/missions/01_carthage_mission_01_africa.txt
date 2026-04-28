@@ -90,6 +90,28 @@
 	carthage_01_africa_2 = { # Neighborly Rivalry
 		requires = {  }
 		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			owns = 3824
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = carthage_01_africa_1.3 }
+		}
+	}
+	
+	carthage_01_africa_3 = { # New Leadership
+		requires = { carthage_01_africa_2 }
+		icon = task_conquest
 		duration = 30
 		
 		allow = {
@@ -101,11 +123,55 @@
 		}
 		
 		on_start = {
-			trigger_event = { id = carthage_01_africa_1.3 }
+			trigger_event = { id = carthage_01_africa_1.5 }
 		}
 		
 		on_completion = {
-			#Subjugation of other colonies
+			#trigger_event = { id = carthage_01_africa_1.6 }
+		}
+	}
+	
+	carthage_01_africa_4 = { # Kings of Carthage ToDo
+		requires = { carthage_01_africa_3 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			owns = 3824 #Sicily
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.7 } #?
+		}
+		
+		on_completion = {
+			#trigger_event = { id = carthage_01_africa_1.6 }
+		}
+	}
+	
+	carthage_01_africa_5 = { # Colonies of our Own
+		requires = { carthage_01_africa_1 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			#trigger_event = { id = carthage_01_africa_1.6 }
 		}
 	}
 	
