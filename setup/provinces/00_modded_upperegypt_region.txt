@@ -132,7 +132,7 @@
 }
 
 2038={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
@@ -387,7 +387,7 @@
 }
 
 2048={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
@@ -406,7 +406,7 @@
 }
 
 2049={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"
@@ -476,7 +476,7 @@
 }
 
 2052={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="grain"
 	religion="kemetic_pantheon"
 	culture="upper_kemetic"

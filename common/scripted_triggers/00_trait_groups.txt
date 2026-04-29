@@ -200,5 +200,6 @@ has_bloodline_trigger = {
 		has_trait = davidid
 		has_trait = kuzite
 		has_trait = midaian
+		has_trait = magonid
 	}
 }

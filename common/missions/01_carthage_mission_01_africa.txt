@@ -131,13 +131,13 @@
 		}
 	}
 	
-	carthage_01_africa_4 = { # Kings of Carthage ToDo
+	carthage_01_africa_4 = { # Kings of Carthage 
 		requires = { carthage_01_africa_3 }
 		icon = task_conquest
 		#duration = 30
 		
 		allow = {
-			owns = 3824 #Sicily
+			owns = 50 #Motya
 		}
 		
 		highlight = {
@@ -145,11 +145,11 @@
 		}
 		
 		on_start = {
-			#trigger_event = { id = carthage_01_africa_1.7 } #?
+			#trigger_event = { id = carthage_01_africa_1.8 }
 		}
 		
 		on_completion = {
-			#trigger_event = { id = carthage_01_africa_1.6 }
+			trigger_event = { id = carthage_01_africa_1.8 }
 		}
 	}
 	

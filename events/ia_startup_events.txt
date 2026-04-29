@@ -31,19 +31,6 @@ esfa_startup.2 = { #Celtic
 
     option = {    
         name = esfa_startup.2.a
-		c:ABL = {
-			add_country_modifier = {
-				name = lepontic_invasion_modifier
-				duration = 7300 # 20 years
-			}
-			#Claims in Po valley
-			c:AAG = {
-				every_owned_province = {
-					limit = { is_in_region = modded_galliacisalpina_region }
-					add_claim = c:ABL
-				}
-			}
-		}
     }
 }
 

@@ -129,6 +129,7 @@ carthage_01_africa_1.6 = {
 		every_owned_province = {
 			set_conquered_by = c:DAT
 		}
+		ai_chance = { base = 80 }
 	}
 	
 	option = { 
@@ -139,10 +140,12 @@ carthage_01_africa_1.6 = {
                 target = root
             }
         }
+		ai_chance = { base = 10 }
 	}
 	
 	option = { 
 		name = "carthage_01_africa_1.6.c"
+		ai_chance = { base = 10 }
 	}
 }
 
@@ -161,6 +164,37 @@ carthage_01_africa_1.7 = {
 		name = "carthage_01_africa_1.7.a"
 		set_global_variable = {
 			name = carthage_our_own_colonies
+		}
+	}
+}
+
+carthage_01_africa_1.8 = {  
+	type = country_event
+	title = "carthage_01_africa_1.8.t"
+	desc = "carthage_01_africa_1.8.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.8.a"
+		create_character = {
+			first_name = "Hanno"
+			family_name = "Magonid"
+			no_stats = yes
+			culture = punici
+			religion = canaanitic_pantheon
+			age = 23
+			avarage_martial_effect = yes
+			good_charisma_effect = yes
+			good_finesse_effect = yes
+			avarage_zeal_effect = yes
+			add_gold=500
+			add_trait=magonid
+			save_scope_as = hanno_gov
 		}
 	}
 }

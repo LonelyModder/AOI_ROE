@@ -20,6 +20,7 @@ character_events.35 = {
 						has_trait = davidid
 						has_trait = kuzite
 						has_trait = midaian
+						has_trait = magonid
 					}
 				}
 			}
@@ -132,6 +133,17 @@ character_events.35 = {
 					}
 				}
 				add_trait = midaian
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = magonid
+					}
+					NOT = {
+						has_trait = magonid
+					}
+				}
+				add_trait = magonid
 			}
 		}
 		if = {
@@ -253,6 +265,18 @@ character_events.35 = {
 				}
 			}
 			add_trait = midaian	
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = magonid
+				}
+				NOT = {
+					has_trait = magonid
+				}
+			}
+			add_trait = magonid	
 		}
 	}
 }

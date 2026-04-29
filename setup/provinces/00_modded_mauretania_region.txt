@@ -1089,7 +1089,7 @@
 }
 
 3991={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="grain"
 	religion="libyan_pantheon"
 	culture="massaesylic"
@@ -1184,7 +1184,7 @@
 }
 
 3996={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="grain"
 	religion="libyan_pantheon"
 	culture="massaesylic"
