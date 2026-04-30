@@ -24,7 +24,7 @@
 		}
 		
 		allow = {
-			NOT = { owns = 3754 } 
+			NOT = {has_global_variable = Oea_colonisation_started}
 		}
 		
 		

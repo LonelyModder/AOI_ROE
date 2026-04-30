@@ -175,14 +175,17 @@
 		}
 	}
 	
-	carthage_01_africa_99 = { # Rulers of Africa
-		requires = {  } 
+	carthage_01_africa_99 = { # Masters of the Western
+		requires = { carthage_01_africa_4 carthage_01_africa_5 } 
 		icon = task_conquest
 		#duration = 30
 		
 		allow = { #Change to Important Capitals!
-			owns_or_subject_owns = 3823 # Carthago
+			owns = 3823 # Carthago
 			owns_or_subject_owns = 3824 # Utica 
+			owns_or_subject_owns = 3751 # Leptis
+			owns_or_subject_owns = 3756 # Sabratha
+			owns_or_subject_owns = 3816 # Hydrumentum
 		}
 		
 		highlight = {
@@ -190,6 +193,9 @@
 				OR = {
 					province_id = 3823 # Carthago
 					province_id = 3824 # Utica
+					province_id = 3751 # Leptis
+					province_id = 3756 # Sabratha
+					province_id = 3816 # Hydrumentum
 				}
 			}
 		}

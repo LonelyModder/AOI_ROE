@@ -187,11 +187,11 @@ carthage_01_africa_1.8 = {
 			no_stats = yes
 			culture = punici
 			religion = canaanitic_pantheon
-			age = 23
-			avarage_martial_effect = yes
+			age = 40
+			average_martial_effect = yes
 			good_charisma_effect = yes
 			good_finesse_effect = yes
-			avarage_zeal_effect = yes
+			average_zeal_effect = yes
 			add_gold=500
 			add_trait=magonid
 			save_scope_as = hanno_gov
@@ -204,14 +204,45 @@ carthage_01_africa_1.8 = {
 			no_stats = yes
 			culture = punici
 			religion = canaanitic_pantheon
-			age = 23
-			avarage_martial_effect = yes
+			age = 38
+			average_martial_effect = yes
 			good_charisma_effect = yes
 			good_finesse_effect = yes
-			avarage_zeal_effect = yes
+			average_zeal_effect = yes
 			add_gold=500
 			add_trait=magonid
+			save_scope_as = arishat_gov
 			marry_character=scope:hanno_gov
+		}
+		
+		create_character = {
+			first_name = "Hasdrubal"
+			family_name = "Magonid"
+			no_stats = yes
+			culture = punici
+			religion = canaanitic_pantheon
+			age = 16
+			average_martial_effect = yes
+			good_charisma_effect = yes
+			good_finesse_effect = yes
+			average_zeal_effect = yes
+			add_gold=500
+			add_trait=magonid
+		}
+		
+		create_character = {
+			first_name = "Hannibal"
+			family_name = "Magonid"
+			no_stats = yes
+			culture = punici
+			religion = canaanitic_pantheon
+			age = 16
+			average_martial_effect = yes
+			good_charisma_effect = yes
+			good_finesse_effect = yes
+			average_zeal_effect = yes
+			add_gold=500
+			add_trait=magonid
 		}
 	}
 }
@@ -226,6 +257,9 @@ carthage_01_africa_1.9 = {
 	}
 	
 	immediate = { 
+		set_global_variable = {
+			name = Oea_colonisation_started
+		}
 		if = {
 			limit = {
 				p:3754.owner = {
@@ -252,5 +286,107 @@ carthage_01_africa_1.9 = {
 			}
 		}
 		
+	}
+}
+
+carthage_01_africa_1.10 = {  
+	type = country_event
+	title = "carthage_01_africa_1.10.t"
+	desc = "carthage_01_africa_1.10.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.10.a"
+		add_manpower = -1
+		add_treasury = -50
+		p:3754 = {
+			set_conquered_by = c:DAT
+			establish_city_effect = yes
+			while = {
+                count = 1
+                define_pop = {
+					type = citizen
+					culture = punici
+					religion = canaanitic_pantheon
+                }
+            }
+			while = {
+                count = 3
+                define_pop = {
+					type = freemen
+					culture = punici
+					religion = canaanitic_pantheon
+                }
+            }
+			while = {
+                count = 1
+                define_pop = {
+					type = slaves
+					culture = punici
+					religion = canaanitic_pantheon
+                }
+            }
+			if = {
+				limit = {
+					num_of_port_building < 1
+				}
+				add_building_level = port_building
+			}
+			colonize_effect = yes
+		}
+	}
+}
+
+carthage_01_africa_1.11 = {  
+	type = country_event
+	title = "carthage_01_africa_1.11.t"
+	desc = "carthage_01_africa_1.11.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=p:3754.owner
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.11.a"
+		add_treasury = -100
+		trigger_event = { 
+			id = carthage_01_africa_1.10
+			days = 30
+		}
+		ai_chance = { base = 80 }
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.11.b"
+		trigger_event = { 
+			id = carthage_01_africa_1.12
+		}
+		ai_chance = { base = 20 }
+	}
+}
+
+carthage_01_africa_1.12 = {  
+	type = country_event
+	title = "carthage_01_africa_1.12.t"
+	desc = "carthage_01_africa_1.12.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.12.a"
+		p:3754 = {
+			add_claim = c:DAT
+		}
 	}
 }
