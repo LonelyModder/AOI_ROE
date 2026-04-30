@@ -1,0 +1,43 @@
+﻿country_decisions = {
+	
+	# Colonize Oea
+	colonize_oea = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			p:3754.owner = {
+				OR = {
+					is_tribal = yes
+					exists = no
+					tag = DAT
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3754 # Oea
+			}
+		}
+		
+		allow = {
+			NOT = { owns = 3754 } 
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.9
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

@@ -67,7 +67,7 @@ carthage_01_africa_1.3 = {
 			name = carthaginian_claims
 		}
 		trigger_event = { 
-			id = lydia_01_anatolia_1.4 
+			id = carthage_01_africa_1.4 
 		}
 	}
 }
@@ -106,7 +106,7 @@ carthage_01_africa_1.5 = {
 			name = carthage_as_new_leader
 		}
 		trigger_event = { 
-			id = lydia_01_anatolia_1.6
+			id = carthage_01_africa_1.6
 			days = 30
 		}
 	}
@@ -196,5 +196,61 @@ carthage_01_africa_1.8 = {
 			add_trait=magonid
 			save_scope_as = hanno_gov
 		}
+		
+		create_character = {
+			first_name = "Arishat"
+			family_name = "Magonid"
+			female = yes
+			no_stats = yes
+			culture = punici
+			religion = canaanitic_pantheon
+			age = 23
+			avarage_martial_effect = yes
+			good_charisma_effect = yes
+			good_finesse_effect = yes
+			avarage_zeal_effect = yes
+			add_gold=500
+			add_trait=magonid
+			marry_character=scope:hanno_gov
+		}
+	}
+}
+
+carthage_01_africa_1.9 = {  
+	type = country_event
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	immediate = { 
+		if = {
+			limit = {
+				p:3754.owner = {
+					OR = {
+						exists = no
+						tag = DAT
+					}
+				}
+			}
+			trigger_event = { 
+				id = carthage_01_africa_1.10 #Create Oea
+				days = 30
+			}
+		}
+		else_if = {
+			limit = {
+				p:3754.owner = {
+					is_tribal = yes
+				}
+			}
+			trigger_event = { 
+				id = carthage_01_africa_1.11 #Negotiate Oea
+				days = 30
+			}
+		}
+		
 	}
 }
