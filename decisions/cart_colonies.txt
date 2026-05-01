@@ -29,7 +29,8 @@
 		
 		allow = {
 			NOT = { has_global_variable = Oea_colonisation_started }
-			
+			treasury > 150
+			manpower >= 1
 		}
 		
 		
