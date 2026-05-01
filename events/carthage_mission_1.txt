@@ -262,10 +262,12 @@ carthage_01_africa_1.9 = {
 		}
 		if = {
 			limit = {
-				p:3754.owner = {
-					OR = {
-						exists = no
+				OR = {
+					p:3754.owner = {
 						tag = DAT
+					}
+					p:3754 = {
+						has_owner = no
 					}
 				}
 			}

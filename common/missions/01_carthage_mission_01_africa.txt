@@ -167,11 +167,11 @@
 		}
 		
 		on_start = {
-			trigger_event = { id = carthage_01_africa_1.7 }
+			#trigger_event = { id = carthage_01_africa_1.7 }
 		}
 		
 		on_completion = {
-			#trigger_event = { id = carthage_01_africa_1.6 }
+			trigger_event = { id = carthage_01_africa_1.7 }
 		}
 	}
 	

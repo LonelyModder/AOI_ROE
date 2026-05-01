@@ -8,11 +8,15 @@
 			tag = DAT
 			country_culture_group = levantine
 			has_global_variable = carthage_our_own_colonies
-			p:3754.owner = {
-				OR = {
-					is_tribal = yes
-					exists = no
-					tag = DAT
+			OR = {
+				p:3754.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3754 = {
+					has_owner = no
 				}
 			}
 		}
@@ -24,7 +28,8 @@
 		}
 		
 		allow = {
-			NOT = {has_global_variable = Oea_colonisation_started}
+			NOT = { has_global_variable = Oea_colonisation_started }
+			
 		}
 		
 		
