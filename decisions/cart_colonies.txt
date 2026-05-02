@@ -8,6 +8,7 @@
 			tag = DAT
 			country_culture_group = levantine
 			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Oea_colonisation_started }
 			OR = {
 				p:3754.owner = {
 					OR = {
@@ -28,8 +29,7 @@
 		}
 		
 		allow = {
-			NOT = { has_global_variable = Oea_colonisation_started }
-			treasury > 150
+			treasury > 75
 			manpower >= 1
 		}
 		
@@ -37,6 +37,328 @@
 		effect = {
 			trigger_event = { 
 				id = carthage_01_africa_1.9
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Sabratha
+	colonize_sabratha = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Sabratha_colonisation_started }
+			OR = {
+				p:3756.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3756 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3756 # Sabratha
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.13
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Leptis
+	colonize_leptis = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Leptis_colonisation_started }
+			OR = {
+				p:3751.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3751 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3751 # Leptis
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.17
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Tacapae
+	colonize_tacapae = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Tacapae_colonisation_started }
+			OR = {
+				p:3777.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3777 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3777 # Tacapae
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.21
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Meninx
+	colonize_meninx = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Meninx_colonisation_started }
+			OR = {
+				p:3760.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3760 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3760 # Meninx
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.25
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Thapsus
+	colonize_thapsus = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Thapsus_colonisation_started }
+			OR = {
+				p:3815.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3815 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3815 # Thapsus
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.29
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Diarrhytus
+	colonize_diarrhytus = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Diarrhytus_colonisation_started }
+			OR = {
+				p:3825.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3825 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3825 # Diarrhytus
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.33
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Regius
+	colonize_regius = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Regius_colonisation_started }
+			OR = {
+				p:3914.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3914 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3914 # Regius
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.37
 				days = 30
 			}
 		}

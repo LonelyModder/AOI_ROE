@@ -175,8 +175,30 @@
 		}
 	}
 	
+	carthage_01_africa_6 = { # The Numidians
+		requires = { carthage_01_africa_1 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			#trigger_event = { id = carthage_01_africa_1.7 }
+		}
+	}
+	
 	carthage_01_africa_99 = { # Masters of the Western
-		requires = { carthage_01_africa_4 carthage_01_africa_5 } 
+		requires = { carthage_01_africa_4 carthage_01_africa_6 } 
 		icon = task_conquest
 		#duration = 30
 		
