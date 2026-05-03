@@ -2194,3 +2194,69 @@ carthage_01_africa_1.61 = {
 		}
 	}
 }
+
+carthage_01_africa_1.62 = {  
+	type = country_event
+	title = "carthage_01_africa_1.62.t"
+	desc = "carthage_01_africa_1.62.desc"
+	#fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+		has_global_variable = african_grain
+		random_owned_province = {
+			limit = {
+				has_owner = yes
+				owner = c:DAT
+				NOT = { has_province_modifier = egyptian_fields }
+				OR = {
+					terrain = farmland
+					trade_goods = grain
+				}
+				is_in_region = modded_numidia_region
+			}
+		}
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.62.a"
+		random_owned_province = {
+			limit = {
+				has_owner = yes
+				owner = c:DAT
+				NOT = { has_province_modifier = egyptian_fields }
+				OR = {
+					terrain = farmland
+					trade_goods = grain
+				}
+				is_in_region = modded_numidia_region
+			}
+			add_province_modifier = {
+                name = african_fields
+            }
+		}
+		add_manpower = -0.25
+		add_treasury = -5
+	}
+}
+
+carthage_01_africa_1.63 = {  
+	type = country_event
+	title = "carthage_01_africa_1.63.t"
+	desc = "carthage_01_africa_1.63.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.63.a"
+		area:caralis_area = { formable_area_province_effect = yes }
+		area:sulci_area = { formable_area_province_effect = yes }
+		area:turris_area = { formable_area_province_effect = yes }
+		area:olbia_area = { formable_area_province_effect = yes }
+	}
+}

@@ -204,8 +204,67 @@
 		}
 	}
 	
-	carthage_01_africa_99 = { # Masters of the Western
-		requires = { carthage_01_africa_4 carthage_01_africa_6 } 
+	carthage_01_africa_7 = { # African Grain
+		requires = { carthage_01_africa_6 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 20
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			#trigger_event = { id = carthage_01_africa_1.62 }
+			set_global_variable = {
+				name = african_grain
+			}
+		}
+	}
+	
+	carthage_01_africa_8 = { # Sardinian Expedition
+		requires = { carthage_01_africa_4 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 20
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			trigger_event = { id = carthage_01_africa_1.63 }
+		}
+	}
+	
+	carthage_01_africa_99 = { # Masters of the West
+		requires = { carthage_01_africa_8 carthage_01_africa_7 } 
 		icon = task_conquest
 		#duration = 30
 		

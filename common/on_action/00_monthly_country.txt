@@ -98,6 +98,7 @@
 		#Carthage mision Africa
 		carthage_01_africa_1.4
 		carthage_01_africa_1.6
+		carthage_01_africa_1.62
 		#Units
 		units_allowance_events.1
 		#Modded events 
