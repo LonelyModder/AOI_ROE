@@ -368,4 +368,233 @@
 		}
 	}
 	
+	# Colonize Igilgili
+	colonize_igilgili = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Igilgili_colonisation_started }
+			OR = {
+				p:3933.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3933 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3933 # Igilgili
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.41
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Icosium
+	colonize_icosium = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Icosium_colonisation_started }
+			OR = {
+				p:3953.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3953 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3953 # Icosium
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.45
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Ebesus
+	colonize_ebesus = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Ebesus_colonisation_started }
+			OR = {
+				p:3731.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3731 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3731 # Ebesus
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.49
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Iol
+	colonize_iol = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Iol_colonisation_started }
+			OR = {
+				p:3956.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:3956 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3956 # Iol
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.53
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+	# Colonize Russadir
+	colonize_russadir = {
+		
+		potential = {
+			num_of_cities >= 1
+			tag = DAT
+			country_culture_group = levantine
+			has_global_variable = carthage_our_own_colonies
+			NOT = { has_global_variable = Russadir_colonisation_started }
+			OR = {
+				p:4053.owner = {
+					OR = {
+						is_tribal = yes
+						tag = DAT
+					}
+				}
+				p:4053 = {
+					has_owner = no
+				}
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				province_id = 4053 # Russadir
+			}
+		}
+		
+		allow = {
+			treasury > 75
+			manpower >= 1
+		}
+		
+		
+		effect = {
+			trigger_event = { 
+				id = carthage_01_africa_1.57
+				days = 30
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
 }

@@ -181,7 +181,8 @@
 		duration = 30
 		
 		allow = {
-			
+			owns = 3897 # Cirta
+			political_influence > 20
 		}
 		
 		highlight = {
@@ -193,7 +194,13 @@
 		}
 		
 		on_completion = {
-			#trigger_event = { id = carthage_01_africa_1.7 }
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			trigger_event = { id = carthage_01_africa_1.61 }
 		}
 	}
 	
