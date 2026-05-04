@@ -263,6 +263,37 @@
 		}
 	}
 	
+	carthage_01_africa_9 = { # Settling Sardinia
+		requires = { carthage_01_africa_8 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 20
+			treasury > 50
+			owns = 88
+			owns = 75
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			trigger_event = { id = carthage_01_africa_1.64 }
+		}
+	}
+	
 	carthage_01_africa_99 = { # Masters of the West
 		requires = { carthage_01_africa_8 carthage_01_africa_7 } 
 		icon = task_conquest
@@ -274,6 +305,14 @@
 			owns_or_subject_owns = 3751 # Leptis
 			owns_or_subject_owns = 3756 # Sabratha
 			owns_or_subject_owns = 3816 # Hydrumentum
+			owns_or_subject_owns = 4053 # Russadir
+			owns_or_subject_owns = 3956 # Iol
+			owns_or_subject_owns = 3731 # Ebesus
+			owns_or_subject_owns = 4080 # Tingis
+			owns_or_subject_owns = 3754 # Oea
+			owns_or_subject_owns = 53 # Caralis
+			owns_or_subject_owns = 50 # Motya
+			owns_or_subject_owns = 3933 # Igilgili
 		}
 		
 		highlight = {
@@ -284,6 +323,14 @@
 					province_id = 3751 # Leptis
 					province_id = 3756 # Sabratha
 					province_id = 3816 # Hydrumentum
+					province_id = 4053 # Russadir
+					province_id = 3956 # Iol
+					province_id = 3731 # Ebesus
+					province_id = 4080 # Tingis
+					province_id = 3754 # Oea
+					province_id = 53 # Caralis
+					province_id = 50 # Motya
+					province_id = 3933 # Igilgili
 				}
 			}
 		}

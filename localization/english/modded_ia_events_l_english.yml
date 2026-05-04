@@ -600,6 +600,9 @@
  carthage_01_africa_1.63.t:0 "Sardinian Expedition"
  carthage_01_africa_1.63.desc:0 "Under the influence of a Magonid family the Carthaginian Authorities decided to strengthen our foothold on Sardinia. The isle has strategic position and maritime culture similar to our own. Control over it will give us unobstructed access to the Thyrrainean Sea and italian coast."
  carthage_01_africa_1.63.a:0 "Prepare the navy!"
+ carthage_01_africa_1.63.t:0 "Settling Sardinia"
+ carthage_01_africa_1.63.desc:0 "Because of strategic importance of Sardinia the Carthaginian authorities decided to boost the number of punic settlers on the isle by founding additional colonies. Settlements like Nora and Olbia were chosen because of their strategic importance, especially the latter since it's the biggest harbour on this side of the island."
+ carthage_01_africa_1.63.a:0 "Sardinia will stay Punic!"
  #Carthage - colonies
  #Oea
  carthage_01_africa_1.10.t:0 "Founding of Oea"
