@@ -1110,7 +1110,7 @@ country = {
 		}
 		
 		AAF = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 53
@@ -1601,7 +1601,7 @@ country = {
 		}
 		
 		ABB = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 50
@@ -4861,7 +4861,7 @@ country = {
 		}
 		
 		DAT = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 3823
@@ -4879,7 +4879,7 @@ country = {
 		}
 		
 		DAU = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 3824
@@ -4897,7 +4897,7 @@ country = {
 		}
 		
 		DAW = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 3816
@@ -4915,7 +4915,7 @@ country = {
 		}
 		
 		DAY = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 4091
@@ -4933,7 +4933,7 @@ country = {
 		}
 		
 		DAZ = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 4103
@@ -4951,7 +4951,7 @@ country = {
 		}
 		
 		DBA = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 44
@@ -4969,7 +4969,7 @@ country = {
 		}
 		
 		DBB = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 26
@@ -4987,7 +4987,7 @@ country = {
 		}
 		
 		DBC = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 76
@@ -5005,7 +5005,7 @@ country = {
 		}
 		
 		DBD = {         
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 80
@@ -5120,7 +5120,7 @@ country = {
 		}
 		
 		DBN = {         
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 4080
