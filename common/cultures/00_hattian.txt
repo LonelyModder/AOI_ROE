@@ -27,20 +27,20 @@
 	culture = {
 		hatti = {}
 		corehatti = {}
-		tarhatti = {}
-		kattakan = {}
-		lydian = {}
-		kylakian = {}
-		lukkan = {}
-		hisauran = {}
-		hhaballan = {}
-		hkatteran = {}
-		hwalman = {}
-		hpisidian = {}
-		hpamphylian = {}
-		hpaphlagonian = {}
-		horoandian = {}
-		hkalasman = {}
+		tarhatti = {levy_template = levy_luwian}
+		kattakan = {levy_template = levy_luwian}
+		lydian = {levy_template = levy_luwian}
+		kylakian = {levy_template = levy_luwian}
+		lukkan = {levy_template = levy_luwian}
+		hisauran = {levy_template = levy_luwian}
+		hhaballan = {levy_template = levy_luwian}
+		hkatteran = {levy_template = levy_luwian}
+		hwalman = {levy_template = levy_luwian}
+		hpisidian = {levy_template = levy_luwian}
+		hpamphylian = {levy_template = levy_luwian}
+		hpaphlagonian = {levy_template = levy_luwian}
+		horoandian = {levy_template = levy_luwian}
+		hkalasman = {levy_template = levy_luwian}
 	}
 	
 	barbarian_names = { AMARDI ANARIACAE AUGASII CASPII CHORASMII CYRTII DAHAE DERBICII ISSEDONES LEGAE MATIANI MASSAGETAE PARNI SACAE SARMATAE SOANES VITII }

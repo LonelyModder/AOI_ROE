@@ -12,82 +12,25 @@
 		}
 		trigger_else_if = {
 			limit = {
-				AND = {
-					OR = {
-						has_military_bonus = nuragian_path_end_bonus
-						has_military_bonus = westsemite_path_end_bonus
-						has_military_bonus = illyrian_path_end_bonus
-						has_military_bonus = grekoid_path_end_bonus
-						has_military_bonus = italian_path_end_bonus
-						has_military_bonus = keltoi_path_end_bonus
-						has_military_bonus = libyan_path_end_bonus
-						has_military_bonus = nubian_path_end_bonus
-						has_military_bonus = thracian_path_end_bonus
-						has_military_bonus = arabian_path_end_bonus
-						has_military_bonus = assyrian_path_end_bonus
-						has_military_bonus = anatolian_path_end_bonus
-						has_military_bonus = nomadic_path_end_bonus
-						has_military_bonus = caucasian_path_end_bonus
-						has_military_bonus = zagrosian_path_end_bonus
-					}
-					any_country_culture = {
-						is_integrated = yes
-						this.culture.culture_group = culture_group:kemetic
-					}
+				any_country_culture = {
+					is_integrated = yes
+					this.culture.culture_group = culture_group:kemetic
 				}
 			}
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				any_country_culture = {
-					custom_tooltip = {
-						text = tradition_unlock_requirement_short
-						is_integrated = yes
-						this.culture.culture_group = culture_group:kemetic
-					}
+			any_country_culture = {
+				custom_tooltip = {
+					text = tradition_unlock_requirement_short
+					is_integrated = yes
+					this.culture.culture_group = culture_group:kemetic
 				}
 			}
 		}
 		trigger_else = {
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				custom_tooltip = {
-					text = "tradition_unlock_requirement_egyptian"
-					any_country_culture = {
-						is_integrated = yes
-						this.culture.culture_group = culture_group:kemetic
-					}
+			custom_tooltip = {
+				text = "tradition_unlock_requirement_egyptian"
+				any_country_culture = {
+					is_integrated = yes
+					this.culture.culture_group = culture_group:kemetic
 				}
 			}
 		}

@@ -11,10 +11,11 @@ levy_default = {
 levy_roughroman = { #latin militia
 	default = no
 
-	ia_heavyinfantry = 0.5
+	ia_heavyinfantry = 0.2
+	ia_lightinfantry = 0.4
 	ia_scirmishers = 0.2
 	ia_lightcavalry = 0.1
-	ia_hoplites = 0.2
+	ia_hoplites = 0.1
 }
 
 #Thyrrenic
@@ -22,17 +23,19 @@ levy_roughroman = { #latin militia
 levy_thyrrenic = { #etruscan militia
 	default = no
 
-	ia_scirmishers = 0.2
-	ia_hoplites = 0.5
+	ia_scirmishers = 0.3
+	ia_hoplites = 0.1
 	ia_lightcavalry = 0.1
-	ia_lightinfantry = 0.2
+	ia_chariots = 0.1
+	ia_lightinfantry = 0.4
 }
 
 levy_raetic = { #etruscan militia
 	default = no
 
 	ia_scirmishers = 0.2
-	ia_warriors = 0.5
+	ia_warriors = 0.4
+	ia_chariots = 0.1
 	ia_lightcavalry = 0.1
 	ia_lightinfantry = 0.2
 }
@@ -42,39 +45,43 @@ levy_raetic = { #etruscan militia
 levy_italic = { #italic militia
 	default = no
 
-	ia_heavyinfantry = 0.4
+	ia_heavyinfantry = 0.1
 	ia_scirmishers = 0.2
 	ia_lightcavalry = 0.1
-	ia_lightinfantry = 0.3
+	ia_lightinfantry = 0.2
+	ia_warriors = 0.4
 }
 
-#Nuragain Vikings
+#Nuragain
 
 levy_preindeur = { #nuragian militia
 	default = no
 
-	ia_warriors = 0.5
+	ia_warriors = 0.4
 	ia_scirmishers = 0.2
+	ia_chariots = 0.1
 	ia_heavyinfantry = 0.1
 	ia_lightinfantry = 0.2
 }
 
-#Punic Demons
+#Punic
 
 levy_mpunic = { #eastern punics
 	default = no
 
 	ia_lightinfantry = 0.4
 	ia_archers = 0.2
+	ia_chariots = 0.1
 	ia_scirmishers = 0.2
-	ia_lightcavalry = 0.2
+	ia_lightcavalry = 0.1
 }
 
 levy_cpunic = { #western punics
 	default = no
 
-	ia_lightinfantry = 0.5
-	ia_archers = 0.2
+	ia_lightinfantry = 0.4
+	ia_archers = 0.1
+	ia_scirmishers = 0.2
 	ia_elephants = 0.1
 	ia_lightcavalry = 0.2
 }
@@ -84,10 +91,11 @@ levy_cpunic = { #western punics
 levy_virgingrekoids = { #greek militia
 	default = no
 
-	ia_lightinfantry = 0.3
-	ia_scirmishers = 0.1
-	ia_heavycavalry = 0.1
-	ia_hoplites = 0.4
+	ia_lightinfantry = 0.4
+	ia_scirmishers = 0.2
+	ia_archers = 0.1
+	ia_lightcavalry = 0.1
+	ia_hoplites = 0.2
 }
 
 #Illyrian
@@ -97,15 +105,19 @@ levy_piratic = { #illyrian militia
 
 	ia_lightinfantry = 0.3
 	ia_scirmishers = 0.1
+	ia_lightcavalry = 0.1
 	ia_chariots = 0.1
 	ia_warriors = 0.4
 }
+
+#Castelic
 
 levy_stronghold = { #illyrian militia
 	default = no
 
 	ia_lightinfantry = 0.3
 	ia_scirmishers = 0.1
+	ia_archers = 0.1
 	ia_chariots = 0.1
 	ia_warriors = 0.4
 }
@@ -118,7 +130,8 @@ levy_liguric = { #illyrian militia
 	ia_lightinfantry = 0.2
 	ia_scirmishers = 0.2
 	ia_chariots = 0.1
-	ia_warriors = 0.5
+	ia_archers = 0.1
+	ia_warriors = 0.4
 }
 
 #Celtic
@@ -126,9 +139,10 @@ levy_liguric = { #illyrian militia
 levy_astelixian = { #celtic militia
 	default = no
 
-	ia_archers = 0.2
+	ia_archers = 0.1
+	ia_scirmishers = 0.2
 	ia_lightcavalry = 0.1
-	ia_chariots = 0.2
+	ia_chariots = 0.1
 	ia_warriors = 0.5
 }
 
@@ -139,8 +153,9 @@ levy_dacotan = { #celtic militia
 
 	ia_archers = 0.2
 	ia_lightcavalry = 0.1
+	ia_chariots = 0.1
 	ia_scirmishers = 0.2
-	ia_warriors = 0.5
+	ia_warriors = 0.4
 }
 
 #Nubian
@@ -148,8 +163,9 @@ levy_dacotan = { #celtic militia
 levy_kashtan = { #kushite militia
 	default = no
 
-	ia_archers = 0.4
+	ia_archers = 0.3
 	ia_chariots = 0.1
+	ia_lightcavalry = 0.1
 	ia_warriors = 0.4
 	ia_elephants = 0.1
 }
@@ -159,6 +175,7 @@ levy_meded = { #medjay militia
 
 	ia_archers = 0.2
 	ia_scirmishers = 0.2
+	ia_lightcavalry = 0.1
 	ia_warriors = 0.4
 	ia_chariots = 0.1
 }
@@ -168,10 +185,11 @@ levy_meded = { #medjay militia
 levy_amun = { #kemetic militia
 	default = no
 
-	ia_archers = 0.2
+	ia_archers = 0.1
+	ia_scirmishers = 0.2
 	ia_chariots = 0.2
 	ia_lightcavalry = 0.1
-	ia_lightinfantry = 0.5
+	ia_lightinfantry = 0.4
 }
 
 #Libyan
@@ -182,7 +200,8 @@ levy_tahenu = { #libyan militia
 	ia_archers = 0.2
 	ia_chariots = 0.2
 	ia_camels = 0.1
-	ia_warriors = 0.5
+	ia_lightinfantry = 0.1
+	ia_warriors = 0.4
 }
 
 #Akkadian
@@ -191,8 +210,9 @@ levy_sonsofAshur = { #assyrian militia
 	default = no
 
 	ia_archers = 0.2
-	ia_hoplites = 0.5
-	ia_horsearchers = 0.2
+	ia_hoplites = 0.2
+	ia_lightinfantry = 0.4
+	ia_horsearchers = 0.1
 	ia_chariots = 0.1
 }
 
@@ -200,7 +220,8 @@ levy_sonsofMarduk = { #babylonian militia
 	default = no
 
 	ia_archers = 0.2
-	ia_lightinfantry = 0.5
+	ia_hoplites = 0.1
+	ia_lightinfantry = 0.4
 	ia_lightcavalry = 0.1
 	ia_chariots = 0.2
 }
@@ -211,9 +232,10 @@ levy_ahlamu = { #aramean militia
 	default = no
 
 	ia_archers = 0.1
+	ia_scirmishers = 0.2
 	ia_chariots = 0.1
 	ia_lightcavalry = 0.2
-	ia_warriors = 0.6
+	ia_warriors = 0.4
 }
 
 #Jewish
@@ -222,9 +244,10 @@ levy_jewishic = { #habiru militia
 	default = no
 
 	ia_archers = 0.2
-	ia_lightinfantry = 0.4
+	ia_lightinfantry = 0.2
+	ia_warriors = 0.4
 	ia_chariots = 0.2
-	ia_lightcavalry = 0.2
+	ia_lightcavalry = 0.1
 }
 
 #Hattian
@@ -233,8 +256,19 @@ levy_hattian = { #hittite militia
 	default = no
 
 	ia_archers = 0.2
-	ia_lightinfantry = 0.5
+	ia_scirmishers = 0.1
+	ia_lightinfantry = 0.4
 	ia_chariots = 0.2
+	ia_lightcavalry = 0.1
+}
+
+levy_luwian = { #luwian militia
+	default = no
+
+	ia_archers = 0.2
+	ia_scirmishers = 0.1
+	ia_warriors = 0.4
+	ia_lightinfantry = 0.2
 	ia_lightcavalry = 0.1
 }
 
@@ -245,7 +279,8 @@ levy_kebabiya = { #arab militia
 
 	ia_archers = 0.2
 	ia_warriors = 0.4
-	ia_chariots = 0.2
+	ia_lightcavalry = 0.1
+	ia_chariots = 0.1
 	ia_camels = 0.2
 }
 
@@ -256,8 +291,9 @@ levy_nomadoi = { #scythian militia
 
 	ia_archers = 0.2
 	ia_warriors = 0.2
-	ia_horsearchers = 0.2
-	ia_lancers = 0.4
+	ia_lightcavalry = 0.2
+	ia_horsearchers = 0.3
+	ia_lancers = 0.1
 }
 
 #Caucasian
@@ -265,8 +301,9 @@ levy_nomadoi = { #scythian militia
 levy_mountainier = { #caucasian militia
 	default = no
 
-	ia_archers = 0.2
-	ia_warriors = 0.6
+	ia_archers = 0.1
+	ia_scirmishers = 0.2
+	ia_warriors = 0.5
 	ia_chariots = 0.1
 	ia_lightcavalry = 0.1
 }
@@ -276,8 +313,9 @@ levy_mountainier = { #caucasian militia
 levy_armenioi = { #armenian militia
 	default = no
 
-	ia_archers = 0.2
-	ia_warriors = 0.5
+	ia_archers = 0.1
+	ia_lightinfantry = 0.2
+	ia_warriors = 0.4
 	ia_chariots = 0.1
 	ia_lancers = 0.2
 }
@@ -288,8 +326,9 @@ levy_kasidic = { #kassite militia
 	default = no
 
 	ia_archers = 0.2
-	ia_warriors = 0.6
-	ia_chariots = 0.1
+	ia_lightinfantry = 0.1
+	ia_warriors = 0.4
+	ia_chariots = 0.2
 	ia_lightcavalry = 0.1
 }
 
@@ -299,7 +338,8 @@ levy_elamitic = { #elamite militia
 	default = no
 
 	ia_archers = 0.1
-	ia_lightinfantry = 0.6
+	ia_warriors = 0.4
+	ia_lightinfantry = 0.2
 	ia_chariots = 0.2
 	ia_lightcavalry = 0.1
 }
@@ -309,8 +349,9 @@ levy_elamitic = { #elamite militia
 levy_urumic = { #hurric militia
 	default = no
 
-	ia_archers = 0.2
-	ia_lightinfantry = 0.5
+	ia_archers = 0.1
+	ia_scirmishers = 0.2
+	ia_lightinfantry = 0.4
 	ia_chariots = 0.1
 	ia_lancers = 0.2
 }
@@ -320,8 +361,9 @@ levy_urumic = { #hurric militia
 levy_numidian = { #numiadian militia
 	default = no
 
-	ia_archers = 0.2
+	ia_archers = 0.1
+	ia_scirmishers = 0.2
 	ia_warriors = 0.4
 	ia_lightcavalry = 0.2
-	ia_elephants = 0.2
+	ia_elephants = 0.1
 }

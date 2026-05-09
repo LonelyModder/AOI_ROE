@@ -24,98 +24,41 @@
 		}
 		trigger_else_if = {
 			limit = {
-				AND = {
+				any_country_culture = {
+					is_integrated = yes
 					OR = {
-						has_military_bonus = nuragian_path_end_bonus
-						has_military_bonus = westsemite_path_end_bonus
-						has_military_bonus = illyrian_path_end_bonus
-						has_military_bonus = grekoid_path_end_bonus
-						has_military_bonus = keltoi_path_end_bonus
-						has_military_bonus = thracian_path_end_bonus
-						has_military_bonus = libyan_path_end_bonus
-						has_military_bonus = nubian_path_end_bonus
-						has_military_bonus = egyptian_path_end_bonus
-						has_military_bonus = arabian_path_end_bonus
-						has_military_bonus = assyrian_path_end_bonus
-						has_military_bonus = anatolian_path_end_bonus
-						has_military_bonus = nomadic_path_end_bonus
-						has_military_bonus = caucasian_path_end_bonus
-						has_military_bonus = zagrosian_path_end_bonus
-					}
-					any_country_culture = {
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:italic
-							this.culture.culture_group = culture_group:thyrrenic
-							this.culture.culture_group = culture_group:liguric
-							this.culture.culture_group = culture_group:latinic
-						}
+						this.culture.culture_group = culture_group:italic
+						this.culture.culture_group = culture_group:thyrrenic
+						this.culture.culture_group = culture_group:liguric
+						this.culture.culture_group = culture_group:latinic
 					}
 				}
 			}
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				any_country_culture = {
-					custom_tooltip = {
-						text = tradition_unlock_requirement_short
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:italic
-							this.culture.culture_group = culture_group:thyrrenic
-							this.culture.culture_group = culture_group:liguric
-							this.culture.culture_group = culture_group:latinic
-						}
+			any_country_culture = {
+				custom_tooltip = {
+					text = tradition_unlock_requirement_short
+					is_integrated = yes
+					OR = {
+						this.culture.culture_group = culture_group:italic
+						this.culture.culture_group = culture_group:thyrrenic
+						this.culture.culture_group = culture_group:liguric
+						this.culture.culture_group = culture_group:latinic
 					}
 				}
 			}
 			
 		}
 		trigger_else = {
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				custom_tooltip = {
-					text = "tradition_unlock_requirement_italic"
-					any_country_culture = {
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:italic
-							this.culture.culture_group = culture_group:thyrrenic
-							this.culture.culture_group = culture_group:liguric
-							this.culture.culture_group = culture_group:latinic
-						}	
-					}
+			custom_tooltip = {
+				text = "tradition_unlock_requirement_italic"
+				any_country_culture = {
+					is_integrated = yes
+					OR = {
+						this.culture.culture_group = culture_group:italic
+						this.culture.culture_group = culture_group:thyrrenic
+						this.culture.culture_group = culture_group:liguric
+						this.culture.culture_group = culture_group:latinic
+					}	
 				}
 			}
 		}

@@ -2239,6 +2239,10 @@ carthage_01_africa_1.62 = {
 		add_manpower = -0.25
 		add_treasury = -5
 	}
+	
+	option = { 
+		name = "carthage_01_africa_1.62.b"
+	}
 }
 
 carthage_01_africa_1.63 = {  

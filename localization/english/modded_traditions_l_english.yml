@@ -5,7 +5,22 @@
  akkadian_philosophy:1 "Akkadian Traditions"
  akkadian_philosophydesc:3 "The Akkadians were a very militant people and were no strangers to war. Their units are characterized by high morale and great diversity due to their location at the crossroads of many cultures. "
  tradition_unlock_requirement_akkadian:0 "You don't have enough population of Akkadian descent to unlock the tradition. "
- #Traditions
+ #New Traditions
+ akkadian_path_1:0 "Akkadian Chariots"
+ akkadian_path_1_desc:0 "The first decision of assyrian king after the dust of the Bronze Age Collapse have settled was to reform the chariot division. Chariots meaning decreased in time from elite core of mesopotamian military to pure symbol but it didn't happen in a day."
+ akkadian_path_2a:0 "Mesopotamian Phalanx Formation"
+ akkadian_path_2a_desc:0 "Akkadians as well as Greeks used the phalanx formation since the Bronze Age yet with the changing conditions where their new enemies like Medes and Scythians began using hit and run tactics they added the line of archers behind the line of soldiers. This way formation could effectively fight the enemy scirmishers. "
+ akkadian_path_3a:0 "State Armouries"
+ akkadian_path_3a_desc:0 "Assyrians had a system of state owned armouries that could quickly provide the soldiers with standardized military equipment. This way new inventions like special new shelds able to scatter the wepons impact enabling the weaker soldier to face stronger oponents."
+ akkadian_path_2b:0 "Psychological Warfare"
+ akkadian_path_2b_desc:0 "Practical Violence is a general term for using all kinds of attrocities to force the enemies to surrender without a fight. Assyrians were especially known to use that tactic extensively mostly to force the besieged cities to open their gates before them. "
+ akkadian_path_3b:0 "Religious Mandate"
+ akkadian_path_3b_desc:0 "Assyria's real name is the Land of Ashur with Ashur being the main god of the local pantheon. Assyrian believed yearly war to be their religious duty and the king's main task was to lead those yearly campaigns. King himself was a ruler for the outsiders but his own subjects knew him as a viceroy of the real king, god Ashur."
+ akkadian_path_4b:0 "Assyrian Road Network"
+ akkadian_path_4b_desc:0 "The Assyrians introduced the road system as the standard for future empires. This made it easier to move both own and enemy troops. From time to time there was a checkpoint by the road to ensure safety and supplies for travelers and messengers. "
+ akkadian_path_2c:0 "Forced Resettlement"
+ akkadian_path_2c_desc:0 "To deal with rebellious populations the standard assyrian practice was to forcibly resettle them to other parts of the country to break the personal connection between people and the land they live in."
+ #Old Traditions
  assyrian_path_1:0 "Reformation of Chariot Division"
  assyrian_path_1_desc:0 "One of the first decisions the rulers of Mesopotamia made after the worst of the crisis had passed was to reform the chariot division. Their predecessors died on the battlefields defending their homeland against the barbarian hordes, and since the enemies were still numerous and powerful, a quick-reaction force was needed."
  assyrian_path_2a:0 "New chariot improvements"
@@ -379,7 +394,9 @@
  anatolian_philosophy:0 "Anatolian Traditions"
  anatolian_philosophy_desc:0 "Anatolians were known for their slightly nationalistic approach to culture and religion (the god of thunder from Hattusa and Gordion is not the same god for hittites). This mental independence also had an impact on the wax which was full of many nationalities and had a feudal structure to some extent with a small part of the regular forces."
  tradition_unlock_requirement_hattian:0 "You don't have enough population of Hattian or Luwian descent to unlock the tradition."
- #Traditions
+ #New Traditions
+ 
+ #Old Traditions
  anatolian_path_1:0 "Swords of anatolia"
  anatolian_path_1_desc:0 "Due to the greater availability of metals, the Anatolians had a certain natural advantage in weapons and used swords more commonly. The Hittite-Luvian sword is a long curved slash sword that has been further elongated when iron was discovered."
  anatolian_path_2:0 "Chariotiers"

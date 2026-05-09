@@ -22,94 +22,37 @@
 		}
 		trigger_else_if = {
 			limit = {
-				AND = {
+				any_country_culture = {
+					is_integrated = yes
 					OR = {
-						has_military_bonus = nuragian_path_end_bonus
-						has_military_bonus = westsemite_path_end_bonus
-						has_military_bonus = italian_path_end_bonus
-						has_military_bonus = grekoid_path_end_bonus
-						has_military_bonus = keltoi_path_end_bonus
-						has_military_bonus = thracian_path_end_bonus
-						has_military_bonus = libyan_path_end_bonus
-						has_military_bonus = nubian_path_end_bonus
-						has_military_bonus = egyptian_path_end_bonus
-						has_military_bonus = arabian_path_end_bonus
-						has_military_bonus = assyrian_path_end_bonus
-						has_military_bonus = anatolian_path_end_bonus
-						has_military_bonus = nomadic_path_end_bonus
-						has_military_bonus = caucasian_path_end_bonus
-						has_military_bonus = zagrosian_path_end_bonus
-					}
-					any_country_culture = {
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:illyric
-							this.culture.culture_group = culture_group:castelic
-							this.culture.culture_group = culture_group:liburnic
-						}
+						this.culture.culture_group = culture_group:illyric
+						this.culture.culture_group = culture_group:castelic
+						this.culture.culture_group = culture_group:liburnic
 					}
 				}
 			}
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				any_country_culture = {
-					custom_tooltip = {
-						text = tradition_unlock_requirement_short
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:illyric
-							this.culture.culture_group = culture_group:castelic
-							this.culture.culture_group = culture_group:liburnic
-						}
+			any_country_culture = {
+				custom_tooltip = {
+					text = tradition_unlock_requirement_short
+					is_integrated = yes
+					OR = {
+						this.culture.culture_group = culture_group:illyric
+						this.culture.culture_group = culture_group:castelic
+						this.culture.culture_group = culture_group:liburnic
 					}
 				}
 			}
 		}
 		trigger_else = {
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				custom_tooltip = {
-					text = "tradition_unlock_requirement_illyric"
-					any_country_culture = {
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:illyric
-							this.culture.culture_group = culture_group:castelic
-							this.culture.culture_group = culture_group:liburnic
-						}	
-					}
+			custom_tooltip = {
+				text = "tradition_unlock_requirement_illyric"
+				any_country_culture = {
+					is_integrated = yes
+					OR = {
+						this.culture.culture_group = culture_group:illyric
+						this.culture.culture_group = culture_group:castelic
+						this.culture.culture_group = culture_group:liburnic
+					}	
 				}
 			}
 		}
