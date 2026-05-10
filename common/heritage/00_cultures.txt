@@ -269,7 +269,7 @@ libyan_heritage = {
 ashurite_heritage = { 
 	modifier = {
 		#good
-		levy_size_multiplier = 0.025
+		discipline = 0.05
 		land_morale_modifier = 0.1
 		
 		#bad
