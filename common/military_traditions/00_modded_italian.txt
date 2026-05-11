@@ -64,6 +64,12 @@
 		}
 	}
 	
+	#New Ones
+	
+	
+	
+	#New Ones
+	
 	italian_path_1 = { ###italian path
 		modifier = { 
 			ia_scirmishers_offensive = 0.1
