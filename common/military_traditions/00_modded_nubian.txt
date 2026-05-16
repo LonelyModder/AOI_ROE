@@ -36,6 +36,12 @@
 		}
 	}
 	
+	#New Ones
+	
+	
+	
+	#New Ones
+	
 	nubian_path_1 = { ###nubian path
 		modifier = {
 			ia_archers_morale = 0.1

@@ -53,7 +53,7 @@
 			}
 		}
 		icon = mauryan_mauryas_path_3
-		requires = {assyrian_path_1}
+		requires = {}
 	}
 	
 	akkadian_path_2a = { ###akkadian path
@@ -91,7 +91,7 @@
 			army_maintenance_cost = -0.1
 		}
 		icon = mauryan_mauryas_path_3
-		requires = {assyrian_path_3b}
+		requires = {assyrian_path_2b}
 	}
 	
 	akkadian_path_4b = { ###akkadian path
@@ -101,7 +101,7 @@
 		}
 		enable_ability = road_building
 		icon = mauryan_mauryas_path_3
-		requires = {assyrian_path_4b}
+		requires = {assyrian_path_3b}
 	}
 	
 	akkadian_path_2c = { ###akkadian path

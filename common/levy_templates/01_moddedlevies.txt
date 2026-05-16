@@ -81,7 +81,7 @@ levy_cpunic = { #western punics
 
 	ia_lightinfantry = 0.4
 	ia_archers = 0.1
-	ia_scirmishers = 0.2
+	ia_hoplites = 0.2
 	ia_elephants = 0.1
 	ia_lightcavalry = 0.2
 }
@@ -175,7 +175,7 @@ levy_meded = { #medjay militia
 
 	ia_archers = 0.2
 	ia_scirmishers = 0.2
-	ia_lightcavalry = 0.1
+	ia_camels = 0.1
 	ia_warriors = 0.4
 	ia_chariots = 0.1
 }

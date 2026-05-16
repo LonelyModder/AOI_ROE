@@ -66,90 +66,63 @@
 	
 	#New Ones
 	
-	
-	
-	#New Ones
-	
 	italian_path_1 = { ###italian path
 		modifier = { 
 			ia_scirmishers_offensive = 0.1
-			ia_scirmishers_defensive = 0.05
+			ia_scirmishers_defensive = 0.1
 		}
+		enable_tactic = hit_and_run_tactics
 		icon = latin_roman_path_5
 		requires = {}
 	}
 	
-	italian_path_2 = { ###italian path
+	italian_path_2a = { ###italian path
 		modifier = { 
-			ia_scirmishers_discipline = 0.1
-			ia_hoplites_offensive = 0.1
+			ia_lightcavalry_offensive = 0.1
+			ia_lightcavalry_defensive = 0.05
 		}
 		icon = latin_roman_path_5
 		requires = {italian_path_1}
 	}
 	
-	italian_path_3 = { ###italian path
+	italian_path_3a = { ###italian path
 		modifier = { 
+			ia_heavyinfantry_defensive = 0.1
 			ia_lightcavalry_offensive = 0.1
-			ia_lightcavalry_defensive = 0.05
 		}
 		icon = latin_roman_path_5
-		requires = {italian_path_2}
-	}
-	
-	italian_path_4 = { ###italian path
-		modifier = { 
-			ia_hoplites_discipline = 0.1
-		}
-		enable_tactic = greek_phalanx
-		icon = latin_roman_path_5
-		requires = {italian_path_3}
+		requires = {italian_path_2a}
 	}
 	
 	italian_path_4a = { ###italian path
 		modifier = { 
-			ia_lightcavalry_offensive = 0.1
-			ia_lightcavalry_defensive = 0.05
+			ia_heavyinfantry_discipline = 0.1
+			ia_lightinfantry_discipline = 0.1
+			ia_scirmishers_discipline = 0.1
+			hills_combat_bonus = 0.2
 		}
+		enable_tactic = triplex_acies
 		icon = latin_roman_path_5
-		requires = {italian_path_4}
+		requires = {italian_path_3a}
 	}
 	
 	italian_path_5a = { ###italian path
 		modifier = { 
-			ia_heavyinfantry_offensive = 0.1
-			ia_heavyinfantry_defensive = 0.1
+			discipline = 0.1
+			land_morale_modifier = 0.1
 		}
 		icon = latin_roman_path_5
 		requires = {italian_path_4a}
 	}
 	
-	italian_path_6a = { ###italian path
-		modifier = { 
-			ia_heavyinfantry_discipline = 0.1
-		}
-		enable_tactic = triplex_acies
-		icon = latin_roman_path_5
-		requires = {italian_path_5a}
-	}
-	
-	italian_path_4b = { ###italian path
+	italian_path_2b = { ###italian path
 		modifier = { 
 			siege_ability = 0.1
 			siege_engineers = 0.1
 			engineer_cohort_cost = -0.25
 		}
 		icon = latin_roman_path_5
-		requires = {italian_path_4}
-	}
-	
-	italian_path_5bs = { ###italian path
-		modifier = { 
-			army_movement_speed = 0.2
-		}
-		enable_ability = road_building
-		icon = latin_roman_path_5
-		requires = {italian_path_4b}
+		requires = {italian_path_1}
 	}
 	
 	italian_path_4bs = { ###italian path
@@ -157,25 +130,26 @@
 			naval_damage_done = 0.15
 		}
 		icon = latin_roman_path_5
-		requires = {italian_path_5bs}
+		requires = {italian_path_2b}
 	}
 	
-	italian_path_5b = { ###italian path
+	italian_path_3b = { ###italian path
 		modifier = { 
-			global_defensive = 0.1
+			army_movement_speed = 0.2
 		}
+		enable_ability = road_building
 		icon = latin_roman_path_5
 		requires = {italian_path_4bs}
 	}
 	
-	italian_path_6b = { ###italian path
+	italian_path_4b = { ###italian path
 		modifier = { 
 			fort_limit = 1
 			fort_maintenance_cost = -0.25
 		}
 		enable_ability = border_forts
 		icon = latin_roman_path_5
-		requires = {italian_path_5b}
+		requires = {italian_path_3b}
 		on_activate = {
 			capital_scope = {
 				add_building_level = fortress_building
@@ -183,39 +157,25 @@
 		}
 	}
 	
-	italian_path_4c = { ###italian path
-		modifier = { 
-			hills_combat_bonus = 0.15
-			plains_combat_bonus = 0.15
-		}
-		icon = latin_roman_path_5
-		requires = {italian_path_4}
-	}
-	
-	italian_path_5c = { ###italian path
+	italian_path_2c = { ###italian path
 		modifier = { 
 			ia_archers_offensive = 0.1
-			ia_archers_defensive = 0.1
+			ia_lightcavalry_discipline = 0.1
+			mercenary_land_maintenance_cost = -0.25
 		}
 		icon = latin_roman_path_5
-		requires = {italian_path_4c}
+		requires = {italian_path_1}
 	}
 	
-	italian_path_6c = { ###italian path
+	italian_path_3c = { ###italian path
 		modifier = { 
 			enslavement_efficiency = 0.1
 			global_slaves_output = output_large_svalue
 		}
 		icon = latin_roman_path_5
-		requires = {italian_path_5c}
+		requires = {italian_path_2c}
 	}
 	
-	italian_path_end_bonus = { ###italian path
-		modifier = { 
-			ia_heavyinfantry_offensive = 0.1
-			fort_maintenance_cost = -0.25
-		}
-		icon = latin_roman_path_5
-		requires = {italian_path_6a italian_path_6b italian_path_6c}
-	}
+	#New Ones
+	
 }
