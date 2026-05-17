@@ -38,7 +38,24 @@
 	
 	#New Ones
 	
+	nubian_path_1 = { ###nubian path
+		modifier = {
+			ia_archers_morale = 0.1
+			ia_archers_offensive = 0.1
+		}
+		icon = levantine_egyptian_path_end_bonus
+		requires = {}
+	}
 	
+	nubian_path_2 = { ###nubian path
+		modifier = {
+			ia_archers_offensive = 0.1		
+			ia_archers_defensive = 0.1
+			ia_archers_discipline = 0.1
+		}
+		icon = levantine_egyptian_path_end_bonus
+		requires = {nubian_path_1}
+	}
 	
 	#New Ones
 	
