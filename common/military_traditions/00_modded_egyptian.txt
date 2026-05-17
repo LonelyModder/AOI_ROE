@@ -36,6 +36,28 @@
 		}
 	}
 	
+	#New Ones
+	
+	egyptian_path_1 = { ###egyptian path
+		modifier = { 
+			ia_chariots_offensive = 0.15
+			ia_chariots_defensive = 0.1
+		}
+		icon = levantine_greco_path_1
+		requires = {}
+	}
+	
+	egyptian_path_2 = { ###egyptian path
+		modifier = { 
+			ia_lightinfantry_offensive = 0.1
+			ia_lightinfantry_defensive = 0.05
+		}
+		icon = levantine_greco_path_1
+		requires = {egyptian_path_1}
+	}
+	
+	#New Ones
+	
 	egyptian_path_1 = { ###egyptian path
 		modifier = { 
 			ia_chariots_offensive = 0.15

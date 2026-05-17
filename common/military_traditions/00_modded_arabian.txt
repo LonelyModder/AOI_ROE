@@ -58,11 +58,14 @@
 		}
 	}
 	
+	#New Ones
+	
 	arabian_path_1 = { ###arabian path
 		modifier = { 
-			ia_warriors_offensive = 0.1
-			ia_warriors_defensive = 0.05
+			ia_chariots_offensive = 0.1
+			ia_lightcavalry_offensive = 0.1
 		}
+		enable_tactic = hit_and_run_tactics
 		icon = levantine_arabian_path_2
 		requires = {}
 	}
@@ -70,73 +73,38 @@
 	arabian_path_2 = { ###arabian path
 		modifier = { 
 			ia_scirmishers_offensive = 0.1
-			ia_scirmishers_defensive = 0.05
+			ia_warriors_offensive = 0.1
 		}
 		icon = levantine_arabian_path_2
 		requires = {arabian_path_1}
 	}
 	
-	arabian_path_3 = { ###arabian path
+	arabian_path_3a = { ###arabian path
 		modifier = { 
+			ia_camels_offensive = 0.1
 			army_movement_speed = 0.25
 			desert_combat_bonus = 0.2
 		}
-		enable_tactic = hit_and_run_tactics
 		icon = levantine_arabian_path_2
-		requires = {arabian_path_2}
-	}
-	
-	arabian_path_4 = { ###arabian path
-		modifier = { 
-			ia_chariots_offensive = 0.1
-			ia_chariots_defensive = 0.05
-		}
-		icon = levantine_arabian_path_2
-		requires = {arabian_path_3}
+		requires = {arabian_path_1}
 	}
 	
 	arabian_path_4a = { ###arabian path
 		modifier = { 
-			ia_lightinfantry_offensive = 0.1
-			ia_lightinfantry_defensive = 0.05
+			mercenary_land_maintenance_cost = -0.25
+			global_cohort_start_experience = 5
 		}
 		icon = levantine_arabian_path_2
-		requires = {arabian_path_4}
+		requires = {arabian_path_3a}
 	}
 	
 	arabian_path_5a = { ###arabian path
-		modifier = { 
-			siege_ability = 0.2
-		}
-		icon = levantine_arabian_path_2
-		requires = {arabian_path_4a}
-	}
-	
-	arabian_path_6a = { ###arabian path
-		modifier = { 
-			levy_size_multiplier = 0.025
-			happiness_for_wrong_culture_group_modifier = 0.05
-		}
-		icon = levantine_arabian_path_2
-		requires = {arabian_path_5a}
-	}
-	
-	arabian_path_4b = { ###arabian path
-		modifier = { 
-			ia_camels_offensive = 0.1
-			ia_camels_defensive = 0.05
-		}
-		icon = levantine_arabian_path_2
-		requires = {arabian_path_4}
-	}
-	
-	arabian_path_5b = { ###arabian path
 		modifier = { 
 			naval_morale_recovery = 0.25
 			global_commerce_modifier = 0.15
 		}
 		icon = levantine_arabian_path_2
-		requires = {arabian_path_4b}
+		requires = {arabian_path_4a}
 		on_activate = {
 			ordered_owned_province = {
 				limit = {
@@ -151,11 +119,24 @@
 		}
 	}
 	
-	arabian_path_end_bonus = { ###arabian path
+	arabian_path_3b = { ###arabian path
 		modifier = { 
-			desert_combat_bonus = 0.2
+			ia_archers_offensive = 0.1
+			hills_combat_bonus = 0.2
 		}
 		icon = levantine_arabian_path_2
-		requires = {arabian_path_6a arabian_path_5b}
+		requires = {arabian_path_2}
 	}
+	
+	arabian_path_4b = { ###arabian path
+		modifier = { 
+			ia_lightinfantry_defensive = 0.1
+			fort_limit = 1
+		}
+		icon = levantine_arabian_path_2
+		requires = {arabian_path_3b}
+	}
+	
+	#New Ones
+	
 }

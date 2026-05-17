@@ -53,71 +53,49 @@
 		}
 	}
 	
+	#New Ones
+	
 	zagrosian_path_1 = { ###zagrosian path
 		modifier = { 
 			ia_warriors_offensive = 0.1
-			ia_warriors_defensive = 0.05
+			hills_combat_bonus = 0.2
 		}
+		enable_tactic = hit_and_run_tactics
 		icon = persian_achaemenid_path_4
 		requires = {}
 	}
 	
-	zagrosian_path_2 = { ###zagrosian path
+	zagrosian_path_2a = { ###zagrosian path
 		modifier = { 
-			ia_chariots_offensive = 0.1
-			ia_chariots_defensive = 0.05
+			ia_chariots_offensive = 0.2
+			ia_chariots_defensive = 0.1
 		}
 		icon = persian_achaemenid_path_4
 		requires = {zagrosian_path_1}
 	}
 	
-	zagrosian_path_3 = { ###zagrosian path
-		modifier = { 
-			hills_combat_bonus = 0.2
-			mountain_combat_bonus = 0.2
-		}
-		icon = persian_achaemenid_path_4
-		requires = {zagrosian_path_2}
-	}
-	
-	zagrosian_path_2a = { ###zagrosian path
-		modifier = { 
-			ia_chariots_offensive = 0.15
-		}
-		icon = persian_achaemenid_path_4
-		requires = {zagrosian_path_3}
-	}
-	
 	zagrosian_path_3a = { ###zagrosian path
 		modifier = { 
-			ia_warriors_offensive = 0.1
-			ia_warriors_defensive = 0.05
+			ia_archers_offensive = 0.1
+			ia_archers_defensive = 0.1
 		}
 		icon = persian_achaemenid_path_4
 		requires = {zagrosian_path_2a}
 	}
 	
-	zagrosian_path_4a = { ###zagrosian path
-		modifier = { 
-			ia_archers_offensive = 0.1
-			ia_archers_defensive = 0.05
-		}
-		icon = persian_achaemenid_path_4
-		requires = {zagrosian_path_3a}
-	}
-	
 	zagrosian_path_2b = { ###zagrosian path
 		modifier = { 
-			ia_archers_offensive = 0.15
+			army_movement_speed = 0.25
+			mountain_combat_bonus = 0.2
 		}
 		icon = persian_achaemenid_path_4
-		requires = {zagrosian_path_3}
+		requires = {zagrosian_path_1}
 	}
 	
 	zagrosian_path_3b = { ###zagrosian path
 		modifier = { 
 			ia_lightinfantry_offensive = 0.1
-			ia_lightinfantry_defensive = 0.05
+			ia_lightinfantry_defensive = 0.1
 		}
 		enable_tactic = greek_phalanx
 		icon = persian_achaemenid_path_4
@@ -126,7 +104,7 @@
 	
 	zagrosian_path_4b = { ###zagrosian path
 		modifier = { 
-			army_movement_speed = 0.25
+			global_defensive = 0.05
 		}
 		icon = persian_achaemenid_path_4
 		requires = {zagrosian_path_3b}
@@ -134,26 +112,12 @@
 	
 	zagrosian_path_5b = { ###zagrosian path
 		modifier = { 
-			global_defensive = 0.05
+			fort_limit = 1
 		}
 		icon = persian_achaemenid_path_4
 		requires = {zagrosian_path_4b}
 	}
 	
-	zagrosian_path_6b = { ###zagrosian path
-		modifier = { 
-			ia_lightcavalry_offensive = 0.1
-			ia_lightcavalry_defensive = 0.05
-		}
-		icon = persian_achaemenid_path_4
-		requires = {zagrosian_path_5b}
-	}
+	#New Ones
 	
-	zagrosian_path_end_bonus = { ###zagrosian path
-		modifier = { 
-			global_defensive = 0.05
-		}
-		icon = persian_achaemenid_path_4
-		requires = {zagrosian_path_4a zagrosian_path_6b}
-	}
 }

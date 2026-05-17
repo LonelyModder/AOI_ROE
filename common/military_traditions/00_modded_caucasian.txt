@@ -57,57 +57,69 @@
 		}
 	}
 	
+	#New Ones
+	
 	caucasian_path_1 = { ###caucasian path
 		modifier = { 
-			ia_lightinfantry_morale = 0.1
-			ia_lightinfantry_offensive = 0.05
+			hills_combat_bonus = 0.2
+			ia_warriors_offensive = 0.1
 		}
 		icon = celtic_britannic_path_5
 		requires = {}
 	}
 	
-	caucasian_path_2 = { ###caucasian path
+	caucasian_path_2a = { ###caucasian path
 		modifier = { 
-			ia_hoplites_defensive = 0.1
+			ia_lightcavalry_offensive = 0.1
+			ia_chariots_offensive = 0.1
 		}
-		enable_tactic = greek_phalanx
 		icon = celtic_britannic_path_5
 		requires = {caucasian_path_1}
 	}
 	
 	caucasian_path_3a = { ###caucasian path
 		modifier = { 
-			ia_chariots_morale = 0.1
-			ia_chariots_offensive = 0.1
+			ia_lancers_offensive = 0.1
+			ia_lancers_defensive = 0.1
 		}
 		icon = celtic_britannic_path_5
-		requires = {caucasian_path_2}
+		requires = {caucasian_path_2a}
 	}
 	
 	caucasian_path_4a = { ###caucasian path
 		modifier = { 
-			ia_lancers_offensive = 0.1
-			ia_lancers_defensive = 0.05
+			mountain_combat_bonus = 0.2
+			ia_warriors_defensive = 0.1
 		}
 		icon = celtic_britannic_path_5
 		requires = {caucasian_path_3a}
 	}
 	
-	caucasian_path_5a = { ###caucasian path
+	caucasian_path_2b = { ###caucasian path
+		modifier = { 
+			ia_hoplites_defensive = 0.1
+			ia_hoplites_discipline = 0.1
+		}
+		enable_tactic = greek_phalanx
+		icon = celtic_britannic_path_5
+		requires = {caucasian_path_1}
+	}
+	
+	caucasian_path_3b = { ###caucasian path
 		modifier = { 
 			fort_maintenance_cost = -0.25
 		}
 		enable_ability = border_forts
 		icon = celtic_britannic_path_5
-		requires = {caucasian_path_4a}
+		requires = {caucasian_path_2b}
 	}
 	
-	caucasian_path_6a = { ###caucasian path
+	caucasian_path_4b = { ###caucasian path
 		modifier = { 
 			fort_limit = 1
 		}
 		icon = celtic_britannic_path_5
-		requires = {caucasian_path_5a}
+		requires = {caucasian_path_3b}
 		on_activate = {
 			capital_scope = {
 				add_building_level = fortress_building
@@ -115,54 +127,6 @@
 		}
 	}
 	
-	caucasian_path_7a = { ###caucasian path
-		modifier = { 
-			hills_combat_bonus = 0.2
-		}
-		icon = celtic_britannic_path_5
-		requires = {caucasian_path_6a}
-	}
+	#New Ones
 	
-	caucasian_path_3b = { ###caucasian path
-		modifier = { 
-			ia_archers_offensive = 0.1
-			ia_archers_defensive = 0.1
-		}
-		icon = celtic_britannic_path_5
-		requires = {caucasian_path_2}
-	}
-	
-	caucasian_path_4b = { ###caucasian path
-		modifier = { 
-			ia_warriors_offensive = 0.1
-			ia_warriors_defensive = 0.05
-		}
-		enable_tactic = hit_and_run_tactics
-		icon = celtic_britannic_path_5
-		requires = {caucasian_path_3b}
-	}
-	
-	caucasian_path_5b = { ###caucasian path
-		modifier = { 
-			mountain_combat_bonus = 0.2
-		}
-		icon = celtic_britannic_path_5
-		requires = {caucasian_path_4b}
-	}
-	
-	caucasian_path_6b = { ###caucasian path
-		modifier = { 
-			levy_size_multiplier = 0.025
-		}
-		icon = celtic_britannic_path_5
-		requires = {caucasian_path_5b}
-	}
-	
-	caucasian_path_end_bonus = { ###caucasian path
-		modifier = { 
-			fort_maintenance_cost = -0.25
-		}
-		icon = celtic_britannic_path_5
-		requires = {caucasian_path_7a caucasian_path_6b}
-	}
 }

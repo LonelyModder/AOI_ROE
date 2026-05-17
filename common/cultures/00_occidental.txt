@@ -43,7 +43,7 @@
 	culture = {
 		corsi = {}
 		nurage = {}
-		talayotic = {}
+		talayotic = {levy_template = levy_balearic}
 		shardana = {}
 	}
 	
