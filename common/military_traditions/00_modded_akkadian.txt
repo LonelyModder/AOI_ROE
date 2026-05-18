@@ -76,6 +76,15 @@
 		requires = {assyrian_path_2a}
 	}
 	
+	akkadian_path_4a = { ###akkadian path
+		modifier = { 
+			ia_horsearchers_offensive = 0.1
+			ia_horsearchers_discipline = 0.1
+		}
+		icon = mauryan_mauryas_path_3
+		requires = {assyrian_path_3a}
+	}
+	
 	akkadian_path_2b = { ###akkadian path
 		modifier = { 
 			siege_ability = 0.2
@@ -89,6 +98,7 @@
 		modifier = { 
 			war_exhaustion = -0.01
 			army_maintenance_cost = -0.1
+			levy_size_multiplier = 0.025
 		}
 		icon = mauryan_mauryas_path_3
 		requires = {assyrian_path_2b}

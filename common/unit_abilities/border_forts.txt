@@ -13,7 +13,8 @@
 			unit_owner = {
 				NOR = {
 					is_tradition_tree_allowed = italian_philosophy
-					is_tradition_tree_allowed = caucasian_philosophy	
+					is_tradition_tree_allowed = caucasian_philosophy
+					is_tradition_tree_allowed = westsemite_philosophy					
 				}					
 			}
 		}
@@ -24,11 +25,15 @@
 		unit_owner = { 
 			trigger_if = {
 				limit = { is_tradition_tree_allowed = italian_philosophy }
-				has_military_bonus = italian_path_6b
+				has_military_bonus = italian_path_4b
 			}
 			trigger_if = {
 				limit = { is_tradition_tree_allowed = caucasian_philosophy }
-				has_military_bonus = caucasian_path_5a
+				has_military_bonus = caucasian_path_3b
+			}
+			trigger_if = {
+				limit = { is_tradition_tree_allowed = westsemite_philosophy }
+				has_military_bonus = westsemite_path_3b
 			}
 		}
 		has_commander = yes

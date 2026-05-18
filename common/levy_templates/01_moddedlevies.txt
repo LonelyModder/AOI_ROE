@@ -113,8 +113,8 @@ levy_virgingrekoids = { #greek militia
 levy_piratic = { #illyrian militia
 	default = no
 
-	ia_lightinfantry = 0.3
-	ia_scirmishers = 0.1
+	ia_lightinfantry = 0.2
+	ia_scirmishers = 0.2
 	ia_lightcavalry = 0.1
 	ia_chariots = 0.1
 	ia_warriors = 0.4
@@ -125,8 +125,8 @@ levy_piratic = { #illyrian militia
 levy_stronghold = { #illyrian militia
 	default = no
 
-	ia_lightinfantry = 0.3
-	ia_scirmishers = 0.1
+	ia_lightinfantry = 0.2
+	ia_scirmishers = 0.2
 	ia_archers = 0.1
 	ia_chariots = 0.1
 	ia_warriors = 0.4
