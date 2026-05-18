@@ -2348,3 +2348,48 @@ carthage_01_africa_1.64 = {
 		}
 	}
 }
+
+carthage_01_africa_1.65 = {  
+	type = country_event
+	title = "carthage_01_africa_1.65.t"
+	desc = "carthage_01_africa_1.65.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.65.a"
+		p:3823={ # Great Cothon
+			begin_great_work_construction = {
+				great_work = "carthage_harbour"
+				locator = primary_great_work
+				is_ancient = yes						
+			}
+		}
+	}
+}
+
+carthage_01_africa_1.66 = {  
+	type = country_event
+	title = "carthage_01_africa_1.66.t"
+	desc = "carthage_01_africa_1.66.desc"
+	fire_only_once = yes
+	picture = carthage_pic_1
+	
+	trigger = {
+		tag=DAT
+	}
+	
+	option = { 
+		name = "carthage_01_africa_1.66.a"
+		p:3823={ # Great Cothon
+			finish_great_work_construction = {
+				great_work = "carthage_harbour"
+				locator = primary_great_work
+			}
+		}
+	}
+}

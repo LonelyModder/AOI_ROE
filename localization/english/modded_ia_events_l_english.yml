@@ -604,6 +604,12 @@
  carthage_01_africa_1.63.t:0 "Settling Sardinia"
  carthage_01_africa_1.63.desc:0 "Because of strategic importance of Sardinia the Carthaginian authorities decided to boost the number of punic settlers on the isle by founding additional colonies. Settlements like Nora and Olbia were chosen because of their strategic importance, especially the latter since it's the biggest harbour on this side of the island."
  carthage_01_africa_1.63.a:0 "Sardinia will stay Punic!"
+ carthage_01_africa_1.65.t:0 "Special Harbour"
+ carthage_01_africa_1.65.desc:0 "The carthaginian authorities decided that to protect our precious fleet there is needed a new harbour. The plans are impressive indeed because the new port will have place for 220 warships!"
+ carthage_01_africa_1.65.a:0 "Let's hope we can build it."
+ carthage_01_africa_1.66.t:0 "Great Cothon"
+ carthage_01_africa_1.66.desc:0 "The new harbour is indeed a sight to behold. Now we can hide our real power from the enemy spies. Now our navy have a place where it can prepare at peace for the next missions!"
+ carthage_01_africa_1.66.a:0 "And our enemies will never see them coming."
  #Carthage - colonies
  #Oea
  carthage_01_africa_1.10.t:0 "Founding of Oea"

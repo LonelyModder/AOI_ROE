@@ -63,7 +63,7 @@
 		}
 		enable_tactic = greek_phalanx
 		icon = mauryan_mauryas_path_3
-		requires = {assyrian_path_1}
+		requires = {akkadian_path_1}
 	}
 	
 	akkadian_path_3a = { ###akkadian path
@@ -73,7 +73,7 @@
 			ia_chariots_cost = 0.1
 		}
 		icon = mauryan_mauryas_path_3
-		requires = {assyrian_path_2a}
+		requires = {akkadian_path_2a}
 	}
 	
 	akkadian_path_4a = { ###akkadian path
@@ -82,7 +82,7 @@
 			ia_horsearchers_discipline = 0.1
 		}
 		icon = mauryan_mauryas_path_3
-		requires = {assyrian_path_3a}
+		requires = {akkadian_path_3a}
 	}
 	
 	akkadian_path_2b = { ###akkadian path
@@ -91,7 +91,7 @@
 			global_pop_assimilation_speed_modifier = 0.1
 		}
 		icon = mauryan_mauryas_path_3
-		requires = {assyrian_path_1}
+		requires = {akkadian_path_1}
 	}
 	
 	akkadian_path_3b = { ###akkadian path
@@ -101,7 +101,7 @@
 			levy_size_multiplier = 0.025
 		}
 		icon = mauryan_mauryas_path_3
-		requires = {assyrian_path_2b}
+		requires = {akkadian_path_2b}
 	}
 	
 	akkadian_path_4b = { ###akkadian path
@@ -111,7 +111,7 @@
 		}
 		enable_ability = road_building
 		icon = mauryan_mauryas_path_3
-		requires = {assyrian_path_3b}
+		requires = {akkadian_path_3b}
 	}
 	
 	akkadian_path_2c = { ###akkadian path
@@ -121,7 +121,7 @@
 		}
 		enable_ability = military_colonies
 		icon = mauryan_mauryas_path_3
-		requires = {assyrian_path_1}
+		requires = {akkadian_path_1}
 	}
 	
 	#New Ones
