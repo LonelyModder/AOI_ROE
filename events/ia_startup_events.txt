@@ -254,3 +254,18 @@ esfa_startup.16 = { #Caucasian
     }
 }
 
+esfa_startup.17 = { #Numidian
+    type = country_event
+    title = esfa_startup.17.t
+    desc = esfa_startup.17.desc
+    picture = welcoming_window_1
+	
+    trigger = {
+		country_culture_group = numidian
+    }
+
+    option = {    
+        name = esfa_startup.17.a
+    }
+}
+
