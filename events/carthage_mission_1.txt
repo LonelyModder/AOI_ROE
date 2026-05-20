@@ -257,9 +257,7 @@ carthage_01_africa_1.9 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Oea_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -306,6 +304,12 @@ carthage_01_africa_1.10 = {
 		name = "carthage_01_africa_1.10.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Oea_colonisation_started
+		}
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3754 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -388,6 +392,9 @@ carthage_01_africa_1.12 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.12.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3754 = {
 			add_claim = c:DAT
 		}
@@ -404,9 +411,7 @@ carthage_01_africa_1.13 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Sabratha_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -453,6 +458,12 @@ carthage_01_africa_1.14 = {
 		name = "carthage_01_africa_1.14.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Sabratha_colonisation_started
+		}
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3756 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -535,6 +546,9 @@ carthage_01_africa_1.16 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.16.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3754 = {
 			add_claim = c:DAT
 		}
@@ -551,9 +565,7 @@ carthage_01_africa_1.17 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Leptis_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -600,6 +612,12 @@ carthage_01_africa_1.18 = {
 		name = "carthage_01_africa_1.18.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Leptis_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3751 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -682,6 +700,9 @@ carthage_01_africa_1.20 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.20.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3751 = {
 			add_claim = c:DAT
 		}
@@ -698,9 +719,7 @@ carthage_01_africa_1.21 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Tacapae_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -747,6 +766,12 @@ carthage_01_africa_1.22 = {
 		name = "carthage_01_africa_1.22.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Tacapae_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3777 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -829,6 +854,9 @@ carthage_01_africa_1.24 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.24.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3777 = {
 			add_claim = c:DAT
 		}
@@ -845,9 +873,7 @@ carthage_01_africa_1.25 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Meninx_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -894,6 +920,12 @@ carthage_01_africa_1.26 = {
 		name = "carthage_01_africa_1.26.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Meninx_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3760 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -970,6 +1002,9 @@ carthage_01_africa_1.28 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.28.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3760 = {
 			add_claim = c:DAT
 		}
@@ -986,9 +1021,7 @@ carthage_01_africa_1.29 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Thapsus_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -1035,6 +1068,12 @@ carthage_01_africa_1.30 = {
 		name = "carthage_01_africa_1.30.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Thapsus_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3815 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -1111,6 +1150,9 @@ carthage_01_africa_1.32 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.32.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3815 = {
 			add_claim = c:DAT
 		}
@@ -1127,9 +1169,7 @@ carthage_01_africa_1.33 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Diarrhytus_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -1176,6 +1216,12 @@ carthage_01_africa_1.34 = {
 		name = "carthage_01_africa_1.34.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Diarrhytus_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3825 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -1252,6 +1298,9 @@ carthage_01_africa_1.36 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.36.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3825 = {
 			add_claim = c:DAT
 		}
@@ -1268,9 +1317,7 @@ carthage_01_africa_1.37 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Regius_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -1317,6 +1364,12 @@ carthage_01_africa_1.38 = {
 		name = "carthage_01_africa_1.38.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Regius_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3914 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -1399,6 +1452,9 @@ carthage_01_africa_1.40 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.40.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3914 = {
 			add_claim = c:DAT
 		}
@@ -1415,9 +1471,7 @@ carthage_01_africa_1.41 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Igilgili_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -1464,6 +1518,12 @@ carthage_01_africa_1.42 = {
 		name = "carthage_01_africa_1.42.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Igilgili_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3933 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -1540,6 +1600,9 @@ carthage_01_africa_1.44 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.44.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3933 = {
 			add_claim = c:DAT
 		}
@@ -1556,9 +1619,7 @@ carthage_01_africa_1.45 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Icosium_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -1605,6 +1666,12 @@ carthage_01_africa_1.46 = {
 		name = "carthage_01_africa_1.46.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Icosium_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3953 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -1687,6 +1754,9 @@ carthage_01_africa_1.48 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.48.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3953 = {
 			add_claim = c:DAT
 		}
@@ -1703,9 +1773,7 @@ carthage_01_africa_1.49 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Ebesus_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -1752,6 +1820,12 @@ carthage_01_africa_1.50 = {
 		name = "carthage_01_africa_1.50.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Ebesus_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3731 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -1834,6 +1908,9 @@ carthage_01_africa_1.52 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.52.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3731 = {
 			add_claim = c:DAT
 		}
@@ -1850,9 +1927,7 @@ carthage_01_africa_1.53 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Iol_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -1899,6 +1974,12 @@ carthage_01_africa_1.54 = {
 		name = "carthage_01_africa_1.54.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Iol_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3956 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes
@@ -1981,6 +2062,9 @@ carthage_01_africa_1.56 = {
 	
 	option = { 
 		name = "carthage_01_africa_1.56.a"
+		set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:3956 = {
 			add_claim = c:DAT
 		}
@@ -1997,9 +2081,7 @@ carthage_01_africa_1.57 = {
 	}
 	
 	immediate = { 
-		set_global_variable = {
-			name = Russadir_colonisation_started
-		}
+		remove_global_variable = carthage_our_own_colonies
 		if = {
 			limit = {
 				OR = {
@@ -2046,6 +2128,12 @@ carthage_01_africa_1.58 = {
 		name = "carthage_01_africa_1.58.a"
 		add_manpower = -1
 		add_treasury = -25
+		set_global_variable = {
+			name = Russadir_colonisation_started
+		}
+set_global_variable = {
+			name = carthage_our_own_colonies
+		}
 		p:4053 = {
 			set_conquered_by = c:DAT
 			establish_city_effect = yes

@@ -110,6 +110,18 @@ esfa_startup.7 = { #Canaanites
 
     option = {    
         name = esfa_startup.7.a
+		p:3824 = {
+			add_claim = c:DAT
+		}
+		p:3825 = {
+			add_claim = c:DAT
+		}
+		p:3823 = {
+			add_claim = c:DAU
+		}
+		p:3822 = {
+			add_claim = c:DAU
+		}
     }
 }
 

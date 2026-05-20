@@ -61,13 +61,13 @@
 	
 	
 	carthage_01_africa_1 = { # Carthaginian Trade
-		requires = {  }
+		requires = { carthage_01_africa_2 }
 		icon = task_conquest
 		duration = 30
 		
 		allow = {
 			p:3823 = {
-                 AND = {
+                AND = {
                     owned_or_subject_owned = root
                     has_building = commerce_building
                 }
