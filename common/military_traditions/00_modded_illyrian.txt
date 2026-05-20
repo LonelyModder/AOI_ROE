@@ -22,110 +22,73 @@
 		}
 		trigger_else_if = {
 			limit = {
-				AND = {
+				any_country_culture = {
+					is_integrated = yes
 					OR = {
-						has_military_bonus = nuragian_path_end_bonus
-						has_military_bonus = westsemite_path_end_bonus
-						has_military_bonus = italian_path_end_bonus
-						has_military_bonus = grekoid_path_end_bonus
-						has_military_bonus = keltoi_path_end_bonus
-						has_military_bonus = thracian_path_end_bonus
-						has_military_bonus = libyan_path_end_bonus
-						has_military_bonus = nubian_path_end_bonus
-						has_military_bonus = egyptian_path_end_bonus
-						has_military_bonus = arabian_path_end_bonus
-						has_military_bonus = assyrian_path_end_bonus
-						has_military_bonus = anatolian_path_end_bonus
-						has_military_bonus = nomadic_path_end_bonus
-						has_military_bonus = caucasian_path_end_bonus
-						has_military_bonus = zagrosian_path_end_bonus
-					}
-					any_country_culture = {
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:illyric
-							this.culture.culture_group = culture_group:castelic
-							this.culture.culture_group = culture_group:liburnic
-						}
+						this.culture.culture_group = culture_group:illyric
+						this.culture.culture_group = culture_group:castelic
+						this.culture.culture_group = culture_group:liburnic
 					}
 				}
 			}
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				any_country_culture = {
-					custom_tooltip = {
-						text = tradition_unlock_requirement_short
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:illyric
-							this.culture.culture_group = culture_group:castelic
-							this.culture.culture_group = culture_group:liburnic
-						}
+			any_country_culture = {
+				custom_tooltip = {
+					text = tradition_unlock_requirement_short
+					is_integrated = yes
+					OR = {
+						this.culture.culture_group = culture_group:illyric
+						this.culture.culture_group = culture_group:castelic
+						this.culture.culture_group = culture_group:liburnic
 					}
 				}
 			}
 		}
 		trigger_else = {
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				custom_tooltip = {
-					text = "tradition_unlock_requirement_illyric"
-					any_country_culture = {
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:illyric
-							this.culture.culture_group = culture_group:castelic
-							this.culture.culture_group = culture_group:liburnic
-						}	
-					}
+			custom_tooltip = {
+				text = "tradition_unlock_requirement_illyric"
+				any_country_culture = {
+					is_integrated = yes
+					OR = {
+						this.culture.culture_group = culture_group:illyric
+						this.culture.culture_group = culture_group:castelic
+						this.culture.culture_group = culture_group:liburnic
+					}	
 				}
 			}
 		}
 	}
 	
+	#New Ones
+	
 	illyrian_path_1 = { ###illyrian path
 		modifier = { 
 			ia_scirmishers_offensive = 0.1
-			ia_scirmishers_defensive = 0.05
+			ia_scirmishers_defensive = 0.1
 		}
 		enable_tactic = hit_and_run_tactics
 		icon = greek_states_path_5
 		requires = {}
 	}
 	
-	illyrian_path_2 = { ###illyrian path
+	illyrian_path_2a = { ###illyrian path
+		modifier = { 
+			naval_damage_taken = -0.1
+			coastal_terrain_combat_bonus = 0.2
+		}
+		icon = greek_states_path_5
+		requires = {illyrian_path_1}
+	}
+	
+	illyrian_path_3a = { ###illyrian path
+		modifier = { 
+			navy_maintenance_cost = -0.2
+		}
+		enable_ability = naval_raiding
+		icon = greek_states_path_5
+		requires = {illyrian_path_2a}
+	}
+	
+	illyrian_path_2b = { ###illyrian path
 		modifier = { 
 			ia_chariots_offensive = 0.1
 			ia_chariots_defensive = 0.05
@@ -134,61 +97,19 @@
 		requires = {illyrian_path_1}
 	}
 	
-	illyrian_path_3 = { ###illyrian path
-		modifier = { 
-			ia_lightinfantry_offensive = 0.1
-			ia_lightinfantry_defensive = 0.05
-		}
-		icon = greek_states_path_5
-		requires = {illyrian_path_2}
-	}
-	
-	illyrian_path_3a = { ###illyrian path
-		modifier = { 
-			ia_warriors_offensive = 0.1
-			ia_warriors_defensive = 0.05
-		}
-		icon = greek_states_path_5
-		requires = {illyrian_path_3}
-	}
-	
-	illyrian_path_4a = { ###illyrian path
-		modifier = { 
-			naval_damage_taken = -0.1
-		}
-		icon = greek_states_path_5
-		requires = {illyrian_path_3a}
-	}
-	
-	illyrian_path_5a = { ###illyrian path
-		modifier = { 
-			global_commerce_modifier = 0.15
-			navy_movement_speed = 0.3
-		}
-		icon = greek_states_path_5
-		requires = {illyrian_path_4a}
-	}
-	
-	illyrian_path_6a = { ###illyrian path
-		modifier = { 
-			navy_maintenance_cost = -0.2
-		}
-		icon = greek_states_path_5
-		requires = {illyrian_path_5a}
-	}
-	
 	illyrian_path_3b = { ###illyrian path
 		modifier = { 
-			ia_heavyinfantry_offensive = 0.1
-			ia_heavyinfantry_defensive = 0.05
+			ia_warriors_offensive = 0.1
+			mercenary_land_maintenance_cost = -0.25
 		}
 		icon = greek_states_path_5
-		requires = {illyrian_path_3}
+		requires = {illyrian_path_2b}
 	}
 	
 	illyrian_path_4b = { ###illyrian path
 		modifier = { 
-			garrison_size = 0.2
+			fort_limit = 1
+			fort_maintenance_cost = -0.25
 		}
 		icon = greek_states_path_5
 		requires = {illyrian_path_3b}
@@ -196,18 +117,12 @@
 	
 	illyrian_path_5b = { ###illyrian path
 		modifier = { 
-			global_defensive = 0.1
+			garrison_size = 0.2
 		}
 		icon = greek_states_path_5
 		requires = {illyrian_path_4b}
 	}
 	
-	illyrian_path_end_bonus = { ###illyrian path
-		modifier = { 
-			naval_damage_done = 0.15
-			navy_movement_speed = 0.3
-		}
-		icon = greek_states_path_5
-		requires = {illyrian_path_6a illyrian_path_5b}
-	}
+	#New Ones
+	
 }

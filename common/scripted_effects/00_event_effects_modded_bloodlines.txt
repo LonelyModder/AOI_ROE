@@ -16,6 +16,7 @@ pass_down_traits_effect = {
 						has_trait = davidid
 						has_trait = kuzite
 						has_trait = midaian
+						has_trait = magonid
 					}
 				}
 						
@@ -129,6 +130,17 @@ pass_down_traits_effect = {
 					}
 				}
 				add_trait = midaian
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = magonid
+					}
+					NOT = {
+						has_trait = magonid
+					}
+				}
+				add_trait = magonid
 			}
 		}
 		if = {
@@ -251,6 +263,18 @@ pass_down_traits_effect = {
 			}
 			add_trait = midaian
 		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = magonid
+				}
+				NOT = {
+					has_trait = magonid
+				}
+			}
+			add_trait = magonid
+		}
 	}
 }
 
@@ -334,5 +358,13 @@ bastard_major_bloodline_effect = {
 			}
 		}
 		add_trait = midaian
+	}
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = magonid
+			}
+		}
+		add_trait = magonid
 	}
 }

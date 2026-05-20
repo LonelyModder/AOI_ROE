@@ -2,7 +2,7 @@
  ia_colonize_button_confirm_t:0 "Colonization"
  ia_colonize_button_confirm_desc:0 "Are you sure you want to colonize the territory?"
 
- CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\n Date in the mod is counted since the fall of the City of Ugarit (1185 BC is year 1 in game) and the Bronze Age Collapse.\n\n#TF The degraded one trembles, and the low one is torn to pieces. Our food in the threshing floors is sacked and the vineyards are also destroyed. Our city is sacked, and may you know it! - Report to ruler of Carchemish about fall of Ugarit#!"
+ CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\n Date in the mod is counted since the fall of the City of Ugarit (1190 BC is year 1 in game) and the Bronze Age Collapse.\n\n#TF The degraded one trembles, and the low one is torn to pieces. Our food in the threshing floors is sacked and the vineyards are also destroyed. Our city is sacked, and may you know it! - Report to ruler of Carchemish about fall of Ugarit#!"
  DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since Bronze Age Collapse."
  THE_WORLD:1 "[GetDateString]#T  BAC"
  THE_WORLD_TOOLTIP:1 "#T Current Date#!\n BAC stands for Bronze Age Collapse. The year 1185 BC was chosen as the starting date because 437 years before the city of Ugarit fell to the Luccan invaders marking the beginning of the famous great offensive of the Sea Peoples against Egypt."
@@ -23,14 +23,17 @@
  LydiaINTRO:0 "#T Lydia#!\nDifficulty: #Y MEDIUM#!\n\n Lydia lately is in a difficult position surrounded by enemies with more on their way as rumors spread about potential nomadic invasion. Yet the kingdom is strong, united and maybe not as lonely as they think they are. Thou Phrygians are scarry they have issues of their own and with enemies fighting each other Lydia will have unique opportunity to dominate anatolian peninsula."
  Lydia:0 "Lydia"
  Lydia2:0 "Lydia"
+ CarthageINTRO:0 "#T Carthage#!\nDifficulty: #Y MEDIUM#!\n\n Founded barely century ago Tyrian colony in Carthage was meant to serve as an important stop on a vital trade route from Levant to Spain. Because of it's location city grew in size, importance and it's leaders began to have thair own ambitions for the western mediterrainean region. The New City as it's name is translated will face Berber tribes, rival cities (especially it's archnemesis Utica) and in time even another power from italian peninsula. With the Tannit's blessing Qart Hadasht will prevail!"
+ Carthage:0 "Carthage"
+ Carthage2:0 "Carthage"
  
  owns_any_neighboring_province:0 "Owns any neighbour province"
  owns_any_neighboring_province_culture:0 "Any owned #Y neighbour#! province must fulfill one of the following: \n  Dominant province culture is an #Y integrated#! culture \n  Dominant province culture is #Y [THIS.GetProvince.GetCulture.GetName]#!"
  no_neighbor_has_colonization_progress:0 "No neighbour has #Y Colonization Progress#!"
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
- patch_notes:0 "Part VI: Between Rivers"
- patch_notes_text:0 "What's new:\n- New mesopotamian region with the mighty city of Babylon. \n- Over 219 new land provinces to conquer (3609 total provinces). \n- New Assyrian submissions. \n- New trade good called cinnabar. \n- Fixes for Lydian missions crash. "
+ patch_notes:0 "Part VII: New City"
+ patch_notes_text:0 "What's new:\n- New northern african region filled with punic colonies. \n- 329 new land provinces to conquer (4112 provinces on the map in total). \n- Mission Tree for Carthage. \n- Fixing bugs like missiong diety files in non state supported religions and wrong religions in character definitions. \n- Levy compositions rebalance to make them look less professional yet distinct. \n- Military Traditions Overhaul. Now you do not have to finish the tradition tree. You only need to assimilate culture that starts with it."
  
  #Modifier text
  osasis:0 "Oasis"
@@ -63,6 +66,10 @@
  desc_lydia_1_starts:0 "For a long time the Phrygians ruled on the ruins of the Hittite Empire unchallenged. Soon this will change. The lates rumors say the hordes of cymmerians are crossing the Caucasus and clash is inevitable. We need to be prepared."
  lydia_1_victory:0 "Lords of Asia"
  desc_lydia_1_victory:0 "After long and bloody conflict the future of Lydia is safe in our hands. We forced Phrygia into submission, we chased the Thracians and Cymmerians out of Asia Minor and n,ow we indeed are the masters of the peninsula."
+ carthage_1_starts:0 "Masters of the Seas"
+ desc_carthage_1_starts:0 "Founded barely century ago Tyrian colony in Carthage was meant to serve as an important stop on a vital trade route from Levant to Spain. Because of it's location city grew in size, importance and it's leaders began to have thair own ambitions for the western mediterrainean region."
+ carthage_1_victory:0 "African Power"
+ desc_carthage_1_victory:0 "Despite all odds Carthage managed to unite the western colonies and take control over western mediterrainean sea. Will it be enaugh to assure safety to the growing republic? There will be more challenges ahead but we will face them with the biggest fleet in the west!"
  lydian_economic_boom:0 "Economic Boom"
  desc_lydian_economic_boom:0 "Thanks to the new reform people can now clearly set the price for the trade goods. Also we are able to better calculate how much taxes can be collected from a given area. Our economy and taxation are getting better."
  roman_colony:0 "Roman Colony"
@@ -73,6 +80,8 @@
  desc_draft_ordered:0 "The mobilization was recently announced and another one should not be announced so soon otherwise it may have negative consequences for the economy."
  egyptian_fields:0 "Egyptian Fields"
  desc_egyptian_fields:0 "Nile is a very predictable river with regular floods that when used effectively provide large harvests. Thats why Egypt is sometimes called the Vread Basket. Egyptian Harvests could feed the entire Meditrrainean."
+ african_fields:0 "African Fields"
+ desc_african_fields:0 "North Africa is the second most fertile region in the Mediterrainean after Egypt. It supplies and the western grain markets and is the second most lucrative regional business after dyes. "
  tyre_island:0 "Old Tyre"
  desc_tyre_island:0 "Tyre consists of two parts: the New Tyre, mainland settlement and the Old Tyre, heavily fortified island just of the phoenician coast. The tyrians thanks to that isle could easily face much bigger army and defend the isle for years. To capture the city one would have to bring bigger navy and all the biggest navies belonged to phoenicians."
  walls_of_jerusalem:0 "Walls of Jerusalem"

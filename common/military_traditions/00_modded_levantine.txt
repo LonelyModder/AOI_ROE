@@ -5,181 +5,58 @@
 	allow = {
 		trigger_if = {
 			limit = { 
-				OR = {
-					country_culture_group = levantine 
-					country_culture_group = synaic 
-				}
+				country_culture_group = levantine
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			OR = {
-				country_culture_group = levantine 
-				country_culture_group = synaic 
-			}
+			country_culture_group = levantine
 		}
 		trigger_else_if = {
 			limit = {
-				AND = {
-					OR = {
-						has_military_bonus = nuragian_path_end_bonus
-						has_military_bonus = italian_path_end_bonus
-						has_military_bonus = illyrian_path_end_bonus
-						has_military_bonus = grekoid_path_end_bonus
-						has_military_bonus = keltoi_path_end_bonus
-						has_military_bonus = thracian_path_end_bonus
-						has_military_bonus = libyan_path_end_bonus
-						has_military_bonus = nubian_path_end_bonus
-						has_military_bonus = egyptian_path_end_bonus
-						has_military_bonus = arabian_path_end_bonus
-						has_military_bonus = assyrian_path_end_bonus
-						has_military_bonus = anatolian_path_end_bonus
-						has_military_bonus = nomadic_path_end_bonus
-						has_military_bonus = caucasian_path_end_bonus
-						has_military_bonus = zagrosian_path_end_bonus
-					}
-					any_country_culture = {
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:levantine
-							this.culture.culture_group = culture_group:synaic
-						}
-					}
+				any_country_culture = {
+					is_integrated = yes
+					this.culture.culture_group = culture_group:levantine
 				}
 			}
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				any_country_culture = {
-					custom_tooltip = {
-						text = tradition_unlock_requirement_short
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:levantine
-							this.culture.culture_group = culture_group:synaic
-						}
-					}
+			any_country_culture = {
+				custom_tooltip = {
+					text = tradition_unlock_requirement_short
+					is_integrated = yes
+					this.culture.culture_group = culture_group:levantine
 				}
 			}
 		}
 		trigger_else = {
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
+			custom_tooltip = {
+				text = "tradition_unlock_requirement_westsemite"
+				any_country_culture = {
+					is_integrated = yes
+					this.culture.culture_group = culture_group:levantine
 				}
-				custom_tooltip = {
-					text = "tradition_unlock_requirement_westsemite"
-					any_country_culture = {
-						is_integrated = yes
-						OR = {
-							this.culture.culture_group = culture_group:levantine
-							this.culture.culture_group = culture_group:synaic
-						}
-					}
-				}	
 			}
 		}
 	}
 	
+	#New Ones
+	
 	westsemite_path_1 = { ###levantine path
 		modifier = { 
-			ia_lightinfantry_offensive = 0.1
-			ia_lightinfantry_defensive = 0.05
+			ia_scirmishers_offensive = 0.1
+			ia_scirmishers_defensive = 0.05
 		}
-		enable_tactic = greek_phalanx
 		icon = levantine_greco_path_2
 		requires = {}
 	}
 	
 	westsemite_path_2 = { ###levantine path
 		modifier = { 
-			ia_chariots_offensive = 0.1
-			ia_chariots_defensive = 0.05
-		}
-		icon = levantine_greco_path_2
-		requires = {westsemite_path_1}
-	}
-	
-	westsemite_path_3 = { ###levantine path
-		modifier = { 
-			mercenary_land_maintenance_cost = -0.25
-		}
-		icon = levantine_greco_path_2
-		requires = {westsemite_path_2}
-	}
-	
-	westsemite_path_3a = { ###levantine path
-		modifier = { 
-			ia_scirmishers_offensive = 0.1
-			ia_scirmishers_defensive = 0.05
-		}
-		icon = levantine_greco_path_2
-		requires = {westsemite_path_3}
-	}
-	
-	westsemite_path_4a = { ###levantine path
-		modifier = { 
-			levy_size_multiplier = -0.025
-			mercenary_land_maintenance_cost = -0.25
-		}
-		icon = levantine_greco_path_2
-		requires = {westsemite_path_3a}
-	}
-	
-	westsemite_path_4am = { ###levantine path
-		modifier = { 
-			ia_lightcavalry_offensive = 0.1
-			ia_lightcavalry_defensive = 0.05
-		}
-		icon = levantine_greco_path_2
-		requires = {westsemite_path_4a}
-	}
-	
-	westsemite_path_5a = { ###levantine path
-		modifier = { 
-			governor_loyalty = 5
-		}
-		icon = levantine_greco_path_2
-		requires = {westsemite_path_4am}
-	}
-	
-	westsemite_path_3b = { ###levantine path
-		modifier = { 
 			global_commerce_modifier = 0.25
 			naval_damage_taken = -0.15
 		}
 		allow_unit_type = octere
 		icon = levantine_greco_path_2
-		requires = {westsemite_path_3}
+		requires = {westsemite_path_1}
 		on_activate = {
 			random_owned_province = {
 				limit = {
@@ -197,34 +74,51 @@
 		}
 	}
 	
-	westsemite_path_4b = { ###levantine path
+	westsemite_path_3 = { ###levantine path
 		modifier = { 
 			global_commerce_modifier = 0.25
 			naval_damage_done = 0.15
 		}
 		enable_ability = military_colonies
 		icon = levantine_greco_path_2
-		requires = {westsemite_path_3b}
+		requires = {westsemite_path_2}
 	}
 	
-	westsemite_path_5b = { ###levantine path
+	westsemite_path_3a = { ###levantine path
+		modifier = { 
+			ia_lightinfantry_offensive = 0.1
+			ia_hoplites_discipline = 0.05
+		}
+		enable_tactic = greek_phalanx
+		icon = levantine_greco_path_2
+		requires = {westsemite_path_3}
+	}
+	
+	westsemite_path_4a = { ###levantine path
+		modifier = { 
+			mercenary_land_maintenance_cost = -0.25
+		}
+		icon = levantine_greco_path_2
+		requires = {westsemite_path_3a}
+	}
+	
+	westsemite_path_5a = { ###levantine path
 		modifier = { 
 			ia_elephants_offensive = 0.2
-			missile_archers_offensive = 0.1
+			land_morale_modifier = 0.1
 		}
 		icon = levantine_greco_path_2
 		requires = {westsemite_path_4b}
 	}
 	
-	westsemite_path_6b = { ###levantine path
+	westsemite_path_6a = { ###levantine path
 		modifier = { 
 			ocean_combat_bonus = 0.2
-			coastal_terrain_combat_bonus = 0.2
-			riverine_terrain_combat_bonus = 0.2
+			mega_galley_offensive = 0.2
 		}
 		allow_unit_type = mega_galley
 		icon = levantine_greco_path_2
-		requires = {westsemite_path_5b}
+		requires = {westsemite_path_5a}
 		on_activate = {
 			random_owned_province = {
 				limit = {
@@ -241,12 +135,25 @@
 		}
 	}
 	
-	westsemite_path_end_bonus = { ###levantine path
+	westsemite_path_3b = { ###levantine path
 		modifier = { 
-			navy_maintenance_cost = -0.4
-			ocean_combat_bonus = 0.2
+			governor_loyalty = 5
+			fort_maintenance_cost = -0.25
+		}
+		enable_ability = border_forts
+		icon = levantine_greco_path_2
+		requires = {westsemite_path_3}
+	}
+	
+	westsemite_path_4b = { ###anatolian path
+		modifier = { 
+			hills_combat_bonus = 0.2
+			fort_limit = 1
 		}
 		icon = levantine_greco_path_2
-		requires = {westsemite_path_5a westsemite_path_6b}
+		requires = {westsemite_path_3b}
 	}
+	
+	#New Ones
+	
 }

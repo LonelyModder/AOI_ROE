@@ -341,6 +341,27 @@ treasure_manager = {
 				local_research_points_modifier = 0.15
 			}
 		}
+		48 = { # Bida
+			key = "treasure_stoneofsinifere"
+			icon = "treasure_sarcophagus"
+			state_modifier = {
+				local_tribesmen_output = 0.15
+			}
+		}
+		49 = { # Carthage
+			key = "treasure_lionheadedtanit"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_base_trade_routes_modifier = 0.1
+			}
+		}
+		50 = { # Thinissut
+			key = "treasure_stelaebaalhammon"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_monthly_food_modifier = 0.1
+			}
+		}
     }
 }
 family={
@@ -588,6 +609,15 @@ diplomacy = {
 
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
+	3818 = { # Thinissut
+		treasure_slots = { 	treasures = { 50 } }
+	}
+	3823 = { # Carthage
+		treasure_slots = { 	treasures = { 49 } }
+	}
+	3951 = { # Bida
+		treasure_slots = { 	treasures = { 48 } }
+	}
 	1981 = { # Tanis
 		treasure_slots = { 	treasures = { 30 } }
 	}
@@ -704,6 +734,7 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 	
 	#Pirates
+	3733 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	2828 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	1141 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	1132 = { modifier = { modifier = pirate_haven_modifier always = yes } }
@@ -734,6 +765,12 @@ provinces = { #Any entry must contain a comment with city name.
 	2457 = { fortress_building = 1 }
 	2449 = { fortress_building = 1 }
 	3438 = { port_building = 2 }
+	4080 = { port_building = 2 }
+	4091 = { port_building = 2 }
+	4103 = { port_building = 2 }
+	3815 = { port_building = 2 }
+	3825 = { port_building = 2 }
+	3823 = { port_building = 2 }
 	3564 = { port_building = 2 }
 	3568 = { port_building = 2 }
 	3595 = { port_building = 2 }
@@ -798,6 +835,7 @@ provinces = { #Any entry must contain a comment with city name.
 	1149 = { port_building = 2 }
 	1301 = { port_building = 1 }
 	1263 = { port_building = 1 }
+	3733 = { port_building = 1 }
 	311 = { port_building = 1 }
 	788 = { port_building = 1 }
 	483 = { port_building = 1 }
@@ -833,6 +871,19 @@ provinces = { #Any entry must contain a comment with city name.
 	2414 = {modifier = { modifier = walls_of_jerusalem always = yes }}
 	
 	#Passes
+	3866 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3890 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3960 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3957 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3899 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3879 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	3941 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4017 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4024 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4060 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4065 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4074 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	4075 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2736 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	3131 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	2965 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -939,6 +990,11 @@ provinces = { #Any entry must contain a comment with city name.
 	########################################
 	# Barbarian Spawn Spots
 	########################################
+	4108 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	4048 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	3978 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	3811 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	3773 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	3561 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	3099 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	3350 = { modifier = { modifier = generic_barbarian_spawn_place } }
@@ -1054,7 +1110,7 @@ country = {
 		}
 		
 		AAF = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 53
@@ -1067,7 +1123,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				53 75 76 80
+				53 
 			}
 		}
 		
@@ -1545,7 +1601,7 @@ country = {
 		}
 		
 		ABB = {          
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = punici
 			religion = canaanitic_pantheon
 			capital = 50
@@ -1558,7 +1614,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				50 44 26
+				50 
 			}
 		}
 		
@@ -4660,6 +4716,7 @@ country = {
 				3394 3395 3392
 			}
 		}
+		
 		DAJ = {          
 			government = tribal_kingdom
 			primary_culture = achaldean
@@ -4670,6 +4727,7 @@ country = {
 				3424 3425 3423
 			}
 		}
+		
 		DAK = {          
 			government = tribal_kingdom
 			primary_culture = achaldean
@@ -4788,6 +4846,385 @@ country = {
 			
 			own_control_core = 	{ 
 				3595 3594 3596 3597 3600 3591 3593 3590 3592 3589
+			}
+		}
+		
+		DAS = {          
+			government = tribal_kingdom
+			primary_culture = talayotic
+			religion = nuragian_pantheon
+			capital = 3734
+			
+			own_control_core = 	{ 
+				3731 3732 3733 3734 3735 3736 
+			}
+		}
+		
+		DAT = {          
+			government = oligarchic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 3823
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3823 3822
+			}
+		}
+		
+		DAU = {          
+			government = oligarchic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 3824
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3824 3825
+			}
+		}
+		
+		DAW = {          
+			government = oligarchic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 3816
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3816 3815
+			}
+		}
+		
+		DAY = {          
+			government = oligarchic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 4091
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				4091
+			}
+		}
+		
+		DAZ = {          
+			government = oligarchic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 4103
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				4103
+			}
+		}
+		
+		DBA = {          
+			government = oligarchic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 44
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				44
+			}
+		}
+		
+		DBB = {          
+			government = oligarchic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 26
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				26
+			}
+		}
+		
+		DBC = {          
+			government = oligarchic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 76
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				76 75 
+			}
+		}
+		
+		DBD = {         
+			government = oligarchic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 80
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				80
+			}
+		}
+		
+		DBE = {          
+			government = tribal_chiefdom
+			primary_culture = psylli
+			religion = libyan_pantheon
+			capital = 3742
+			
+			own_control_core = 	{ 
+				3742 3741 3740 3739 
+			}
+		}
+		
+		DBG = {          
+			government = tribal_kingdom
+			primary_culture = gyzantianic
+			religion = libyan_pantheon
+			capital = 3794
+			
+			own_control_core = 	{ 
+				3794 3803 3795 3792 3793 3791 3788 3778 3796 
+				3779 3780 3783 3784 3785 3787 3798 3797
+			}
+		}
+		
+		DBH = {          
+			government = tribal_kingdom
+			primary_culture = gaetulian
+			religion = libyan_pantheon
+			capital = 3873
+			
+			own_control_core = 	{ 
+				3876 3873 3874 3877 3879 3878 3806 3807 
+			}
+		}
+		
+		DBI = {          
+			government = tribal_kingdom
+			primary_culture = mauri
+			religion = libyan_pantheon
+			capital = 4068
+			
+			own_control_core = 	{ 
+				4068 4067 4066 4064 4065 4069 4077 4074 4072 4075 4076
+			}
+		}
+		
+		DBJ = {          
+			government = tribal_kingdom
+			primary_culture = mauri
+			religion = libyan_pantheon
+			capital = 4092
+			
+			own_control_core = 	{ 
+				4092 4102 4101 4089 4090 4087 4083 4084 4088 4082 4081 
+				4078 4079 4097 4099 4100 4086 4085 4073 
+			}
+		}
+		
+		DBK = {          
+			government = tribal_kingdom
+			primary_culture = mauri
+			religion = libyan_pantheon
+			capital = 4055
+			
+			own_control_core = 	{ 
+				4055 4060 4057 4054 4058 4059 4053 4052
+				4028 4027 4026 4025 4023  
+			}
+		}
+		
+		DBL = {          
+			government = tribal_kingdom
+			primary_culture = massaesylic
+			religion = libyan_pantheon
+			capital = 4015
+			
+			own_control_core = 	{ 
+				4022 4017 4012 4016 4014 4018 4019 4015 4020
+				3997 4001 4005 4004 4011 4008 4010
+				3986 3988 3991 3987 3992 3996 
+				3969 3970 3983 3984 3985 3993 3994 3995 4007 4009
+				3967 3968 3980 3979 
+			}
+		}
+		
+		DBM = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3897
+			
+			own_control_core = 	{ 
+				3891 3892 3893 3894 3895 3896 3897 3898 3899 3904 3905 3890 3868
+				3887 3869 3866 3880 3865 3909 3913 3875 3888 3910 3912 3889
+				3805 3808 3857 3858 3867 3809
+			}
+		}
+		
+		DBN = {         
+			government = oligarchic_republic
+			primary_culture = punici
+			religion = canaanitic_pantheon
+			capital = 4080
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				4080
+			}
+		}
+		
+		DBO = {          
+			government = tribal_kingdom
+			primary_culture = massaesylic
+			religion = libyan_pantheon
+			capital = 3948
+			
+			own_control_core = 	{ 
+				3935 3933 3932 3937 3934 3938 3945 3936 3947 3944 3948 3957
+			}
+		}
+		
+		DBP = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3902
+			
+			own_control_core = 	{ 
+				3902 3901 3900 3903 3918 3917 3911 3916 3914 3915 
+			}
+		}
+		
+		DBR = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3850
+			
+			own_control_core = 	{ 
+				3883 3872 3850 3847 3882 3871 3870 3885 3886 3884 3908 3864
+				3907 3906 3881 3849 3842 3843 3848 3844 3845 3846 3851 3852 3853 3861 3860
+				3841 3817 3818 3820 3821 3819 3832 3831
+			}
+		}
+		
+		DBS = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3837
+			
+			own_control_core = 	{ 
+				3837 3839 3840 3838 3829 3828 3814 3800 3836 3835 3827 3799 
+			}
+		}
+		
+		DBT = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3855
+			
+			own_control_core = 	{ 
+				3855 3856 3862 3863 3859 3854 
+			}
+		}
+		
+		DBU = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3830
+			
+			own_control_core = 	{ 
+				3830 3804 3813 3812 3833
+			}
+		}
+		
+		DBW = {          
+			government = tribal_kingdom
+			primary_culture = massylic
+			religion = libyan_pantheon
+			capital = 3826
+			
+			own_control_core = 	{ 
+				3826 3834 3810 3789 3790
+			}
+		}
+		
+		DBY = {          
+			government = tribal_kingdom
+			primary_culture = massaesylic
+			religion = libyan_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				3961 3951 3950 3949 3952 3953 3954 3960 3962 3963 
+				3964 3955 3959 3958 3946 3956 3966 3965
 			}
 		}
 	}

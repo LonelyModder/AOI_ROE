@@ -1,0 +1,382 @@
+﻿carthage_01_africa = { # New City
+	icon = carthage_01_africa
+	header = mission_image_rome #mission_image_phrygia
+	
+	repeatable = no
+
+    chance = {
+		factor = 10
+	}
+	
+	ai_chance = { factor = 10 }
+
+	potential = { 
+		NOT = { has_variable = carthage_01_africa }
+		primary_culture = punici
+		tag=DAT
+		is_subject = no
+		has_civil_war = no
+		NOT = { has_global_variable = carthage_fail }
+	}
+	
+	abort = {	
+		OR = {
+			NOT = { primary_culture = punici }
+			custom_tooltip = {
+				text = carthage_01_africa_abort_tt
+				has_global_variable = carthage_fail
+			}
+			ai_mission_back_out_trigger = yes
+		}
+	}
+	
+	on_start = {
+    	start_mission_ai_effect = yes
+    	save_scope_as = me_carthage_scope
+		add_country_modifier = {
+	        name = carthage_1_starts
+	        duration = 3650 # 10 years
+	    }
+    }
+	
+	on_abort = {
+    	custom_tooltip = ant_1_mission_cooldown_tt
+    	if = {
+	    	limit = { has_country_modifier = carthage_1_starts }
+    		remove_country_modifier = carthage_1_starts
+	    }
+		set_variable = {
+			name =carthage_01_africa
+			days = 7300
+		}
+    }
+	
+	on_completion = {
+		add_country_modifier = {
+    		name = carthage_1_victory
+    		duration = 7300 # 20 years
+    	}
+    	complete_mission_effect = yes 
+    }
+	
+	
+	carthage_01_africa_1 = { # Carthaginian Trade
+		requires = { carthage_01_africa_2 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			p:3823 = {
+                AND = {
+                    owned_or_subject_owned = root
+                    has_building = commerce_building
+                }
+            }
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			trigger_event = { id = carthage_01_africa_1.1 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = carthage_01_africa_1.2 }
+		}
+	}
+	
+	carthage_01_africa_2 = { # Neighborly Rivalry
+		requires = {  }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			owns = 3824
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			trigger_event = { id = carthage_01_africa_1.3 }
+		}
+	}
+	
+	carthage_01_africa_3 = { # New Leadership
+		requires = { carthage_01_africa_2 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			owns = 3824
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			trigger_event = { id = carthage_01_africa_1.5 }
+		}
+		
+		on_completion = {
+			#trigger_event = { id = carthage_01_africa_1.6 }
+		}
+	}
+	
+	carthage_01_africa_4 = { # Kings of Carthage 
+		requires = { carthage_01_africa_3 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			owns = 50 #Motya
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.8 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = carthage_01_africa_1.8 }
+		}
+	}
+	
+	carthage_01_africa_5 = { # Colonies of our Own
+		requires = { carthage_01_africa_1 }
+		icon = task_conquest
+		#duration = 30
+		
+		allow = {
+			
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = carthage_01_africa_1.7 }
+		}
+	}
+	
+	carthage_01_africa_6 = { # The Numidians
+		requires = { carthage_01_africa_1 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			owns = 3897 # Cirta
+			political_influence > 20
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			trigger_event = { id = carthage_01_africa_1.61 }
+		}
+	}
+	
+	carthage_01_africa_7 = { # African Grain
+		requires = { carthage_01_africa_6 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 20
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			#trigger_event = { id = carthage_01_africa_1.62 }
+			set_global_variable = {
+				name = african_grain
+			}
+		}
+	}
+	
+	carthage_01_africa_8 = { # Sardinian Expedition
+		requires = { carthage_01_africa_4 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 20
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			trigger_event = { id = carthage_01_africa_1.63 }
+		}
+	}
+	
+	carthage_01_africa_9 = { # Settling Sardinia
+		requires = { carthage_01_africa_8 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 20
+			treasury > 50
+			owns = 88
+			owns = 75
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			#trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			show_as_tooltip = { 
+				add_political_influence = -20 
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+			}
+			trigger_event = { id = carthage_01_africa_1.64 }
+		}
+	}
+	
+	carthage_01_africa_10 = { # Great Cothon
+		requires = { carthage_01_africa_8 carthage_01_africa_7 }
+		icon = task_conquest
+		duration = 30
+		
+		allow = {
+			political_influence > 20
+			treasury > 200
+		}
+		
+		highlight = {
+			
+		}
+		
+		on_start = {
+			show_as_tooltip = { 
+				add_political_influence = -20 
+				add_treasury = -200
+			}
+			hidden_effect = { 
+				add_political_influence = -20
+				add_treasury = -200
+			}
+			trigger_event = { id = carthage_01_africa_1.7 }
+		}
+		
+		on_completion = {
+			trigger_event = { id = carthage_01_africa_1.7 }
+		}
+	}
+	
+	carthage_01_africa_99 = { # Masters of the West
+		requires = { carthage_01_africa_10 } 
+		icon = task_conquest
+		#duration = 30
+		
+		allow = { #Change to Important Capitals!
+			owns = 3823 # Carthago
+			owns_or_subject_owns = 3824 # Utica 
+			owns_or_subject_owns = 3751 # Leptis
+			owns_or_subject_owns = 3756 # Sabratha
+			owns_or_subject_owns = 3816 # Hydrumentum
+			owns_or_subject_owns = 4053 # Russadir
+			owns_or_subject_owns = 3956 # Iol
+			owns_or_subject_owns = 3731 # Ebesus
+			owns_or_subject_owns = 4080 # Tingis
+			owns_or_subject_owns = 3754 # Oea
+			owns_or_subject_owns = 53 # Caralis
+			owns_or_subject_owns = 50 # Motya
+			owns_or_subject_owns = 3933 # Igilgili
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3823 # Carthago
+					province_id = 3824 # Utica
+					province_id = 3751 # Leptis
+					province_id = 3756 # Sabratha
+					province_id = 3816 # Hydrumentum
+					province_id = 4053 # Russadir
+					province_id = 3956 # Iol
+					province_id = 3731 # Ebesus
+					province_id = 4080 # Tingis
+					province_id = 3754 # Oea
+					province_id = 53 # Caralis
+					province_id = 50 # Motya
+					province_id = 3933 # Igilgili
+				}
+			}
+		}
+		
+		on_start = {
+			
+		}
+		
+		on_completion = {
+			set_global_variable = {
+				name = carthage_01_africa_beaten
+			}
+		}
+		final = yes 
+	}
+	
+}
+	

@@ -20,9 +20,8 @@
 			}
 			unit_owner = { 
 				NOR = {
-					has_military_bonus = iranian_path_6a 
-					has_military_bonus = italian_path_5bs 
-					has_military_bonus = assyrian_path_5b 
+					has_military_bonus = italian_path_3b
+					has_military_bonus = akkadian_path_4b
 				}
 			}
 		}

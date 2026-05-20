@@ -31,19 +31,6 @@ esfa_startup.2 = { #Celtic
 
     option = {    
         name = esfa_startup.2.a
-		c:ABL = {
-			add_country_modifier = {
-				name = lepontic_invasion_modifier
-				duration = 7300 # 20 years
-			}
-			#Claims in Po valley
-			c:AAG = {
-				every_owned_province = {
-					limit = { is_in_region = modded_galliacisalpina_region }
-					add_claim = c:ABL
-				}
-			}
-		}
     }
 }
 
@@ -123,6 +110,18 @@ esfa_startup.7 = { #Canaanites
 
     option = {    
         name = esfa_startup.7.a
+		p:3824 = {
+			add_claim = c:DAT
+		}
+		p:3825 = {
+			add_claim = c:DAT
+		}
+		p:3823 = {
+			add_claim = c:DAU
+		}
+		p:3822 = {
+			add_claim = c:DAU
+		}
     }
 }
 
@@ -264,6 +263,21 @@ esfa_startup.16 = { #Caucasian
 
     option = {    
         name = esfa_startup.16.a
+    }
+}
+
+esfa_startup.17 = { #Numidian
+    type = country_event
+    title = esfa_startup.17.t
+    desc = esfa_startup.17.desc
+    picture = welcoming_window_1
+	
+    trigger = {
+		country_culture_group = numidian
+    }
+
+    option = {    
+        name = esfa_startup.17.a
     }
 }
 

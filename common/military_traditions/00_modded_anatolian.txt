@@ -12,90 +12,36 @@
 		}
 		trigger_else_if = {
 			limit = {
-				AND = {
-					OR = {
-						has_military_bonus = nuragian_path_end_bonus
-						has_military_bonus = westsemite_path_end_bonus
-						has_military_bonus = illyrian_path_end_bonus
-						has_military_bonus = grekoid_path_end_bonus
-						has_military_bonus = italian_path_end_bonus
-						has_military_bonus = thracian_path_end_bonus
-						has_military_bonus = libyan_path_end_bonus
-						has_military_bonus = nubian_path_end_bonus
-						has_military_bonus = egyptian_path_end_bonus
-						has_military_bonus = arabian_path_end_bonus
-						has_military_bonus = assyrian_path_end_bonus
-						has_military_bonus = anatolian_path_end_bonus
-						has_military_bonus = nomadic_path_end_bonus
-						has_military_bonus = caucasian_path_end_bonus
-						has_military_bonus = zagrosian_path_end_bonus
-					}
-					any_country_culture = {
-						is_integrated = yes
-						this.culture.culture_group = culture_group:hattian
-					}
+				any_country_culture = {
+					is_integrated = yes
+					this.culture.culture_group = culture_group:hattian
 				}
 			}
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				any_country_culture = {
-					custom_tooltip = {
-						text = tradition_unlock_requirement_short
-						is_integrated = yes
-						this.culture.culture_group = culture_group:hattian
-					}
+			any_country_culture = {
+				custom_tooltip = {
+					text = tradition_unlock_requirement_short
+					is_integrated = yes
+					this.culture.culture_group = culture_group:hattian
 				}
 			}
 		}
 		trigger_else = {
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				custom_tooltip = {
-					text = "tradition_unlock_requirement_anatolian"
-					any_country_culture = {
-						is_integrated = yes
-						this.culture.culture_group = culture_group:hattian
-					}
+			custom_tooltip = {
+				text = "tradition_unlock_requirement_anatolian"
+				any_country_culture = {
+					is_integrated = yes
+					this.culture.culture_group = culture_group:hattian
 				}
 			}
 		}
 	}
 	
+	#New Ones
+	
 	anatolian_path_1 = { ###anatolian path
 		modifier = { 
 			ia_lightinfantry_offensive = 0.1
+			ia_warriors_offensive = 0.1
 		}
 		icon = levantine_egyptian_path_4
 		requires = {}
@@ -104,7 +50,7 @@
 	anatolian_path_2 = { ###anatolian path
 		modifier = { 
 			ia_chariots_offensive = 0.1
-			ia_chariots_defensive = 0.05
+			ia_chariots_discipline = 0.05
 		}
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_1}
@@ -113,7 +59,7 @@
 	anatolian_path_2a = { ###anatolian path
 		modifier = { 
 			ia_archers_offensive = 0.1
-			ia_archers_defensive = 0.05
+			ia_chariots_defensive = 0.1
 		}
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_2}
@@ -121,50 +67,16 @@
 	
 	anatolian_path_3a = { ###anatolian path
 		modifier = { 
-			ia_lightinfantry_defensive = 0.1
+			mercenary_land_maintenance_cost = -0.25
+			ia_warriors_offensive = 0.1
 		}
-		enable_tactic = greek_phalanx
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_2a}
 	}
 	
-	anatolian_path_4a = { ###anatolian path
-		modifier = { 
-			garrison_size = 0.25
-		}
-		icon = levantine_egyptian_path_4
-		requires = {anatolian_path_3a}
-	}
-	
-	anatolian_path_5a = { ###anatolian path
-		modifier = { 
-			siege_ability = 0.1
-			siege_engineers = 0.1
-		}
-		icon = levantine_egyptian_path_4
-		requires = {anatolian_path_4a}
-	}
-	
-	anatolian_path_6a = { ###anatolian path
-		modifier = { 
-			mercenary_land_maintenance_cost = -0.25
-		}
-		icon = levantine_egyptian_path_4
-		requires = {anatolian_path_5a}
-	}
-	
-	anatolian_path_7a = { ###anatolian path
-		modifier = { 
-			governor_loyalty = 5
-		}
-		icon = levantine_egyptian_path_4
-		requires = {anatolian_path_6a}
-	}
-	
 	anatolian_path_2b = { ###anatolian path
 		modifier = { 
-			ia_scirmishers_offensive = 0.1
-			ia_scirmishers_defensive = 0.05
+			garrison_size = 0.25
 		}
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_2}
@@ -172,8 +84,8 @@
 	
 	anatolian_path_3b = { ###anatolian path
 		modifier = { 
-			ia_warriors_offensive = 0.1
-			ia_warriors_defensive = 0.05
+			governor_loyalty = 5
+			levy_size_multiplier = 0.025
 		}
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_2b}
@@ -182,17 +94,13 @@
 	anatolian_path_4b = { ###anatolian path
 		modifier = { 
 			hills_combat_bonus = 0.2
+			ia_warriors_discipline = 0.05
 		}
 		enable_tactic = hit_and_run_tactics
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_3b}
 	}
 	
-	anatolian_path_end_bonus = { ###anatolian path
-		modifier = { 
-			global_defensive = 0.1
-		}
-		icon = levantine_egyptian_path_4
-		requires = {anatolian_path_7a anatolian_path_4b}
-	}
+	#New Ones
+	
 }

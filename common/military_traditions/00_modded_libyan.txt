@@ -4,99 +4,61 @@
 	
 	allow = {
 		trigger_if = {
-			limit = { country_culture_group = libyan }
+			limit = { 
+				OR = {
+					country_culture_group = libyan 
+					country_culture_group = numidian 
+				}
+			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = libyan
+			OR = {
+				country_culture_group = libyan 
+				country_culture_group = numidian 
+			}
 		}
 		trigger_else_if = {
 			limit = {
-				AND = {
+				any_country_culture = {
+					is_integrated = yes
 					OR = {
-						has_military_bonus = nuragian_path_end_bonus
-						has_military_bonus = westsemite_path_end_bonus
-						has_military_bonus = illyrian_path_end_bonus
-						has_military_bonus = grekoid_path_end_bonus
-						has_military_bonus = italian_path_end_bonus
-						has_military_bonus = keltoi_path_end_bonus
-						has_military_bonus = thracian_path_end_bonus
-						has_military_bonus = nubian_path_end_bonus
-						has_military_bonus = egyptian_path_end_bonus
-						has_military_bonus = arabian_path_end_bonus
-						has_military_bonus = assyrian_path_end_bonus
-						has_military_bonus = anatolian_path_end_bonus
-						has_military_bonus = nomadic_path_end_bonus
-						has_military_bonus = caucasian_path_end_bonus
-						has_military_bonus = zagrosian_path_end_bonus
-					}
-					any_country_culture = {
-						is_integrated = yes
 						this.culture.culture_group = culture_group:libyan
+						this.culture.culture_group = culture_group:numidian
 					}
 				}
 			}
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				any_country_culture = {
-					custom_tooltip = {
-						text = tradition_unlock_requirement_short
-						is_integrated = yes
+			any_country_culture = {
+				custom_tooltip = {
+					text = tradition_unlock_requirement_short
+					is_integrated = yes
+					OR = {
 						this.culture.culture_group = culture_group:libyan
+						this.culture.culture_group = culture_group:numidian
 					}
 				}
 			}
 		}
 		trigger_else = {
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = keltoi_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				custom_tooltip = {
-					text = "tradition_unlock_requirement_libyan"
-					any_country_culture = {
-						is_integrated = yes
+			custom_tooltip = {
+				text = "tradition_unlock_requirement_libyan"
+				any_country_culture = {
+					is_integrated = yes
+					OR = {
 						this.culture.culture_group = culture_group:libyan
+						this.culture.culture_group = culture_group:numidian
 					}
 				}
 			}
 		}
 	}
 	
+	#New Ones
+	
 	libyan_path_1 = { ###libyan path
 		modifier = { 
 			ia_warriors_offensive = 0.1
-			ia_warriors_defensive = 0.05
+			ia_archers_offensive = 0.1
 		}
 		icon = mauryan_noble_path_1
 		requires = {}
@@ -104,8 +66,8 @@
 	
 	libyan_path_2 = { ###libyan path
 		modifier = { 
-			ia_archers_offensive = 0.1
-			ia_archers_defensive = 0.05
+			desert_combat_bonus = 0.2
+			oasis_combat_bonus = 0.2
 		}
 		icon = mauryan_noble_path_1
 		requires = {libyan_path_1}
@@ -113,7 +75,8 @@
 	
 	libyan_path_3 = { ###libyan path
 		modifier = { 
-			ia_warriors_morale = 0.1
+			ia_camels_offensive = 0.1
+			ia_camels_defensive = 0.1
 		}
 		icon = mauryan_noble_path_1
 		requires = {libyan_path_2}
@@ -121,30 +84,21 @@
 	
 	libyan_path_3a = { ###libyan path
 		modifier = { 
-			ia_chariots_offensive = 0.15
-			ia_chariots_defensive = 0.05
-			ia_lightcavalry_offensive = 0.15
-			ia_lightcavalry_defensive = 0.05
+			ia_chariots_offensive = 0.1
+			ia_chariots_defensive = 0.1
 		}
+		enable_tactic = hit_and_run_tactics
 		icon = mauryan_noble_path_1
 		requires = {libyan_path_3}
 	}
 	
 	libyan_path_4a = { ###libyan path
 		modifier = { 
-			levy_size_multiplier = 0.025
-		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_3a}
-	}
-	
-	libyan_path_5a = { ###libyan path
-		modifier = { 
 			global_cohort_start_experience = 5
 			experience_decay = -0.005
 		}
 		icon = mauryan_noble_path_1
-		requires = {libyan_path_4a}
+		requires = {libyan_path_3a}
 		on_activate = {
 			custom_tooltip = "create_high_martial_rising_star"
 			hidden_effect = {
@@ -156,12 +110,12 @@
 		}
 	}
 	
-	libyan_path_6a = { ###libyan path
+	libyan_path_5a = { ###libyan path
 		modifier = { 
 			fort_limit = 1
 		}
 		icon = mauryan_noble_path_1
-		requires = {libyan_path_5a}
+		requires = {libyan_path_4a}
 		on_activate = {
 			capital_scope = {
 				add_building_level = fortress_building
@@ -169,13 +123,13 @@
 		}
 	}
 	
-	libyan_path_7a = { ###libyan path
+	libyan_path_6a = { ###libyan path
 		modifier = { 
 			global_manpower_modifier = 0.1
 			monthly_legitimacy = 0.01
 		}
 		icon = mauryan_noble_path_1
-		requires = {libyan_path_6a}
+		requires = {libyan_path_5a}
 		on_activate = {
 			add_legitimacy = 25
 			current_ruler = {
@@ -186,10 +140,8 @@
 	
 	libyan_path_3b = { ###libyan path
 		modifier = { 
-			desert_combat_bonus = 0.25
-			plains_combat_bonus = 0.15
-			ia_camels_offensive = 0.15
-			ia_camels_defensive = 0.05
+			ia_lightcavalry_offensive = 0.1
+			ia_elephants_offensive = 0.1
 		}
 		icon = mauryan_noble_path_1
 		requires = {libyan_path_3}
@@ -197,27 +149,13 @@
 	
 	libyan_path_4b = { ###libyan path
 		modifier = { 
-			army_movement_speed = 0.2
+			plains_combat_bonus = 0.2
+			hills_combat_bonus = 0.1
 		}
-		enable_tactic = hit_and_run_tactics
 		icon = mauryan_noble_path_1
 		requires = {libyan_path_3b}
 	}
 	
-	libyan_path_5b = { ###libyan path
-		modifier = { 
-			enslavement_efficiency = 0.1
-			global_slaves_output = output_large_svalue
-		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_4b}
-	}
+	#New Ones
 	
-	libyan_path_end_bonus = { ###libyan path
-		modifier = { 
-			global_cohort_start_experience = 5
-		}
-		icon = mauryan_noble_path_1
-		requires = {libyan_path_7a libyan_path_5b}
-	}
 }

@@ -3,6 +3,11 @@
 	picture = "gfx/interface/event_window/welcoming_window_1.dds"
 }
 
+carthage_pic_1 = {
+	theme = Honor
+	picture = "gfx/interface/event_window/carthage_pic_1.dds"
+}
+
 babylon_pic_1 = {
 	theme = Honor
 	picture = "gfx/interface/event_window/babylon_pic_1.dds"

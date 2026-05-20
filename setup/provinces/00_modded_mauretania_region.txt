@@ -1,0 +1,1852 @@
+﻿3932={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3933={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3934={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3935={ 
+	terrain="hills"
+	trade_goods="grain"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3936={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3937={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3938={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3939={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3940={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3941={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3942={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3943={ 
+	terrain="plains"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3944={ 
+	terrain="plains"
+	trade_goods="wool"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3945={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3946={ 
+	terrain="forest"
+	trade_goods="cedar"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3947={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3948={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3949={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3950={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3951={ 
+	terrain="mountain"
+	trade_goods="vegetables"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	holy_site="omen_msinifere"
+}
+
+3952={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3953={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3954={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3955={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3956={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3957={ 
+	terrain="mountain"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3958={ 
+	terrain="forest"
+	trade_goods="cedar"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3959={ 
+	terrain="forest"
+	trade_goods="cedar"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3960={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3961={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3962={ 
+	terrain="hills"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3963={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3964={ 
+	terrain="hills"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3965={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3966={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3967={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3968={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3969={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3970={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3971={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="abannaean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3972={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="libyan_pantheon"
+	culture="abannaean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3973={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="abannaean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3974={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="abannaean"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3975={ 
+	terrain="desert"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3976={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3979={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3980={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3981={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3982={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3983={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3984={ 
+	terrain="hills"
+	trade_goods="olive"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3985={ 
+	terrain="plains"
+	trade_goods="olive"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3986={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3987={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3988={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3989={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3990={ 
+	terrain="hills"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3991={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3992={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3993={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3994={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3995={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3996={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3997={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3998={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3999={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4000={ 
+	terrain="hills"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4001={ 
+	terrain="hills"
+	trade_goods="wine"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4002={ 
+	terrain="plains"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4003={ 
+	terrain="plains"
+	trade_goods="elephants"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4004={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4005={ 
+	terrain="plains"
+	trade_goods="wool"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4006={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4007={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4008={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4009={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4010={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4011={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4012={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4013={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4014={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4015={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4016={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4017={ 
+	terrain="hills"
+	trade_goods="gems"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4018={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4019={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4020={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4021={ 
+	terrain="hills"
+	trade_goods="wool"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4022={ 
+	terrain="forest"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="massaesylic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4023={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4024={ 
+	terrain="hills"
+	trade_goods="gems"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4025={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4026={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4027={ 
+	terrain="plains"
+	trade_goods="elephants"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4028={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4029={ 
+	terrain="plains"
+	trade_goods="elephants"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4030={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

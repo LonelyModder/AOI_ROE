@@ -8,6 +8,7 @@
  occidental:2 "Nuragian"
  corsi:0 "Corsi"
  nurage:0 "Nuragic"
+ talayotic:0 "Talayotic"
  occidental_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  occidental_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  levantine:2 "Canaanite"
@@ -115,6 +116,10 @@
  ma:0 "Meshwesh"
  marmaridaian:0 "Marmaridaian"
  ammonii:0 "Ammonian"
+ psylli:0 "Psyllian"
+ macaean:0 "Macaean"
+ lotophage:0 "Lotophagian"
+ gyzantianic:0 "Gyzantian"
  libyan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  libyan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nubian
@@ -194,7 +199,7 @@
  caucasic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  caucasic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Hayasan
- hazzian:2 "Hayasan"
+ hazzian:2 "Armenian"
  azzian:0 "Azzi"
  hazzian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  hazzian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
@@ -219,6 +224,15 @@
  ellipian:0 "Ellipian"
  elamitic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  elamitic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Heresy
+ numidian:2 "Amazigh"
+ mauri:0 "Maurian"
+ massylic:0 "Massylian"
+ massaesylic:0 "Massaesylian"
+ gaetulian:0 "Gaetulian"
+ abannaean:0 "Abannaean"
+ numidian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ numidian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  venedi:2 "Aedric"
  wvenedi:0 "Heresy"

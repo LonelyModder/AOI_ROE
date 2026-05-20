@@ -1,0 +1,1020 @@
+﻿4052={ 
+	terrain="forest"
+	trade_goods="cedar"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4053={ 
+	terrain="forest"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4054={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4055={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4056={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4057={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4058={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4059={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4060={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4061={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4062={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4063={ 
+	terrain="hills"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4064={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4065={ 
+	terrain="mountain"
+	trade_goods="wool"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4066={ 
+	terrain="hills"
+	trade_goods="base_metals"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4067={ 
+	terrain="mountain"
+	trade_goods="precious_metals"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4068={ 
+	terrain="mountain"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4069={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4070={ 
+	terrain="forest"
+	trade_goods="cedar"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4071={ 
+	terrain="forest"
+	trade_goods="cedar"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4072={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4073={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4074={ 
+	terrain="hills"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4075={ 
+	terrain="hills"
+	trade_goods="vegetables"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4076={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4077={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4078={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4079={ 
+	terrain="forest"
+	trade_goods="earthware"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4080={ 
+	terrain="forest"
+	trade_goods="earthware"
+	religion="canaanitic_pantheon"
+	culture="punici"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=4
+	}	
+	tribesmen={
+		amount=4
+		religion="libyan_pantheon"
+		culture="mauri"
+	}
+	slaves={
+		amount=6
+	}
+}
+
+4081={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4082={ 
+	terrain="forest"
+	trade_goods="vegetables"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4083={ 
+	terrain="plains"
+	trade_goods="horses"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4084={ 
+	terrain="plains"
+	trade_goods="wine"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4085={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4086={ 
+	terrain="forest"
+	trade_goods="fur"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4087={ 
+	terrain="forest"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4088={ 
+	terrain="forest"
+	trade_goods="cloth"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4089={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4090={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4091={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="canaanitic_pantheon"
+	culture="punici"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=4
+	}	
+	tribesmen={
+		amount=4
+		religion="libyan_pantheon"
+		culture="mauri"
+	}
+	slaves={
+		amount=6
+	}
+}
+
+4092={ 
+	terrain="forest"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}	
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4093={ 
+	terrain="forest"
+	trade_goods="wild_game"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4094={ 
+	terrain="forest"
+	trade_goods="cattle"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4095={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4096={ 
+	terrain="forest"
+	trade_goods="leather"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4097={ 
+	terrain="forest"
+	trade_goods="cedar"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4098={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4099={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4100={ 
+	terrain="forest"
+	trade_goods="cedar"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4101={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4102={ 
+	terrain="forest"
+	trade_goods="fish"
+	religion="libyan_pantheon"
+	culture="mauri"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}	
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4103={ 
+	terrain="forest"
+	trade_goods="dye"
+	religion="canaanitic_pantheon"
+	culture="punici"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}	
+	citizen={
+		amount=8
+	}	
+	freemen={
+		amount=4
+	}	
+	tribesmen={
+		amount=4
+		religion="libyan_pantheon"
+		culture="mauri"
+	}
+	slaves={
+		amount=6
+	}
+}

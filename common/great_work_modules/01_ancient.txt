@@ -6,6 +6,12 @@ wonder_temple_of_jupiter={
 	great_work_category_slot=0
 }
 
+wonder_carthage_harbour={
+	entity_name={"wonder_carthage_harbour_entity"}
+	great_work_category="gw_category_ancient"
+	great_work_category_slot=0
+}
+
 wonder_rhodes_acropolis={
 	entity_name={"wonder_rhodes_acropolis_entity"}
 	great_work_category="gw_category_ancient"

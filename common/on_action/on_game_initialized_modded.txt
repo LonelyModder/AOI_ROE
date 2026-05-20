@@ -67,6 +67,7 @@ on_game_initialized = {
 		esfa_startup.14
 		esfa_startup.15
 		esfa_startup.16
+		esfa_startup.17
 		#Bloodlines
 		bloodlines_startup.1  #Nobiles
 		bloodlines_startup.2  #Tarquinius

@@ -11,6 +11,55 @@ modded_tmp_region = {
 	}
 }
 
+modded_tingitania_region = {
+	areas = {
+		rusaddir_area
+		sokosia_area
+		tingis_area
+		marusia_area
+		sububia_area
+	}
+}
+
+modded_mauretania_region = {
+	areas = {
+		zarai_area
+		choba_area
+		bida_area
+		uzinaza_area
+		iol_area
+		mina_area
+		gebal_area
+		altava_area
+		mulucha_area
+	}
+}
+
+modded_numidia_region = {
+	areas = {
+		lunci_area
+		carthago_area
+		regius_area
+		sufetula_area
+		thuburbo_area
+		capsa_area
+		bulla_area
+		vescera_area
+		mascula_area
+		lambaesis_area
+	}
+}
+
+modded_africae_region = {
+	areas = {
+		euphranta_area
+		thubactis_area
+		sabratha_area
+		gightis_area
+		tritonis_area
+	}
+}
+
 modded_sealand_region = {
 	areas = {
 		teredon_area
@@ -393,6 +442,7 @@ modded_sardiniaetcorsica_region = {
 		turris_area
 		olbia_area
 		corsica_area
+		baleares_area
 	}
 }
 

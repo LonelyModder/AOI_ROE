@@ -370,7 +370,40 @@ DAA = {
 	}
 }
 
+DAT = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "dark_green"
+	
+	
+	
+	colored_emblem = {
+		texture = "ce_border_simple_02.tga"
+		color1 = "dark_green"
+		color2 = "offwhite"
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+
+	colored_emblem = {
+		texture = "ce_tanit_01.dds"
+		color1 = "dark_green"
+		instance = { scale = { 0.75 0.75 }  }
+	}
+}
+
 #Modded Emblems for starting countries
+
+NUMIDIA_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_elephant_02.dds"
+		color1 = "NUMIDIA_COLOR"
+	}
+}
 
 BABYLONIA_FLAG = {
 	pattern = "pattern_solid.tga"

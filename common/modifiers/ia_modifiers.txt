@@ -67,6 +67,18 @@ lydia_1_victory = {
 	happiness_for_same_religion_modifier = 0.12
 }
 
+carthage_1_starts = {
+	land_morale_modifier = 0.1
+	agressive_expansion_impact = -0.75
+	agressive_expansion_monthly_change = -0.05
+}
+
+carthage_1_victory = {
+	ruler_popularity_gain = 0.1
+	happiness_for_same_culture_modifier = 0.07
+	happiness_for_same_religion_modifier = 0.12
+}
+
 lydian_economic_boom = {
 	global_tax_modifier = 0.1
 	global_commerce_modifier = 0.12
@@ -129,6 +141,10 @@ draft_ordered = {
 
 #Local Provincial
 egyptian_fields = {
+	local_goods_from_slaves = -10
+}
+
+african_fields = {
 	local_goods_from_slaves = -5
 }
 

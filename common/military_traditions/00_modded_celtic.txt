@@ -12,144 +12,57 @@
 		}
 		trigger_else_if = {
 			limit = {
-				AND = {
-					OR = {
-						has_military_bonus = nuragian_path_end_bonus
-						has_military_bonus = westsemite_path_end_bonus
-						has_military_bonus = illyrian_path_end_bonus
-						has_military_bonus = grekoid_path_end_bonus
-						has_military_bonus = italian_path_end_bonus
-						has_military_bonus = thracian_path_end_bonus
-						has_military_bonus = libyan_path_end_bonus
-						has_military_bonus = nubian_path_end_bonus
-						has_military_bonus = egyptian_path_end_bonus
-						has_military_bonus = arabian_path_end_bonus
-						has_military_bonus = assyrian_path_end_bonus
-						has_military_bonus = anatolian_path_end_bonus
-						has_military_bonus = nomadic_path_end_bonus
-						has_military_bonus = caucasian_path_end_bonus
-						has_military_bonus = zagrosian_path_end_bonus
-					}
-					any_country_culture = {
-						is_integrated = yes
-						this.culture.culture_group = culture_group:celtic
-					}
+				any_country_culture = {
+					is_integrated = yes
+					this.culture.culture_group = culture_group:celtic
 				}
 			}
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				any_country_culture = {
-					custom_tooltip = {
-						text = tradition_unlock_requirement_short
-						is_integrated = yes
-						this.culture.culture_group = culture_group:celtic
-					}
+			any_country_culture = {
+				custom_tooltip = {
+					text = tradition_unlock_requirement_short
+					is_integrated = yes
+					this.culture.culture_group = culture_group:celtic
 				}
 			}
 		}
 		trigger_else = {
-			AND = {
-				OR = {
-					has_military_bonus = nuragian_path_end_bonus
-					has_military_bonus = westsemite_path_end_bonus
-					has_military_bonus = illyrian_path_end_bonus
-					has_military_bonus = grekoid_path_end_bonus
-					has_military_bonus = italian_path_end_bonus
-					has_military_bonus = thracian_path_end_bonus
-					has_military_bonus = libyan_path_end_bonus
-					has_military_bonus = nubian_path_end_bonus
-					has_military_bonus = egyptian_path_end_bonus
-					has_military_bonus = arabian_path_end_bonus
-					has_military_bonus = assyrian_path_end_bonus
-					has_military_bonus = anatolian_path_end_bonus
-					has_military_bonus = nomadic_path_end_bonus
-					has_military_bonus = caucasian_path_end_bonus
-					has_military_bonus = zagrosian_path_end_bonus
-				}
-				custom_tooltip = {
-					text = "tradition_unlock_requirement_keltoi"
-					any_country_culture = {
-						is_integrated = yes
-						this.culture.culture_group = culture_group:celtic
-					}
+			custom_tooltip = {
+				text = "tradition_unlock_requirement_keltoi"
+				any_country_culture = {
+					is_integrated = yes
+					this.culture.culture_group = culture_group:celtic
 				}
 			}
 		}
 	}
 	
+	#New Ones
+	
 	keltoi_path_1 = { ###celtic path
 		modifier = { 
 			ia_warriors_offensive = 0.1
-			ia_warriors_defensive = 0.05
+			ia_scirmishers_defensive = 0.1
 		}
+		enable_tactic = hit_and_run_tactics
 		icon = celtic_britannic_path_7
 		requires = {}
 	}
 	
 	keltoi_path_2 = { ###celtic path
 		modifier = { 
-			ia_warriors_offensive = 0.1
+			ia_lightcavalry_offensive = 0.1
+			ia_lightcavalry_defensive = 0.1
 		}
 		icon = celtic_britannic_path_7
 		requires = {keltoi_path_1}
 	}
 	
-	keltoi_path_3 = { ###celtic path
-		modifier = { 
-			ia_archers_offensive = 0.15
-		}
-		icon = celtic_britannic_path_7
-		requires = {keltoi_path_2}
-	}
-	
-	keltoi_path_4 = { ###celtic path
-		modifier = { 
-			ia_chariots_offensive = 0.15
-			ia_chariots_defensive = 0.15
-		}
-		icon = celtic_britannic_path_7
-		requires = {keltoi_path_3}
-	}
-	
-	keltoi_path_4a = { ###celtic path
-		modifier = { 
-			levy_size_multiplier = 0.025
-		}
-		icon = celtic_britannic_path_7
-		requires = {keltoi_path_4}
-	}
-	
-	keltoi_path_5a = { ###celtic path
-		modifier = { 
-			enslavement_efficiency = 0.05
-			global_slaves_output = output_large_svalue
-		}
-		icon = celtic_britannic_path_7
-		requires = {keltoi_path_4a}
-	}
-	
-	keltoi_path_6a = { ###celtic path
+	keltoi_path_2a = { ###celtic path
 		modifier = { 
 			fort_limit = 1
 		}
 		icon = celtic_britannic_path_7
-		requires = {keltoi_path_5a}
+		requires = {keltoi_path_2}
 		on_activate = {
 			capital_scope = {
 				add_building_level = fortress_building
@@ -157,71 +70,77 @@
 		}
 	}
 	
-	keltoi_path_7a = { ###celtic path
-		modifier = { 
-			global_defensive = 0.1
-		}
-		icon = celtic_britannic_path_7
-		requires = {keltoi_path_6a}
-	}
-	
-	keltoi_path_8as = { ###celtic path
-		modifier = { 
-			naval_damage_taken = -0.1
-		}
-		allow_unit_type = mega_galley
-		icon = celtic_britannic_path_7
-		requires = {keltoi_path_7a}
-	}
-	
-	keltoi_path_4b = { ###celtic path
-		modifier = { 
-			plains_combat_bonus = 0.2
-			forest_combat_bonus = 0.25
-		}
-		enable_tactic = hit_and_run_tactics
-		icon = celtic_britannic_path_7
-		requires = {keltoi_path_4}
-	}
-	
-	keltoi_path_5b = { ###celtic path
-		modifier = { 
-			ia_warriors_offensive = 0.1
-			land_morale_modifier = 0.1
-		}
-		icon = celtic_britannic_path_7
-		requires = {keltoi_path_4b}
-	}
-	
-	keltoi_path_6b = { ###celtic path
+	keltoi_path_3a = { ###celtic path
 		modifier = { 
 			global_tribesmen_output = 0.1
 		}
 		icon = celtic_britannic_path_7
-		requires = {keltoi_path_5b}
+		requires = {keltoi_path_2a}
 		on_activate = {
 			ordered_owned_province = {
 				limit = {
+					is_capital = yes
 					has_city_status = no
 				}
-				order_by = {
-					value = 0
-					add = population_cap
-					subtract = total_population
-				}
-				max = 3
-				check_range_bounds = no
+				establish_city_effect = yes
 				create_2_freemen_effect = yes
 			}
 		}
 	}
 	
-	keltoi_path_end_bonus = { ###celtic path
+	keltoi_path_4a = { ###celtic path
 		modifier = { 
-			manpower_recovery_speed = 0.15
-			ia_warriors_offensive = 0.1
+			global_defensive = 0.1
 		}
 		icon = celtic_britannic_path_7
-		requires = {keltoi_path_8as keltoi_path_6b}
+		requires = {keltoi_path_3a}
 	}
+	
+	keltoi_path_5a = { ###celtic path
+		modifier = { 
+			land_morale_modifier = 0.1
+		}
+		icon = celtic_britannic_path_7
+		requires = {keltoi_path_4a}
+	}
+	
+	keltoi_path_2b = { ###celtic path
+		modifier = { 
+			plains_combat_bonus = 0.2
+			forest_combat_bonus = 0.2
+		}
+		enable_tactic = hit_and_run_tactics
+		icon = celtic_britannic_path_7
+		requires = {keltoi_path_2}
+	}
+	
+	keltoi_path_3b = { ###celtic path
+		modifier = { 
+			ia_chariots_offensive = 0.1
+			army_movement_speed = 0.25
+		}
+		icon = celtic_britannic_path_7
+		requires = {keltoi_path_2b}
+	}
+	
+	keltoi_path_4b = { ###celtic path
+		modifier = { 
+			ia_archers_offensive = 0.1
+			ia_archers_defensive = 0.1
+		}
+		icon = celtic_britannic_path_7
+		requires = {keltoi_path_3b}
+	}
+	
+	keltoi_path_5b = { ###celtic path
+		modifier = { 
+			naval_damage_taken = -0.1
+		}
+		allow_unit_type = mega_galley
+		icon = celtic_britannic_path_7
+		requires = {keltoi_path_4b}
+	}
+	
+	#New Ones
+	
 }

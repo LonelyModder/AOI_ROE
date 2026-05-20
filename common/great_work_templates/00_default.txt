@@ -446,6 +446,23 @@ temple_of_jupiter={
 	}
 }
 
+wonder_carthage_harbour={
+	can_build = no
+	localization_key = "wonder_carthage_harbour"
+	great_work_category="building"
+	great_work_components={
+		{
+			great_work_module="wonder_carthage_harbour"
+		}
+	}
+	great_work_effect_selections={
+		{
+			great_work_effect="gw_effect_omen_doctrine"
+			great_work_effect_tier = "gw_effect_tier_4"
+		}
+	}
+}
+
 argead_palace={
 	can_build = no
 	localization_key = "wonder_argead_palace"
