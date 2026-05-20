@@ -201,7 +201,7 @@
  ######
  egyptian_philosophy:0 "Egyptian Traditions"
  egyptian_philosophy_desc:0 "The Egyptians have a very long military tradition. The security provided by the people of Egypt by the river Nile and the natural borders did not mean that they did not have to fight. On the contrary, Egypt has waged numerous wars to protect its riches, which the whole world has always desired."
- tradition_unlock_requirement_kemetic:0 "You don't have enough population of Egyptian descent to unlock the tradition. "
+ tradition_unlock_requirement_egyptian:0 "You don't have enough population of Egyptian descent to unlock the tradition. "
  #New Traditions
  egyptian_path_1:0 "Light Chariot"
  egyptian_path_1_desc:0 "Light Egyptian chariots were technology brought by invaders from the Levant called the Hyksos (Shepherd Kings). According to legend, they were worn on the battlefield during the Bronze Age because otherwise they could break. Their use was not discontinued in the Iron Age."
