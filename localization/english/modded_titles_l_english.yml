@@ -45,3 +45,6 @@
  #Assyrian
  aristocratic_monarchy_ruler_ashurite:0 "Viceroy of Ashur"
  aristocratic_monarchy_ruler_female_ashurite:0 "Viceroy of Ashur"
+ #Punic
+ oligarchic_republic_ruler_punici:0 "Suffet/King"
+ oligarchic_republic_ruler_female_punici:0 "Suffet/King"
