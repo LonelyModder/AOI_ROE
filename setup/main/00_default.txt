@@ -2890,7 +2890,7 @@ country = {
 		
 		TAL = {          
 			government = aristocratic_republic
-			primary_culture = grecopunic
+			primary_culture = lemnian
 			religion = grecoid_pantheon
 			capital = 1591
 			
